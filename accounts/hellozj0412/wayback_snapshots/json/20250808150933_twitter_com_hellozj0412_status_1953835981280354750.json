@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1953835981280354750",
+    "created_at": "2025-08-08T15:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T16:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953835981280354750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1929986814602887168",
+          "start": 3,
+          "username": "doudouOuO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953835981280354750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953325022199566696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doudouOuO_: 其实我是钱失禁体质，一旦没有钱就想哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1953835981280354750",
+        "created_at": "2025-08-08T15:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T16:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953835981280354750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1929986814602887168",
+              "start": 3,
+              "username": "doudouOuO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953835981280354750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953325022199566696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doudouOuO_: 其实我是钱失禁体质，一旦没有钱就想哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929986814602887168",
+        "conversation_id": "1953325022199566696",
+        "created_at": "2025-08-07T05:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T06:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953325022199566696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953325022199566696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 26888,
+          "like_count": 445,
+          "quote_count": 11,
+          "reply_count": 28,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是钱失禁体质，一旦没有钱就想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 119,
+          "like_count": 5136,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1694
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T19:41:37.000Z",
+        "description": "窝系豆豆 只是一个文盲别攻击我｜关评推广自辨  https://t.co/8kdOBXTU7G 欢迎指点我的生活",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doudououo_",
+                "end": 47,
+                "expanded_url": "https://ngl.link/doudououo_",
+                "start": 24,
+                "url": "https://t.co/8kdOBXTU7G"
+              }
+            ]
+          }
+        },
+        "id": "1929986814602887168",
+        "location": "－ω－",
+        "name": "豆",
+        "pinned_tweet_id": "1953466778639564841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952861557349548032/LOcoBDIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3028,
+          "following_count": 102,
+          "like_count": 2386,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 1629
+        },
+        "username": "doudouOuO_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2070742330227994931",
+    "created_at": "2026-06-27T05:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070742330227994931"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070742330227994931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然已发生的事情无法改变，但是她们还没有经历我们的遭遇，当年的提醒如果有许多没有被验证，那真是太好了，由祝好变成了你们真的挺好的，希望大家都有美好的未来，毕业快乐哦学妹们🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2070742330227994931",
+        "created_at": "2026-06-27T05:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070742330227994931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070742330227994931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然已发生的事情无法改变，但是她们还没有经历我们的遭遇，当年的提醒如果有许多没有被验证，那真是太好了，由祝好变成了你们真的挺好的，希望大家都有美好的未来，毕业快乐哦学妹们🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 122,
+          "like_count": 5434,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1924
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

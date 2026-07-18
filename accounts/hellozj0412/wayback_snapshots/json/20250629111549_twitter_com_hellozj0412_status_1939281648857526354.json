@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1939033452403114313",
+    "created_at": "2025-06-29T11:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T12:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939281648857526354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1455715604783005701",
+          "start": 0,
+          "username": "Minta_4869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939281648857526354",
+    "in_reply_to_user_id": "1455715604783005701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939033452403114313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minta_4869 怎么稳定的🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1939033452403114313",
+        "created_at": "2025-06-29T11:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T12:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939281648857526354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1455715604783005701",
+              "start": 0,
+              "username": "Minta_4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939281648857526354",
+        "in_reply_to_user_id": "1455715604783005701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939033452403114313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minta_4869 怎么稳定的🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455715604783005701",
+        "conversation_id": "1939033452403114313",
+        "created_at": "2025-06-28T18:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T19:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939033452403114313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939033452403114313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痛苦是才华的温床。自从精神状况稳定后，我仿佛再也写不出那些绚烂的文字了。翻看notebook好像从此与那些字句天人永隔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 112,
+          "like_count": 4394,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1461
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T01:57:23.000Z",
+        "description": "混乱是阶梯。",
+        "id": "1455715604783005701",
+        "location": "HEAVEN ",
+        "name": "提头美狄亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936143975057952768/XDsTbXAv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 351,
+          "like_count": 16495,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 2581
+        },
+        "username": "Minta_4869",
+        "verified": false
+      }
+    ]
+  }
+}

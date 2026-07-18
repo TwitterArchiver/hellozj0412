@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1901564049004925008",
+    "created_at": "2025-03-17T09:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T10:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901564049004925008"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxxxxiii_111/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/xxxxxiii_111/status/1901192115465433095",
+          "start": 30,
+          "url": "https://t.co/eXogI7f3ON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901564049004925008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901192115465433095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对高学历去魅，只是个在高考时很努力学生罢了🤷‍♂️🤷‍♂️ https://t.co/eXogI7f3ON"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1901564049004925008",
+        "created_at": "2025-03-17T09:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T10:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901564049004925008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxxxxiii_111/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/xxxxxiii_111/status/1901192115465433095",
+              "start": 30,
+              "url": "https://t.co/eXogI7f3ON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901564049004925008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901192115465433095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对高学历去魅，只是个在高考时很努力学生罢了🤷‍♂️🤷‍♂️ https://t.co/eXogI7f3ON"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2897649145",
+        "conversation_id": "1901192115465433095",
+        "created_at": "2025-03-16T08:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T09:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901192115465433095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901192115465433095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 40702,
+          "like_count": 534,
+          "quote_count": 8,
+          "reply_count": 56,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "玩推之后我才发现学历高和傻逼并不冲突 反而更多傻逼存在于高学历群体里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 80,
+          "like_count": 1633,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 622
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-12T14:27:25.000Z",
+        "description": "颜控 鉴🐔达人（只评价不闲聊除非你给我500块） 包皮克星 爱偷大家的表情包 不➕v 📮 https://t.co/KuzvLrquOC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzzzzzz91406",
+                "end": 68,
+                "expanded_url": "https://ngl.link/zzzzzzz91406",
+                "start": 45,
+                "url": "https://t.co/KuzvLrquOC"
+              }
+            ]
+          }
+        },
+        "id": "2897649145",
+        "name": "Crayon_",
+        "pinned_tweet_id": "1770098042508890573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777633125306368000/a9_6mL5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5382,
+          "following_count": 205,
+          "like_count": 11161,
+          "listed_count": 8,
+          "media_count": 1572,
+          "tweet_count": 9077
+        },
+        "username": "Xxxxxiii_111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1867274463739621692",
+    "created_at": "2024-12-13T07:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T08:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867477245092409717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1849385218198691840",
+          "start": 0,
+          "username": "yvlinling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867477245092409717",
+    "in_reply_to_user_id": "1849385218198691840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867274463739621692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvlinling 好能游"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1867274463739621692",
+        "created_at": "2024-12-13T07:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T08:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867477245092409717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1849385218198691840",
+              "start": 0,
+              "username": "yvlinling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867477245092409717",
+        "in_reply_to_user_id": "1849385218198691840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867274463739621692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvlinling 好能游"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849385218198691840",
+        "conversation_id": "1867274463739621692",
+        "created_at": "2024-12-12T18:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T19:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867274463739621692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867274463739621692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1826,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直游到。海水变蓝 天空变暗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 57,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 105
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T09:39:50.000Z",
+        "description": "普男 小号防私信上限@linlingyu323 碎碎念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "linlingyu323"
+              }
+            ]
+          }
+        },
+        "id": "1849385218198691840",
+        "name": "雨霖铃",
+        "pinned_tweet_id": "1855167563585495050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158403526881280/hI2F4VI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 221,
+          "like_count": 18730,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 5409
+        },
+        "username": "yvlinling",
+        "verified": false
+      }
+    ]
+  }
+}

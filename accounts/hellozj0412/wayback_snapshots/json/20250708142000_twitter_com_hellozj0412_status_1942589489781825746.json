@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942288541997846528"
+      ],
+      "media_source_tweet_id": [
+        "1942288544438919433"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1942589489781825746",
+    "created_at": "2025-07-08T14:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T15:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942589489781825746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1340356429341995008",
+          "start": 3,
+          "username": "MangaContexts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hgyWKdJ2ho",
+          "end": 42,
+          "expanded_url": "https://x.com/MangaContexts/status/1942288544438919433/photo/1",
+          "media_key": "3_1942288541997846528",
+          "start": 19,
+          "url": "https://t.co/hgyWKdJ2ho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942589489781825746",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 342
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942288544438919433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MangaContexts: https://t.co/hgyWKdJ2ho"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 371,
+        "media_key": "3_1942288541997846528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvRlI2UX0AAu0T8.jpg",
+        "width": 761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942288541997846528"
+          ],
+          "media_source_tweet_id": [
+            "1942288544438919433"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1942589489781825746",
+        "created_at": "2025-07-08T14:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T15:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942589489781825746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1340356429341995008",
+              "start": 3,
+              "username": "MangaContexts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgyWKdJ2ho",
+              "end": 42,
+              "expanded_url": "https://x.com/MangaContexts/status/1942288544438919433/photo/1",
+              "media_key": "3_1942288541997846528",
+              "start": 19,
+              "url": "https://t.co/hgyWKdJ2ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942589489781825746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942288544438919433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MangaContexts: https://t.co/hgyWKdJ2ho"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942288541997846528"
+          ]
+        },
+        "author_id": "1340356429341995008",
+        "conversation_id": "1942288544438919433",
+        "created_at": "2025-07-07T18:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T19:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942288544438919433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgyWKdJ2ho",
+              "end": 23,
+              "expanded_url": "https://x.com/MangaContexts/status/1942288544438919433/photo/1",
+              "media_key": "3_1942288541997846528",
+              "start": 0,
+              "url": "https://t.co/hgyWKdJ2ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942288544438919433",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 57274,
+          "like_count": 1768,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 342
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hgyWKdJ2ho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 112,
+          "like_count": 4562,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1549
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T18:01:32.000Z",
+        "description": "Posting high quality manga & fan art",
+        "id": "1340356429341995008",
+        "location": "DM submissions",
+        "name": "Out Of Context Manga",
+        "pinned_tweet_id": "1940763586860568613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342035744991358977/dLMOLLtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212608,
+          "following_count": 59,
+          "like_count": 1850,
+          "listed_count": 1511,
+          "media_count": 10309,
+          "tweet_count": 10462
+        },
+        "username": "MangaContexts",
+        "verified": true
+      }
+    ]
+  }
+}

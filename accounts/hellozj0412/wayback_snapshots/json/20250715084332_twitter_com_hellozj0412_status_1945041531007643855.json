@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1945041531007643855",
+    "created_at": "2025-07-15T08:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T09:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945041531007643855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chunzhenmeng/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/chunzhenmeng/status/1944780854234132937",
+          "start": 8,
+          "url": "https://t.co/noLsA3ELGi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945041531007643855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944780854234132937",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后任跑起来好吗 https://t.co/noLsA3ELGi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1945041531007643855",
+        "created_at": "2025-07-15T08:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T09:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945041531007643855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chunzhenmeng/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/chunzhenmeng/status/1944780854234132937",
+              "start": 8,
+              "url": "https://t.co/noLsA3ELGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945041531007643855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944780854234132937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后任跑起来好吗 https://t.co/noLsA3ELGi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908573817980747776",
+        "conversation_id": "1944780854234132937",
+        "created_at": "2025-07-14T15:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T16:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944780854234132937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944780854234132937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 63655,
+          "like_count": 802,
+          "quote_count": 36,
+          "reply_count": 80,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "后男友你一定要是switch啊！可以掐着我的脖子猛猛干 也可以戴着项圈跪在地上叫我妈妈 光是想想都爽死了🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 113,
+          "like_count": 4680,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1589
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T17:34:03.000Z",
+        "description": "05 | 叫我梦梦就好🤍 | 推广自辩被骗别找我❗ | 喜欢肌肉男❤️‍🔥这些男人请多多给我发私信😚| 不喜欢我的请善用屏蔽🫰🏻| 照片视频不打水印盗图4全家 | 互关私信加v | 多找我聊天私信都会回🐾| 已读不回就是不喜欢你🙇🏻‍♀️| 喜欢你会关注💋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=LNc0YvcI",
+                "start": 0,
+                "url": "https://t.co/rFkm4bkPfA"
+              }
+            ]
+          }
+        },
+        "id": "1908573817980747776",
+        "location": "厂东下雪我们就见面",
+        "name": "純真夢",
+        "pinned_tweet_id": "1944757214604095779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908792630487773184/pEZC1Tb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5933,
+          "following_count": 600,
+          "like_count": 6308,
+          "listed_count": 12,
+          "media_count": 178,
+          "tweet_count": 4194
+        },
+        "url": "https://t.co/rFkm4bkPfA",
+        "username": "chunzhenmeng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864677047030685697",
+        "3_1864677047030677504"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1864677061366841359",
+    "created_at": "2024-12-05T14:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T15:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864677061366841359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fYpWkLCuBR",
+          "end": 93,
+          "expanded_url": "https://x.com/hellozj0412/status/1864677061366841359/photo/1",
+          "media_key": "3_1864677047030685697",
+          "start": 70,
+          "url": "https://t.co/fYpWkLCuBR"
+        },
+        {
+          "display_url": "pic.x.com/fYpWkLCuBR",
+          "end": 93,
+          "expanded_url": "https://x.com/hellozj0412/status/1864677061366841359/photo/1",
+          "media_key": "3_1864677047030677504",
+          "start": 70,
+          "url": "https://t.co/fYpWkLCuBR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864677061366841359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又玩上捏捏了..说好要戒的呢…求求自己别买了…（嘿嘿嘿看看新收的捏捏好美丽，好期待它的手感，快递快点到啊啊啊啊，卖家姐姐拍的图太美了😍😍） https://t.co/fYpWkLCuBR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 939,
+        "media_key": "3_1864677047030685697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeCp5REWoAEYzbP.jpg",
+        "width": 704
+      },
+      {
+        "height": 1147,
+        "media_key": "3_1864677047030677504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeCp5REWgAAZYvH.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864677047030685697",
+            "3_1864677047030677504"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1864677061366841359",
+        "created_at": "2024-12-05T14:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T15:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864677061366841359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYpWkLCuBR",
+              "end": 93,
+              "expanded_url": "https://x.com/hellozj0412/status/1864677061366841359/photo/1",
+              "media_key": "3_1864677047030685697",
+              "start": 70,
+              "url": "https://t.co/fYpWkLCuBR"
+            },
+            {
+              "display_url": "pic.x.com/fYpWkLCuBR",
+              "end": 93,
+              "expanded_url": "https://x.com/hellozj0412/status/1864677061366841359/photo/1",
+              "media_key": "3_1864677047030677504",
+              "start": 70,
+              "url": "https://t.co/fYpWkLCuBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864677061366841359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又玩上捏捏了..说好要戒的呢…求求自己别买了…（嘿嘿嘿看看新收的捏捏好美丽，好期待它的手感，快递快点到啊啊啊啊，卖家姐姐拍的图太美了😍😍） https://t.co/fYpWkLCuBR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 54,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 59
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

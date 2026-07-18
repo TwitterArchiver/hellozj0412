@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895484610877763584"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1895484641169314021",
+    "created_at": "2025-02-28T14:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T15:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895484641169314021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gzuRnWQtZh",
+          "end": 38,
+          "expanded_url": "https://x.com/hellozj0412/status/1895484641169314021/photo/1",
+          "media_key": "3_1895484610877763584",
+          "start": 15,
+          "url": "https://t.co/gzuRnWQtZh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895484641169314021",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小猫给我能量，我是高需求主人 https://t.co/gzuRnWQtZh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 468,
+        "media_key": "3_1895484610877763584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4dNfyWsAAlFPG.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895484610877763584"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1895484641169314021",
+        "created_at": "2025-02-28T14:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T15:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895484641169314021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzuRnWQtZh",
+              "end": 38,
+              "expanded_url": "https://x.com/hellozj0412/status/1895484641169314021/photo/1",
+              "media_key": "3_1895484610877763584",
+              "start": 15,
+              "url": "https://t.co/gzuRnWQtZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895484641169314021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫给我能量，我是高需求主人 https://t.co/gzuRnWQtZh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 62,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 481
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1868542897651683400",
+    "created_at": "2024-12-16T11:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T12:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868616848465613010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1569010489975521285",
+          "start": 0,
+          "username": "coisini897"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868616848465613010",
+    "in_reply_to_user_id": "1569010489975521285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868542897651683400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coisini897 就这个阴湿感爽🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1868542897651683400",
+        "created_at": "2024-12-16T11:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T12:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868616848465613010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569010489975521285",
+              "start": 0,
+              "username": "coisini897"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868616848465613010",
+        "in_reply_to_user_id": "1569010489975521285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868542897651683400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coisini897 就这个阴湿感爽🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569010489975521285",
+        "conversation_id": "1868542897651683400",
+        "created_at": "2024-12-16T06:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T07:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868542897651683400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868542897651683400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 758,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你又和哪个男的聊天了，你不能每天和我报备和我说吗，你有了我还不够为什么要和其他男的聊天啊，你是不是要逼死我，你就想把我逼死是吧，赶紧全部给我删了，舍不得删把手机拿来我来删，为什么你每天做了什么都不告诉我，你每天和谁说话了，我是你一个人的，你也只能有我一个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 61,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 165
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T17:10:35.000Z",
+        "description": "03 1i/4i 男孩子 switch 超级超级变态，可以和我交朋友，私信看到了都会礼貌回应，评论也会，平时可以一起玩游戏，不搞男同，我是人妻 已婚人夫 无🚪 贴贴大家✧⁺⸜(●˙▾˙●)⸝⁺",
+        "id": "1569010489975521285",
+        "name": "桂花糕糕糕糕糕糕",
+        "pinned_tweet_id": "1858079008706978014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839187083958599680/Dzzg-uUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7526,
+          "following_count": 0,
+          "like_count": 2049,
+          "listed_count": 13,
+          "media_count": 21,
+          "tweet_count": 468
+        },
+        "username": "coisini897",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2016899288962388434",
+    "created_at": "2026-02-01T06:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T07:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017854081319281126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745636689866076160",
+          "start": 0,
+          "username": "rubirubikawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017854081319281126",
+    "in_reply_to_user_id": "1745636689866076160",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017811115582058526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rubirubikawa 🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2016899288962388434",
+        "created_at": "2026-02-01T06:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T07:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017854081319281126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745636689866076160",
+              "start": 0,
+              "username": "rubirubikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017854081319281126",
+        "in_reply_to_user_id": "1745636689866076160",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017811115582058526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rubirubikawa 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745636689866076160",
+        "conversation_id": "2016899288962388434",
+        "created_at": "2026-02-01T04:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017811115582058526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017811115582058526",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016899288962388434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 小宝宝，美美的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 115,
+          "like_count": 5009,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1791
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T02:40:07.000Z",
+        "description": "自娱自乐小世界/玩的游戏是瓦手/杂食一体机啥都吃",
+        "id": "1745636689866076160",
+        "name": "单马尾",
+        "pinned_tweet_id": "2000648835643875531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911254745848639488/7jPCRk1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 238,
+          "like_count": 5890,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 2894
+        },
+        "username": "rubirubikawa",
+        "verified": false
+      }
+    ]
+  }
+}

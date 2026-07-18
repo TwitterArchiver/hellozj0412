@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911706456824348672"
+      ],
+      "media_source_tweet_id": [
+        "1911706949986730231"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1912415144090493416",
+    "created_at": "2025-04-16T07:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T08:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912415144090493416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "923763326252752896",
+          "start": 3,
+          "username": "tyawantyawan356"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fuxEIqCrrZ",
+          "end": 51,
+          "expanded_url": "https://x.com/tyawantyawan356/status/1911706949986730231/photo/1",
+          "media_key": "3_1911706456824348672",
+          "start": 28,
+          "url": "https://t.co/fuxEIqCrrZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912415144090493416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1605
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911706949986730231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tyawantyawan356: 人造天使　２ https://t.co/fuxEIqCrrZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3230,
+        "media_key": "3_1911706456824348672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Goe-5NHWAAATtCo.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911706456824348672"
+          ],
+          "media_source_tweet_id": [
+            "1911706949986730231"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1912415144090493416",
+        "created_at": "2025-04-16T07:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T08:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912415144090493416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "923763326252752896",
+              "start": 3,
+              "username": "tyawantyawan356"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fuxEIqCrrZ",
+              "end": 51,
+              "expanded_url": "https://x.com/tyawantyawan356/status/1911706949986730231/photo/1",
+              "media_key": "3_1911706456824348672",
+              "start": 28,
+              "url": "https://t.co/fuxEIqCrrZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912415144090493416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1605
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911706949986730231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tyawantyawan356: 人造天使　２ https://t.co/fuxEIqCrrZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911706456824348672"
+          ]
+        },
+        "author_id": "923763326252752896",
+        "conversation_id": "1911706949986730231",
+        "created_at": "2025-04-14T09:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T10:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911706949986730231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fuxEIqCrrZ",
+              "end": 30,
+              "expanded_url": "https://x.com/tyawantyawan356/status/1911706949986730231/photo/1",
+              "media_key": "3_1911706456824348672",
+              "start": 7,
+              "url": "https://t.co/fuxEIqCrrZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911706949986730231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3932,
+          "impression_count": 341755,
+          "like_count": 21295,
+          "quote_count": 11,
+          "reply_count": 15,
+          "retweet_count": 1605
+        },
+        "reply_settings": "everyone",
+        "text": "人造天使　２ https://t.co/fuxEIqCrrZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 85,
+          "like_count": 2582,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 848
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-27T04:08:34.000Z",
+        "description": "絵チャ人間 ｽｹﾌﾞ→ https://t.co/d4N0E6TtQt何かあれば→nekonekonekonekotarako★https://t.co/TdgfEdm9O0 〜Please do not reprint without my permission.👀AI学習禁止👀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tyawantyawan3…",
+                "end": 35,
+                "expanded_url": "https://skeb.jp/@tyawantyawan356",
+                "start": 12,
+                "url": "https://t.co/d4N0E6TtQt"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 87,
+                "expanded_url": "http://gmail.com",
+                "start": 64,
+                "url": "https://t.co/TdgfEdm9O0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/70166063",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/70166063",
+                "start": 0,
+                "url": "https://t.co/m9vrEhmDyR"
+              }
+            ]
+          }
+        },
+        "id": "923763326252752896",
+        "location": "絵チャ",
+        "name": "おちぁ缶🫖",
+        "pinned_tweet_id": "1382300436170821638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1264977817206272000/ud49BgKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79147,
+          "following_count": 4265,
+          "like_count": 28108,
+          "listed_count": 691,
+          "media_count": 190,
+          "tweet_count": 4308
+        },
+        "url": "https://t.co/m9vrEhmDyR",
+        "username": "tyawantyawan356",
+        "verified": false
+      }
+    ]
+  }
+}

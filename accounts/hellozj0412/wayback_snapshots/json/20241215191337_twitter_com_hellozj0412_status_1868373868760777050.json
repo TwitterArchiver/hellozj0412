@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1868298680132084175",
+    "created_at": "2024-12-15T19:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T20:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868373868760777050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818306238515732480",
+          "start": 0,
+          "username": "Nicotine_2926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868373868760777050",
+    "in_reply_to_user_id": "1818306238515732480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868298680132084175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nicotine_2926 那咋了，你居然能支付成功这么多次！太有实力了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1868298680132084175",
+        "created_at": "2024-12-15T19:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T20:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868373868760777050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818306238515732480",
+              "start": 0,
+              "username": "Nicotine_2926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868373868760777050",
+        "in_reply_to_user_id": "1818306238515732480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868298680132084175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nicotine_2926 那咋了，你居然能支付成功这么多次！太有实力了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818306238515732480",
+        "conversation_id": "1868298680132084175",
+        "created_at": "2024-12-15T14:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T15:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868298680132084175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868298680132084175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 593,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这一年最成功的只有支付成功。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 60,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 152
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T15:22:55.000Z",
+        "description": "我想变成一片雪花｜防走失@wang_54269",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "wang_54269"
+              }
+            ]
+          }
+        },
+        "id": "1818306238515732480",
+        "name": "🕸️",
+        "pinned_tweet_id": "1855490513723707585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866941971404820480/awNLzVWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5811,
+          "following_count": 27,
+          "like_count": 6090,
+          "listed_count": 21,
+          "media_count": 42,
+          "tweet_count": 66
+        },
+        "username": "Nicotine_2926",
+        "verified": false
+      }
+    ]
+  }
+}

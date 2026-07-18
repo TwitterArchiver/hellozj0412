@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928102825646772227"
+      ],
+      "media_source_tweet_id": [
+        "1928102885440770395"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1928426258683080798",
+    "created_at": "2025-05-30T12:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T13:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928426258683080798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1629720042287030272",
+          "start": 3,
+          "username": "ariiol_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aLCU0gdA0E",
+          "end": 42,
+          "expanded_url": "https://x.com/ariiol_/status/1928102885440770395/photo/1",
+          "media_key": "3_1928102825646772227",
+          "start": 19,
+          "url": "https://t.co/aLCU0gdA0E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928426258683080798",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928102885440770395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ariiol_: ᴀɴɢᴇʟ https://t.co/aLCU0gdA0E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2592,
+        "media_key": "3_1928102825646772227",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsH_Te0aUAM5Mf9.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928102825646772227"
+          ],
+          "media_source_tweet_id": [
+            "1928102885440770395"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1928426258683080798",
+        "created_at": "2025-05-30T12:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T13:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928426258683080798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629720042287030272",
+              "start": 3,
+              "username": "ariiol_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLCU0gdA0E",
+              "end": 42,
+              "expanded_url": "https://x.com/ariiol_/status/1928102885440770395/photo/1",
+              "media_key": "3_1928102825646772227",
+              "start": 19,
+              "url": "https://t.co/aLCU0gdA0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928426258683080798",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928102885440770395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ariiol_: ᴀɴɢᴇʟ https://t.co/aLCU0gdA0E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928102825646772227"
+          ]
+        },
+        "author_id": "1629720042287030272",
+        "conversation_id": "1928102885440770395",
+        "created_at": "2025-05-29T14:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T15:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928102885440770395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLCU0gdA0E",
+              "end": 29,
+              "expanded_url": "https://x.com/ariiol_/status/1928102885440770395/photo/1",
+              "media_key": "3_1928102825646772227",
+              "start": 6,
+              "url": "https://t.co/aLCU0gdA0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928102885440770395",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 13989,
+          "like_count": 954,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "ᴀɴɢᴇʟ https://t.co/aLCU0gdA0E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 102,
+          "like_count": 3969,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1257
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T05:48:40.000Z",
+        "description": "* 19 / MUSIC + VISUAL. * EN / 日本語の勉強中 * CONTACT: ariiol_@outlook.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/ariiol",
+                "end": 23,
+                "expanded_url": "https://soundcloud.com/ariiol",
+                "start": 0,
+                "url": "https://t.co/qDgwYOMt6a"
+              }
+            ]
+          }
+        },
+        "id": "1629720042287030272",
+        "location": "LOCATE",
+        "name": "ariiol / アリオル",
+        "pinned_tweet_id": "1867916230537150516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861642466237272065/W8huN7oU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13226,
+          "following_count": 1078,
+          "like_count": 12462,
+          "listed_count": 72,
+          "media_count": 319,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/qDgwYOMt6a",
+        "username": "ariiol_",
+        "verified": false
+      }
+    ]
+  }
+}

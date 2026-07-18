@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1919678014767694006",
+    "created_at": "2025-05-06T17:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T18:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919803889563336939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660276482030342145",
+          "start": 0,
+          "username": "i1314151241475i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919803889563336939",
+    "in_reply_to_user_id": "1660276482030342145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919678014767694006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i1314151241475i 好的，所以m在哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1919678014767694006",
+        "created_at": "2025-05-06T17:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T18:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919803889563336939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660276482030342145",
+              "start": 0,
+              "username": "i1314151241475i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919803889563336939",
+        "in_reply_to_user_id": "1660276482030342145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919678014767694006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i1314151241475i 好的，所以m在哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660276482030342145",
+        "conversation_id": "1919678014767694006",
+        "created_at": "2025-05-06T08:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T09:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919678014767694006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919678014767694006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5016,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟，你要记住，一旦你踏上了当M这条路，你就不要打心眼里觉得自己是人类了，你就要打心眼里觉得自己是一条狗，好吗？兄弟，能听懂我这个教诲吗？知道吗？操你妈的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 92,
+          "like_count": 3302,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1072
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T13:29:11.000Z",
+        "description": "喜欢可爱的人 推广关评自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=RxOjXpbL",
+                "start": 0,
+                "url": "https://t.co/TMNyyogDFX"
+              }
+            ]
+          }
+        },
+        "id": "1660276482030342145",
+        "name": "煎饺神",
+        "pinned_tweet_id": "1918998459740299478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908162540636667904/9x9Vjclb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7500,
+          "following_count": 225,
+          "like_count": 7589,
+          "listed_count": 8,
+          "media_count": 141,
+          "tweet_count": 3168
+        },
+        "url": "https://t.co/TMNyyogDFX",
+        "username": "i1314151241475i",
+        "verified": false
+      }
+    ]
+  }
+}

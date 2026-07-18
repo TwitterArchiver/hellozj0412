@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1907178686455160998",
+    "created_at": "2025-04-01T21:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T22:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907182230784385508"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1907182230784385508",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907178686455160998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然有很多人能安慰到我，但是没有与我有同步经历的人，还是很难戳到最深处，哎，其实挺好的，我就是不理解，为什么会遇到这种事情，算了，不重要了，已经来不及了，我会找到下一条路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1907178686455160998",
+        "created_at": "2025-04-01T21:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T22:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907182230784385508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907182230784385508",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907178686455160998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然有很多人能安慰到我，但是没有与我有同步经历的人，还是很难戳到最深处，哎，其实挺好的，我就是不理解，为什么会遇到这种事情，算了，不重要了，已经来不及了，我会找到下一条路"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1907178686455160998",
+        "created_at": "2025-04-01T21:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T22:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907178686455160998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907178686455160998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟同门电话聊了5个小时，从痛苦崩溃的情绪逐渐缓和，接收到很多信息…哎就这样吧，好死不如赖活着，哈哈😄继续写论文喽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 82,
+          "like_count": 2199,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 904
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

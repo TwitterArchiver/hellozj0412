@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1901709899697959327",
+    "created_at": "2025-03-19T12:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T13:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902334721448611909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1406349133737254916",
+          "start": 0,
+          "username": "gemahtreeuhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902334721448611909",
+    "in_reply_to_user_id": "1406349133737254916",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901709899697959327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gemahtreeuhh 有点想吃香香甜甜的水煮玉米"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901709893029036032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmQ7Em_XgAAi4Fd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1901709899697959327",
+        "created_at": "2025-03-19T12:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T13:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902334721448611909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1406349133737254916",
+              "start": 0,
+              "username": "gemahtreeuhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902334721448611909",
+        "in_reply_to_user_id": "1406349133737254916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901709899697959327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gemahtreeuhh 有点想吃香香甜甜的水煮玉米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901709893029036032"
+          ]
+        },
+        "author_id": "1406349133737254916",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1901709899697959327",
+        "created_at": "2025-03-17T18:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T19:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901709899697959327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pyc5b2BlS",
+              "end": 54,
+              "expanded_url": "https://x.com/gemahtreeuhh/status/1901709899697959327/photo/1",
+              "media_key": "3_1901709893029036032",
+              "start": 31,
+              "url": "https://t.co/0pyc5b2BlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901709899697959327",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5720,
+          "impression_count": 3086584,
+          "like_count": 178110,
+          "quote_count": 1603,
+          "reply_count": 719,
+          "retweet_count": 11695
+        },
+        "reply_settings": "everyone",
+        "text": "WHO SAID I CANT COOK 🧑‍🍳💥💥‼️‼️ https://t.co/0pyc5b2BlS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 82,
+          "like_count": 1722,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 681
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T20:32:25.000Z",
+        "description": "pfp by @All_Lee24, mentally insane yapper of a bug, be nice to eachother!! extremely autistic #ILOVEMYWIFE multifandom",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 94,
+                "tag": "ILOVEMYWIFE"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "All_Lee24"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gemahtreeuhh.straw.page",
+                "end": 23,
+                "expanded_url": "https://gemahtreeuhh.straw.page",
+                "start": 0,
+                "url": "https://t.co/HJPOpeC4QM"
+              }
+            ]
+          }
+        },
+        "id": "1406349133737254916",
+        "location": "Lady Maria’s Astral Clocktower",
+        "name": "gem🍉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803159137859088385/EIOf9qfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6378,
+          "following_count": 144,
+          "like_count": 137218,
+          "listed_count": 11,
+          "media_count": 8874,
+          "tweet_count": 40921
+        },
+        "url": "https://t.co/HJPOpeC4QM",
+        "username": "gemahtreeuhh",
+        "verified": false
+      }
+    ]
+  }
+}

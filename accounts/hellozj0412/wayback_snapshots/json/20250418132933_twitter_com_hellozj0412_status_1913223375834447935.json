@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1913223375834447935",
+    "created_at": "2025-04-18T13:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T14:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913223375834447935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acclzd_clz/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/acclzd_clz/status/1913214098826998129",
+          "start": 11,
+          "url": "https://t.co/yxgM9ggtPA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913223375834447935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913214098826998129",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "转转这个车厘子的新饭 https://t.co/yxgM9ggtPA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2388,
+        "media_key": "3_1913214085430382592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go0aEvVaEAA8pq1.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1913223375834447935",
+        "created_at": "2025-04-18T13:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T14:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913223375834447935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acclzd_clz/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/acclzd_clz/status/1913214098826998129",
+              "start": 11,
+              "url": "https://t.co/yxgM9ggtPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913223375834447935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913214098826998129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转转这个车厘子的新饭 https://t.co/yxgM9ggtPA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913214085430382592"
+          ]
+        },
+        "author_id": "1590695308463288321",
+        "conversation_id": "1913214098826998129",
+        "created_at": "2025-04-18T12:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T13:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913214098826998129"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "一爱"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "年上"
+            },
+            {
+              "end": 53,
+              "start": 47,
+              "tag": "daddy"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "强高"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "束缚"
+            },
+            {
+              "end": 70,
+              "start": 63,
+              "tag": "蒙眼play"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CyjU3l7AE0",
+              "end": 94,
+              "expanded_url": "https://x.com/acclzd_clz/status/1913214098826998129/photo/1",
+              "media_key": "3_1913214085430382592",
+              "start": 71,
+              "url": "https://t.co/CyjU3l7AE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913214098826998129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1140,
+          "like_count": 39,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "年上强制爱\n“小狗，要不要猜猜，我怎么奖、励你”\n“润滑液都被小狗吃干净了”\n#一爱 #年上 #daddy  #强高 #束缚 #蒙眼play https://t.co/CyjU3l7AE0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 85,
+          "like_count": 2665,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 875
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T13:18:17.000Z",
+        "description": "无墙内账号 骂我没财运☝️不回定制打赏以外私信 ☝️不是台本娘 不授权哈 文笔朴素单调🫰别拿我当日本人整行不没有小号🫶推广请自辨！",
+        "id": "1590695308463288321",
+        "location": "流量来流量来",
+        "name": "荞麦厘子",
+        "pinned_tweet_id": "1913214098826998129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887405012529389570/u14SCDTG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66761,
+          "following_count": 44,
+          "like_count": 7476,
+          "listed_count": 69,
+          "media_count": 281,
+          "tweet_count": 1010
+        },
+        "username": "acclzd_clz",
+        "verified": false
+      }
+    ]
+  }
+}

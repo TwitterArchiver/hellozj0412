@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1901290214154523036",
+    "created_at": "2025-03-19T00:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T01:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902154938819424694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591013944897904640",
+          "start": 0,
+          "username": "recsetuaiano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902154938819424694",
+    "in_reply_to_user_id": "1591013944897904640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901290214154523036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@recsetuaiano 真男鬼就真香"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1760,
+        "media_key": "3_1901290203559673856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmK9Xd4awAAqG6H.jpg",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1901290214154523036",
+        "created_at": "2025-03-19T00:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T01:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902154938819424694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591013944897904640",
+              "start": 0,
+              "username": "recsetuaiano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902154938819424694",
+        "in_reply_to_user_id": "1591013944897904640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901290214154523036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@recsetuaiano 真男鬼就真香"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901290203559673856"
+          ]
+        },
+        "author_id": "1591013944897904640",
+        "conversation_id": "1901290214154523036",
+        "created_at": "2025-03-16T15:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T16:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901290214154523036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZsM65o8C4",
+              "end": 27,
+              "expanded_url": "https://x.com/recsetuaiano/status/1901290214154523036/photo/1",
+              "media_key": "3_1901290203559673856",
+              "start": 4,
+              "url": "https://t.co/hZsM65o8C4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901290214154523036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 296,
+          "impression_count": 180633,
+          "like_count": 2607,
+          "quote_count": 11,
+          "reply_count": 37,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "男鬼。 https://t.co/hZsM65o8C4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 81,
+          "like_count": 1694,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 667
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T10:24:30.000Z",
+        "description": "幸福健康",
+        "id": "1591013944897904640",
+        "name": "Kncore",
+        "pinned_tweet_id": "1895181947800084834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893886166790795264/1PvVaa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48805,
+          "following_count": 408,
+          "like_count": 16711,
+          "listed_count": 50,
+          "media_count": 45,
+          "tweet_count": 1547
+        },
+        "username": "recsetuaiano",
+        "verified": false
+      }
+    ]
+  }
+}

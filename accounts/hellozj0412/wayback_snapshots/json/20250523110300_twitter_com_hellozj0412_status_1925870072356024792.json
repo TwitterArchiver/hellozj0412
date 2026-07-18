@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1925868933686407546",
+    "created_at": "2025-05-23T11:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T12:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925870072356024792"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1925870072356024792",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925868933686407546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "相机一堆图没发啊啊啊，先发发手机拍的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1925868933686407546",
+        "created_at": "2025-05-23T11:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T12:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925870072356024792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925870072356024792",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925868933686407546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "相机一堆图没发啊啊啊，先发发手机拍的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1925868933686407546",
+        "created_at": "2025-05-23T10:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T11:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925868933686407546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925868933686407546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拖延症大王就是我，还欠了好多图没发，两人带了5个不同的相机…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 101,
+          "like_count": 3857,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1205
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

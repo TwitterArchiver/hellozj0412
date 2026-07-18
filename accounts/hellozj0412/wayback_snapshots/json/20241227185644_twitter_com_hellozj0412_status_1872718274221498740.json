@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1872623572738519319",
+    "created_at": "2024-12-27T18:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T19:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872718274221498740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850074319734636544",
+          "start": 0,
+          "username": "diudiujiang74"
+        },
+        {
+          "end": 24,
+          "id": "1808760963228913664",
+          "start": 15,
+          "username": "Iiicerao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872718274221498740",
+    "in_reply_to_user_id": "1850074319734636544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872696523311792167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diudiujiang74 @Iiicerao 真正的daddy！😻😻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1872623572738519319",
+        "created_at": "2024-12-27T18:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T19:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872718274221498740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850074319734636544",
+              "start": 0,
+              "username": "diudiujiang74"
+            },
+            {
+              "end": 24,
+              "id": "1808760963228913664",
+              "start": 15,
+              "username": "Iiicerao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872718274221498740",
+        "in_reply_to_user_id": "1850074319734636544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872696523311792167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diudiujiang74 @Iiicerao 真正的daddy！😻😻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850074319734636544",
+        "conversation_id": "1872623572738519319",
+        "created_at": "2024-12-27T17:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T18:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872696523311792167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1808760963228913664",
+              "start": 0,
+              "username": "Iiicerao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872696523311792167",
+        "in_reply_to_user_id": "1808760963228913664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872623572738519319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iiicerao 理想中的年上大叔！！冬天就得是孔刘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 63,
+          "like_count": 1175,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 390
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T07:17:55.000Z",
+        "description": "ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ你不喜欢看的",
+        "id": "1850074319734636544",
+        "name": "四火夕禾❄️🩸",
+        "pinned_tweet_id": "1864315916252745761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865629963665448962/_ajBjD_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 300,
+          "like_count": 5473,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 348
+        },
+        "username": "diudiujiang74",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T07:13:27.000Z",
+        "description": "仅此一个号 没有私联方式/社交软件",
+        "id": "1808760963228913664",
+        "name": "Iiiyo ☃︎",
+        "pinned_tweet_id": "1858700245640884254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857636093350522881/AeH6s7vj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39351,
+          "following_count": 229,
+          "like_count": 8180,
+          "listed_count": 74,
+          "media_count": 101,
+          "tweet_count": 6054
+        },
+        "username": "Iiicerao",
+        "verified": false
+      }
+    ]
+  }
+}

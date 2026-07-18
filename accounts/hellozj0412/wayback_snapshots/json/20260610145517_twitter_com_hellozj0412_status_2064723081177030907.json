@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1963378011945816064"
+      ],
+      "media_source_tweet_id": [
+        "1963378024100864043"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "2064723081177030907",
+    "created_at": "2026-06-10T14:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064723081177030907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597013413556879360",
+          "start": 3,
+          "username": "Al4nxcats"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q3T0YeUxHC",
+          "end": 100,
+          "expanded_url": "https://x.com/Catsillyness/status/1963378024100864043/video/1",
+          "media_key": "7_1963378011945816064",
+          "start": 77,
+          "url": "https://t.co/q3T0YeUxHC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064723081177030907",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5353
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064407619368833037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Al4nxcats: El trato que quiero recibir después de pasar un día asqueroso https://t.co/q3T0YeUxHC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10752,
+        "height": 480,
+        "media_key": "7_1963378011945816064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1963378011945816064/pu/img/RLVzHMU-dNbIJ1t3.jpg",
+        "public_metrics": {
+          "view_count": 2249983
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1963378011945816064/pu/vid/avc1/360x270/dFP5Zl4qxwpYalqA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1963378011945816064/pu/vid/avc1/480x360/k9OEcb2wk1ICayt4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1963378011945816064/pu/vid/avc1/640x480/g-yQWkpnvS3_9owY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1963378011945816064/pu/pl/ZgC2LmlV9--bzo0D.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1963378011945816064"
+          ],
+          "media_source_tweet_id": [
+            "1963378024100864043"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "2064723081177030907",
+        "created_at": "2026-06-10T14:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064723081177030907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597013413556879360",
+              "start": 3,
+              "username": "Al4nxcats"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3T0YeUxHC",
+              "end": 100,
+              "expanded_url": "https://x.com/Catsillyness/status/1963378024100864043/video/1",
+              "media_key": "7_1963378011945816064",
+              "start": 77,
+              "url": "https://t.co/q3T0YeUxHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064723081177030907",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5353
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064407619368833037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Al4nxcats: El trato que quiero recibir después de pasar un día asqueroso https://t.co/q3T0YeUxHC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1963378011945816064"
+          ],
+          "media_source_tweet_id": [
+            "1963378024100864043"
+          ]
+        },
+        "author_id": "1597013413556879360",
+        "conversation_id": "2064407619368833037",
+        "created_at": "2026-06-09T18:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064407619368833037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3T0YeUxHC",
+              "end": 85,
+              "expanded_url": "https://x.com/Catsillyness/status/1963378024100864043/video/1",
+              "media_key": "7_1963378011945816064",
+              "start": 62,
+              "url": "https://t.co/q3T0YeUxHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064407619368833037",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1056,
+          "impression_count": 213692,
+          "like_count": 21983,
+          "quote_count": 134,
+          "reply_count": 23,
+          "retweet_count": 5353
+        },
+        "reply_settings": "everyone",
+        "text": "El trato que quiero recibir después de pasar un día asqueroso https://t.co/q3T0YeUxHC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 122,
+          "like_count": 5204,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1856
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T23:45:06.000Z",
+        "description": "—･ﾉ Para ti, cuando ya haya muerto.︰꒱ #obstwt #anitwt #danitwt #alantwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 38,
+                "tag": "obstwt"
+              },
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "anitwt"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "tag": "danitwt"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "tag": "alantwt"
+              }
+            ]
+          }
+        },
+        "id": "1597013413556879360",
+        "location": "| He/Him ",
+        "name": "Alan",
+        "pinned_tweet_id": "2064569703914156314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964459551354216448/YnMKVKMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 1144,
+          "like_count": 139905,
+          "listed_count": 30,
+          "media_count": 3038,
+          "tweet_count": 39912
+        },
+        "username": "Al4nxcats",
+        "verified": false
+      }
+    ]
+  }
+}

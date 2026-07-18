@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1917947061804114198",
+    "created_at": "2025-05-01T14:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T15:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917947061804114198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880108847953747968",
+          "start": 3,
+          "username": "bing111330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917947061804114198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917928327513510196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bing111330: 我没有控制欲，我只是希望你做什么事都给我拍照分享，没有一定要你报备的意思，能分享一下吗，你在路上骑车走路吃什么和谁一起玩什么时候去哪里最好也通通拍给我看，抱歉没有强制要求你的意思，拍给我看。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1917947061804114198",
+        "created_at": "2025-05-01T14:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T15:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917947061804114198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880108847953747968",
+              "start": 3,
+              "username": "bing111330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917947061804114198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917928327513510196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bing111330: 我没有控制欲，我只是希望你做什么事都给我拍照分享，没有一定要你报备的意思，能分享一下吗，你在路上骑车走路吃什么和谁一起玩什么时候去哪里最好也通通拍给我看，抱歉没有强制要求你的意思，拍给我看。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880108847953747968",
+        "conversation_id": "1917928327513510196",
+        "created_at": "2025-05-01T13:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T14:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917928327513510196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917928327513510196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 835,
+          "like_count": 41,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我没有控制欲，我只是希望你做什么事都给我拍照分享，没有一定要你报备的意思，能分享一下吗，你在路上骑车走路吃什么和谁一起玩什么时候去哪里最好也通通拍给我看，抱歉没有强制要求你的意思，拍给我看。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 91,
+          "like_count": 3138,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1003
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:24:41.000Z",
+        "description": "碎碎念📝 @lan_zhai003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "lan_zhai003"
+              }
+            ]
+          }
+        },
+        "id": "1880108847953747968",
+        "name": "症懒宅",
+        "pinned_tweet_id": "1910327675182293322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880110463847133184/3hTAldsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 353,
+          "like_count": 14152,
+          "listed_count": 14,
+          "media_count": 329,
+          "tweet_count": 10247
+        },
+        "username": "bing111330",
+        "verified": false
+      }
+    ]
+  }
+}

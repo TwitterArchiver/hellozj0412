@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1961852341172289736",
+    "created_at": "2025-08-30T18:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T19:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961852341172289736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1909665676484395008",
+          "start": 3,
+          "username": "everbias"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961852341172289736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961655012335161478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @everbias: 我秋冬天是最想谈恋爱的时候，因为我完全不知道怎么处理那种夏日离去的无端伤感，以及冷风拂面时的错愕，呼吸到冷意的时候特别想死。\n但现在没事了，我现在一般都回家洗个热水澡再用精油芳疗一下惊恐的神经。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1961852341172289736",
+        "created_at": "2025-08-30T18:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T19:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961852341172289736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909665676484395008",
+              "start": 3,
+              "username": "everbias"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961852341172289736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961655012335161478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @everbias: 我秋冬天是最想谈恋爱的时候，因为我完全不知道怎么处理那种夏日离去的无端伤感，以及冷风拂面时的错愕，呼吸到冷意的时候特别想死。\n但现在没事了，我现在一般都回家洗个热水澡再用精油芳疗一下惊恐的神经。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909665676484395008",
+        "conversation_id": "1961655012335161478",
+        "created_at": "2025-08-30T04:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T05:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961655012335161478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961655012335161478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1037,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我秋冬天是最想谈恋爱的时候，因为我完全不知道怎么处理那种夏日离去的无端伤感，以及冷风拂面时的错愕，呼吸到冷意的时候特别想死。\n但现在没事了，我现在一般都回家洗个热水澡再用精油芳疗一下惊恐的神经。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 119,
+          "like_count": 5354,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1763
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T17:52:47.000Z",
+        "description": "🐻‍❄️（叫我熊/熊崽都行）我上号就是为了说怪话。取关随意，来去自由，不用特意告诉我啦。（我是文盲所以经常打错字）",
+        "id": "1909665676484395008",
+        "name": "缓步一熊",
+        "pinned_tweet_id": "1950386917167747438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951120491273482240/LptAa4sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 80,
+          "like_count": 792,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 2834
+        },
+        "username": "everbias",
+        "verified": false
+      }
+    ]
+  }
+}

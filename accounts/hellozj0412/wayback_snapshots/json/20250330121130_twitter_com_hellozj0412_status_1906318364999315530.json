@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1906213916243616204",
+    "created_at": "2025-03-30T12:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T13:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906318364999315530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1653083358254235648",
+          "start": 0,
+          "username": "buyaochilea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906318364999315530",
+    "in_reply_to_user_id": "1653083358254235648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906213916243616204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buyaochilea 老师请写（递笔）真的很喜欢这种啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1085,
+        "media_key": "3_1906213903698391042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnQ7ciPacAIVA0_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906213916243616204",
+        "created_at": "2025-03-30T12:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T13:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906318364999315530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1653083358254235648",
+              "start": 0,
+              "username": "buyaochilea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906318364999315530",
+        "in_reply_to_user_id": "1653083358254235648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906213916243616204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buyaochilea 老师请写（递笔）真的很喜欢这种啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906213903698391042"
+          ]
+        },
+        "author_id": "1653083358254235648",
+        "conversation_id": "1906213916243616204",
+        "created_at": "2025-03-30T05:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T06:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906213916243616204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ez3THJPmzp",
+              "end": 44,
+              "expanded_url": "https://x.com/buyaochilea/status/1906213916243616204/photo/1",
+              "media_key": "3_1906213903698391042",
+              "start": 21,
+              "url": "https://t.co/Ez3THJPmzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906213916243616204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 11440,
+          "like_count": 369,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "有人懂我吗(●--●)\n性冷淡真的很好品 https://t.co/Ez3THJPmzp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 80,
+          "like_count": 2105,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 861
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T17:06:17.000Z",
+        "description": "【头脑发热】写po文的 不是台本老师 不写台本所以不授权｜点梗直接私信就好喔 我会认真看每一条读者私信 但请不要给我投在别的老师那投过的梗｜抽奖用这个号回复@tounaolengjing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "tounaolengjing"
+              }
+            ]
+          }
+        },
+        "id": "1653083358254235648",
+        "location": "不接推广/置顶/商务",
+        "name": "别头脑发热了",
+        "pinned_tweet_id": "1860218710751084919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767177368802840576/0sF9rKJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72762,
+          "following_count": 22,
+          "like_count": 1315,
+          "listed_count": 62,
+          "media_count": 127,
+          "tweet_count": 389
+        },
+        "username": "buyaochilea",
+        "verified": false
+      }
+    ]
+  }
+}

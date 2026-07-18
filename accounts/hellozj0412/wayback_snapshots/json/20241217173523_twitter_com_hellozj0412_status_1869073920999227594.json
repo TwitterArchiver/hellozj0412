@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1869051224034816306",
+    "created_at": "2024-12-17T17:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T18:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869073920999227594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1597302319502147584",
+          "start": 0,
+          "username": "KIco2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869073920999227594",
+    "in_reply_to_user_id": "1597302319502147584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869051224034816306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KIco2s 这太坏了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1869051224034816306",
+        "created_at": "2024-12-17T17:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T18:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869073920999227594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1597302319502147584",
+              "start": 0,
+              "username": "KIco2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869073920999227594",
+        "in_reply_to_user_id": "1597302319502147584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869051224034816306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIco2s 这太坏了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869051221077864448"
+          ]
+        },
+        "author_id": "1597302319502147584",
+        "conversation_id": "1869051224034816306",
+        "created_at": "2024-12-17T16:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T17:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869051224034816306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xl45sW10F3",
+              "end": 28,
+              "expanded_url": "https://x.com/KIco2s/status/1869051224034816306/photo/1",
+              "media_key": "3_1869051221077864448",
+              "start": 5,
+              "url": "https://t.co/Xl45sW10F3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869051224034816306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扑街咯😢 https://t.co/Xl45sW10F3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 65,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 211
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T18:52:13.000Z",
+        "description": "回到原点🚪：@ikpsub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "ikpsub"
+              }
+            ]
+          }
+        },
+        "id": "1597302319502147584",
+        "name": "Kico",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597302442214928384/4ABlDLWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 4,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 160
+        },
+        "username": "KIco2s",
+        "verified": false
+      }
+    ]
+  }
+}

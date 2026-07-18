@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930566277023870977",
+        "3_1930566277032226816"
+      ],
+      "media_source_tweet_id": [
+        "1930566284883767694",
+        "1930566284883767694"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      }
+    ],
+    "conversation_id": "1930578093321711645",
+    "created_at": "2025-06-05T10:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T11:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930578093321711645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1810767700358230017",
+          "start": 3,
+          "username": "Alphazexeggcute"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UD9RXkNs5g",
+          "end": 69,
+          "expanded_url": "https://x.com/Alphazexeggcute/status/1930566284883767694/photo/1",
+          "media_key": "3_1930566277023870977",
+          "start": 46,
+          "url": "https://t.co/UD9RXkNs5g"
+        },
+        {
+          "display_url": "pic.x.com/UD9RXkNs5g",
+          "end": 69,
+          "expanded_url": "https://x.com/Alphazexeggcute/status/1930566284883767694/photo/1",
+          "media_key": "3_1930566277032226816",
+          "start": 46,
+          "url": "https://t.co/UD9RXkNs5g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930578093321711645",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930566284883767694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Alphazexeggcute: 어떡해 히나타님 이 메이크업 진짜 레전드시다 https://t.co/UD9RXkNs5g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930566277023870977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsq_zOVbMAEsA7-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930566277032226816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsq_zOXasAAdrLQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930566277023870977",
+            "3_1930566277032226816"
+          ],
+          "media_source_tweet_id": [
+            "1930566284883767694",
+            "1930566284883767694"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "1930578093321711645",
+        "created_at": "2025-06-05T10:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T11:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930578093321711645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1810767700358230017",
+              "start": 3,
+              "username": "Alphazexeggcute"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UD9RXkNs5g",
+              "end": 69,
+              "expanded_url": "https://x.com/Alphazexeggcute/status/1930566284883767694/photo/1",
+              "media_key": "3_1930566277023870977",
+              "start": 46,
+              "url": "https://t.co/UD9RXkNs5g"
+            },
+            {
+              "display_url": "pic.x.com/UD9RXkNs5g",
+              "end": 69,
+              "expanded_url": "https://x.com/Alphazexeggcute/status/1930566284883767694/photo/1",
+              "media_key": "3_1930566277032226816",
+              "start": 46,
+              "url": "https://t.co/UD9RXkNs5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930578093321711645",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930566284883767694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Alphazexeggcute: 어떡해 히나타님 이 메이크업 진짜 레전드시다 https://t.co/UD9RXkNs5g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930566277023870977",
+            "3_1930566277032226816"
+          ]
+        },
+        "author_id": "1810767700358230017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "1930566284883767694",
+        "created_at": "2025-06-05T10:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T11:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930566284883767694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UD9RXkNs5g",
+              "end": 48,
+              "expanded_url": "https://x.com/Alphazexeggcute/status/1930566284883767694/photo/1",
+              "media_key": "3_1930566277023870977",
+              "start": 25,
+              "url": "https://t.co/UD9RXkNs5g"
+            },
+            {
+              "display_url": "pic.x.com/UD9RXkNs5g",
+              "end": 48,
+              "expanded_url": "https://x.com/Alphazexeggcute/status/1930566284883767694/photo/1",
+              "media_key": "3_1930566277032226816",
+              "start": 25,
+              "url": "https://t.co/UD9RXkNs5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930566284883767694",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2894,
+          "like_count": 119,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "reply_settings": "following",
+        "text": "어떡해 히나타님 이 메이크업 진짜 레전드시다 https://t.co/UD9RXkNs5g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 107,
+          "like_count": 4166,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1321
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T20:07:42.000Z",
+        "description": "⟡˖ ࣪ #HINATA ☆⋆｡𖦹°‧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 5,
+                "tag": "HINATA"
+              }
+            ]
+          }
+        },
+        "id": "1810767700358230017",
+        "name": "나시",
+        "pinned_tweet_id": "1858468662971445309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810771624536498176/X5UbYxra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 40,
+          "like_count": 369,
+          "listed_count": 6,
+          "media_count": 603,
+          "tweet_count": 1674
+        },
+        "username": "Alphazexeggcute",
+        "verified": false
+      }
+    ]
+  }
+}

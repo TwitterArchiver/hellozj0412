@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1918852047362809911",
+    "created_at": "2025-05-04T04:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T05:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918892656765141380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745636689866076160",
+          "start": 0,
+          "username": "rubirubikawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918892656765141380",
+    "in_reply_to_user_id": "1745636689866076160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918852047362809911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rubirubikawa 狗修金sama笑晕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1141,
+        "media_key": "3_1918851489000534016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqEhQ0KbMAAo3Zc.jpg",
+        "width": 776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1918852047362809911",
+        "created_at": "2025-05-04T04:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T05:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918892656765141380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745636689866076160",
+              "start": 0,
+              "username": "rubirubikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918892656765141380",
+        "in_reply_to_user_id": "1745636689866076160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918852047362809911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rubirubikawa 狗修金sama笑晕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918851489000534016"
+          ]
+        },
+        "author_id": "1745636689866076160",
+        "conversation_id": "1918852047362809911",
+        "created_at": "2025-05-04T02:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T03:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918852047362809911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/icaVwoMPLz",
+              "end": 86,
+              "expanded_url": "https://x.com/rubirubikawa/status/1918852047362809911/photo/1",
+              "media_key": "3_1918851489000534016",
+              "start": 63,
+              "url": "https://t.co/icaVwoMPLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918852047362809911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正式开始主人与狗之前能不能签书面合同啊。我契约精神有点太重了，一声主人就像紧箍一样套上了就不会随便取下来了。\n唉，较真的女人 https://t.co/icaVwoMPLz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 90,
+          "like_count": 3191,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1015
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T02:40:07.000Z",
+        "description": "♉/🍵/bi/？nf？/健人\n爱和善就是真实和幸福，而且是世界上真实存在和唯一可能的幸福\nNGL：https://t.co/tg9x69IPWD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rubirubi98709",
+                "end": 72,
+                "expanded_url": "https://ngl.link/rubirubi98709",
+                "start": 49,
+                "url": "https://t.co/tg9x69IPWD"
+              }
+            ]
+          }
+        },
+        "id": "1745636689866076160",
+        "location": "0.8km",
+        "name": "双马尾",
+        "pinned_tweet_id": "1916284672117772323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911254745848639488/7jPCRk1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 169,
+          "like_count": 2859,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 949
+        },
+        "username": "rubirubikawa",
+        "verified": false
+      }
+    ]
+  }
+}

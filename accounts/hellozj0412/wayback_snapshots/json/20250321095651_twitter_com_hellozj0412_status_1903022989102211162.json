@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1902738596244914480",
+    "created_at": "2025-03-21T09:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T10:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903022989102211162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1421851995355369477",
+          "start": 0,
+          "username": "Aichijiandanxyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903022989102211162",
+    "in_reply_to_user_id": "1421851995355369477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902738596244914480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aichijiandanxyz 我照镜子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1902738596244914480",
+        "created_at": "2025-03-21T09:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T10:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903022989102211162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421851995355369477",
+              "start": 0,
+              "username": "Aichijiandanxyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903022989102211162",
+        "in_reply_to_user_id": "1421851995355369477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902738596244914480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aichijiandanxyz 我照镜子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421851995355369477",
+        "conversation_id": "1902738596244914480",
+        "created_at": "2025-03-20T15:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T16:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902738596244914480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902738596244914480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3889,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是被夸被骂都要内耗，不要这样啊煎蛋面包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 79,
+          "like_count": 1797,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 723
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "贱人更是滚开！\n@eggyyybaby\nvpn⬇️\n#煎蛋不想说话就唱歌吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 26,
+                "tag": "煎蛋不想说话就唱歌吧"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=3mkaPReT",
+                "start": 0,
+                "url": "https://t.co/UzTTlXSUsc"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1694768407147917551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896044201911201792/d9GpQChS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19866,
+          "following_count": 389,
+          "like_count": 151513,
+          "listed_count": 61,
+          "media_count": 6292,
+          "tweet_count": 65796
+        },
+        "url": "https://t.co/UzTTlXSUsc",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

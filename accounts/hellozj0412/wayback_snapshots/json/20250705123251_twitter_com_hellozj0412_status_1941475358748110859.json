@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1941356573605102031",
+    "created_at": "2025-07-05T12:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T13:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941475358748110859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547083956847198208",
+          "start": 0,
+          "username": "BuryAnita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941475358748110859",
+    "in_reply_to_user_id": "1547083956847198208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941356573605102031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BuryAnita 为啥啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1941356573605102031",
+        "created_at": "2025-07-05T12:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T13:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941475358748110859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547083956847198208",
+              "start": 0,
+              "username": "BuryAnita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941475358748110859",
+        "in_reply_to_user_id": "1547083956847198208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941356573605102031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BuryAnita 为啥啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547083956847198208",
+        "conversation_id": "1941356573605102031",
+        "created_at": "2025-07-05T04:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T05:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941356573605102031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941356573605102031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2147,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蹲在路边抽烟被老公捡回去爆操一晚上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 112,
+          "like_count": 4503,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1530
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T05:02:31.000Z",
+        "description": "水鬼👻｜已婚｜🍚合集@shuigui007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "shuigui007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbb.av8d002.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://bbb.av8d002.top/#/register?code=tXZYmlAn",
+                "start": 0,
+                "url": "https://t.co/Bh5zodH4Ec"
+              }
+            ]
+          }
+        },
+        "id": "1547083956847198208",
+        "name": "拿破鬼大帝👻（再不早睡就要死了版",
+        "pinned_tweet_id": "1880556368354218236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941004305365905408/Gpu_wjTV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10480,
+          "following_count": 178,
+          "like_count": 18279,
+          "listed_count": 11,
+          "media_count": 364,
+          "tweet_count": 2786
+        },
+        "url": "https://t.co/Bh5zodH4Ec",
+        "username": "BuryAnita",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1938896986440376591",
+    "created_at": "2025-06-28T16:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T17:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938992945107021991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745636689866076160",
+          "start": 0,
+          "username": "rubirubikawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938992945107021991",
+    "in_reply_to_user_id": "1745636689866076160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938960038682599556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rubirubikawa woc好，可以，支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1938896986440376591",
+        "created_at": "2025-06-28T16:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T17:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938992945107021991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745636689866076160",
+              "start": 0,
+              "username": "rubirubikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938992945107021991",
+        "in_reply_to_user_id": "1745636689866076160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938960038682599556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rubirubikawa woc好，可以，支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745636689866076160",
+        "conversation_id": "1938896986440376591",
+        "created_at": "2025-06-28T13:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938960038682599556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938960038682599556",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938908086691078458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 不是防沉迷，是开擂台"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 111,
+          "like_count": 4383,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1453
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T02:40:07.000Z",
+        "description": "♉/nf人/自娱自乐小世界\n爱和善就是真实和幸福，而且是世界上真实存在和唯一可能的幸福\n匿名信箱：https://t.co/tg9x69IPWD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rubirubi98709",
+                "end": 72,
+                "expanded_url": "https://ngl.link/rubirubi98709",
+                "start": 49,
+                "url": "https://t.co/tg9x69IPWD"
+              }
+            ]
+          }
+        },
+        "id": "1745636689866076160",
+        "location": "0.8km",
+        "name": "双马尾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911254745848639488/7jPCRk1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 182,
+          "like_count": 3637,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1116
+        },
+        "username": "rubirubikawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1905998423259521403",
+    "created_at": "2025-03-29T15:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T16:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905998423259521403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acclzd_clz/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/acclzd_clz/status/1905916877311754662",
+          "start": 9,
+          "url": "https://t.co/DAjFLZVyXn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905998423259521403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905916877311754662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "车厘子食堂开饭了 https://t.co/DAjFLZVyXn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905916862476808192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnMtSddbcAA4d8g.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1905998423259521403",
+        "created_at": "2025-03-29T15:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T16:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905998423259521403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acclzd_clz/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/acclzd_clz/status/1905916877311754662",
+              "start": 9,
+              "url": "https://t.co/DAjFLZVyXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905998423259521403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905916877311754662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "车厘子食堂开饭了 https://t.co/DAjFLZVyXn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905916862476808192"
+          ]
+        },
+        "author_id": "1590695308463288321",
+        "conversation_id": "1905916877311754662",
+        "created_at": "2025-03-29T09:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T10:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905916877311754662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "一爱"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "女性向"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4MIwqTpMi",
+              "end": 92,
+              "expanded_url": "https://x.com/acclzd_clz/status/1905916877311754662/photo/1",
+              "media_key": "3_1905916862476808192",
+              "start": 69,
+              "url": "https://t.co/C4MIwqTpMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905916877311754662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 10387,
+          "like_count": 266,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "男小三就是，就算获得了正宫的位置也依然是小三的心态\n“不喜欢别人好不好？”\n“怎么办呢，把你弄脏了”\n#一爱 #女性向 \no(^▽^)o https://t.co/C4MIwqTpMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 77,
+          "like_count": 2053,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 851
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T13:18:17.000Z",
+        "description": "无墙内账号 骂我没财运 不回定制打赏以外私信☝️关评论为 推广 ☝️请自辩 ☝️不是台本娘 不授权哈 文笔朴素单调 VPN https://t.co/wvkOROMgAd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.one/#/register?cod…",
+                "end": 85,
+                "expanded_url": "https://tw01.damoplane.one/#/register?code=Fa954Y7z",
+                "start": 62,
+                "url": "https://t.co/wvkOROMgAd"
+              }
+            ]
+          }
+        },
+        "id": "1590695308463288321",
+        "location": "流量来流量来",
+        "name": "荞麦厘子（年上制造者",
+        "pinned_tweet_id": "1905916877311754662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887405012529389570/u14SCDTG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64650,
+          "following_count": 38,
+          "like_count": 7282,
+          "listed_count": 69,
+          "media_count": 265,
+          "tweet_count": 984
+        },
+        "username": "acclzd_clz",
+        "verified": false
+      }
+    ]
+  }
+}

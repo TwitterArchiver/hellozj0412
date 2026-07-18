@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924829939972685824",
+        "3_1924829939993550848",
+        "3_1924829939968409600",
+        "3_1924829940006203392"
+      ],
+      "media_source_tweet_id": [
+        "1924829947631423986",
+        "1924829947631423986",
+        "1924829947631423986",
+        "1924829947631423986"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1925475302857482270",
+    "created_at": "2025-05-22T08:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T09:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925475302857482270"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "ALPHAZ",
+          "probability": 0.6136,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 58,
+          "normalized_text": "MAYA",
+          "probability": 0.8242,
+          "start": 55,
+          "type": "Other"
+        },
+        {
+          "end": 62,
+          "normalized_text": "XG",
+          "probability": 0.5056,
+          "start": 61,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 54,
+          "tag": "MAYA"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "XG"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1448636764722118659",
+          "start": 3,
+          "username": "XGOfficial_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NCNFT2yYPZ",
+          "end": 87,
+          "expanded_url": "https://x.com/XGOfficial_/status/1924829947631423986/photo/1",
+          "media_key": "3_1924829939972685824",
+          "start": 64,
+          "url": "https://t.co/NCNFT2yYPZ"
+        },
+        {
+          "display_url": "pic.x.com/NCNFT2yYPZ",
+          "end": 87,
+          "expanded_url": "https://x.com/XGOfficial_/status/1924829947631423986/photo/1",
+          "media_key": "3_1924829939993550848",
+          "start": 64,
+          "url": "https://t.co/NCNFT2yYPZ"
+        },
+        {
+          "display_url": "pic.x.com/NCNFT2yYPZ",
+          "end": 87,
+          "expanded_url": "https://x.com/XGOfficial_/status/1924829947631423986/photo/1",
+          "media_key": "3_1924829939968409600",
+          "start": 64,
+          "url": "https://t.co/NCNFT2yYPZ"
+        },
+        {
+          "display_url": "pic.x.com/NCNFT2yYPZ",
+          "end": 87,
+          "expanded_url": "https://x.com/XGOfficial_/status/1924829947631423986/photo/1",
+          "media_key": "3_1924829940006203392",
+          "start": 64,
+          "url": "https://t.co/NCNFT2yYPZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925475302857482270",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1080
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924829947631423986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XGOfficial_: Missing you ALPHAZ like crazy….🥺❤️🌙\n\n#MAYA #XG https://t.co/NCNFT2yYPZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924829939972685824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZeodkbwAAcbcB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1924829939993550848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZeodpaIAAnUZu.jpg",
+        "width": 1662
+      },
+      {
+        "height": 2015,
+        "media_key": "3_1924829939968409600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZeodjagAATzK1.jpg",
+        "width": 1511
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1924829940006203392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZeodsbMAAeD0c.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924829939972685824",
+            "3_1924829939993550848",
+            "3_1924829939968409600",
+            "3_1924829940006203392"
+          ],
+          "media_source_tweet_id": [
+            "1924829947631423986",
+            "1924829947631423986",
+            "1924829947631423986",
+            "1924829947631423986"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1925475302857482270",
+        "created_at": "2025-05-22T08:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T09:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925475302857482270"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "ALPHAZ",
+              "probability": 0.6136,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 58,
+              "normalized_text": "MAYA",
+              "probability": 0.8242,
+              "start": 55,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "XG",
+              "probability": 0.5056,
+              "start": 61,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "MAYA"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "XG"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1448636764722118659",
+              "start": 3,
+              "username": "XGOfficial_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCNFT2yYPZ",
+              "end": 87,
+              "expanded_url": "https://x.com/XGOfficial_/status/1924829947631423986/photo/1",
+              "media_key": "3_1924829939972685824",
+              "start": 64,
+              "url": "https://t.co/NCNFT2yYPZ"
+            },
+            {
+              "display_url": "pic.x.com/NCNFT2yYPZ",
+              "end": 87,
+              "expanded_url": "https://x.com/XGOfficial_/status/1924829947631423986/photo/1",
+              "media_key": "3_1924829939993550848",
+              "start": 64,
+              "url": "https://t.co/NCNFT2yYPZ"
+            },
+            {
+              "display_url": "pic.x.com/NCNFT2yYPZ",
+              "end": 87,
+              "expanded_url": "https://x.com/XGOfficial_/status/1924829947631423986/photo/1",
+              "media_key": "3_1924829939968409600",
+              "start": 64,
+              "url": "https://t.co/NCNFT2yYPZ"
+            },
+            {
+              "display_url": "pic.x.com/NCNFT2yYPZ",
+              "end": 87,
+              "expanded_url": "https://x.com/XGOfficial_/status/1924829947631423986/photo/1",
+              "media_key": "3_1924829940006203392",
+              "start": 64,
+              "url": "https://t.co/NCNFT2yYPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925475302857482270",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1080
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924829947631423986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XGOfficial_: Missing you ALPHAZ like crazy….🥺❤️🌙\n\n#MAYA #XG https://t.co/NCNFT2yYPZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924829939972685824",
+            "3_1924829939993550848",
+            "3_1924829939968409600",
+            "3_1924829940006203392"
+          ]
+        },
+        "author_id": "1448636764722118659",
+        "conversation_id": "1924829947631423986",
+        "created_at": "2025-05-20T14:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T15:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924829947631423986"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "ALPHAZ",
+              "probability": 0.5587,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "MAYA",
+              "probability": 0.8414,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "XG",
+              "probability": 0.5024,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "MAYA"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "XG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCNFT2yYPZ",
+              "end": 70,
+              "expanded_url": "https://x.com/XGOfficial_/status/1924829947631423986/photo/1",
+              "media_key": "3_1924829939972685824",
+              "start": 47,
+              "url": "https://t.co/NCNFT2yYPZ"
+            },
+            {
+              "display_url": "pic.x.com/NCNFT2yYPZ",
+              "end": 70,
+              "expanded_url": "https://x.com/XGOfficial_/status/1924829947631423986/photo/1",
+              "media_key": "3_1924829939993550848",
+              "start": 47,
+              "url": "https://t.co/NCNFT2yYPZ"
+            },
+            {
+              "display_url": "pic.x.com/NCNFT2yYPZ",
+              "end": 70,
+              "expanded_url": "https://x.com/XGOfficial_/status/1924829947631423986/photo/1",
+              "media_key": "3_1924829939968409600",
+              "start": 47,
+              "url": "https://t.co/NCNFT2yYPZ"
+            },
+            {
+              "display_url": "pic.x.com/NCNFT2yYPZ",
+              "end": 70,
+              "expanded_url": "https://x.com/XGOfficial_/status/1924829947631423986/photo/1",
+              "media_key": "3_1924829940006203392",
+              "start": 47,
+              "url": "https://t.co/NCNFT2yYPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924829947631423986",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 210666,
+          "like_count": 9490,
+          "quote_count": 147,
+          "reply_count": 94,
+          "retweet_count": 1080
+        },
+        "reply_settings": "everyone",
+        "text": "Missing you ALPHAZ like crazy….🥺❤️🌙\n\n#MAYA #XG https://t.co/NCNFT2yYPZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 100,
+          "like_count": 3836,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1193
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-14T13:09:43.000Z",
+        "description": "XG\nMILLION PLACES\n2025.05.14 WED\nhttps://t.co/KrjRwqItSb\n\n#XG #XGALX",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "XG"
+              },
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "XGALX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xg-millionplaces.com",
+                "end": 56,
+                "expanded_url": "https://xg-millionplaces.com/",
+                "start": 33,
+                "url": "https://t.co/KrjRwqItSb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xgalx.com",
+                "end": 23,
+                "expanded_url": "https://xgalx.com",
+                "start": 0,
+                "url": "https://t.co/cAIjiAXZbf"
+              }
+            ]
+          }
+        },
+        "id": "1448636764722118659",
+        "name": "XG OFFICIAL",
+        "pinned_tweet_id": "1922625441141084341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914876920183054337/VuCVm6Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502785,
+          "following_count": 2,
+          "like_count": 9,
+          "listed_count": 1224,
+          "media_count": 2272,
+          "tweet_count": 3500
+        },
+        "url": "https://t.co/cAIjiAXZbf",
+        "username": "XGOfficial_",
+        "verified": true
+      }
+    ]
+  }
+}

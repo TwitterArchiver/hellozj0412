@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935256521606316032"
+      ],
+      "media_source_tweet_id": [
+        "1935256528505946518"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1935355601728717134",
+    "created_at": "2025-06-18T15:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T16:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935355601728717134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "767147898266148864",
+          "start": 3,
+          "username": "Qingyi33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HHidvDwVIy",
+          "end": 40,
+          "expanded_url": "https://x.com/Qingyi33/status/1935256528505946518/photo/1",
+          "media_key": "3_1935256521606316032",
+          "start": 17,
+          "url": "https://t.co/HHidvDwVIy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935355601728717134",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 254
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935256528505946518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qingyi33: 🎧🎶 https://t.co/HHidvDwVIy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935256521606316032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttpjY-aQAA51gs.jpg",
+        "width": 1592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935256521606316032"
+          ],
+          "media_source_tweet_id": [
+            "1935256528505946518"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1935355601728717134",
+        "created_at": "2025-06-18T15:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T16:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935355601728717134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "767147898266148864",
+              "start": 3,
+              "username": "Qingyi33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHidvDwVIy",
+              "end": 40,
+              "expanded_url": "https://x.com/Qingyi33/status/1935256528505946518/photo/1",
+              "media_key": "3_1935256521606316032",
+              "start": 17,
+              "url": "https://t.co/HHidvDwVIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935355601728717134",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935256528505946518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qingyi33: 🎧🎶 https://t.co/HHidvDwVIy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935256521606316032"
+          ]
+        },
+        "author_id": "767147898266148864",
+        "conversation_id": "1935256528505946518",
+        "created_at": "2025-06-18T08:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T09:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935256528505946518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHidvDwVIy",
+              "end": 26,
+              "expanded_url": "https://x.com/Qingyi33/status/1935256528505946518/photo/1",
+              "media_key": "3_1935256521606316032",
+              "start": 3,
+              "url": "https://t.co/HHidvDwVIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935256528505946518",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 28409,
+          "like_count": 2389,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 254
+        },
+        "reply_settings": "everyone",
+        "text": "🎧🎶 https://t.co/HHidvDwVIy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 111,
+          "like_count": 4293,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1387
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-20T23:54:46.000Z",
+        "description": "仕事用Email：qqqingyi（@）https://t.co/9Gs14OW5qB、",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 43,
+                "expanded_url": "http://gmail.com",
+                "start": 20,
+                "url": "https://t.co/9Gs14OW5qB"
+              }
+            ]
+          }
+        },
+        "id": "767147898266148864",
+        "name": "清已",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1129711311917424640/rQWfeHm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117229,
+          "following_count": 746,
+          "like_count": 559,
+          "listed_count": 850,
+          "media_count": 191,
+          "tweet_count": 386
+        },
+        "username": "Qingyi33",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1903824671226970211",
+    "created_at": "2025-03-24T16:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T17:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904207719508136005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1563790430713524224",
+          "start": 0,
+          "username": "pomari_kiichigo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904207719508136005",
+    "in_reply_to_user_id": "1563790430713524224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903824671226970211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pomari_kiichigo 好狼塑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2676,
+        "media_key": "3_1903824661932376064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmu-cXEbgAABYJM.jpg",
+        "width": 2676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1903824671226970211",
+        "created_at": "2025-03-24T16:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T17:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904207719508136005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563790430713524224",
+              "start": 0,
+              "username": "pomari_kiichigo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904207719508136005",
+        "in_reply_to_user_id": "1563790430713524224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903824671226970211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pomari_kiichigo 好狼塑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903824661932376064"
+          ]
+        },
+        "author_id": "1563790430713524224",
+        "conversation_id": "1903824671226970211",
+        "created_at": "2025-03-23T15:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T16:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903824671226970211"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 46,
+              "tag": "ぽまりっ子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBi4m81FC9",
+              "end": 76,
+              "expanded_url": "https://x.com/pomari_kiichigo/status/1903824671226970211/photo/1",
+              "media_key": "3_1903824661932376064",
+              "start": 53,
+              "url": "https://t.co/PBi4m81FC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903824671226970211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2324,
+          "impression_count": 476212,
+          "like_count": 23080,
+          "quote_count": 33,
+          "reply_count": 11,
+          "retweet_count": 1123
+        },
+        "reply_settings": "everyone",
+        "text": "あと少しで完成だー！！\nかっこいい怒り顔になったと思う。\n最後まで気を抜かずにがんばる！！\n#ぽまりっ子 https://t.co/PBi4m81FC9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 76,
+          "like_count": 1877,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 763
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T07:27:56.000Z",
+        "description": "ドールをカスタムしたり眺めるのが好き🩰趣味のカスタムヘッドを〖木苺半球〗という名前でヤフオクに出品します⸝꙳.˖ #ぽまりっ子 #ぽまりアイ #木苺半球",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 57,
+                "tag": "ぽまりっ子"
+              },
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "ぽまりアイ"
+              },
+              {
+                "end": 76,
+                "start": 71,
+                "tag": "木苺半球"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pomari-kiichigo.booth.pm",
+                "end": 23,
+                "expanded_url": "https://pomari-kiichigo.booth.pm",
+                "start": 0,
+                "url": "https://t.co/ftHgCVfhyu"
+              }
+            ]
+          }
+        },
+        "id": "1563790430713524224",
+        "name": "𝘱𝘰𝘮𝘢𝘳𝘪🦙",
+        "pinned_tweet_id": "1896065160609218990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888552338404864000/k3pljtgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3763,
+          "following_count": 992,
+          "like_count": 67014,
+          "listed_count": 41,
+          "media_count": 702,
+          "tweet_count": 7550
+        },
+        "url": "https://t.co/ftHgCVfhyu",
+        "username": "pomari_kiichigo",
+        "verified": false
+      }
+    ]
+  }
+}

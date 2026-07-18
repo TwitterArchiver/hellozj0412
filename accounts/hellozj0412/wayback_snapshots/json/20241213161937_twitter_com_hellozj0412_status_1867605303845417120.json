@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1867272138580955454",
+    "created_at": "2024-12-13T16:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T17:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867605303845417120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1597302319502147584",
+          "start": 0,
+          "username": "KIco2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867605303845417120",
+    "in_reply_to_user_id": "1597302319502147584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867272138580955454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KIco2s 有一种淡淡的养胃感🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1867272138580955454",
+        "created_at": "2024-12-13T16:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T17:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867605303845417120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1597302319502147584",
+              "start": 0,
+              "username": "KIco2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867605303845417120",
+        "in_reply_to_user_id": "1597302319502147584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867272138580955454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIco2s 有一种淡淡的养胃感🚬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1867272068901089280"
+          ]
+        },
+        "author_id": "1597302319502147584",
+        "conversation_id": "1867272138580955454",
+        "created_at": "2024-12-12T18:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T19:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867272138580955454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oaZRWXem5f",
+              "end": 69,
+              "expanded_url": "https://x.com/KIco2s/status/1867272138580955454/video/1",
+              "media_key": "7_1867272068901089280",
+              "start": 46,
+              "url": "https://t.co/oaZRWXem5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867272138580955454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 738,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人家的克隆音色嘎嘎好听，我的克隆音色像个傻杯😅（但不得不说那段日语我感觉真的有点像日本人） https://t.co/oaZRWXem5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 58,
+          "like_count": 542,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 110
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T18:52:13.000Z",
+        "description": "回到原点🚪：@ikpsub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "ikpsub"
+              }
+            ]
+          }
+        },
+        "id": "1597302319502147584",
+        "name": "Kico",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597302442214928384/4ABlDLWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 4,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 157
+        },
+        "username": "KIco2s",
+        "verified": false
+      }
+    ]
+  }
+}

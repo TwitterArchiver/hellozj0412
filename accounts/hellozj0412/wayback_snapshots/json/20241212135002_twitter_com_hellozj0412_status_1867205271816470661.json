@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1866727775773855992",
+    "created_at": "2024-12-12T13:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T14:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867205271816470661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1210210728751194112",
+          "start": 0,
+          "username": "Ly60kLiUsUYMR6u"
+        },
+        {
+          "end": 25,
+          "id": "1433678976564662273",
+          "start": 17,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867205271816470661",
+    "in_reply_to_user_id": "1210210728751194112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866741773650804878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ly60kLiUsUYMR6u @hsn8086 这是真正的高情商回答🤓☝️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1866727775773855992",
+        "created_at": "2024-12-12T13:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T14:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867205271816470661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1210210728751194112",
+              "start": 0,
+              "username": "Ly60kLiUsUYMR6u"
+            },
+            {
+              "end": 25,
+              "id": "1433678976564662273",
+              "start": 17,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867205271816470661",
+        "in_reply_to_user_id": "1210210728751194112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866741773650804878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ly60kLiUsUYMR6u @hsn8086 这是真正的高情商回答🤓☝️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1210210728751194112",
+        "conversation_id": "1866727775773855992",
+        "created_at": "2024-12-11T07:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T08:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866741773650804878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866741773650804878",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4046,
+          "like_count": 217,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866727775773855992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 之前和朋友说起这话题时，因为隐私部位颜色是跟发育时激素有关，他突然来一句“真是太好了，我们以后看到他/她私处颜色深可以说'我趣你青春期发育的真好，身体性成熟得真好’ ，然后看到颜色浅可以跟对方说‘我趣你青春期激素分泌没那么多，情绪一定很稳定吧！’”当时听到给我笑喷了，谁会随便看到喂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 57,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 96
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-26T14:48:25.000Z",
+        "description": "FOURi イライラ",
+        "id": "1210210728751194112",
+        "name": "盒男娘恋爱",
+        "pinned_tweet_id": "1800175292386058608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826409309091344384/L-JQ4Ht0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 108,
+          "like_count": 7175,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 3446
+        },
+        "username": "Ly60kLiUsUYMR6u",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1864222430354657288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21590,
+          "following_count": 896,
+          "like_count": 36208,
+          "listed_count": 58,
+          "media_count": 3870,
+          "tweet_count": 8406
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

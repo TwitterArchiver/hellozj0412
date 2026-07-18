@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1919074612287291709",
+    "created_at": "2025-05-04T17:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T18:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919082188110262750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1333805496369770502",
+          "start": 0,
+          "username": "Silezaishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919082188110262750",
+    "in_reply_to_user_id": "1333805496369770502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919074612287291709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Silezaishui 有的时候选择中立就是对立"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1919074612287291709",
+        "created_at": "2025-05-04T17:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T18:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919082188110262750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1333805496369770502",
+              "start": 0,
+              "username": "Silezaishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919082188110262750",
+        "in_reply_to_user_id": "1333805496369770502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919074612287291709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Silezaishui 有的时候选择中立就是对立"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1333805496369770502",
+        "conversation_id": "1919074612287291709",
+        "created_at": "2025-05-04T17:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T18:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919074612287291709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919074612287291709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在性别刻板印象十分严重的地方，所有自诩中立的性别宣言，总有一天都会被从某个角度被证明偏向其中一个性别。除非发言人本身没有性别生活在无性别主义社会。能用文字语言表达的问题都不一定能被解决，更何况还有很多事只能在发生的那一刻被感受。你不处在只有这个性别处境你怎么敢说你懂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 90,
+          "like_count": 3237,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1040
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-01T16:09:56.000Z",
+        "description": "混沌自我主义🫰🖕",
+        "id": "1333805496369770502",
+        "location": "轻轻敲击沉睡的心灵",
+        "name": "ěihéi",
+        "pinned_tweet_id": "1672937218334420992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690003676050374657/-XiX9MDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 117,
+          "like_count": 23093,
+          "listed_count": 8,
+          "media_count": 38,
+          "tweet_count": 1894
+        },
+        "username": "Silezaishui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1933818376452997483",
+    "created_at": "2025-06-14T14:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T15:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933900007159083090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1590695308463288321",
+          "start": 0,
+          "username": "acclzd_clz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933900007159083090",
+    "in_reply_to_user_id": "1590695308463288321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933818376452997483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acclzd_clz 来了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1552,
+        "media_key": "3_1933818363610095616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtZNjk8bYAAZGrW.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1522,
+        "media_key": "3_1933818363618463744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtZNjk-bEAAYAvl.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1933818376452997483",
+        "created_at": "2025-06-14T14:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T15:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933900007159083090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1590695308463288321",
+              "start": 0,
+              "username": "acclzd_clz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933900007159083090",
+        "in_reply_to_user_id": "1590695308463288321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933818376452997483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acclzd_clz 来了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933818363610095616",
+            "3_1933818363618463744"
+          ]
+        },
+        "author_id": "1590695308463288321",
+        "conversation_id": "1933818376452997483",
+        "created_at": "2025-06-14T09:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T10:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933818376452997483"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "一爱"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "年上"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "羞辱"
+            },
+            {
+              "end": 77,
+              "start": 67,
+              "tag": "dirtytalk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mlZIX5Eed",
+              "end": 123,
+              "expanded_url": "https://x.com/acclzd_clz/status/1933818376452997483/photo/1",
+              "media_key": "3_1933818363610095616",
+              "start": 100,
+              "url": "https://t.co/5mlZIX5Eed"
+            },
+            {
+              "display_url": "pic.x.com/5mlZIX5Eed",
+              "end": 123,
+              "expanded_url": "https://x.com/acclzd_clz/status/1933818376452997483/photo/1",
+              "media_key": "3_1933818363618463744",
+              "start": 100,
+              "url": "https://t.co/5mlZIX5Eed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933818376452997483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 5667,
+          "like_count": 224,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "看着男人自慰的你下一刻却被抱在床上…\n“宝宝，小穴怎么夹的这么紧”\n“摇着屁股只知道求操的骚婊子，是谁啊？”\n#一爱 #年上 #羞辱 #dirtytalk \ndirty talk自己避雷(o^^o) https://t.co/5mlZIX5Eed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 109,
+          "like_count": 4286,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1383
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T13:18:17.000Z",
+        "description": "无墙内账号 骂我没财运☝️不回定制打赏以外私信 ☝️ 文笔朴素单调🫶关评论为推广",
+        "id": "1590695308463288321",
+        "location": "流量来流量来",
+        "name": "荞麦厘子",
+        "pinned_tweet_id": "1933818376452997483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929471308200632320/cA-Mxogx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71077,
+          "following_count": 55,
+          "like_count": 7894,
+          "listed_count": 76,
+          "media_count": 304,
+          "tweet_count": 931
+        },
+        "username": "acclzd_clz",
+        "verified": false
+      }
+    ]
+  }
+}

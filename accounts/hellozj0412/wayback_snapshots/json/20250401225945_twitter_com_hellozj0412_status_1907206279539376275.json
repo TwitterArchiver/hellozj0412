@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1832493571968287111",
+    "created_at": "2025-04-01T22:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T23:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907206279539376275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907206279539376275",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832493571968287111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki 如果是这样的话，感觉自己bpd的可能性更大了，但是我没有自残的想法…好痛而且伤疤好丑，我更倾向于不留下痕迹的惩罚，这也算吗……，经常会强制切断一些极端的感情，大概就是你说的对抗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1832493571968287111",
+        "created_at": "2025-04-01T22:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T23:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907206279539376275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907206279539376275",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832493571968287111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki 如果是这样的话，感觉自己bpd的可能性更大了，但是我没有自残的想法…好痛而且伤疤好丑，我更倾向于不留下痕迹的惩罚，这也算吗……，经常会强制切断一些极端的感情，大概就是你说的对抗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "conversation_id": "1832493571968287111",
+        "created_at": "2024-09-07T18:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T19:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832493571968287111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akiakuno/statu…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/akiakuno/status/1832139898964574607",
+              "start": 146,
+              "url": "https://t.co/dfnId9GJ9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832493571968287111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2710,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832139898964574607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主编个人经历，边缘型人格障碍更像是焦虑抑郁之后，潜意识对抗导致的。这种对抗平时主观很难察觉，但偶尔也会感知到，比如看看自己遇事的第一反应背后的动机就知道了。但焦虑和抑郁并不是那么容易解决的，对抗以后反复拉锯就成了极不稳定的边缘\n主编有BPD，但如果没有BPD就是重度抑郁了，还是宁可BPD吧 https://t.co/dfnId9GJ9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 82,
+          "like_count": 2210,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 910
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CWFxU"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1903403105963872404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3232,
+          "following_count": 497,
+          "like_count": 8767,
+          "listed_count": 6,
+          "media_count": 159,
+          "tweet_count": 2456
+        },
+        "url": "https://t.co/YS4b5CWFxU",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

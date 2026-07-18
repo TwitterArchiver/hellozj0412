@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1870134824377188668",
+    "created_at": "2024-12-20T16:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T17:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870142654941434028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688868216536506369",
+          "start": 0,
+          "username": "tianxingnance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870142654941434028",
+    "in_reply_to_user_id": "1688868216536506369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870134824377188668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianxingnance 都凌晨了还学什么..睡吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1870134824377188668",
+        "created_at": "2024-12-20T16:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T17:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870142654941434028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688868216536506369",
+              "start": 0,
+              "username": "tianxingnance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870142654941434028",
+        "in_reply_to_user_id": "1688868216536506369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870134824377188668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianxingnance 都凌晨了还学什么..睡吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688868216536506369",
+        "conversation_id": "1870134824377188668",
+        "created_at": "2024-12-20T15:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T16:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870134824377188668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870134824377188668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "果然冲完才能好好学习。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 62,
+          "like_count": 962,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 300
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T11:02:23.000Z",
+        "description": "别别别骗我好嘛/switch/礼貌待人/现役男高中生",
+        "id": "1688868216536506369",
+        "name": "潇潇修勾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786989571114250240/B42mmNQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 127,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1869
+        },
+        "username": "tianxingnance",
+        "verified": false
+      }
+    ]
+  }
+}

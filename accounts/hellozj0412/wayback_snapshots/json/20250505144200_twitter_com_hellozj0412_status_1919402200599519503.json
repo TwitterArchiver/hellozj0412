@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1919386828508897493",
+    "created_at": "2025-05-05T14:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T15:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919402200599519503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1658300549438246912",
+          "start": 0,
+          "username": "IP0_0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919402200599519503",
+    "in_reply_to_user_id": "1658300549438246912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919387745782206745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IP0_0Y 之前在咖啡店兼职的时候，店长就是老师傅型的熟练打工人，除了客流量超大的情况下，每个拉花都很认真在做，超棒的，我也蹭了好多杯哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1919386828508897493",
+        "created_at": "2025-05-05T14:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T15:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919402200599519503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1658300549438246912",
+              "start": 0,
+              "username": "IP0_0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919402200599519503",
+        "in_reply_to_user_id": "1658300549438246912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919387745782206745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IP0_0Y 之前在咖啡店兼职的时候，店长就是老师傅型的熟练打工人，除了客流量超大的情况下，每个拉花都很认真在做，超棒的，我也蹭了好多杯哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658300549438246912",
+        "conversation_id": "1919386828508897493",
+        "created_at": "2025-05-05T13:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T14:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919387745782206745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919387745782206745",
+        "in_reply_to_user_id": "1658300549438246912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919386828508897493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是觉得，那种热爱咖啡文化精雕细琢的老师傅的拉花能让人感到真诚和有仪式感，而那些年轻打工人熟练工上班式的拉花则让人觉得呃呃。不过前者不像我喝得起的样子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 92,
+          "like_count": 3268,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1061
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T02:37:29.000Z",
+        "description": "",
+        "id": "1658300549438246912",
+        "name": "0.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903857278354341888/LZGxM9UG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 66,
+          "like_count": 7033,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 4539
+        },
+        "username": "IP0_0Y",
+        "verified": false
+      }
+    ]
+  }
+}

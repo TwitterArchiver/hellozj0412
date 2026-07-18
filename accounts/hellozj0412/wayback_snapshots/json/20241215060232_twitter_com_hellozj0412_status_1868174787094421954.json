@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1867137181976019356",
+    "created_at": "2024-12-15T06:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T07:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868174787094421954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519030988034035712",
+          "start": 0,
+          "username": "list69248890"
+        },
+        {
+          "end": 21,
+          "id": "1709645568195416064",
+          "start": 14,
+          "username": "ikpsub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868174787094421954",
+    "in_reply_to_user_id": "1519030988034035712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867638330189594863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@list69248890 @ikpsub 我只是个色中饿鬼，单纯爱听小狗狗发骚🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1867137181976019356",
+        "created_at": "2024-12-15T06:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T07:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868174787094421954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519030988034035712",
+              "start": 0,
+              "username": "list69248890"
+            },
+            {
+              "end": 21,
+              "id": "1709645568195416064",
+              "start": 14,
+              "username": "ikpsub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868174787094421954",
+        "in_reply_to_user_id": "1519030988034035712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867638330189594863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@list69248890 @ikpsub 我只是个色中饿鬼，单纯爱听小狗狗发骚🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519030988034035712",
+        "conversation_id": "1867137181976019356",
+        "created_at": "2024-12-13T18:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T19:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867638330189594863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            },
+            {
+              "end": 20,
+              "id": "1709645568195416064",
+              "start": 13,
+              "username": "ikpsub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867638330189594863",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867301099214188903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 @ikpsub 我嘞个4i姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 59,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 127
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-26T19:09:53.000Z",
+        "description": "",
+        "id": "1519030988034035712",
+        "name": "Angry Men",
+        "pinned_tweet_id": "1819050754591875356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815049592121274368/_INWbLdK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 529,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 110
+        },
+        "username": "list69248890",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T19:04:20.000Z",
+        "description": "一个神秘而又可爱的小鬼 -传送门 @KIco2s（更多分享粤语及分享日常）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "KIco2s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ikpusb1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ikpusb1",
+                "start": 0,
+                "url": "https://t.co/NSD4rUOcIX"
+              }
+            ]
+          }
+        },
+        "id": "1709645568195416064",
+        "location": "Hong Kong",
+        "name": "kico",
+        "pinned_tweet_id": "1860387200837517622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844781779150123009/bVouKY51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7626,
+          "following_count": 8,
+          "like_count": 13,
+          "listed_count": 7,
+          "media_count": 104,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/NSD4rUOcIX",
+        "username": "ikpsub",
+        "verified": false
+      }
+    ]
+  }
+}

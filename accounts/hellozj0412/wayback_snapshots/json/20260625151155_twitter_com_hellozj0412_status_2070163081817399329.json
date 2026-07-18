@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2070163081817399329",
+    "created_at": "2026-06-25T15:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070163081817399329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1372047849232420865",
+          "start": 3,
+          "username": "johramga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070163081817399329",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11507
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069765273171738890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @johramga: Mi problema es que tengo 1 fuente de ingresos y 15 fuentes de gastos."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2070163081817399329",
+        "created_at": "2026-06-25T15:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070163081817399329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1372047849232420865",
+              "start": 3,
+              "username": "johramga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070163081817399329",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11507
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069765273171738890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @johramga: Mi problema es que tengo 1 fuente de ingresos y 15 fuentes de gastos."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372047849232420865",
+        "conversation_id": "2069765273171738890",
+        "created_at": "2026-06-24T12:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069765273171738890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069765273171738890",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 625,
+          "impression_count": 577448,
+          "like_count": 44284,
+          "quote_count": 215,
+          "reply_count": 57,
+          "retweet_count": 11507
+        },
+        "reply_settings": "everyone",
+        "text": "Mi problema es que tengo 1 fuente de ingresos y 15 fuentes de gastos."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 122,
+          "like_count": 5419,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1919
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T04:51:24.000Z",
+        "description": "piscis",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/johan_fr23/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/johan_fr23/",
+                "start": 0,
+                "url": "https://t.co/XmHhOe6rfx"
+              }
+            ]
+          }
+        },
+        "id": "1372047849232420865",
+        "location": "Bogotá, D.C., Colombia",
+        "name": "Johan.",
+        "pinned_tweet_id": "1823148297118232934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924850589839581184/NS9F_JWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25687,
+          "following_count": 330,
+          "like_count": 25209,
+          "listed_count": 8,
+          "media_count": 287,
+          "tweet_count": 5108
+        },
+        "url": "https://t.co/XmHhOe6rfx",
+        "username": "johramga",
+        "verified": false
+      }
+    ]
+  }
+}

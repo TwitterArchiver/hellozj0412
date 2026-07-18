@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1906600620825407806",
+    "created_at": "2025-03-31T06:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T07:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906600620825407806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cleverkiwi14/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/cleverkiwi14/status/1906565584722255899",
+          "start": 10,
+          "url": "https://t.co/rQaNsgAc9c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906600620825407806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906565584722255899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要做上面那种人才行 https://t.co/rQaNsgAc9c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_1906565572890132480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnV7SYEbAAAcTBW.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906600620825407806",
+        "created_at": "2025-03-31T06:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T07:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906600620825407806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cleverkiwi14/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/cleverkiwi14/status/1906565584722255899",
+              "start": 10,
+              "url": "https://t.co/rQaNsgAc9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906600620825407806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906565584722255899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要做上面那种人才行 https://t.co/rQaNsgAc9c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906565572890132480"
+          ]
+        },
+        "author_id": "1789136300819566592",
+        "conversation_id": "1906565584722255899",
+        "created_at": "2025-03-31T04:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T05:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906565584722255899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3ckMwJMc8",
+              "end": 23,
+              "expanded_url": "https://x.com/CleverKiwi14/status/1906565584722255899/photo/1",
+              "media_key": "3_1906565572890132480",
+              "start": 0,
+              "url": "https://t.co/j3ckMwJMc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906565584722255899",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/j3ckMwJMc8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 81,
+          "like_count": 2156,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 876
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T03:32:01.000Z",
+        "description": "只是我的心事/四爱/勿扰",
+        "id": "1789136300819566592",
+        "name": "kiwi（发财版）",
+        "pinned_tweet_id": "1879794003383918949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841040829869137930/5vsQ8Zdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3003,
+          "following_count": 120,
+          "like_count": 3724,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 1847
+        },
+        "username": "CleverKiwi14",
+        "verified": false
+      }
+    ]
+  }
+}

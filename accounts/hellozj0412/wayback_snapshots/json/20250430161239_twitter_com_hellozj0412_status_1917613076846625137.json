@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1917613076846625137",
+    "created_at": "2025-04-30T16:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T17:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917613076846625137"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1917613076846625137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "气晕了，抽三丽鸥联动非到家就算了，本想玩瑶新皮肤，第一把败方mvp，第二把还被禁了，两把全输了呜呜呜啊啊啊🥹，我就是个破钻石，咋能这么惨😇🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1917613076846625137",
+        "created_at": "2025-04-30T16:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T17:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917613076846625137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917613076846625137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气晕了，抽三丽鸥联动非到家就算了，本想玩瑶新皮肤，第一把败方mvp，第二把还被禁了，两把全输了呜呜呜啊啊啊🥹，我就是个破钻石，咋能这么惨😇🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 89,
+          "like_count": 3082,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 990
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1851291032245371047",
+    "created_at": "2024-10-29T15:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-29T16:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1851291032245371047"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1851291032245371047",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人急需用钱，现转让我的人生一份，产地在海外（上海以外），才活了二十多年八成新没有太多使用痕迹。脑子没怎么用过很光滑没有划痕和磨损。躯壳也没怎么用过，平时舍不得出门一直存在家里。原生性格会给人一种有点病娇的感觉，但是这部分微瑕，目前变成了有点病的感觉。🤓☝️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1851291032245371047",
+        "created_at": "2024-10-29T15:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T16:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851291032245371047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851291032245371047",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人急需用钱，现转让我的人生一份，产地在海外（上海以外），才活了二十多年八成新没有太多使用痕迹。脑子没怎么用过很光滑没有划痕和磨损。躯壳也没怎么用过，平时舍不得出门一直存在家里。原生性格会给人一种有点病娇的感觉，但是这部分微瑕，目前变成了有点病的感觉。🤓☝️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 45,
+          "like_count": 215,
+          "listed_count": 0,
+          "tweet_count": 26
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

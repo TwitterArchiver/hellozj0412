@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1865220522650534054",
+    "created_at": "2024-12-07T18:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T19:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865463647620714531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1281779165184831488",
+          "start": 0,
+          "username": "sir10606922"
+        },
+        {
+          "end": 21,
+          "id": "1355396203005890561",
+          "start": 13,
+          "username": "ERBOOOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865463647620714531",
+    "in_reply_to_user_id": "1281779165184831488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865316166643712299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sir10606922 @ERBOOOO 额啊啊啊就是这样啊，感觉精神世界极度匮乏，也没什么梗和眼界，总而言之就是非常无聊的人😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1865220522650534054",
+        "created_at": "2024-12-07T18:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T19:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865463647620714531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1281779165184831488",
+              "start": 0,
+              "username": "sir10606922"
+            },
+            {
+              "end": 21,
+              "id": "1355396203005890561",
+              "start": 13,
+              "username": "ERBOOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865463647620714531",
+        "in_reply_to_user_id": "1281779165184831488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865316166643712299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sir10606922 @ERBOOOO 额啊啊啊就是这样啊，感觉精神世界极度匮乏，也没什么梗和眼界，总而言之就是非常无聊的人😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1281779165184831488",
+        "conversation_id": "1865220522650534054",
+        "created_at": "2024-12-07T08:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T09:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865316166643712299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1355396203005890561",
+              "start": 0,
+              "username": "ERBOOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865316166643712299",
+        "in_reply_to_user_id": "1355396203005890561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865220522650534054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ERBOOOO 感觉有种溺水疯狂的想抓住最后一根稻草一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 59,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 70
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-11T02:35:50.000Z",
+        "description": "🇨🇳  人活着哪有不疯的\n无情的点赞机器",
+        "id": "1281779165184831488",
+        "location": "广东",
+        "name": "昏睡红茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665409395537371136/RI7wqRq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 826,
+          "like_count": 6034,
+          "listed_count": 2,
+          "media_count": 1219,
+          "tweet_count": 1918
+        },
+        "username": "sir10606922",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-30T06:03:39.000Z",
+        "description": "备战小升初 自用VPN：https://t.co/yNocEvr8yd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 35,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=Y4rddk4k",
+                "start": 12,
+                "url": "https://t.co/yNocEvr8yd"
+              }
+            ]
+          }
+        },
+        "id": "1355396203005890561",
+        "name": "仓鼠糍粑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751566180744302592/hSxbygle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4473,
+          "following_count": 208,
+          "like_count": 13221,
+          "listed_count": 19,
+          "media_count": 51,
+          "tweet_count": 2026
+        },
+        "username": "ERBOOOO",
+        "verified": false
+      }
+    ]
+  }
+}

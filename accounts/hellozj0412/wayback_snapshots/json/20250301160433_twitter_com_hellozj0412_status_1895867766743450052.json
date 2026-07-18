@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1895155601036189806",
+    "created_at": "2025-03-01T16:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T17:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895867766743450052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584061393543626752",
+          "start": 0,
+          "username": "borzoisama"
+        },
+        {
+          "end": 18,
+          "id": "1828116639134683136",
+          "start": 12,
+          "username": "S17AC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895867766743450052",
+    "in_reply_to_user_id": "1584061393543626752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895411547679408372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@borzoisama @S17AC 哈哈哈哈哈哈哈笑的我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1895155601036189806",
+        "created_at": "2025-03-01T16:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T17:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895867766743450052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584061393543626752",
+              "start": 0,
+              "username": "borzoisama"
+            },
+            {
+              "end": 18,
+              "id": "1828116639134683136",
+              "start": 12,
+              "username": "S17AC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895867766743450052",
+        "in_reply_to_user_id": "1584061393543626752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895411547679408372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@borzoisama @S17AC 哈哈哈哈哈哈哈笑的我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584061393543626752",
+        "conversation_id": "1895155601036189806",
+        "created_at": "2025-02-28T09:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T10:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895411547679408372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1828116639134683136",
+              "start": 0,
+              "username": "S17AC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895411547679408372",
+        "in_reply_to_user_id": "1828116639134683136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895155601036189806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S17AC 要是那个凸起塞不满岂不是会很尴尬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 68,
+          "like_count": 1362,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 499
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T05:57:34.000Z",
+        "description": "掐死我好吗｜垃圾桶@bor_zoii｜匿名箱 https://t.co/vkMnCkNP33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "bor_zoii"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hai_butsu",
+                "end": 46,
+                "expanded_url": "https://ngl.link/hai_butsu",
+                "start": 23,
+                "url": "https://t.co/vkMnCkNP33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=OfnVvACr",
+                "start": 0,
+                "url": "https://t.co/MmdFlgQfLH"
+              }
+            ]
+          }
+        },
+        "id": "1584061393543626752",
+        "location": "被子里",
+        "name": "狗sama",
+        "pinned_tweet_id": "1880115263246594124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888152214830796800/L3dMIwTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 145,
+          "like_count": 16548,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5869
+        },
+        "url": "https://t.co/MmdFlgQfLH",
+        "username": "borzoisama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T17:05:56.000Z",
+        "description": "⚠️不卖片不卖资源不搞电报群⚠️没有做好没有回复的准备不要私信我👊主页全是瞎扯淡 涩涩视频👉🏻@S17AAC🎬 不要对我有任何滤镜 ❌长期蹲双飞or单女 匿名https://t.co/sU2EyG6y9p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "S17AAC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/s17ac",
+                "end": 102,
+                "expanded_url": "https://ngl.link/s17ac",
+                "start": 79,
+                "url": "https://t.co/sU2EyG6y9p"
+              }
+            ]
+          }
+        },
+        "id": "1828116639134683136",
+        "location": "广东  ",
+        "name": "来听我说鬼话",
+        "pinned_tweet_id": "1835326844469748057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828152705568907267/5W6sJE-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 304,
+          "like_count": 9976,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 6433
+        },
+        "username": "S17AC",
+        "verified": false
+      }
+    ]
+  }
+}

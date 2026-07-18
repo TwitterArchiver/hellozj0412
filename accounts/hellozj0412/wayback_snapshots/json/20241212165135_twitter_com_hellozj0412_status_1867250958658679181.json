@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1867219870502576384",
+    "created_at": "2024-12-12T16:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T17:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867250958658679181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1597302319502147584",
+          "start": 0,
+          "username": "KIco2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867250958658679181",
+    "in_reply_to_user_id": "1597302319502147584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867219870502576384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KIco2s 听不懂粤语的没福了（指我本人🥲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1867219870502576384",
+        "created_at": "2024-12-12T16:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T17:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867250958658679181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1597302319502147584",
+              "start": 0,
+              "username": "KIco2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867250958658679181",
+        "in_reply_to_user_id": "1597302319502147584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867219870502576384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIco2s 听不懂粤语的没福了（指我本人🥲）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1867219519158259713"
+          ]
+        },
+        "author_id": "1597302319502147584",
+        "conversation_id": "1867219870502576384",
+        "created_at": "2024-12-12T14:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T15:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867219870502576384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/keWYIWjVPZ",
+              "end": 43,
+              "expanded_url": "https://x.com/KIco2s/status/1867219870502576384/video/1",
+              "media_key": "7_1867219519158259713",
+              "start": 20,
+              "url": "https://t.co/keWYIWjVPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867219870502576384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虚拟kico🤖（2）goodnight https://t.co/keWYIWjVPZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 57,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 98
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T18:52:13.000Z",
+        "description": "回到原点🚪：@ikpsub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "ikpsub"
+              }
+            ]
+          }
+        },
+        "id": "1597302319502147584",
+        "name": "Kico",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597302442214928384/4ABlDLWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 4,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 152
+        },
+        "username": "KIco2s",
+        "verified": false
+      }
+    ]
+  }
+}

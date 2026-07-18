@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1948757195899736116",
+    "created_at": "2025-07-25T14:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T15:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948758090431472096"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1948758090431472096",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948757195899736116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三个月新手保护期这辈子不会有第二次了，所以就好好学习然后放手做吧😙😙反正有人兜底"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1948757195899736116",
+        "created_at": "2025-07-25T14:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T15:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948758090431472096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948758090431472096",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948757195899736116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三个月新手保护期这辈子不会有第二次了，所以就好好学习然后放手做吧😙😙反正有人兜底"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "1948757195899736116",
+        "created_at": "2025-07-25T14:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T15:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948757195899736116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948757195899736116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近大脑很平静了，很多事情都暂时不去思考了，当身体劳累的时候大脑去休假，没有压榨自己，非常安稳的生活，久违的感觉到了不需要外人就能自给自足的安全感，实在是太好了，我只需要关注每日的着装，耳机里的音乐和忽晴忽雨的天气，顺便给休息日安排外出/宅家的计划"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 115,
+          "like_count": 4864,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1649
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

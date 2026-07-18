@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1895152813715660969",
+    "created_at": "2025-02-28T14:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T15:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895484007061836167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880108847953747968",
+          "start": 0,
+          "username": "bing111330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895484007061836167",
+    "in_reply_to_user_id": "1880108847953747968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895152813715660969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing111330 接，最近一整个睡眠大失控"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1895152813715660969",
+        "created_at": "2025-02-28T14:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T15:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895484007061836167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880108847953747968",
+              "start": 0,
+              "username": "bing111330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895484007061836167",
+        "in_reply_to_user_id": "1880108847953747968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895152813715660969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing111330 接，最近一整个睡眠大失控"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880108847953747968",
+        "conversation_id": "1895152813715660969",
+        "created_at": "2025-02-27T16:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T17:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895152813715660969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895152813715660969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 54601,
+          "like_count": 541,
+          "quote_count": 22,
+          "reply_count": 109,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "有没有s  要能把我调成晚上十一点就能准时睡着的那种。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 62,
+          "like_count": 1257,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 479
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:24:41.000Z",
+        "description": "碎碎念📝皮下也是个萌面侠",
+        "id": "1880108847953747968",
+        "name": "症懒宅",
+        "pinned_tweet_id": "1887813586405437845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880110463847133184/3hTAldsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 120,
+          "like_count": 2441,
+          "listed_count": 4,
+          "media_count": 136,
+          "tweet_count": 1327
+        },
+        "username": "bing111330",
+        "verified": false
+      }
+    ]
+  }
+}

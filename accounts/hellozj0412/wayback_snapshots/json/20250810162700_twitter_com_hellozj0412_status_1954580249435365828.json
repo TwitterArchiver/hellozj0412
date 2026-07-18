@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1954203287487750147",
+    "created_at": "2025-08-10T16:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T17:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954580249435365828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1490941014030561283",
+          "start": 0,
+          "username": "redaizhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954580249435365828",
+    "in_reply_to_user_id": "1490941014030561283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954203287487750147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redaizhu 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1277,
+        "media_key": "3_1954203284069298176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx65iHXaMAA16Jc.png",
+        "width": 1141
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1954203287487750147",
+        "created_at": "2025-08-10T16:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T17:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954580249435365828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1490941014030561283",
+              "start": 0,
+              "username": "redaizhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954580249435365828",
+        "in_reply_to_user_id": "1490941014030561283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954203287487750147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redaizhu 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954203284069298176"
+          ]
+        },
+        "author_id": "1490941014030561283",
+        "conversation_id": "1954203287487750147",
+        "created_at": "2025-08-09T15:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T16:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954203287487750147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmDhyWAOmD",
+              "end": 23,
+              "expanded_url": "https://x.com/redaizhu/status/1954203287487750147/photo/1",
+              "media_key": "3_1954203284069298176",
+              "start": 0,
+              "url": "https://t.co/NmDhyWAOmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954203287487750147",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 137566,
+          "like_count": 1528,
+          "quote_count": 34,
+          "reply_count": 57,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NmDhyWAOmD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 119,
+          "like_count": 5147,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1701
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T06:50:26.000Z",
+        "description": "不喜欢屏蔽就好了    祝大家天天开心啦   生活小号  @kaixinyao0987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "kaixinyao0987"
+              }
+            ]
+          }
+        },
+        "id": "1490941014030561283",
+        "name": "热带猪🌙",
+        "pinned_tweet_id": "1855990819347698041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875558956464271365/jS3Awz6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35456,
+          "following_count": 109,
+          "like_count": 32101,
+          "listed_count": 45,
+          "media_count": 1875,
+          "tweet_count": 5487
+        },
+        "username": "redaizhu",
+        "verified": false
+      }
+    ]
+  }
+}

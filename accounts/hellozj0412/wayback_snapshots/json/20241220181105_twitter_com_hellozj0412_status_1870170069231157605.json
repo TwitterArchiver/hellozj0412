@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1870170069231157605",
+    "created_at": "2024-12-20T18:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T19:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870170069231157605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alphazbarbie/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/alphazbarbie/status/1870168793768497331",
+          "start": 3,
+          "url": "https://t.co/4EULhCtqpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870170069231157605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870168793768497331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈咪 https://t.co/4EULhCtqpi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1870170069231157605",
+        "created_at": "2024-12-20T18:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T19:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870170069231157605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alphazbarbie/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/alphazbarbie/status/1870168793768497331",
+              "start": 3,
+              "url": "https://t.co/4EULhCtqpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870170069231157605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870168793768497331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈咪 https://t.co/4EULhCtqpi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870168783093907456"
+          ]
+        },
+        "author_id": "1728659711149375488",
+        "conversation_id": "1870168793768497331",
+        "created_at": "2024-12-20T18:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T19:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870168793768497331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D4bNX8oUcG",
+              "end": 42,
+              "expanded_url": "https://x.com/alphazbarbie/status/1870168793768497331/photo/1",
+              "media_key": "3_1870168783093907456",
+              "start": 19,
+              "url": "https://t.co/D4bNX8oUcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870168793768497331",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "thinking about her https://t.co/D4bNX8oUcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 62,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 304
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T06:19:35.000Z",
+        "description": "for @xgofficial_ | #barbie  ◜·˖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 19,
+                "tag": "barbie"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "xgofficial_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kawachimaya.♡̷̷ˎˊ˗",
+                "end": 23,
+                "expanded_url": "https://kawachimaya.xn--0qah2a36aa4215c/",
+                "start": 0,
+                "url": "https://t.co/TSIRtTIgyj"
+              }
+            ]
+          }
+        },
+        "id": "1728659711149375488",
+        "location": "she / her ⚢",
+        "name": "ً",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842206494973890560/VI3giVdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17421,
+          "following_count": 1290,
+          "like_count": 28670,
+          "listed_count": 59,
+          "media_count": 8580,
+          "tweet_count": 21649
+        },
+        "url": "https://t.co/TSIRtTIgyj",
+        "username": "alphazbarbie",
+        "verified": true
+      }
+    ]
+  }
+}

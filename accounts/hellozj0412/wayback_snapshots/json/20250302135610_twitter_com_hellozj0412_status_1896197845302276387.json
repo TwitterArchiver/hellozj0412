@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1896197845302276387",
+    "created_at": "2025-03-02T13:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T14:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896197845302276387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/archivexg/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/archivexg/status/1896176350781915163",
+          "start": 17,
+          "url": "https://t.co/JH9Sa7fLK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896197845302276387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896176350781915163",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hinata完全就是洋娃娃😽😽😺 https://t.co/JH9Sa7fLK1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_1896176320016420864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlCSURIWEAA8TH6.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1896197845302276387",
+        "created_at": "2025-03-02T13:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T14:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896197845302276387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/archivexg/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/archivexg/status/1896176350781915163",
+              "start": 17,
+              "url": "https://t.co/JH9Sa7fLK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896197845302276387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896176350781915163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hinata完全就是洋娃娃😽😽😺 https://t.co/JH9Sa7fLK1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896176320016420864"
+          ]
+        },
+        "author_id": "1495916308898226177",
+        "conversation_id": "1896176350781915163",
+        "created_at": "2025-03-02T12:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T13:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896176350781915163"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "XG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GhlEmAiXe1",
+              "end": 37,
+              "expanded_url": "https://x.com/ArchiveXG/status/1896176350781915163/photo/1",
+              "media_key": "3_1896176320016420864",
+              "start": 14,
+              "url": "https://t.co/GhlEmAiXe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896176350781915163",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 11926,
+          "like_count": 748,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "Hinata😮‍💨\n#XG https://t.co/GhlEmAiXe1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 69,
+          "like_count": 1387,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 512
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T00:20:29.000Z",
+        "description": "#XG and #Alphaz is Certified 🐺🐺🐺.. This page is dedicated to Harvey 🦄 Hinata 💎 Juria 🐿️ Jurin 🦋 Chisa ☀️ Cocona 🍄 Maya 🐶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "XG"
+              },
+              {
+                "end": 15,
+                "start": 8,
+                "tag": "Alphaz"
+              }
+            ]
+          }
+        },
+        "id": "1495916308898226177",
+        "name": "ArchiveXG",
+        "pinned_tweet_id": "1693098896283541978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835917689518219264/NGCXFjGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47821,
+          "following_count": 341,
+          "like_count": 21025,
+          "listed_count": 168,
+          "media_count": 4818,
+          "tweet_count": 10395
+        },
+        "username": "ArchiveXG",
+        "verified": true
+      }
+    ]
+  }
+}

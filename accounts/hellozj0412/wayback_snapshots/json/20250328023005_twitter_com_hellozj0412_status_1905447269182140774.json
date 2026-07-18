@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1905172186593394869",
+    "created_at": "2025-03-28T02:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T03:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905447269182140774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1665710956264169473",
+          "start": 0,
+          "username": "SharkyShark0"
+        },
+        {
+          "end": 21,
+          "id": "1613079089879076864",
+          "start": 14,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905447269182140774",
+    "in_reply_to_user_id": "1665710956264169473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905198574524076215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SharkyShark0 @Cldeop 立马把黑暗模式关了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1905172186593394869",
+        "created_at": "2025-03-28T02:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T03:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905447269182140774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1665710956264169473",
+              "start": 0,
+              "username": "SharkyShark0"
+            },
+            {
+              "end": 21,
+              "id": "1613079089879076864",
+              "start": 14,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905447269182140774",
+        "in_reply_to_user_id": "1665710956264169473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905198574524076215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SharkyShark0 @Cldeop 立马把黑暗模式关了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665710956264169473",
+        "conversation_id": "1905172186593394869",
+        "created_at": "2025-03-27T10:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T11:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905198574524076215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905198574524076215",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2189,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905172186593394869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 这是因为黑暗模式总体暗，瞳孔放大会加剧散光导致的视觉瑕疵。\n\n所以建议散光人群使用亮色模式，开灯用电子设备。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 76,
+          "like_count": 1979,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 817
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T13:23:40.000Z",
+        "description": "万物都能聊。我不能保证我的话绝对正确或者经得起时间考验，我只能尽力用逻辑推理，并将结果诚实相告。有反对意见欢迎一起探讨，骂人我会block。\n\n对于争议性话题，我本意仅是针对不合理本身。\n\n*关注不一定代表赞同",
+        "id": "1665710956264169473",
+        "location": "疯狂宇宙",
+        "name": "鲨鲨零",
+        "pinned_tweet_id": "1889734679126847574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665755213477842948/-s5QqqmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 200,
+          "like_count": 18416,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 1288
+        },
+        "username": "SharkyShark0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū\n推特𝕏 见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1903646878727799156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59506,
+          "following_count": 562,
+          "like_count": 27213,
+          "listed_count": 203,
+          "media_count": 8469,
+          "tweet_count": 12064
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

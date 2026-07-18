@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933938901640437761"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1933859048807706650",
+    "created_at": "2025-06-14T17:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T18:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933938965083832445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814503876181241856",
+          "start": 0,
+          "username": "0rain4fall"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xHxF4ELpJa",
+          "end": 40,
+          "expanded_url": "https://x.com/hellozj0412/status/1933938965083832445/photo/1",
+          "media_key": "3_1933938901640437761",
+          "start": 17,
+          "url": "https://t.co/xHxF4ELpJa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933938965083832445",
+    "in_reply_to_user_id": "1814503876181241856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933859048807706650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0rain4fall 看看我的 https://t.co/xHxF4ELpJa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1933938901640437761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gta7L0GWYAEpBHN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933938901640437761"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1933859048807706650",
+        "created_at": "2025-06-14T17:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T18:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933938965083832445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814503876181241856",
+              "start": 0,
+              "username": "0rain4fall"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHxF4ELpJa",
+              "end": 40,
+              "expanded_url": "https://x.com/hellozj0412/status/1933938965083832445/photo/1",
+              "media_key": "3_1933938901640437761",
+              "start": 17,
+              "url": "https://t.co/xHxF4ELpJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933938965083832445",
+        "in_reply_to_user_id": "1814503876181241856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933859048807706650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0rain4fall 看看我的 https://t.co/xHxF4ELpJa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814503876181241856",
+        "conversation_id": "1933859048807706650",
+        "created_at": "2025-06-14T12:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T13:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933859048807706650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933859048807706650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1379,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比起看看批看看屌，显然更让人有聊天欲望的是看看猫。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 109,
+          "like_count": 4287,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1384
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T03:33:50.000Z",
+        "description": "她对此感到厌烦",
+        "id": "1814503876181241856",
+        "name": "水日子",
+        "pinned_tweet_id": "1927373982841340047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915341509307830272/ixakHaiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 164,
+          "like_count": 6900,
+          "listed_count": 10,
+          "media_count": 20,
+          "tweet_count": 2180
+        },
+        "username": "0rain4fall",
+        "verified": false
+      }
+    ]
+  }
+}

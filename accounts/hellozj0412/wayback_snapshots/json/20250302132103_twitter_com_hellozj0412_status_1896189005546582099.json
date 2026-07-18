@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1895807660072857867",
+    "created_at": "2025-03-02T13:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T14:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896189005546582099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584061393543626752",
+          "start": 0,
+          "username": "borzoisama"
+        },
+        {
+          "end": 28,
+          "id": "1421851995355369477",
+          "start": 12,
+          "username": "Aichijiandanxyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896189005546582099",
+    "in_reply_to_user_id": "1584061393543626752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896142241590292911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@borzoisama @Aichijiandanxyz 这种都是香而不辣，可以一试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1895807660072857867",
+        "created_at": "2025-03-02T13:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T14:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896189005546582099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584061393543626752",
+              "start": 0,
+              "username": "borzoisama"
+            },
+            {
+              "end": 28,
+              "id": "1421851995355369477",
+              "start": 12,
+              "username": "Aichijiandanxyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896189005546582099",
+        "in_reply_to_user_id": "1584061393543626752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896142241590292911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@borzoisama @Aichijiandanxyz 这种都是香而不辣，可以一试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584061393543626752",
+        "conversation_id": "1895807660072857867",
+        "created_at": "2025-03-02T10:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T11:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896142241590292911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            },
+            {
+              "end": 29,
+              "id": "1421851995355369477",
+              "start": 13,
+              "username": "Aichijiandanxyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896142241590292911",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896137547098824880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 @Aichijiandanxyz 那完了我不吃辣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 69,
+          "like_count": 1383,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 508
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T05:57:34.000Z",
+        "description": "掐死我好吗｜垃圾桶@bor_zoii｜匿名箱 https://t.co/vkMnCkNP33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "bor_zoii"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hai_butsu",
+                "end": 46,
+                "expanded_url": "https://ngl.link/hai_butsu",
+                "start": 23,
+                "url": "https://t.co/vkMnCkNP33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=OfnVvACr",
+                "start": 0,
+                "url": "https://t.co/MmdFlgQfLH"
+              }
+            ]
+          }
+        },
+        "id": "1584061393543626752",
+        "location": "被子里",
+        "name": "狗sama",
+        "pinned_tweet_id": "1880115263246594124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888152214830796800/L3dMIwTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 135,
+          "like_count": 16558,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5881
+        },
+        "url": "https://t.co/MmdFlgQfLH",
+        "username": "borzoisama",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "贱人更是滚开！\n@eggyyybaby\nvpn⬇️\n#煎蛋不想说话就唱歌吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 26,
+                "tag": "煎蛋不想说话就唱歌吧"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=3mkaPReT",
+                "start": 0,
+                "url": "https://t.co/UzTTlXSUsc"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896044201911201792/d9GpQChS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19944,
+          "following_count": 399,
+          "like_count": 148523,
+          "listed_count": 64,
+          "media_count": 6082,
+          "tweet_count": 64359
+        },
+        "url": "https://t.co/UzTTlXSUsc",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925696101581045760"
+      ],
+      "media_source_tweet_id": [
+        "1925696105913725035"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1925897279778541887",
+    "created_at": "2025-05-23T12:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T13:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925897279778541887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1253478585840611333",
+          "start": 3,
+          "username": "Iithosphere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0DSWm9d7l0",
+          "end": 40,
+          "expanded_url": "https://x.com/Iithosphere/status/1925696105913725035/photo/1",
+          "media_key": "3_1925696101581045760",
+          "start": 17,
+          "url": "https://t.co/0DSWm9d7l0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925897279778541887",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925696105913725035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iithosphere: https://t.co/0DSWm9d7l0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 745,
+        "media_key": "3_1925696101581045760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrlyZtAXwAAoKCz.jpg",
+        "width": 583
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925696101581045760"
+          ],
+          "media_source_tweet_id": [
+            "1925696105913725035"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1925897279778541887",
+        "created_at": "2025-05-23T12:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T13:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925897279778541887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253478585840611333",
+              "start": 3,
+              "username": "Iithosphere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DSWm9d7l0",
+              "end": 40,
+              "expanded_url": "https://x.com/Iithosphere/status/1925696105913725035/photo/1",
+              "media_key": "3_1925696101581045760",
+              "start": 17,
+              "url": "https://t.co/0DSWm9d7l0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925897279778541887",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925696105913725035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iithosphere: https://t.co/0DSWm9d7l0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925696101581045760"
+          ]
+        },
+        "author_id": "1253478585840611333",
+        "conversation_id": "1925696105913725035",
+        "created_at": "2025-05-22T23:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T00:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925696105913725035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DSWm9d7l0",
+              "end": 23,
+              "expanded_url": "https://x.com/Iithosphere/status/1925696105913725035/photo/1",
+              "media_key": "3_1925696101581045760",
+              "start": 0,
+              "url": "https://t.co/0DSWm9d7l0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925696105913725035",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 14982,
+          "like_count": 927,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0DSWm9d7l0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 101,
+          "like_count": 3880,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1212
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-24T00:19:27.000Z",
+        "description": "ᴠɪꜱᴜᴀʟ ᴀʀᴄʜɪᴠᴇ",
+        "id": "1253478585840611333",
+        "location": "🇵🇸🇨🇩🇸🇩🇾🇪🏳️‍⚧️",
+        "name": "📎",
+        "pinned_tweet_id": "1914762425892790305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913260261634359296/SSl67Ejr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139457,
+          "following_count": 193,
+          "like_count": 3510,
+          "listed_count": 759,
+          "media_count": 1774,
+          "tweet_count": 7928
+        },
+        "username": "Iithosphere",
+        "verified": true
+      }
+    ]
+  }
+}

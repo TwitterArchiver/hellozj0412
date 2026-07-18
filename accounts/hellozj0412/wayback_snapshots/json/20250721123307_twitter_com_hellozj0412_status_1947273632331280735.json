@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1947273097788182949",
+    "created_at": "2025-07-21T12:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947273632331280735"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1947273632331280735",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947273097788182949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当时已经意识模糊精神涣散了，只能靠在柱子上，但仍然保持着尊老爱幼的意识，摇头拒绝了，那老奶很担心的时不时瞅我，怕我晕在车上哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1947273097788182949",
+        "created_at": "2025-07-21T12:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947273632331280735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947273632331280735",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947273097788182949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时已经意识模糊精神涣散了，只能靠在柱子上，但仍然保持着尊老爱幼的意识，摇头拒绝了，那老奶很担心的时不时瞅我，怕我晕在车上哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1947273097788182949",
+        "created_at": "2025-07-21T12:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947273097788182949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947273097788182949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想到最好笑的一件事情是高中自己去外地参加校考，一天考完背着大画板包，穿着蹭上颜料的衣服，晃晃悠悠的走上公交车反被带着小孩的老奶让座😐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 114,
+          "like_count": 4817,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1626
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900154257594019840"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1900154310878507021",
+    "created_at": "2025-03-13T11:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T12:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900154310878507021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZcOHf7w2Ae",
+          "end": 72,
+          "expanded_url": "https://x.com/hellozj0412/status/1900154310878507021/photo/1",
+          "media_key": "3_1900154257594019840",
+          "start": 49,
+          "url": "https://t.co/ZcOHf7w2Ae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900154310878507021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天上推看看各大艺术家们的新作，填饱我的精神，补充蓝条，退出后用精神力面对现实生活，好完美的安排 https://t.co/ZcOHf7w2Ae"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_1900154257594019840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl60OtZWcAATmq_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900154257594019840"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1900154310878507021",
+        "created_at": "2025-03-13T11:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T12:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900154310878507021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcOHf7w2Ae",
+              "end": 72,
+              "expanded_url": "https://x.com/hellozj0412/status/1900154310878507021/photo/1",
+              "media_key": "3_1900154257594019840",
+              "start": 49,
+              "url": "https://t.co/ZcOHf7w2Ae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900154310878507021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天上推看看各大艺术家们的新作，填饱我的精神，补充蓝条，退出后用精神力面对现实生活，好完美的安排 https://t.co/ZcOHf7w2Ae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 76,
+          "like_count": 1527,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 575
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

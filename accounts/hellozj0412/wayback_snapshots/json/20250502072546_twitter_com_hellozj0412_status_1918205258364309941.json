@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917954204368277504"
+      ],
+      "media_source_tweet_id": [
+        "1917954209044980215"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1918205258364309941",
+    "created_at": "2025-05-02T07:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T08:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918205258364309941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2957741071",
+          "start": 3,
+          "username": "mchamp_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yHYpCLMGMn",
+          "end": 36,
+          "expanded_url": "https://x.com/mchamp_/status/1917954209044980215/photo/1",
+          "media_key": "3_1917954204368277504",
+          "start": 13,
+          "url": "https://t.co/yHYpCLMGMn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918205258364309941",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 278
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917954209044980215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mchamp_: https://t.co/yHYpCLMGMn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_1917954204368277504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp3xL-bWkAAne-i.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917954204368277504"
+          ],
+          "media_source_tweet_id": [
+            "1917954209044980215"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1918205258364309941",
+        "created_at": "2025-05-02T07:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T08:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918205258364309941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2957741071",
+              "start": 3,
+              "username": "mchamp_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHYpCLMGMn",
+              "end": 36,
+              "expanded_url": "https://x.com/mchamp_/status/1917954209044980215/photo/1",
+              "media_key": "3_1917954204368277504",
+              "start": 13,
+              "url": "https://t.co/yHYpCLMGMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918205258364309941",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 278
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917954209044980215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mchamp_: https://t.co/yHYpCLMGMn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917954204368277504"
+          ]
+        },
+        "author_id": "2957741071",
+        "conversation_id": "1917954209044980215",
+        "created_at": "2025-05-01T14:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T15:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917954209044980215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHYpCLMGMn",
+              "end": 23,
+              "expanded_url": "https://x.com/mchamp_/status/1917954209044980215/photo/1",
+              "media_key": "3_1917954204368277504",
+              "start": 0,
+              "url": "https://t.co/yHYpCLMGMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917954209044980215",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 38293,
+          "like_count": 2286,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yHYpCLMGMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 91,
+          "like_count": 3157,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1010
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-03T22:13:46.000Z",
+        "description": "🌐 👨‍💻— https://t.co/sK686j5nzn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hybridclothing.cc/collections/sh…",
+                "end": 30,
+                "expanded_url": "https://hybridclothing.cc/collections/shop",
+                "start": 7,
+                "url": "https://t.co/sK686j5nzn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hybridclothing",
+                "end": 23,
+                "expanded_url": "http://instagram.com/hybridclothing",
+                "start": 0,
+                "url": "https://t.co/qOXBzH1q9D"
+              }
+            ]
+          }
+        },
+        "id": "2957741071",
+        "location": "Toronto, Ontario",
+        "name": "asdf9p78ddkghlasf3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608541722769752064/Kac93zIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31230,
+          "following_count": 251,
+          "like_count": 16826,
+          "listed_count": 128,
+          "media_count": 6946,
+          "tweet_count": 16518
+        },
+        "url": "https://t.co/qOXBzH1q9D",
+        "username": "mchamp_",
+        "verified": true
+      }
+    ]
+  }
+}

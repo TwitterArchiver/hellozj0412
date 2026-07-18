@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946151280159686656",
+        "3_1946151280096739328",
+        "3_1946151280088383488"
+      ],
+      "media_source_tweet_id": [
+        "1946151339593007494",
+        "1946151339593007494",
+        "1946151339593007494"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1946207515961606299",
+    "created_at": "2025-07-18T13:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T14:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946207515961606299"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "XG"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1495916308898226177",
+          "start": 3,
+          "username": "ArchiveXG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9XWPeSiIyi",
+          "end": 50,
+          "expanded_url": "https://x.com/ArchiveXG/status/1946151339593007494/photo/1",
+          "media_key": "3_1946151280159686656",
+          "start": 27,
+          "url": "https://t.co/9XWPeSiIyi"
+        },
+        {
+          "display_url": "pic.x.com/9XWPeSiIyi",
+          "end": 50,
+          "expanded_url": "https://x.com/ArchiveXG/status/1946151339593007494/photo/1",
+          "media_key": "3_1946151280096739328",
+          "start": 27,
+          "url": "https://t.co/9XWPeSiIyi"
+        },
+        {
+          "display_url": "pic.x.com/9XWPeSiIyi",
+          "end": 50,
+          "expanded_url": "https://x.com/ArchiveXG/status/1946151339593007494/photo/1",
+          "media_key": "3_1946151280088383488",
+          "start": 27,
+          "url": "https://t.co/9XWPeSiIyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946207515961606299",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946151339593007494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArchiveXG: Hinata💎\n#XG https://t.co/9XWPeSiIyi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_1946151280159686656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwIeRzUXAAAfZIh.jpg",
+        "width": 1836
+      },
+      {
+        "height": 2448,
+        "media_key": "3_1946151280096739328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwIeRzFWgAA0mqO.jpg",
+        "width": 1836
+      },
+      {
+        "height": 2448,
+        "media_key": "3_1946151280088383488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwIeRzDXAAASjCF.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946151280159686656",
+            "3_1946151280096739328",
+            "3_1946151280088383488"
+          ],
+          "media_source_tweet_id": [
+            "1946151339593007494",
+            "1946151339593007494",
+            "1946151339593007494"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1946207515961606299",
+        "created_at": "2025-07-18T13:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T14:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946207515961606299"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "XG"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1495916308898226177",
+              "start": 3,
+              "username": "ArchiveXG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XWPeSiIyi",
+              "end": 50,
+              "expanded_url": "https://x.com/ArchiveXG/status/1946151339593007494/photo/1",
+              "media_key": "3_1946151280159686656",
+              "start": 27,
+              "url": "https://t.co/9XWPeSiIyi"
+            },
+            {
+              "display_url": "pic.x.com/9XWPeSiIyi",
+              "end": 50,
+              "expanded_url": "https://x.com/ArchiveXG/status/1946151339593007494/photo/1",
+              "media_key": "3_1946151280096739328",
+              "start": 27,
+              "url": "https://t.co/9XWPeSiIyi"
+            },
+            {
+              "display_url": "pic.x.com/9XWPeSiIyi",
+              "end": 50,
+              "expanded_url": "https://x.com/ArchiveXG/status/1946151339593007494/photo/1",
+              "media_key": "3_1946151280088383488",
+              "start": 27,
+              "url": "https://t.co/9XWPeSiIyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946207515961606299",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946151339593007494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArchiveXG: Hinata💎\n#XG https://t.co/9XWPeSiIyi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946151280159686656",
+            "3_1946151280096739328",
+            "3_1946151280088383488"
+          ]
+        },
+        "author_id": "1495916308898226177",
+        "conversation_id": "1946151339593007494",
+        "created_at": "2025-07-18T10:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T11:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946151339593007494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "XG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XWPeSiIyi",
+              "end": 35,
+              "expanded_url": "https://x.com/ArchiveXG/status/1946151339593007494/photo/1",
+              "media_key": "3_1946151280159686656",
+              "start": 12,
+              "url": "https://t.co/9XWPeSiIyi"
+            },
+            {
+              "display_url": "pic.x.com/9XWPeSiIyi",
+              "end": 35,
+              "expanded_url": "https://x.com/ArchiveXG/status/1946151339593007494/photo/1",
+              "media_key": "3_1946151280096739328",
+              "start": 12,
+              "url": "https://t.co/9XWPeSiIyi"
+            },
+            {
+              "display_url": "pic.x.com/9XWPeSiIyi",
+              "end": 35,
+              "expanded_url": "https://x.com/ArchiveXG/status/1946151339593007494/photo/1",
+              "media_key": "3_1946151280088383488",
+              "start": 12,
+              "url": "https://t.co/9XWPeSiIyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946151339593007494",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 29079,
+          "like_count": 1344,
+          "quote_count": 23,
+          "reply_count": 1,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "Hinata💎\n#XG https://t.co/9XWPeSiIyi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 113,
+          "like_count": 4753,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1601
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T00:20:29.000Z",
+        "description": "#XG and #Alphaz is Certified 🐺🐺🐺…. Fan account dedicated to Harvey 🦄 Hinata 💎 Juria 🐿️ Jurin 🦋 Chisa ☀️ Cocona 🍄 Maya 🐶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "XG"
+              },
+              {
+                "end": 15,
+                "start": 8,
+                "tag": "Alphaz"
+              }
+            ]
+          }
+        },
+        "id": "1495916308898226177",
+        "name": "ArchiveXG",
+        "pinned_tweet_id": "1912446214529753457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835917689518219264/NGCXFjGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60097,
+          "following_count": 422,
+          "like_count": 25908,
+          "listed_count": 181,
+          "media_count": 6161,
+          "tweet_count": 13313
+        },
+        "username": "ArchiveXG",
+        "verified": true
+      }
+    ]
+  }
+}

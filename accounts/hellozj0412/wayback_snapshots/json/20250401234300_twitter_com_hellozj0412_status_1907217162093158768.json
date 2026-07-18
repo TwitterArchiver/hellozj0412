@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1907217162093158768",
+    "created_at": "2025-04-01T23:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T00:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907217162093158768"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1907217162093158768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然我有很强的自毁倾向但是一点不想自杀…倒不是活着多有意思，纯粹是没有完美的自杀方式，都是漫长的折磨与痛苦，而且自杀还会下地狱受折磨，影响下一世重开，如果可以选择，我想在被人怜爱被人缅怀的死去…开玩笑的，我还得先送走我的猫和我的家人呢，我希望她们活的久一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1907217162093158768",
+        "created_at": "2025-04-01T23:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T00:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907217162093158768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907217162093158768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我有很强的自毁倾向但是一点不想自杀…倒不是活着多有意思，纯粹是没有完美的自杀方式，都是漫长的折磨与痛苦，而且自杀还会下地狱受折磨，影响下一世重开，如果可以选择，我想在被人怜爱被人缅怀的死去…开玩笑的，我还得先送走我的猫和我的家人呢，我希望她们活的久一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 82,
+          "like_count": 2213,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 916
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

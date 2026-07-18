@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1896230640099696837",
+    "created_at": "2025-03-03T11:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T12:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896518000574153134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1545565750118690816",
+          "start": 0,
+          "username": "yaoyaoxingguang"
+        },
+        {
+          "end": 28,
+          "id": "1679564318571114496",
+          "start": 17,
+          "username": "ChiDe23872"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896518000574153134",
+    "in_reply_to_user_id": "1545565750118690816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896503963211764114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaoyaoxingguang @ChiDe23872 听懂的人泪流满面了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1896230640099696837",
+        "created_at": "2025-03-03T11:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T12:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896518000574153134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1545565750118690816",
+              "start": 0,
+              "username": "yaoyaoxingguang"
+            },
+            {
+              "end": 28,
+              "id": "1679564318571114496",
+              "start": 17,
+              "username": "ChiDe23872"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896518000574153134",
+        "in_reply_to_user_id": "1545565750118690816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896503963211764114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoyaoxingguang @ChiDe23872 听懂的人泪流满面了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545565750118690816",
+        "conversation_id": "1896230640099696837",
+        "created_at": "2025-03-03T10:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T11:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896503963211764114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1679564318571114496",
+              "start": 0,
+              "username": "ChiDe23872"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896503963211764114",
+        "in_reply_to_user_id": "1679564318571114496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896230640099696837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiDe23872 工作难找"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 69,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 515
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T00:29:32.000Z",
+        "description": "NTR仅限性癖 | 男性向剧情中文音声  🚪288/388   | 接定制音频  | ✨公开音频畅听 https://t.co/q2S3i4AEiZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yaoyao.fanbox.cc",
+                "end": 74,
+                "expanded_url": "https://yaoyao.fanbox.cc/",
+                "start": 51,
+                "url": "https://t.co/q2S3i4AEiZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/yun/core?wid=1…",
+                "end": 23,
+                "expanded_url": "https://www.hedaoapp.com/yun/core?wid=13140",
+                "start": 0,
+                "url": "https://t.co/0a5kQXvd4E"
+              }
+            ]
+          }
+        },
+        "id": "1545565750118690816",
+        "location": "贩售音频在这👇（累计购买音频满5赠1）",
+        "name": "摇摇星光",
+        "pinned_tweet_id": "1885190617569145222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629396250100658181/A8FTB9-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40261,
+          "following_count": 248,
+          "like_count": 31022,
+          "listed_count": 166,
+          "media_count": 278,
+          "tweet_count": 17920
+        },
+        "url": "https://t.co/0a5kQXvd4E",
+        "username": "yaoyaoxingguang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T18:52:31.000Z",
+        "description": "金铲铲 无畏契约 apex 王者荣耀。开启我的网瘾人生",
+        "id": "1679564318571114496",
+        "location": "主人@陶喆 ",
+        "name": "我有点头大（求考研顺利版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865392758799888384/MkYqFVdK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5235,
+          "following_count": 107,
+          "like_count": 752,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 2186
+        },
+        "username": "ChiDe23872",
+        "verified": false
+      }
+    ]
+  }
+}

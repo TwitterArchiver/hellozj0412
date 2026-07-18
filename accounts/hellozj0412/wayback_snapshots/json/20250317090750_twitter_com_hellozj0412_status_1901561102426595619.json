@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1900930792647520627",
+    "created_at": "2025-03-17T09:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T10:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901561102426595619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688259905202057216",
+          "start": 0,
+          "username": "mioanyi3321"
+        },
+        {
+          "end": 26,
+          "id": "1504413817752932354",
+          "start": 13,
+          "username": "Miemie147258"
+        },
+        {
+          "end": 39,
+          "id": "1797999894004928512",
+          "start": 27,
+          "username": "WuZong82055"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901561102426595619",
+    "in_reply_to_user_id": "1688259905202057216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901328976196538568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mioanyi3321 @Miemie147258 @WuZong82055 俺不中嘞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1900930792647520627",
+        "created_at": "2025-03-17T09:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T10:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901561102426595619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688259905202057216",
+              "start": 0,
+              "username": "mioanyi3321"
+            },
+            {
+              "end": 26,
+              "id": "1504413817752932354",
+              "start": 13,
+              "username": "Miemie147258"
+            },
+            {
+              "end": 39,
+              "id": "1797999894004928512",
+              "start": 27,
+              "username": "WuZong82055"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901561102426595619",
+        "in_reply_to_user_id": "1688259905202057216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901328976196538568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mioanyi3321 @Miemie147258 @WuZong82055 俺不中嘞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688259905202057216",
+        "conversation_id": "1900930792647520627",
+        "created_at": "2025-03-16T17:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T18:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901328976196538568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1504413817752932354",
+              "start": 0,
+              "username": "Miemie147258"
+            },
+            {
+              "end": 26,
+              "id": "1797999894004928512",
+              "start": 14,
+              "username": "WuZong82055"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901328976196538568",
+        "in_reply_to_user_id": "1504413817752932354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901174964587241856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miemie147258 @WuZong82055 然后拿出的贴贴的手机就说：这是我在转转…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 80,
+          "like_count": 1626,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 619
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T18:45:17.000Z",
+        "description": "",
+        "id": "1688259905202057216",
+        "name": "miooooo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819535057461432326/mhI92QHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 135,
+          "like_count": 3599,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 615
+        },
+        "username": "mioanyi3321",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T11:06:30.000Z",
+        "description": "不加联系方式",
+        "id": "1504413817752932354",
+        "location": "华山 论剑台",
+        "name": "咩？",
+        "pinned_tweet_id": "1862472139879989555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872106120103514112/4YBVC8jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91673,
+          "following_count": 12,
+          "like_count": 2005,
+          "listed_count": 287,
+          "media_count": 130,
+          "tweet_count": 10549
+        },
+        "username": "Miemie147258",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-04T14:32:45.000Z",
+        "description": "励志成为听得见艹不着的男喘产粮大户|目标是粉丝10w+ |ENFJ |🚪待定|私信没回不代表没看|喜欢吃完菜会关注和留言的宝贝",
+        "id": "1797999894004928512",
+        "name": "泽",
+        "pinned_tweet_id": "1896082931573264792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798385059894075393/FNiPSN0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4581,
+          "following_count": 19,
+          "like_count": 816,
+          "listed_count": 8,
+          "media_count": 25,
+          "tweet_count": 75
+        },
+        "username": "WuZong82055",
+        "verified": false
+      }
+    ]
+  }
+}

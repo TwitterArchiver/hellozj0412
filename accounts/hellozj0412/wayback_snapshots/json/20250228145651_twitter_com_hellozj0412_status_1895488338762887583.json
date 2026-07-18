@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895045399624458241"
+      ],
+      "media_source_tweet_id": [
+        "1895045411498532945"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1895488338762887583",
+    "created_at": "2025-02-28T14:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T15:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895488338762887583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1363439095532331011",
+          "start": 3,
+          "username": "Cracker68659106"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TpuZRH8Yxw",
+          "end": 79,
+          "expanded_url": "https://x.com/Cracker68659106/status/1895045411498532945/photo/1",
+          "media_key": "3_1895045399624458241",
+          "start": 56,
+          "url": "https://t.co/TpuZRH8Yxw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895488338762887583",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 237
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895045411498532945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cracker68659106: oc nsfw\nof course I forgot to warn https://t.co/TpuZRH8Yxw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1895488338762887583].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1895488338762887583",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1895488338762887583"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895045399624458241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkyNwCXaoAEjE_4.jpg",
+        "width": 1794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895045399624458241"
+          ]
+        },
+        "author_id": "1363439095532331011",
+        "conversation_id": "1895045411498532945",
+        "created_at": "2025-02-27T09:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T10:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895045411498532945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TpuZRH8Yxw",
+              "end": 58,
+              "expanded_url": "https://x.com/Cracker68659106/status/1895045411498532945/photo/1",
+              "media_key": "3_1895045399624458241",
+              "start": 35,
+              "url": "https://t.co/TpuZRH8Yxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895045411498532945",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 800,
+          "impression_count": 47845,
+          "like_count": 3592,
+          "quote_count": 9,
+          "reply_count": 12,
+          "retweet_count": 237
+        },
+        "reply_settings": "everyone",
+        "text": "oc nsfw\nof course I forgot to warn https://t.co/TpuZRH8Yxw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 64,
+          "like_count": 1281,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 484
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T10:43:24.000Z",
+        "description": "keeping trying         （nsfw st⚙️\n好心人给点retweet和赞吧，业余oc人画画不易",
+        "id": "1363439095532331011",
+        "location": "LIMBO",
+        "name": "Pipeb💣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895299284805001218/dstXNCNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65617,
+          "following_count": 250,
+          "like_count": 15772,
+          "listed_count": 218,
+          "media_count": 2126,
+          "tweet_count": 7215
+        },
+        "username": "Cracker68659106",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1900458403480429026",
+    "created_at": "2025-03-14T14:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T15:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900557472231788689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1363439095532331011",
+          "start": 0,
+          "username": "Cracker68659106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900557472231788689",
+    "in_reply_to_user_id": "1363439095532331011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900459070290813137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cracker68659106 停止过度审视自己的行为，其实很多人喜欢你，你配得感太低了，不要这样好吗😯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1900458403480429026",
+        "created_at": "2025-03-14T14:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T15:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900557472231788689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1363439095532331011",
+              "start": 0,
+              "username": "Cracker68659106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900557472231788689",
+        "in_reply_to_user_id": "1363439095532331011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900459070290813137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cracker68659106 停止过度审视自己的行为，其实很多人喜欢你，你配得感太低了，不要这样好吗😯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363439095532331011",
+        "conversation_id": "1900458403480429026",
+        "created_at": "2025-03-14T08:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T09:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900459070290813137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900459070290813137",
+        "in_reply_to_user_id": "1363439095532331011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 896,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900458403480429026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想被人誇，現實裡從來沒人誇過我，失敗的東亞人的一生看上去也不配被說一句好話"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 79,
+          "like_count": 1572,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 592
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T10:43:24.000Z",
+        "description": "人外x女人就是坠吼的, call me pipe/bomb",
+        "id": "1363439095532331011",
+        "location": "LIMBO",
+        "name": "Pipebomb",
+        "pinned_tweet_id": "1835299070195200175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900379702855954432/hCipjOIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65766,
+          "following_count": 252,
+          "like_count": 15946,
+          "listed_count": 216,
+          "media_count": 2145,
+          "tweet_count": 7316
+        },
+        "username": "Cracker68659106",
+        "verified": false
+      }
+    ]
+  }
+}

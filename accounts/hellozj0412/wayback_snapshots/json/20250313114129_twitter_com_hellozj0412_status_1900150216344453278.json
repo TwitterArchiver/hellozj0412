@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1899811745755267134",
+    "created_at": "2025-03-13T11:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T12:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900150216344453278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1363439095532331011",
+          "start": 0,
+          "username": "Cracker68659106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900150216344453278",
+    "in_reply_to_user_id": "1363439095532331011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900054759639572630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cracker68659106 这就对了，高中的时候在外地集训被孤立也是这种情况，刚开始特别好，然后慢慢就变味了..？，没惹哈，而且都快高考了，开始搞我，但是根本没影响到我啊哈哈👻👻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1899811745755267134",
+        "created_at": "2025-03-13T11:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T12:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900150216344453278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1363439095532331011",
+              "start": 0,
+              "username": "Cracker68659106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900150216344453278",
+        "in_reply_to_user_id": "1363439095532331011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900054759639572630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cracker68659106 这就对了，高中的时候在外地集训被孤立也是这种情况，刚开始特别好，然后慢慢就变味了..？，没惹哈，而且都快高考了，开始搞我，但是根本没影响到我啊哈哈👻👻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363439095532331011",
+        "conversation_id": "1899811745755267134",
+        "created_at": "2025-03-13T05:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T06:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900054759639572630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900054759639572630",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900042569477660796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 以前还好好的，无语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 76,
+          "like_count": 1525,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 569
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T10:43:24.000Z",
+        "description": "绝望是一种常态",
+        "id": "1363439095532331011",
+        "location": "LIMBO",
+        "name": "Pipeb💣",
+        "pinned_tweet_id": "1835299070195200175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900056333841543169/Firq61V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65786,
+          "following_count": 252,
+          "like_count": 15894,
+          "listed_count": 216,
+          "media_count": 2141,
+          "tweet_count": 7290
+        },
+        "username": "Cracker68659106",
+        "verified": false
+      }
+    ]
+  }
+}

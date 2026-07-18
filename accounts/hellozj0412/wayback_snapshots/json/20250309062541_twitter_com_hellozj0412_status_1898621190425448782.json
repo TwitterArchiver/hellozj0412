@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1898069533505548713",
+    "created_at": "2025-03-09T06:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T07:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898621190425448782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1210257825802272768",
+          "start": 0,
+          "username": "TulokkYU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898621190425448782",
+    "in_reply_to_user_id": "1210257825802272768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898276573087744113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TulokkYU 我用的蜜糖，没用过蜜蜡，但是挺方便，自己刮还是有小黑点，摸起来还是扎手，这个直接连根拔起，很丝滑，后续长出来也慢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1898069533505548713",
+        "created_at": "2025-03-09T06:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T07:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898621190425448782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1210257825802272768",
+              "start": 0,
+              "username": "TulokkYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898621190425448782",
+        "in_reply_to_user_id": "1210257825802272768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898276573087744113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TulokkYU 我用的蜜糖，没用过蜜蜡，但是挺方便，自己刮还是有小黑点，摸起来还是扎手，这个直接连根拔起，很丝滑，后续长出来也慢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1210257825802272768",
+        "conversation_id": "1898069533505548713",
+        "created_at": "2025-03-08T07:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T08:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898276573087744113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898276573087744113",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898069533505548713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 蜜蜡跟自己刮区别很大吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 75,
+          "like_count": 1488,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 550
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-26T17:55:34.000Z",
+        "description": "",
+        "id": "1210257825802272768",
+        "name": "我会永远监视你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886615118982905856/xA_gUZ9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 110,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "TulokkYU",
+        "verified": false
+      }
+    ]
+  }
+}

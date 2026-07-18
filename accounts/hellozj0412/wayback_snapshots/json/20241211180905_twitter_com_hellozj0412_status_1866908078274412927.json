@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1866904777923129731",
+    "created_at": "2024-12-11T18:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T19:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866908078274412927"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1866908078274412927",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866904777923129731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唇钉也摘了，刚打一年半呜呜🥹，但是面相学上破财，等春招签下卖身契了，以后收入稳定了再打回来嘻嘻嘻嘻🥴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1866904777923129731",
+        "created_at": "2024-12-11T18:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T19:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866908078274412927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866908078274412927",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866904777923129731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唇钉也摘了，刚打一年半呜呜🥹，但是面相学上破财，等春招签下卖身契了，以后收入稳定了再打回来嘻嘻嘻嘻🥴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866904744725184512"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1866904777923129731",
+        "created_at": "2024-12-11T17:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T18:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866904777923129731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfqCAJvwto",
+              "end": 82,
+              "expanded_url": "https://x.com/hellozj0412/status/1866904777923129731/photo/1",
+              "media_key": "3_1866904744725184512",
+              "start": 59,
+              "url": "https://t.co/vfqCAJvwto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866904777923129731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然好想念我的舌钉，戴了3年了，早已成为我身体的一部分，两个月前我亲自割掉了这一部分，我原本以为可以保留它直到老去… https://t.co/vfqCAJvwto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 61,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 87
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

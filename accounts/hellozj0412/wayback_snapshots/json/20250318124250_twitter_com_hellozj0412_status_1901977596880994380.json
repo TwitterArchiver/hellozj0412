@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1901907221430047056",
+    "created_at": "2025-03-18T12:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T13:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901977596880994380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749848735436427265",
+          "start": 0,
+          "username": "pipi98426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901977596880994380",
+    "in_reply_to_user_id": "1749848735436427265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901907221430047056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pipi98426 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901907206003720192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmTuhvGbgAA5Urb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1901907221430047056",
+        "created_at": "2025-03-18T12:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T13:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901977596880994380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "pipi98426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901977596880994380",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901907221430047056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pipi98426 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901907206003720192"
+          ]
+        },
+        "author_id": "1749848735436427265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1901907221430047056",
+        "created_at": "2025-03-18T08:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T09:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901907221430047056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/beE2BhnaQo",
+              "end": 30,
+              "expanded_url": "https://x.com/pipi98426/status/1901907221430047056/photo/1",
+              "media_key": "3_1901907206003720192",
+              "start": 7,
+              "url": "https://t.co/beE2BhnaQo"
+            },
+            {
+              "display_url": "x.com/pipi98426/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/pipi98426/status/1900611097927020833",
+              "start": 31,
+              "url": "https://t.co/1Qq6gtan91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901907221430047056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7619,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900611097927020833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真给我瘦了🫶 https://t.co/beE2BhnaQo https://t.co/1Qq6gtan91"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 81,
+          "like_count": 1692,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 663
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "橙子炸弹 阳光给我画的黄金电路板，正在接收全宇宙水果摊的八卦信号（随缘互关，别要互关谢谢）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzz98426",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzz98426",
+                "start": 0,
+                "url": "https://t.co/3hJeLegwse"
+              }
+            ]
+          }
+        },
+        "id": "1749848735436427265",
+        "location": "榨汁机",
+        "name": "橙子皮👾👾👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899444004653084672/YI7P-e7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 346,
+          "like_count": 83921,
+          "listed_count": 9,
+          "media_count": 218,
+          "tweet_count": 8043
+        },
+        "url": "https://t.co/3hJeLegwse",
+        "username": "pipi98426",
+        "verified": false
+      }
+    ]
+  }
+}

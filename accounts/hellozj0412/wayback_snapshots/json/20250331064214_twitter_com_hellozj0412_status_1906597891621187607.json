@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1905788610525401396",
+    "created_at": "2025-03-31T06:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T07:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906597891621187607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827320153664843777",
+          "start": 0,
+          "username": "Dage1272513"
+        },
+        {
+          "end": 29,
+          "id": "1545565750118690816",
+          "start": 13,
+          "username": "yaoyaoxingguang"
+        },
+        {
+          "end": 43,
+          "id": "1431794460547944456",
+          "start": 30,
+          "username": "kunkunkun181"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906597891621187607",
+    "in_reply_to_user_id": "1827320153664843777",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906022124546125978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dage1272513 @yaoyaoxingguang @kunkunkun181"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1905788610525401396",
+        "created_at": "2025-03-31T06:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T07:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906597891621187607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827320153664843777",
+              "start": 0,
+              "username": "Dage1272513"
+            },
+            {
+              "end": 29,
+              "id": "1545565750118690816",
+              "start": 13,
+              "username": "yaoyaoxingguang"
+            },
+            {
+              "end": 43,
+              "id": "1431794460547944456",
+              "start": 30,
+              "username": "kunkunkun181"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906597891621187607",
+        "in_reply_to_user_id": "1827320153664843777",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906022124546125978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dage1272513 @yaoyaoxingguang @kunkunkun181"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827320153664843777",
+        "conversation_id": "1905788610525401396",
+        "created_at": "2025-03-29T16:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T17:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906022124546125978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            },
+            {
+              "end": 29,
+              "id": "1545565750118690816",
+              "start": 13,
+              "username": "yaoyaoxingguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906022124546125978",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906004927001805080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 @yaoyaoxingguang 哪里看呀？我看不到她的主页呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 81,
+          "like_count": 2150,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 873
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T12:21:00.000Z",
+        "description": "",
+        "id": "1827320153664843777",
+        "name": "D age",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827320227777986560/Pk2cYvhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Dage1272513",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T00:29:32.000Z",
+        "description": "NTR仅限性癖 | 男性向剧情中文音声  🚪188/288/388  入门听福利音频、磕炮实录 私信支付宝口令  | 接定制音频  | ✨公开音频畅听 https://t.co/q2S3i4AEiZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yaoyao.fanbox.cc",
+                "end": 99,
+                "expanded_url": "https://yaoyao.fanbox.cc/",
+                "start": 76,
+                "url": "https://t.co/q2S3i4AEiZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/yun/core?wid=1…",
+                "end": 23,
+                "expanded_url": "https://www.hedaoapp.com/yun/core?wid=13140",
+                "start": 0,
+                "url": "https://t.co/0a5kQXvd4E"
+              }
+            ]
+          }
+        },
+        "id": "1545565750118690816",
+        "location": "贩售音频在这👇（累计购买音频满5赠1）",
+        "name": "摇摇星光",
+        "pinned_tweet_id": "1901185455334584370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629396250100658181/A8FTB9-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42240,
+          "following_count": 260,
+          "like_count": 32037,
+          "listed_count": 178,
+          "media_count": 275,
+          "tweet_count": 18250
+        },
+        "url": "https://t.co/0a5kQXvd4E",
+        "username": "yaoyaoxingguang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T01:43:13.000Z",
+        "description": "老公@Allen_99 无电报 关评论的都是广告 没有任何其他社交软件 更多视频https://t.co/kuqwLkDDV5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Allen_99"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/kunkunkun181",
+                "end": 63,
+                "expanded_url": "https://linktr.ee/kunkunkun181",
+                "start": 40,
+                "url": "https://t.co/kuqwLkDDV5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onlyfans.com/kunkunkun181",
+                "end": 23,
+                "expanded_url": "https://onlyfans.com/kunkunkun181",
+                "start": 0,
+                "url": "https://t.co/bU6VP6JmxU"
+              }
+            ]
+          }
+        },
+        "id": "1431794460547944456",
+        "location": "Watch more➡️",
+        "name": "困困狗",
+        "pinned_tweet_id": "1905602180553294071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546226883838496768/5kHDoMYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859312,
+          "following_count": 152,
+          "like_count": 1908,
+          "listed_count": 2151,
+          "media_count": 101,
+          "tweet_count": 3134
+        },
+        "url": "https://t.co/bU6VP6JmxU",
+        "username": "kunkunkun181",
+        "verified": true
+      }
+    ]
+  }
+}

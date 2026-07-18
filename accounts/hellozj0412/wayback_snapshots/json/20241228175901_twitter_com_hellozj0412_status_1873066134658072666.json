@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1873066134658072666",
+    "created_at": "2024-12-28T17:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T18:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873066134658072666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/siriuswmo/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/siriuswmo/status/1873006578816921742",
+          "start": 15,
+          "url": "https://t.co/YlYRFxtk4I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873066134658072666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873006578816921742",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以一个人吃一书包零食了✌️ https://t.co/YlYRFxtk4I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1873066134658072666",
+        "created_at": "2024-12-28T17:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T18:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873066134658072666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siriuswmo/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/siriuswmo/status/1873006578816921742",
+              "start": 15,
+              "url": "https://t.co/YlYRFxtk4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873066134658072666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873006578816921742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以一个人吃一书包零食了✌️ https://t.co/YlYRFxtk4I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004911053971419136",
+        "conversation_id": "1873006578816921742",
+        "created_at": "2024-12-28T14:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T15:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873006578816921742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds01/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hgds01/status/1872887621833351385",
+              "start": 5,
+              "url": "https://t.co/CNrPtB5KFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873006578816921742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1082,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872887621833351385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中式梦核 https://t.co/CNrPtB5KFW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 64,
+          "like_count": 1249,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 445
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-08T02:20:40.000Z",
+        "description": "深圳│♂🏳️‍🌈（Bi）│原 粥 铁 零│喜欢花子君│鈴木勝☪️单推人│巴巴托斯大人的狗│中文＆English＆Español＆日本語を勉強中",
+        "id": "1004911053971419136",
+        "name": "一人一口豆腐☪️",
+        "pinned_tweet_id": "1654795860272619521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845823436838576129/0An0D2fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3210,
+          "following_count": 3508,
+          "like_count": 109538,
+          "listed_count": 7,
+          "media_count": 1322,
+          "tweet_count": 19261
+        },
+        "username": "SiriusWmo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1869106505385209982",
+    "created_at": "2024-12-17T19:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T20:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869106505385209982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/checksy_/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/checksy_/status/1869000400030036242",
+          "start": 8,
+          "url": "https://t.co/yXPSfzrofG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869106505385209982",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869000400030036242",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "to you🫂 https://t.co/yXPSfzrofG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1869106505385209982",
+        "created_at": "2024-12-17T19:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T20:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869106505385209982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/checksy_/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/checksy_/status/1869000400030036242",
+              "start": 8,
+              "url": "https://t.co/yXPSfzrofG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869106505385209982",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869000400030036242",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "to you🫂 https://t.co/yXPSfzrofG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869000396389408768"
+          ]
+        },
+        "author_id": "1440341242349453318",
+        "conversation_id": "1869000400030036242",
+        "created_at": "2024-12-17T12:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T13:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869000400030036242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d1QJa8Svz1",
+              "end": 27,
+              "expanded_url": "https://x.com/checksy_/status/1869000400030036242/photo/1",
+              "media_key": "3_1869000396389408768",
+              "start": 4,
+              "url": "https://t.co/d1QJa8Svz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869000400030036242",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1745,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "hug https://t.co/d1QJa8Svz1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 69,
+          "like_count": 746,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 219
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T15:45:02.000Z",
+        "description": "Checkered Artist # \n◾UNV Certificate of Honor recipient, Simuka project | Featured Artist in the Royal Library | HUG Visionary | \nchecksyart@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/checksy",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/checksy",
+                "start": 0,
+                "url": "https://t.co/hJdKKgxPAt"
+              }
+            ]
+          }
+        },
+        "id": "1440341242349453318",
+        "location": "South Korea",
+        "name": "c h e c k s y #",
+        "pinned_tweet_id": "1843258036263219579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847987669206495232/m1UYyMGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9544,
+          "following_count": 1505,
+          "like_count": 74942,
+          "listed_count": 66,
+          "media_count": 1386,
+          "tweet_count": 75383
+        },
+        "url": "https://t.co/hJdKKgxPAt",
+        "username": "checksy_",
+        "verified": true
+      }
+    ]
+  }
+}

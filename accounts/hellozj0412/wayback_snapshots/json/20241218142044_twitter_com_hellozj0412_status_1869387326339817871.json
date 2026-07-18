@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1868958991935762708",
+    "created_at": "2024-12-18T14:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T15:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869387326339817871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1294328249116438534",
+          "start": 0,
+          "username": "HuanMoss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869387326339817871",
+    "in_reply_to_user_id": "1294328249116438534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868958991935762708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuanMoss 只允许sugar daddy做这种事情，要不然太ooc了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1868958991935762708",
+        "created_at": "2024-12-18T14:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T15:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869387326339817871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1294328249116438534",
+              "start": 0,
+              "username": "HuanMoss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869387326339817871",
+        "in_reply_to_user_id": "1294328249116438534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868958991935762708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuanMoss 只允许sugar daddy做这种事情，要不然太ooc了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868958986080514048"
+          ]
+        },
+        "author_id": "1294328249116438534",
+        "conversation_id": "1868958991935762708",
+        "created_at": "2024-12-17T09:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T10:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868958991935762708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dbm9Ch9GGt",
+              "end": 25,
+              "expanded_url": "https://x.com/HuanMoss/status/1868958991935762708/photo/1",
+              "media_key": "3_1868958986080514048",
+              "start": 2,
+              "url": "https://t.co/dbm9Ch9GGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868958991935762708",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 51696,
+          "like_count": 634,
+          "quote_count": 16,
+          "reply_count": 18,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/dbm9Ch9GGt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 73,
+          "like_count": 806,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 232
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-14T17:41:27.000Z",
+        "description": "我是最神奇（划掉）的鱼鱼！喜欢烤肉和泡温泉 出没在福建和四川，会和小动物面基吃饭什么的，互关私聊可扩列喵 欢迎大家来玩",
+        "id": "1294328249116438534",
+        "location": "你的心里",
+        "name": "烤匠在逃烤鱼",
+        "pinned_tweet_id": "1799379405946712450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863449987121893376/FSijwcNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8980,
+          "following_count": 2822,
+          "like_count": 28642,
+          "listed_count": 8,
+          "media_count": 1118,
+          "tweet_count": 7884
+        },
+        "username": "HuanMoss",
+        "verified": false
+      }
+    ]
+  }
+}

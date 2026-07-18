@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1947276749944885345",
+    "created_at": "2025-07-21T12:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947276749944885345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/erjicat_/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/erjicat_/status/1947236375054455027",
+          "start": 13,
+          "url": "https://t.co/emWY9O4mt4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947276749944885345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 47,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947236375054455027",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我家猫的真心天地可鉴🥺🥺 https://t.co/emWY9O4mt4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1947276749944885345",
+        "created_at": "2025-07-21T12:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947276749944885345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/erjicat_/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/erjicat_/status/1947236375054455027",
+              "start": 13,
+              "url": "https://t.co/emWY9O4mt4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947276749944885345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947236375054455027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我家猫的真心天地可鉴🥺🥺 https://t.co/emWY9O4mt4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1213412688790843397",
+        "conversation_id": "1947236375054455027",
+        "created_at": "2025-07-21T10:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T11:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947236375054455027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947236375054455027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这世界只有小猫跑过来躺在你旁边那一刻的真心可以抓住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 114,
+          "like_count": 4820,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1630
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-04T10:51:51.000Z",
+        "description": "此账号由我和我的猫共同运营/提问箱：https://t.co/j6FJ8q8iwO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nirvana68624",
+                "end": 41,
+                "expanded_url": "https://ngl.link/nirvana68624",
+                "start": 18,
+                "url": "https://t.co/j6FJ8q8iwO"
+              }
+            ]
+          }
+        },
+        "id": "1213412688790843397",
+        "location": "精神病院",
+        "name": "耳机猫",
+        "pinned_tweet_id": "1862137696195670378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912082967809163265/HdDimLiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4344,
+          "following_count": 194,
+          "like_count": 4367,
+          "listed_count": 7,
+          "media_count": 453,
+          "tweet_count": 7350
+        },
+        "username": "ErjiCat_",
+        "verified": false
+      }
+    ]
+  }
+}

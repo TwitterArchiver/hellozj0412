@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1912173056568541671",
+    "created_at": "2025-04-16T07:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T08:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912413039514526195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1337375872211243013",
+          "start": 0,
+          "username": "4BrdsiJ4ykeFC9a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912413039514526195",
+    "in_reply_to_user_id": "1337375872211243013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912177475024470119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4BrdsiJ4ykeFC9a 哈哈哈哈哈哈你终于回来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1912173056568541671",
+        "created_at": "2025-04-16T07:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T08:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912413039514526195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1337375872211243013",
+              "start": 0,
+              "username": "4BrdsiJ4ykeFC9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912413039514526195",
+        "in_reply_to_user_id": "1337375872211243013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912177475024470119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4BrdsiJ4ykeFC9a 哈哈哈哈哈哈你终于回来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1337375872211243013",
+        "conversation_id": "1912173056568541671",
+        "created_at": "2025-04-15T16:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T17:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912177475024470119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912177475024470119",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912173056568541671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 期待🤟🏼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 85,
+          "like_count": 2573,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 846
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-11T12:37:20.000Z",
+        "description": "",
+        "id": "1337375872211243013",
+        "name": "公主殿下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1337376000846393344/yhFWzSof_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 117,
+          "like_count": 638,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "4BrdsiJ4ykeFC9a",
+        "verified": false
+      }
+    ]
+  }
+}

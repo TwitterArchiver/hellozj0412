@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1868332277090168982",
+    "created_at": "2024-12-15T17:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T18:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868347191921926248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677923411287502848",
+          "start": 0,
+          "username": "utopia000902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868347191921926248",
+    "in_reply_to_user_id": "1677923411287502848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868332277090168982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utopia000902 看的小女子咖啡不断加加加加到厌倦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1868332277090168982",
+        "created_at": "2024-12-15T17:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T18:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868347191921926248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677923411287502848",
+              "start": 0,
+              "username": "utopia000902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868347191921926248",
+        "in_reply_to_user_id": "1677923411287502848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868332277090168982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utopia000902 看的小女子咖啡不断加加加加到厌倦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677923411287502848",
+        "conversation_id": "1868332277090168982",
+        "created_at": "2024-12-15T16:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T17:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868332277090168982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868332277090168982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3383,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你记住。只要改掉这几个口头禅，你的古风气息就会越来越浓，比如把“知道了”改成“多谢少侠提醒”，把“我不会”改成“小女子不才”，把“对不起”改成“公子勿怪”，学会了的话就赶紧用起来吧～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 60,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 145
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T06:11:41.000Z",
+        "description": "",
+        "id": "1677923411287502848",
+        "name": "Utopia",
+        "pinned_tweet_id": "1848734449451614583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844389448747810835/484NP1Q__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117074,
+          "following_count": 341,
+          "like_count": 8790,
+          "listed_count": 319,
+          "media_count": 350,
+          "tweet_count": 8314
+        },
+        "username": "utopia000902",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1904932422141235710",
+    "created_at": "2025-03-27T04:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T05:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905108519306605044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835916332447199232",
+          "start": 0,
+          "username": "C173F263Y084"
+        },
+        {
+          "end": 27,
+          "id": "1780578393739931648",
+          "start": 14,
+          "username": "veronica_kcz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905108519306605044",
+    "in_reply_to_user_id": "1835916332447199232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904977523575840923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C173F263Y084 @veronica_kcz 啊？什么拽出来？我以为是塞点新的在里面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1904932422141235710",
+        "created_at": "2025-03-27T04:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T05:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905108519306605044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835916332447199232",
+              "start": 0,
+              "username": "C173F263Y084"
+            },
+            {
+              "end": 27,
+              "id": "1780578393739931648",
+              "start": 14,
+              "username": "veronica_kcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905108519306605044",
+        "in_reply_to_user_id": "1835916332447199232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904977523575840923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C173F263Y084 @veronica_kcz 啊？什么拽出来？我以为是塞点新的在里面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835916332447199232",
+        "conversation_id": "1904932422141235710",
+        "created_at": "2025-03-26T19:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T20:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904977523575840923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1780578393739931648",
+              "start": 0,
+              "username": "veronica_kcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904977523575840923",
+        "in_reply_to_user_id": "1780578393739931648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904932422141235710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@veronica_kcz 就是把内置的一部分拽出来好像，好处是明显增长，坏处是根基不稳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 76,
+          "like_count": 1964,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 802
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T05:39:45.000Z",
+        "description": "懒狗大学生一个，喜欢拍拍照片。",
+        "id": "1835916332447199232",
+        "location": "成都市青羊区快活村 Tel:12339",
+        "name": "崔奉壹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836261422113890305/8OkSLq-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 531,
+          "like_count": 379,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 815
+        },
+        "username": "C173F263Y084",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T12:46:31.000Z",
+        "description": "这象我一抽便是一辈子",
+        "id": "1780578393739931648",
+        "location": "南极",
+        "name": "Yu riii",
+        "pinned_tweet_id": "1891047496769520125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787362738932715520/vatbSO7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19164,
+          "following_count": 401,
+          "like_count": 1426,
+          "listed_count": 21,
+          "media_count": 111,
+          "tweet_count": 9701
+        },
+        "username": "veronica_kcz",
+        "verified": false
+      }
+    ]
+  }
+}

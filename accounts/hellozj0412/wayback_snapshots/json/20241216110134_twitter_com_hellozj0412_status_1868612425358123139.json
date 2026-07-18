@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1868549932371824699",
+    "created_at": "2024-12-16T11:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T12:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868612425358123139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518187976916094976",
+          "start": 0,
+          "username": "GraniteIndigo"
+        },
+        {
+          "end": 26,
+          "id": "1415735898172362759",
+          "start": 15,
+          "username": "Blake_Tata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868612425358123139",
+    "in_reply_to_user_id": "1518187976916094976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868554596068581865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GraniteIndigo @Blake_Tata 啊是环境设计或者视觉传达设计的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1868549932371824699",
+        "created_at": "2024-12-16T11:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T12:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868612425358123139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518187976916094976",
+              "start": 0,
+              "username": "GraniteIndigo"
+            },
+            {
+              "end": 26,
+              "id": "1415735898172362759",
+              "start": 15,
+              "username": "Blake_Tata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868612425358123139",
+        "in_reply_to_user_id": "1518187976916094976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868554596068581865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GraniteIndigo @Blake_Tata 啊是环境设计或者视觉传达设计的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518187976916094976",
+        "conversation_id": "1868549932371824699",
+        "created_at": "2024-12-16T07:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T08:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868554596068581865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1415735898172362759",
+              "start": 0,
+              "username": "Blake_Tata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868554596068581865",
+        "in_reply_to_user_id": "1415735898172362759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868554000297349333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blake_Tata 是一直在学但一直学不明白的东西🙁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 61,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 164
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T11:20:10.000Z",
+        "description": "‹ location › Toronto ‹ / location › ‹ role › 😈主 ‹ /role › ‹ stats › 185/160 ‹ /stats › ‹ 圈龄 › 8 ‹ /圈龄 › ‹ ! - - 和有趣的人做不乏味的事🤘 - -› ‹ ! - - 偶尔搞点圈内app🧑‍💻 - -›",
+        "id": "1518187976916094976",
+        "location": "Toronto, Ontario",
+        "name": "Granite.",
+        "pinned_tweet_id": "1868549932371824699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765984158101237760/HutqLBbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4722,
+          "following_count": 180,
+          "like_count": 412,
+          "listed_count": 4,
+          "media_count": 10,
+          "tweet_count": 181
+        },
+        "username": "GraniteIndigo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-15T18:12:04.000Z",
+        "description": "小圈厨子👩🏻‍🍳写女性向SP居多 偶尔也写其他涩涩丨随机掉落簧文 纪实 画画等等丨个人xp产出 注意看tag别误食丨原创 请勿抄袭或搬运丨大家的点赞评论和留言是我的创作动力🫶🏻",
+        "id": "1415735898172362759",
+        "location": "上海",
+        "name": "Tata",
+        "pinned_tweet_id": "1866450728048624015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812195518849720320/9nIHKS1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11748,
+          "following_count": 284,
+          "like_count": 326,
+          "listed_count": 14,
+          "media_count": 38,
+          "tweet_count": 221
+        },
+        "username": "Blake_Tata",
+        "verified": false
+      }
+    ]
+  }
+}

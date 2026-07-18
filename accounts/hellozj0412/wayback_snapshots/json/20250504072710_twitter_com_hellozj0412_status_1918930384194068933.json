@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1918485456586428894",
+    "created_at": "2025-05-04T07:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T08:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918930384194068933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745636689866076160",
+          "start": 0,
+          "username": "rubirubikawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918930384194068933",
+    "in_reply_to_user_id": "1745636689866076160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918930250752524672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rubirubikawa 快结束了😇完全是剩一口气吊着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1918485456586428894",
+        "created_at": "2025-05-04T07:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T08:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918930384194068933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745636689866076160",
+              "start": 0,
+              "username": "rubirubikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918930384194068933",
+        "in_reply_to_user_id": "1745636689866076160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918930250752524672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rubirubikawa 快结束了😇完全是剩一口气吊着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745636689866076160",
+        "conversation_id": "1918485456586428894",
+        "created_at": "2025-05-04T07:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T08:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918930250752524672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918930250752524672",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918930087283392896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 啊啊啊宝宝，还在写论文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 90,
+          "like_count": 3217,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1025
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T02:40:07.000Z",
+        "description": "♉/🍵/bi/？nf？/健人\n爱和善就是真实和幸福，而且是世界上真实存在和唯一可能的幸福\nNGL：https://t.co/tg9x69IPWD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rubirubi98709",
+                "end": 72,
+                "expanded_url": "https://ngl.link/rubirubi98709",
+                "start": 49,
+                "url": "https://t.co/tg9x69IPWD"
+              }
+            ]
+          }
+        },
+        "id": "1745636689866076160",
+        "location": "0.8km",
+        "name": "双马尾",
+        "pinned_tweet_id": "1916284672117772323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911254745848639488/7jPCRk1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 173,
+          "like_count": 2870,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 956
+        },
+        "username": "rubirubikawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2068634355275297241",
+    "created_at": "2026-06-21T09:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068634355275297241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917047326990094336",
+          "start": 3,
+          "username": "0TwT012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068634355275297241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068415797404540941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0TwT012: 话说不出来，因为关系还没有形成足够的“承载力”。\n更底层的话往往带着羞耻、恐惧、依赖、嫉妒、被抛弃感、自我怀疑，甚至是一些自己都不愿意承认的需求。\n人在没有安全感的时候，会先说比较浅的话，比如“你态度不好”“你不尊重我”“你根本不在乎我”但真正想说的可…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2068634355275297241",
+        "created_at": "2026-06-21T09:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068634355275297241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917047326990094336",
+              "start": 3,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068634355275297241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068415797404540941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0TwT012: 话说不出来，因为关系还没有形成足够的“承载力”。\n更底层的话往往带着羞耻、恐惧、依赖、嫉妒、被抛弃感、自我怀疑，甚至是一些自己都不愿意承认的需求。\n人在没有安全感的时候，会先说比较浅的话，比如“你态度不好”“你不尊重我”“你根本不在乎我”但真正想说的可…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2068415797404540941",
+        "created_at": "2026-06-20T19:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068415797404540941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068415797404540941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1581,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "话说不出来，因为关系还没有形成足够的“承载力”。\n更底层的话往往带着羞耻、恐惧、依赖、嫉妒、被抛弃感、自我怀疑，甚至是一些自己都不愿意承认的需求。\n人在没有安全感的时候，会先说比较浅的话，比如“你态度不好”“你不尊重我”“你根本不在乎我”但真正想说的可能是：“我很怕我对你不重要。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 121,
+          "like_count": 5319,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1886
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3487,
+          "following_count": 208,
+          "like_count": 1232,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

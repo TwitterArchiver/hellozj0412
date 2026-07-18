@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1906687052524954083",
+    "created_at": "2025-03-31T12:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T13:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906687997082247361"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906687997082247361",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906687052524954083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "朋友还约我清明节出门玩，陪他散散心，4号或者5号前我必须写完啊啊啊啊啊，不管了，开熬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906687052524954083",
+        "created_at": "2025-03-31T12:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T13:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906687997082247361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906687997082247361",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906687052524954083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "朋友还约我清明节出门玩，陪他散散心，4号或者5号前我必须写完啊啊啊啊啊，不管了，开熬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906687052524954083",
+        "created_at": "2025-03-31T12:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T13:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906687052524954083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906687052524954083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没得说，刚导师通知7号开组会看论文，群里人都炸了哈哈，又是一场面对面批斗大会👏这一周有我坏果子吃喽😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 81,
+          "like_count": 2158,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 881
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1931227122569212344",
+    "created_at": "2025-06-07T12:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T13:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931326986489561535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1908705927915823104",
+          "start": 0,
+          "username": "Elara8091368399"
+        },
+        {
+          "end": 33,
+          "id": "1545565750118690816",
+          "start": 17,
+          "username": "yaoyaoxingguang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931326986489561535",
+    "in_reply_to_user_id": "1908705927915823104",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931264321923043474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elara8091368399 @yaoyaoxingguang 👂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1931227122569212344",
+        "created_at": "2025-06-07T12:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T13:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931326986489561535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1908705927915823104",
+              "start": 0,
+              "username": "Elara8091368399"
+            },
+            {
+              "end": 33,
+              "id": "1545565750118690816",
+              "start": 17,
+              "username": "yaoyaoxingguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931326986489561535",
+        "in_reply_to_user_id": "1908705927915823104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931264321923043474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elara8091368399 @yaoyaoxingguang 👂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908705927915823104",
+        "conversation_id": "1931227122569212344",
+        "created_at": "2025-06-07T08:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T09:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931264321923043474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1545565750118690816",
+              "start": 0,
+              "username": "yaoyaoxingguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931264321923043474",
+        "in_reply_to_user_id": "1545565750118690816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931227122569212344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoyaoxingguang 有一个男喘的粗口我觉得还不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 107,
+          "like_count": 4202,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1329
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T02:19:07.000Z",
+        "description": "kitten",
+        "id": "1908705927915823104",
+        "name": "Elara",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911778447271038976/Z08XJqV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 35,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "username": "Elara8091368399",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T00:29:32.000Z",
+        "description": "NTR仅限性癖 | 男性向剧情中文音声  🚪188/288/388  入门免费听福利音频（包括kp实录） 私信支付宝口令+姓氏  | 接定制音频   | ✨公开音频畅听 https://t.co/q2S3i4AEiZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yaoyao.fanbox.cc",
+                "end": 108,
+                "expanded_url": "https://yaoyao.fanbox.cc/",
+                "start": 85,
+                "url": "https://t.co/q2S3i4AEiZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/yun/core?wid=1…",
+                "end": 23,
+                "expanded_url": "https://www.hedaoapp.com/yun/core?wid=13140",
+                "start": 0,
+                "url": "https://t.co/0a5kQXvd4E"
+              }
+            ]
+          }
+        },
+        "id": "1545565750118690816",
+        "location": "贩售音频在这👇（累计购买音频满5赠1）",
+        "name": "摇摇星光",
+        "pinned_tweet_id": "1928458845594005855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629396250100658181/A8FTB9-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47559,
+          "following_count": 301,
+          "like_count": 35729,
+          "listed_count": 195,
+          "media_count": 281,
+          "tweet_count": 20154
+        },
+        "url": "https://t.co/0a5kQXvd4E",
+        "username": "yaoyaoxingguang",
+        "verified": false
+      }
+    ]
+  }
+}

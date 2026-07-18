@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906769021669912576",
+        "3_1906769060525912064"
+      ],
+      "media_source_tweet_id": [
+        "1906769189114933651",
+        "1906769189114933651"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1906920402355671047",
+    "created_at": "2025-04-01T04:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T05:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906920402355671047"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "JURIN",
+          "probability": 0.7965,
+          "start": 24,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1627725632397541376",
+          "start": 3,
+          "username": "JV_4_JurinAmy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E3Lc78aAUb",
+          "end": 83,
+          "expanded_url": "https://x.com/JV_4_JurinAmy/status/1906769189114933651/photo/1",
+          "media_key": "3_1906769021669912576",
+          "start": 60,
+          "url": "https://t.co/E3Lc78aAUb"
+        },
+        {
+          "display_url": "pic.x.com/E3Lc78aAUb",
+          "end": 83,
+          "expanded_url": "https://x.com/JV_4_JurinAmy/status/1906769189114933651/photo/1",
+          "media_key": "3_1906769060525912064",
+          "start": 60,
+          "url": "https://t.co/E3Lc78aAUb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906920402355671047",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906769189114933651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JV_4_JurinAmy: THIS JURIN!!!! ❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥🫂 https://t.co/E3Lc78aAUb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_1906769021669912576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnY0Up1asAARz_L.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1620,
+        "media_key": "3_1906769060525912064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnY0W6laMAAbjD5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906769021669912576",
+            "3_1906769060525912064"
+          ],
+          "media_source_tweet_id": [
+            "1906769189114933651",
+            "1906769189114933651"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1906920402355671047",
+        "created_at": "2025-04-01T04:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906920402355671047"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "JURIN",
+              "probability": 0.7965,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1627725632397541376",
+              "start": 3,
+              "username": "JV_4_JurinAmy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E3Lc78aAUb",
+              "end": 83,
+              "expanded_url": "https://x.com/JV_4_JurinAmy/status/1906769189114933651/photo/1",
+              "media_key": "3_1906769021669912576",
+              "start": 60,
+              "url": "https://t.co/E3Lc78aAUb"
+            },
+            {
+              "display_url": "pic.x.com/E3Lc78aAUb",
+              "end": 83,
+              "expanded_url": "https://x.com/JV_4_JurinAmy/status/1906769189114933651/photo/1",
+              "media_key": "3_1906769060525912064",
+              "start": 60,
+              "url": "https://t.co/E3Lc78aAUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906920402355671047",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906769189114933651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JV_4_JurinAmy: THIS JURIN!!!! ❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥🫂 https://t.co/E3Lc78aAUb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906769021669912576",
+            "3_1906769060525912064"
+          ]
+        },
+        "author_id": "1627725632397541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1906769189114933651",
+        "created_at": "2025-03-31T18:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T19:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906769189114933651"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "JURIN",
+              "probability": 0.693,
+              "start": 5,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E3Lc78aAUb",
+              "end": 64,
+              "expanded_url": "https://x.com/JV_4_JurinAmy/status/1906769189114933651/photo/1",
+              "media_key": "3_1906769021669912576",
+              "start": 41,
+              "url": "https://t.co/E3Lc78aAUb"
+            },
+            {
+              "display_url": "pic.x.com/E3Lc78aAUb",
+              "end": 64,
+              "expanded_url": "https://x.com/JV_4_JurinAmy/status/1906769189114933651/photo/1",
+              "media_key": "3_1906769060525912064",
+              "start": 41,
+              "url": "https://t.co/E3Lc78aAUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906769189114933651",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 476,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "THIS JURIN!!!! ❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥🫂 https://t.co/E3Lc78aAUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 82,
+          "like_count": 2175,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 890
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-20T17:43:56.000Z",
+        "description": "JV from galaxy far far away💫🌌🪐\nXG #Harvey 瑛美 #Jurin internet mom🔥🔥🔥 \n#JURVEY 🦋🦄  | #JUARY 🦋🦄",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "Harvey"
+              },
+              {
+                "end": 51,
+                "start": 45,
+                "tag": "Jurin"
+              },
+              {
+                "end": 76,
+                "start": 69,
+                "tag": "JURVEY"
+              },
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "JUARY"
+              }
+            ]
+          }
+        },
+        "id": "1627725632397541376",
+        "location": "galaxy of ET & butterfly🌈",
+        "name": "🦋JV🦄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847017997598445573/5JJoUJia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 83,
+          "like_count": 7244,
+          "listed_count": 7,
+          "media_count": 2227,
+          "tweet_count": 7201
+        },
+        "username": "JV_4_JurinAmy",
+        "verified": false
+      }
+    ]
+  }
+}

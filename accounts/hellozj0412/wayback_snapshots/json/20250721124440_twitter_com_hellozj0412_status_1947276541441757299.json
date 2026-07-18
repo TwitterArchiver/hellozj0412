@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1947150055086977037",
+    "created_at": "2025-07-21T12:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947276541441757299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646859840600539137",
+          "start": 0,
+          "username": "zishubudingshao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947276541441757299",
+    "in_reply_to_user_id": "1646859840600539137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947150055086977037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zishubudingshao 我的鼓包了，然后拿去免费换新电池了，我电池都到维修了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1947150027190603777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwWqoh8WkAEfg0e.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1947150055086977037",
+        "created_at": "2025-07-21T12:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947276541441757299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646859840600539137",
+              "start": 0,
+              "username": "zishubudingshao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947276541441757299",
+        "in_reply_to_user_id": "1646859840600539137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947150055086977037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zishubudingshao 我的鼓包了，然后拿去免费换新电池了，我电池都到维修了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947150027190603777"
+          ]
+        },
+        "author_id": "1646859840600539137",
+        "conversation_id": "1947150055086977037",
+        "created_at": "2025-07-21T04:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T05:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947150055086977037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qT0nYsakr",
+              "end": 53,
+              "expanded_url": "https://x.com/zishubudingshao/status/1947150055086977037/photo/1",
+              "media_key": "3_1947150027190603777",
+              "start": 30,
+              "url": "https://t.co/5qT0nYsakr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947150055086977037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 757,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要不你鼓包吧！说是13可以免费换电池！掉电太快了🥹太快了！ https://t.co/5qT0nYsakr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 114,
+          "like_count": 4820,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1629
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T12:56:14.000Z",
+        "description": "是猫是狗都可以｜日常推｜困 睡觉💤特困生｜不kp不卖图不线下｜赛博日记本｜不要骚扰我好吗｜废物卡牌｜我也是会骂人的",
+        "id": "1646859840600539137",
+        "location": "陪我再睡会儿叭",
+        "name": "晕了𓏸𓂂𓈒",
+        "pinned_tweet_id": "1801193411568959683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903298415758557184/NhCuTGk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 98,
+          "like_count": 12948,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 7948
+        },
+        "username": "zishubudingshao",
+        "verified": false
+      }
+    ]
+  }
+}

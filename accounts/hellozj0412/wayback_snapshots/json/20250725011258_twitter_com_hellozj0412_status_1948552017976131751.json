@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1948247577184424031",
+    "created_at": "2025-07-25T01:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T02:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948552017976131751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "990091698742034438",
+          "start": 0,
+          "username": "gas_bong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948552017976131751",
+    "in_reply_to_user_id": "990091698742034438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948247577184424031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gas_bong 怎么还搞这个了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 923,
+        "media_key": "3_1948247547518304256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwmQ0nxawAACqv2.jpg",
+        "width": 937
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1948247577184424031",
+        "created_at": "2025-07-25T01:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T02:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948552017976131751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "990091698742034438",
+              "start": 0,
+              "username": "gas_bong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948552017976131751",
+        "in_reply_to_user_id": "990091698742034438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948247577184424031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gas_bong 怎么还搞这个了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948247547518304256"
+          ]
+        },
+        "author_id": "990091698742034438",
+        "conversation_id": "1948247577184424031",
+        "created_at": "2025-07-24T05:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T06:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948247577184424031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eUpF4Xt0gO",
+              "end": 83,
+              "expanded_url": "https://x.com/gas_bong/status/1948247577184424031/photo/1",
+              "media_key": "3_1948247547518304256",
+              "start": 60,
+              "url": "https://t.co/eUpF4Xt0gO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948247577184424031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 730,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天检查工业用户调压箱\n没一个是正常的\n检查了六家企业\n六家的调压箱都漏气\n在现场吸了不少天然气\n我需要点根🚬冷静一下 https://t.co/eUpF4Xt0gO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 115,
+          "like_count": 4860,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1643
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-28T04:53:50.000Z",
+        "description": "燃气工程师（失去引爆资格版）｜设计院（跑路版）｜设计（乱七八糟版）｜话唠博主（发疯版）｜摄影（摸索版）｜旅游（P变J版）｜学习（在润版）",
+        "id": "990091698742034438",
+        "location": "苏州/成都—Tokyo",
+        "name": "煤气罐 （咻———！！！版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934636409518002177/gJ4h3F5F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4567,
+          "following_count": 1552,
+          "like_count": 22374,
+          "listed_count": 9,
+          "media_count": 185,
+          "tweet_count": 1155
+        },
+        "username": "gas_bong",
+        "verified": false
+      }
+    ]
+  }
+}

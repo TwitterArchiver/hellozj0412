@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1906592003300729173",
+    "created_at": "2025-03-31T06:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T07:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906592003300729173"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906592003300729173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "offer来offer来offer来\n内推面试了半小时，希望大吗，主管还挺能跟我唠的，就是问的问题越来越专业后面答的有点一般😿\n这份工作也算是跨专业了，小小转行了，只能说会用到一些专业知识，对未知的事物还是有些焦虑和害怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906592003300729173",
+        "created_at": "2025-03-31T06:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T07:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906592003300729173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906592003300729173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "offer来offer来offer来\n内推面试了半小时，希望大吗，主管还挺能跟我唠的，就是问的问题越来越专业后面答的有点一般😿\n这份工作也算是跨专业了，小小转行了，只能说会用到一些专业知识，对未知的事物还是有些焦虑和害怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 81,
+          "like_count": 2149,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 871
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943938100104691712"
+      ],
+      "media_source_tweet_id": [
+        "1943938106593620102"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1944053938208354686",
+    "created_at": "2025-07-12T15:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T16:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944053938208354686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "767147898266148864",
+          "start": 3,
+          "username": "Qingyi33"
+        },
+        {
+          "end": 63,
+          "id": "567045559",
+          "start": 51,
+          "username": "dian__liang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XaFFJf6IM7",
+          "end": 87,
+          "expanded_url": "https://x.com/Qingyi33/status/1943938106593620102/photo/1",
+          "media_key": "3_1943938100104691712",
+          "start": 64,
+          "url": "https://t.co/XaFFJf6IM7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944053938208354686",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943938106593620102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qingyi33: I created this artwork together with @dian__liang https://t.co/XaFFJf6IM7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943938100104691712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvpBZxIWgAAg04c.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943938100104691712"
+          ],
+          "media_source_tweet_id": [
+            "1943938106593620102"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1944053938208354686",
+        "created_at": "2025-07-12T15:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T16:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944053938208354686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "767147898266148864",
+              "start": 3,
+              "username": "Qingyi33"
+            },
+            {
+              "end": 63,
+              "id": "567045559",
+              "start": 51,
+              "username": "dian__liang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XaFFJf6IM7",
+              "end": 87,
+              "expanded_url": "https://x.com/Qingyi33/status/1943938106593620102/photo/1",
+              "media_key": "3_1943938100104691712",
+              "start": 64,
+              "url": "https://t.co/XaFFJf6IM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944053938208354686",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943938106593620102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qingyi33: I created this artwork together with @dian__liang https://t.co/XaFFJf6IM7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943938100104691712"
+          ]
+        },
+        "author_id": "767147898266148864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943938106593620102",
+        "created_at": "2025-07-12T07:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T08:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943938106593620102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "567045559",
+              "start": 37,
+              "username": "dian__liang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XaFFJf6IM7",
+              "end": 73,
+              "expanded_url": "https://x.com/Qingyi33/status/1943938106593620102/photo/1",
+              "media_key": "3_1943938100104691712",
+              "start": 50,
+              "url": "https://t.co/XaFFJf6IM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943938106593620102",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 11940,
+          "like_count": 753,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "I created this artwork together with @dian__liang https://t.co/XaFFJf6IM7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 112,
+          "like_count": 4611,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1565
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-20T23:54:46.000Z",
+        "description": "仕事用Email：qqqingyi（@）https://t.co/9Gs14OW5qB、",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 43,
+                "expanded_url": "http://gmail.com",
+                "start": 20,
+                "url": "https://t.co/9Gs14OW5qB"
+              }
+            ]
+          }
+        },
+        "id": "767147898266148864",
+        "name": "清已",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1129711311917424640/rQWfeHm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119843,
+          "following_count": 759,
+          "like_count": 564,
+          "listed_count": 868,
+          "media_count": 194,
+          "tweet_count": 389
+        },
+        "username": "Qingyi33",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-30T08:25:33.000Z",
+        "description": "⚪️",
+        "id": "567045559",
+        "location": "Shanghai",
+        "name": "梁电",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943947103174373380/2zRMmn-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 20,
+          "like_count": 39,
+          "listed_count": 8,
+          "media_count": 52,
+          "tweet_count": 58
+        },
+        "username": "dian__liang",
+        "verified": false
+      }
+    ]
+  }
+}

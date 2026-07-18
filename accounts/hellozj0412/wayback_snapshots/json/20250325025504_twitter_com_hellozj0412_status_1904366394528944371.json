@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904075224154603520"
+      ],
+      "media_source_tweet_id": [
+        "1904075269352116303"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1904366394528944371",
+    "created_at": "2025-03-25T02:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T03:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904366394528944371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1176946791415087104",
+          "start": 3,
+          "username": "EchanisEnicha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9L67i8pKpp",
+          "end": 42,
+          "expanded_url": "https://x.com/EchanisEnicha/status/1904075269352116303/photo/1",
+          "media_key": "3_1904075224154603520",
+          "start": 19,
+          "url": "https://t.co/9L67i8pKpp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904366394528944371",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 737
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904075269352116303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EchanisEnicha: https://t.co/9L67i8pKpp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3500,
+        "media_key": "3_1904075224154603520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmyiVAFbgAAd3U_.jpg",
+        "width": 1965
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904075224154603520"
+          ],
+          "media_source_tweet_id": [
+            "1904075269352116303"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1904366394528944371",
+        "created_at": "2025-03-25T02:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T03:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904366394528944371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1176946791415087104",
+              "start": 3,
+              "username": "EchanisEnicha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9L67i8pKpp",
+              "end": 42,
+              "expanded_url": "https://x.com/EchanisEnicha/status/1904075269352116303/photo/1",
+              "media_key": "3_1904075224154603520",
+              "start": 19,
+              "url": "https://t.co/9L67i8pKpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904366394528944371",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 737
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904075269352116303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EchanisEnicha: https://t.co/9L67i8pKpp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904075224154603520"
+          ]
+        },
+        "author_id": "1176946791415087104",
+        "conversation_id": "1904075269352116303",
+        "created_at": "2025-03-24T07:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T08:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904075269352116303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9L67i8pKpp",
+              "end": 23,
+              "expanded_url": "https://x.com/EchanisEnicha/status/1904075269352116303/photo/1",
+              "media_key": "3_1904075224154603520",
+              "start": 0,
+              "url": "https://t.co/9L67i8pKpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904075269352116303",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1176,
+          "impression_count": 85453,
+          "like_count": 8856,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 737
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9L67i8pKpp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 76,
+          "like_count": 1891,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 768
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-25T19:49:25.000Z",
+        "description": "Design：｢@zentreya｣｢#アニマサーキット｣\nOriginal：｢HORiZONDOLLS｣｢BEASTECH｣｢ThermoALTER｣｢TETRABiND｣\nShop：https://t.co/WJl3WgeaG4\nFANBOX：https://t.co/NrX4yDbKGh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 19,
+                "tag": "アニマサーキット"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "zentreya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "echanisshop.booth.pm",
+                "end": 116,
+                "expanded_url": "http://echanisshop.booth.pm",
+                "start": 93,
+                "url": "https://t.co/WJl3WgeaG4"
+              },
+              {
+                "display_url": "echanisenicha.fanbox.cc",
+                "end": 147,
+                "expanded_url": "https://echanisenicha.fanbox.cc/",
+                "start": 124,
+                "url": "https://t.co/NrX4yDbKGh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/EchanisEnicha",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/EchanisEnicha",
+                "start": 0,
+                "url": "https://t.co/9dibeuVsYX"
+              }
+            ]
+          }
+        },
+        "id": "1176946791415087104",
+        "location": "無断転載　AI学習禁止",
+        "name": "エカニス・エニカ🅾️",
+        "pinned_tweet_id": "1873714699629744552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1190505429727694850/fFN9gzeg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191189,
+          "following_count": 346,
+          "like_count": 321,
+          "listed_count": 1439,
+          "media_count": 559,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/9dibeuVsYX",
+        "username": "EchanisEnicha",
+        "verified": true
+      }
+    ]
+  }
+}

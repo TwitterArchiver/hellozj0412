@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1931993172969734477",
+    "created_at": "2025-06-09T08:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T09:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931993172969734477"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931993172969734477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果能有健身的意志和习惯就好了，我早就能变成我喜欢的身材了，我特别讨厌去男人多的健身房，我真挺喜欢全女健身房的….但是好远哦，我懒懒的.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1931993172969734477",
+        "created_at": "2025-06-09T08:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T09:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931993172969734477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931993172969734477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果能有健身的意志和习惯就好了，我早就能变成我喜欢的身材了，我特别讨厌去男人多的健身房，我真挺喜欢全女健身房的….但是好远哦，我懒懒的.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 109,
+          "like_count": 4240,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1358
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

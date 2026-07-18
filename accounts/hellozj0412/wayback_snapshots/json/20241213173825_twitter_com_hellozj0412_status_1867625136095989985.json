@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1867104804545376752",
+    "created_at": "2024-12-13T17:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T18:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867625136095989985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1849385218198691840",
+          "start": 0,
+          "username": "yvlinling"
+        },
+        {
+          "end": 23,
+          "id": "1468856075764264960",
+          "start": 11,
+          "username": "nnn22764673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867625136095989985",
+    "in_reply_to_user_id": "1849385218198691840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867137367251022027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvlinling @nnn22764673 这我太会了，不要骂很脏，阴阳怪气➕抽象的怼回去就好了，快哉快哉啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1867104804545376752",
+        "created_at": "2024-12-13T17:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T18:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867625136095989985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1849385218198691840",
+              "start": 0,
+              "username": "yvlinling"
+            },
+            {
+              "end": 23,
+              "id": "1468856075764264960",
+              "start": 11,
+              "username": "nnn22764673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867625136095989985",
+        "in_reply_to_user_id": "1849385218198691840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867137367251022027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvlinling @nnn22764673 这我太会了，不要骂很脏，阴阳怪气➕抽象的怼回去就好了，快哉快哉啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849385218198691840",
+        "conversation_id": "1867104804545376752",
+        "created_at": "2024-12-12T09:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T10:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867137367251022027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468856075764264960",
+              "start": 0,
+              "username": "nnn22764673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867137367251022027",
+        "in_reply_to_user_id": "1468856075764264960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867104804545376752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnn22764673 一点也不可爱一点也不可爱每次骂完人冷静后就会觉得。。自己咋这么没素质🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 119
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T09:39:50.000Z",
+        "description": "普男 小号防私信上限@linlingyu323 碎碎念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "linlingyu323"
+              }
+            ]
+          }
+        },
+        "id": "1849385218198691840",
+        "name": "雨霖铃",
+        "pinned_tweet_id": "1855167563585495050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158403526881280/hI2F4VI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 220,
+          "like_count": 18983,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 5510
+        },
+        "username": "yvlinling",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-09T08:12:41.000Z",
+        "description": "两边都不讨好的SWITCH🫰",
+        "id": "1468856075764264960",
+        "location": "云朵上",
+        "name": "thewaterfromthespringwhereyouswam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834273927914295296/CtyxkO6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 83,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 86
+        },
+        "username": "nnn22764673",
+        "verified": false
+      }
+    ]
+  }
+}

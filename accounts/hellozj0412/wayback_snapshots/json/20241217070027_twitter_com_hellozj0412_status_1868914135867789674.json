@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1868616392670634018",
+    "created_at": "2024-12-17T07:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T08:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868914135867789674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1548557587284885504",
+          "start": 0,
+          "username": "xbknix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868914135867789674",
+    "in_reply_to_user_id": "1548557587284885504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868616392670634018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xbknix ⁺✞ʚ铁锅炖重度依赖ɞ ✟₊🥘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1868616392670634018",
+        "created_at": "2024-12-17T07:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T08:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868914135867789674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548557587284885504",
+              "start": 0,
+              "username": "xbknix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868914135867789674",
+        "in_reply_to_user_id": "1548557587284885504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868616392670634018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xbknix ⁺✞ʚ铁锅炖重度依赖ɞ ✟₊🥘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868616137250078720",
+            "3_1868616137241710592",
+            "3_1868616137241747456"
+          ]
+        },
+        "author_id": "1548557587284885504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1868616392670634018",
+        "created_at": "2024-12-16T11:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T12:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868616392670634018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6i4nvaqYeh",
+              "end": 33,
+              "expanded_url": "https://x.com/xbknix/status/1868616392670634018/photo/1",
+              "media_key": "3_1868616137250078720",
+              "start": 10,
+              "url": "https://t.co/6i4nvaqYeh"
+            },
+            {
+              "display_url": "pic.x.com/6i4nvaqYeh",
+              "end": 33,
+              "expanded_url": "https://x.com/xbknix/status/1868616392670634018/photo/1",
+              "media_key": "3_1868616137241710592",
+              "start": 10,
+              "url": "https://t.co/6i4nvaqYeh"
+            },
+            {
+              "display_url": "pic.x.com/6i4nvaqYeh",
+              "end": 33,
+              "expanded_url": "https://x.com/xbknix/status/1868616392670634018/photo/1",
+              "media_key": "3_1868616137241747456",
+              "start": 10,
+              "url": "https://t.co/6i4nvaqYeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868616392670634018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4992,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不下雪但要吃铁锅炖 https://t.co/6i4nvaqYeh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 63,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 186
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T06:38:04.000Z",
+        "description": "💾  . . . 🔇",
+        "id": "1548557587284885504",
+        "name": "xxxxx·",
+        "pinned_tweet_id": "1824758105865101779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737145838202490880/0AtI4K7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 34,
+          "like_count": 4683,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 846
+        },
+        "username": "xbknix",
+        "verified": false
+      }
+    ]
+  }
+}

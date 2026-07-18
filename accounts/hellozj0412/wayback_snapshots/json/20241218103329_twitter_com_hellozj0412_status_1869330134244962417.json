@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1869330134244962417",
+    "created_at": "2024-12-18T10:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T11:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869330134244962417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zoom_ret/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/zoom_ret/status/1868991595162616139",
+          "start": 4,
+          "url": "https://t.co/0CgocwBOuN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869330134244962417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868991595162616139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是饭！ https://t.co/0CgocwBOuN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1869330134244962417",
+        "created_at": "2024-12-18T10:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T11:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869330134244962417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zoom_ret/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/zoom_ret/status/1868991595162616139",
+              "start": 4,
+              "url": "https://t.co/0CgocwBOuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869330134244962417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868991595162616139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是饭！ https://t.co/0CgocwBOuN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868991267327369216",
+            "3_1868991280753393670"
+          ]
+        },
+        "author_id": "1809623382335582209",
+        "conversation_id": "1868991595162616139",
+        "created_at": "2024-12-17T12:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T13:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868991595162616139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7G2V2psQqG",
+              "end": 27,
+              "expanded_url": "https://x.com/zoom_ret/status/1868991595162616139/photo/1",
+              "media_key": "3_1868991267327369216",
+              "start": 4,
+              "url": "https://t.co/7G2V2psQqG"
+            },
+            {
+              "display_url": "pic.x.com/7G2V2psQqG",
+              "end": 27,
+              "expanded_url": "https://x.com/zoom_ret/status/1868991595162616139/photo/1",
+              "media_key": "3_1868991280753393670",
+              "start": 4,
+              "url": "https://t.co/7G2V2psQqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868991595162616139",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3592,
+          "impression_count": 322909,
+          "like_count": 24962,
+          "quote_count": 127,
+          "reply_count": 2,
+          "retweet_count": 1995
+        },
+        "reply_settings": "following",
+        "text": "햝짝~ https://t.co/7G2V2psQqG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 72,
+          "like_count": 795,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 227
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T16:20:18.000Z",
+        "description": "좋아하는거 빤히 쳐다봄......\nI hope you don't use my painting without permission\n\n(헤더 : @zoom_ret / @wolf6481💕+인장: @Tamatan97💕)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "zoom_ret"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "wolf6481"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Tamatan97"
+              }
+            ]
+          }
+        },
+        "id": "1809623382335582209",
+        "name": "빤히",
+        "pinned_tweet_id": "1864150817156288590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866485519133319168/8FIgTVxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3938,
+          "following_count": 38,
+          "like_count": 2468,
+          "listed_count": 11,
+          "media_count": 96,
+          "tweet_count": 3644
+        },
+        "username": "zoom_ret",
+        "verified": false
+      }
+    ]
+  }
+}

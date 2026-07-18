@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1914703756916302130",
+    "created_at": "2025-04-22T18:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T19:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914743761512620377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745636689866076160",
+          "start": 0,
+          "username": "rubirubikawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914743761512620377",
+    "in_reply_to_user_id": "1745636689866076160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914703756916302130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rubirubikawa 哎没法说，反正我不喜欢这种，可能是我对感兴趣的人都会很热情，对面抓不住的话，我很快会撤回情感投入…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1914703756916302130",
+        "created_at": "2025-04-22T18:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T19:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914743761512620377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745636689866076160",
+              "start": 0,
+              "username": "rubirubikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914743761512620377",
+        "in_reply_to_user_id": "1745636689866076160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914703756916302130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rubirubikawa 哎没法说，反正我不喜欢这种，可能是我对感兴趣的人都会很热情，对面抓不住的话，我很快会撤回情感投入…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745636689866076160",
+        "conversation_id": "1914703756916302130",
+        "created_at": "2025-04-22T15:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T16:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914703756916302130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rubirubikawa/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/rubirubikawa/status/1914520395333370275",
+              "start": 41,
+              "url": "https://t.co/FrdOimi0un"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914703756916302130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914520395333370275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他会主动找我说话，但之后好像都是我一个人在说，他只接我的话但是不主动分享。好怪啊 https://t.co/FrdOimi0un"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 87,
+          "like_count": 2831,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 930
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T02:40:07.000Z",
+        "description": "♉/🍵/bi/？nf？/健人\n\n爱和善就是真实和幸福，而且是世界上真实存在和唯一可能的幸福",
+        "id": "1745636689866076160",
+        "location": "0.8km",
+        "name": "双马尾",
+        "pinned_tweet_id": "1913269210652004667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911254745848639488/7jPCRk1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 159,
+          "like_count": 2328,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 705
+        },
+        "username": "rubirubikawa",
+        "verified": false
+      }
+    ]
+  }
+}

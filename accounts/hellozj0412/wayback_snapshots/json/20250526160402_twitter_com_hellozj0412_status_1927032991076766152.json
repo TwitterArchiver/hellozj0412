@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1927032813196361935",
+    "created_at": "2025-05-26T16:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T17:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927032991076766152"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927032991076766152",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927032813196361935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在闻到硫磺味就要带上厚重的防毒面具，不幸运的一点是我的面具漏的比较严重，在近距离观赏蓝火的时候，多次被硫磺熏到流泪并且呼吸困难，很难想象这些硫磺工人每日没有任何防护措施上下山搬运硫磺，是怎样的感受。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1927032798793056257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4yHuKWQAEm2to.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927032798793129984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4yHuKXYAAUZgU.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1927032798772178944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4yHuFXsAAG09C.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1927032798772117505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4yHuFWwAEAQh4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1927032813196361935",
+        "created_at": "2025-05-26T16:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T17:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927032991076766152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927032991076766152",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927032813196361935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在闻到硫磺味就要带上厚重的防毒面具，不幸运的一点是我的面具漏的比较严重，在近距离观赏蓝火的时候，多次被硫磺熏到流泪并且呼吸困难，很难想象这些硫磺工人每日没有任何防护措施上下山搬运硫磺，是怎样的感受。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927032798793056257",
+            "3_1927032798793129984",
+            "3_1927032798772178944",
+            "3_1927032798772117505"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          }
+        ],
+        "conversation_id": "1927032813196361935",
+        "created_at": "2025-05-26T16:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T17:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927032813196361935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZquHDibidV",
+              "end": 97,
+              "expanded_url": "https://x.com/hellozj0412/status/1927032813196361935/photo/1",
+              "media_key": "3_1927032798793056257",
+              "start": 74,
+              "url": "https://t.co/ZquHDibidV"
+            },
+            {
+              "display_url": "pic.x.com/ZquHDibidV",
+              "end": 97,
+              "expanded_url": "https://x.com/hellozj0412/status/1927032813196361935/photo/1",
+              "media_key": "3_1927032798793129984",
+              "start": 74,
+              "url": "https://t.co/ZquHDibidV"
+            },
+            {
+              "display_url": "pic.x.com/ZquHDibidV",
+              "end": 97,
+              "expanded_url": "https://x.com/hellozj0412/status/1927032813196361935/photo/1",
+              "media_key": "3_1927032798772178944",
+              "start": 74,
+              "url": "https://t.co/ZquHDibidV"
+            },
+            {
+              "display_url": "pic.x.com/ZquHDibidV",
+              "end": 97,
+              "expanded_url": "https://x.com/hellozj0412/status/1927032813196361935/photo/1",
+              "media_key": "3_1927032798772117505",
+              "start": 74,
+              "url": "https://t.co/ZquHDibidV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927032813196361935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迷人的事物总是危险，每段难忘的经历让我的回忆也闪闪发光。\n\nljen火山是行程中最后一座火山，虽然在之前做了很多准备但耗费体力精力仍然超出了预期。 https://t.co/ZquHDibidV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 102,
+          "like_count": 3932,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1232
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

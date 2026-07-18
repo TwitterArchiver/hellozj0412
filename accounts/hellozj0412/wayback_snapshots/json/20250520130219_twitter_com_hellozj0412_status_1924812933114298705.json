@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924812921579978752"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1924812933114298705",
+    "created_at": "2025-05-20T13:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T14:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924812933114298705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SjEWqt6SoR",
+          "end": 37,
+          "expanded_url": "https://x.com/hellozj0412/status/1924812933114298705/photo/1",
+          "media_key": "3_1924812921579978752",
+          "start": 14,
+          "url": "https://t.co/SjEWqt6SoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924812933114298705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抱歉了，我就这样但我不改😀 https://t.co/SjEWqt6SoR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1487,
+        "media_key": "3_1924812921579978752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZPJ3HbQAAqm2B.jpg",
+        "width": 824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924812921579978752"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1924812933114298705",
+        "created_at": "2025-05-20T13:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T14:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924812933114298705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SjEWqt6SoR",
+              "end": 37,
+              "expanded_url": "https://x.com/hellozj0412/status/1924812933114298705/photo/1",
+              "media_key": "3_1924812921579978752",
+              "start": 14,
+              "url": "https://t.co/SjEWqt6SoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924812933114298705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉了，我就这样但我不改😀 https://t.co/SjEWqt6SoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 100,
+          "like_count": 3789,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1177
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

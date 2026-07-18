@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1938237504513085675",
+    "created_at": "2025-07-03T12:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T13:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940756682545811920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1455538511394877458",
+          "start": 0,
+          "username": "Akihi43097470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940756682545811920",
+    "in_reply_to_user_id": "1455538511394877458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940497706109358174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akihi43097470 omg，现在这个时间不好找了，而且最好问问有没有同学或者学长学姐给你内推，比自己投简历快且好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1938237504513085675",
+        "created_at": "2025-07-03T12:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T13:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940756682545811920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455538511394877458",
+              "start": 0,
+              "username": "Akihi43097470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940756682545811920",
+        "in_reply_to_user_id": "1455538511394877458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940497706109358174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akihi43097470 omg，现在这个时间不好找了，而且最好问问有没有同学或者学长学姐给你内推，比自己投简历快且好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455538511394877458",
+        "conversation_id": "1938237504513085675",
+        "created_at": "2025-07-02T19:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T20:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940497706109358174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940497706109358174",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940398864470773959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 24届本 感觉什么行业都投了 要碎了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 111,
+          "like_count": 4461,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1505
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-02T14:13:27.000Z",
+        "description": "There is no need",
+        "id": "1455538511394877458",
+        "location": "隔壁小区",
+        "name": "DonotfinDMe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801196511520530433/XvZjSITO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 261,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Akihi43097470",
+        "verified": false
+      }
+    ]
+  }
+}

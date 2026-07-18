@@ -1,0 +1,598 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A film like Rogue One: A Star Wars Story",
+          "id": "86",
+          "name": "Movie"
+        },
+        "entity": {
+          "description": "Barbie is scheduled to be released in the United States on July 21, 2023.",
+          "id": "1527279290131238912",
+          "name": "Barbie (2023)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "id": "1283051822597279744",
+          "name": "Rom-com films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comedy",
+          "id": "856976685916237824",
+          "name": "Comedy films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sci-fi and fantasy",
+          "id": "856977093191647233",
+          "name": "Sci-fi & fantasy films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movies",
+          "id": "1072936713134071808",
+          "name": "Movies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1283051822597279744",
+          "name": "Rom-com films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Barbie is scheduled to be released in the United States on July 21, 2023.",
+          "id": "1527279290131238912",
+          "name": "Barbie (2023)"
+        }
+      }
+    ],
+    "conversation_id": "1868375985608876271",
+    "created_at": "2024-12-15T19:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T20:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868375985608876271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/archivexg/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/archivexg/status/1867873246659375368",
+          "start": 17,
+          "url": "https://t.co/qzMaZwdw2H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868375985608876271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867873246659375368",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Maya🥰你衣服哪买的哈哈哈哈哈 https://t.co/qzMaZwdw2H"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "description": "Barbie is scheduled to be released in the United States on July 21, 2023.",
+              "id": "1527279290131238912",
+              "name": "Barbie (2023)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1283051822597279744",
+              "name": "Rom-com films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comedy",
+              "id": "856976685916237824",
+              "name": "Comedy films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "856977093191647233",
+              "name": "Sci-fi & fantasy films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283051822597279744",
+              "name": "Rom-com films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Barbie is scheduled to be released in the United States on July 21, 2023.",
+              "id": "1527279290131238912",
+              "name": "Barbie (2023)"
+            }
+          }
+        ],
+        "conversation_id": "1868375985608876271",
+        "created_at": "2024-12-15T19:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T20:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868375985608876271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/archivexg/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/archivexg/status/1867873246659375368",
+              "start": 17,
+              "url": "https://t.co/qzMaZwdw2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868375985608876271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867873246659375368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Maya🥰你衣服哪买的哈哈哈哈哈 https://t.co/qzMaZwdw2H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867873231316619264",
+            "3_1867873231325052928"
+          ]
+        },
+        "author_id": "1495916308898226177",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "description": "Barbie is scheduled to be released in the United States on July 21, 2023.",
+              "id": "1527279290131238912",
+              "name": "Barbie (2023)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1283051822597279744",
+              "name": "Rom-com films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comedy",
+              "id": "856976685916237824",
+              "name": "Comedy films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "856977093191647233",
+              "name": "Sci-fi & fantasy films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283051822597279744",
+              "name": "Rom-com films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Barbie is scheduled to be released in the United States on July 21, 2023.",
+              "id": "1527279290131238912",
+              "name": "Barbie (2023)"
+            }
+          }
+        ],
+        "conversation_id": "1867873246659375368",
+        "created_at": "2024-12-14T10:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T11:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867873246659375368"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "XG",
+              "probability": 0.659,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 25,
+              "normalized_text": "Maya",
+              "probability": 0.8322,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "XG"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "Maya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yi4gHnFby3",
+              "end": 50,
+              "expanded_url": "https://x.com/ArchiveXG/status/1867873246659375368/photo/1",
+              "media_key": "3_1867873231316619264",
+              "start": 27,
+              "url": "https://t.co/yi4gHnFby3"
+            },
+            {
+              "display_url": "pic.x.com/yi4gHnFby3",
+              "end": 50,
+              "expanded_url": "https://x.com/ArchiveXG/status/1867873246659375368/photo/1",
+              "media_key": "3_1867873231325052928",
+              "start": 27,
+              "url": "https://t.co/yi4gHnFby3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867873246659375368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 39683,
+          "like_count": 1528,
+          "quote_count": 44,
+          "reply_count": 2,
+          "retweet_count": 271
+        },
+        "reply_settings": "everyone",
+        "text": "She’s a barbie 🎀\n#XG #Maya https://t.co/yi4gHnFby3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 60,
+          "like_count": 584,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 153
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T00:20:29.000Z",
+        "description": "#XG and #Alphaz is Certified 🐺🐺🐺.. This page is dedicated to Harvey 🦄 Hinata 💎 Juria 🐿️ Jurin 🦋 Chisa ☀️ Cocona 🍄 Maya 🐶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "XG"
+              },
+              {
+                "end": 15,
+                "start": 8,
+                "tag": "Alphaz"
+              }
+            ]
+          }
+        },
+        "id": "1495916308898226177",
+        "name": "ArchiveXG",
+        "pinned_tweet_id": "1693098896283541978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835917689518219264/NGCXFjGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43289,
+          "following_count": 305,
+          "like_count": 18612,
+          "listed_count": 155,
+          "media_count": 4179,
+          "tweet_count": 8760
+        },
+        "username": "ArchiveXG",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2075276196603195592",
+    "created_at": "2026-07-09T17:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T18:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075276196603195592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2058319321441411072",
+          "start": 3,
+          "username": "7oveforever14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075276196603195592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074970215935304064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7oveforever14: 有时候我渴望对方紧密的关注我的社交平台 近期听过的音乐 收藏推荐的短视频 朋友圈动态的更新 跟列表好友的互动 这是我隐秘的期许。如果我突然发现对方听了我喜欢的音乐 推荐访问了我喜欢的作品 第一时间点赞评论了我的动态 我都会非常开心。感觉在不…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2075276196603195592",
+        "created_at": "2026-07-09T17:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075276196603195592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2058319321441411072",
+              "start": 3,
+              "username": "7oveforever14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075276196603195592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074970215935304064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7oveforever14: 有时候我渴望对方紧密的关注我的社交平台 近期听过的音乐 收藏推荐的短视频 朋友圈动态的更新 跟列表好友的互动 这是我隐秘的期许。如果我突然发现对方听了我喜欢的音乐 推荐访问了我喜欢的作品 第一时间点赞评论了我的动态 我都会非常开心。感觉在不…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058319321441411072",
+        "conversation_id": "2074970215935304064",
+        "created_at": "2026-07-08T21:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074970215935304064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074970215935304064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3464,
+          "like_count": 122,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "有时候我渴望对方紧密的关注我的社交平台 近期听过的音乐 收藏推荐的短视频 朋友圈动态的更新 跟列表好友的互动 这是我隐秘的期许。如果我突然发现对方听了我喜欢的音乐 推荐访问了我喜欢的作品 第一时间点赞评论了我的动态 我都会非常开心。感觉在不知道的时候也被在意了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 118,
+          "like_count": 5570,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1961
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T22:54:47.000Z",
+        "description": "ip意大利 水瓶座 isfp-t冒险家\n异性恋 当前恋爱中^ - ^\n我喜欢轻松自在的氛围\n回应有礼貌的正常人https://t.co/HhgNZjxKr1\n欢迎萌萌的小女孩们\n中意时差慢6h\n聊天纯绿 别辱骂别破防\n不看各种照片",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo41845",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ovo41845",
+                "start": 55,
+                "url": "https://t.co/HhgNZjxKr1"
+              }
+            ]
+          }
+        },
+        "id": "2058319321441411072",
+        "name": "ovo",
+        "pinned_tweet_id": "2060169756691353744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063236660062543872/PWeiXiaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 192,
+          "like_count": 1056,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 1825
+        },
+        "url": "",
+        "username": "7oveforever14",
+        "verified": false
+      }
+    ]
+  }
+}

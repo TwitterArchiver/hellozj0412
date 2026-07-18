@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1872530487320961425",
+    "created_at": "2024-12-27T19:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T20:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872719569128964476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1109080684419670017",
+          "start": 0,
+          "username": "EcstasyRC"
+        },
+        {
+          "end": 21,
+          "id": "1795072631169044480",
+          "start": 11,
+          "username": "KillBasi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872719569128964476",
+    "in_reply_to_user_id": "1109080684419670017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872638924319027412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EcstasyRC @KillBasi1 薄肌还能好点？那种牛蛙就算了…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1872530487320961425",
+        "created_at": "2024-12-27T19:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T20:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872719569128964476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "EcstasyRC"
+            },
+            {
+              "end": 21,
+              "id": "1795072631169044480",
+              "start": 11,
+              "username": "KillBasi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872719569128964476",
+        "in_reply_to_user_id": "1109080684419670017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872638924319027412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EcstasyRC @KillBasi1 薄肌还能好点？那种牛蛙就算了…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1109080684419670017",
+        "conversation_id": "1872530487320961425",
+        "created_at": "2024-12-27T13:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T14:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872638924319027412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "KillBasi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872638924319027412",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872530487320961425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillBasi1 也不是，就是丑，一般还很装"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 63,
+          "like_count": 1179,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 392
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "les/双相/有🚪88不线下/脾气暴躁\n\n孩子她妈@Yuki03aria的草莓双爆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Yuki03aria"
+              }
+            ]
+          }
+        },
+        "id": "1109080684419670017",
+        "location": "Living Memory",
+        "name": "草莓双爆",
+        "pinned_tweet_id": "1871662098583097613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871810456979136512/OeYlh3iK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16943,
+          "following_count": 1606,
+          "like_count": 24170,
+          "listed_count": 41,
+          "media_count": 2085,
+          "tweet_count": 17699
+        },
+        "username": "EcstasyRC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "I love Mari🥰 互动小号： @qhqq114514 谁的小号：@Areeyouuuuwhoo（爱好画画，最喜欢干的事情是睡觉 | 无性别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "qhqq114514"
+              },
+              {
+                "end": 51,
+                "start": 36,
+                "username": "Areeyouuuuwhoo"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "帕拉迪岛",
+        "name": "柏林天使（史上最强魔剑士",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872302606342664192/gfDXaov3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3027,
+          "following_count": 1093,
+          "like_count": 15026,
+          "listed_count": 6,
+          "media_count": 62,
+          "tweet_count": 326
+        },
+        "username": "KillBasi1",
+        "verified": false
+      }
+    ]
+  }
+}

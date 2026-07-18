@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1852697657707516201",
+    "created_at": "2024-12-03T11:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T12:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863901449983320407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1826214335523569664",
+          "start": 0,
+          "username": "samuel_whi48000"
+        },
+        {
+          "end": 31,
+          "id": "1707863002660184064",
+          "start": 17,
+          "username": "c_youzikawaii"
+        },
+        {
+          "end": 43,
+          "id": "1693234932821143552",
+          "start": 32,
+          "username": "qiuqiu0422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863901449983320407",
+    "in_reply_to_user_id": "1826214335523569664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852697657707516201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samuel_whi48000 @c_youzikawaii @qiuqiu0422 胃口被太宰老师养刁了，听别人的已经冲不出来了🥹🥹老师我要惩罚你多多更新"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1852697657707516201",
+        "created_at": "2024-12-03T11:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T12:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863901449983320407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1826214335523569664",
+              "start": 0,
+              "username": "samuel_whi48000"
+            },
+            {
+              "end": 31,
+              "id": "1707863002660184064",
+              "start": 17,
+              "username": "c_youzikawaii"
+            },
+            {
+              "end": 43,
+              "id": "1693234932821143552",
+              "start": 32,
+              "username": "qiuqiu0422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863901449983320407",
+        "in_reply_to_user_id": "1826214335523569664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852697657707516201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samuel_whi48000 @c_youzikawaii @qiuqiu0422 胃口被太宰老师养刁了，听别人的已经冲不出来了🥹🥹老师我要惩罚你多多更新"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826214335523569664",
+        "conversation_id": "1852697657707516201",
+        "created_at": "2024-11-02T13:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T14:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852697657707516201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "男喘"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "青攻音"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "中文音声"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "SM"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "训诫"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "sp"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "倒数"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "后期"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1707863002660184064",
+              "start": 14,
+              "username": "c_youzikawaii"
+            },
+            {
+              "end": 50,
+              "id": "1693234932821143552",
+              "start": 39,
+              "username": "qiuqiu0422"
+            }
+          ],
+          "urls": [
+            {
+              "description": "特别鸣谢台本老师：是QQ星吖（@qiuqiu0422 特别鸣谢授权老师：柚子（小猫版）（@youzikawaii11 师生情侣/训诫/sp/夹震动棒抽穴/皮带项圈/室息倒数高潮",
+              "display_url": "taizai.fanbox.cc/posts/8819739?…",
+              "end": 111,
+              "expanded_url": "https://taizai.fanbox.cc/posts/8819739?utm_campaign=manage_post_page&utm_medium=share&utm_source=twitter",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1859560320890699776/liHJNQ6S?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1859560320890699776/liHJNQ6S?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "《应邀》｜太宰｜pixivFANBOX",
+              "unwound_url": "https://taizai.fanbox.cc/posts/8819739?utm_campaign=manage_post_page&utm_medium=share&utm_source=twitter",
+              "url": "https://t.co/1QlyE841P5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852697657707516201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 59753,
+          "like_count": 236,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "《应邀》\n特别鸣谢授权老师：@c_youzikawaii \n特别鸣谢台本老师：@qiuqiu0422 \n#男喘 #青攻音 #中文音声 #SM #训诫 #sp #倒数 #后期 \nhttps://t.co/1QlyE841P5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 54,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 58
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T11:06:59.000Z",
+        "description": "业余男喘|资深小圈爱好者|喜欢录音享受录音|重度睡眠障碍患者|希望能交到朋友|所有作品内容均不代表本人价值观|可能会抽象口嗨 但是不会kp，听录音学过学不会|有任何想法和建议欢迎随时私信骚扰",
+        "id": "1826214335523569664",
+        "location": "Japan",
+        "name": "太宰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852699972317372416/G4A-KEy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 5,
+          "like_count": 11,
+          "listed_count": 4,
+          "media_count": 1,
+          "tweet_count": 34
+        },
+        "username": "samuel_whi48000",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T21:00:53.000Z",
+        "description": "𝐻𝑜𝑛𝑒𝑦 𝑏𝑎𝑏𝑒 @whoisshe_0205 直女｜DDLG爱好者｜私信请注意措辞｜喜欢小猫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "whoisshe_0205"
+              }
+            ]
+          }
+        },
+        "id": "1707863002660184064",
+        "name": "柚子（小猫版）",
+        "pinned_tweet_id": "1853265627042972080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851787642993561600/DlWPeJrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 220,
+          "like_count": 646,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 211
+        },
+        "username": "c_youzikawaii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T12:14:09.000Z",
+        "description": "台本娘 / bilibili@是QQ星吖 / 合作 或 定制 请私信 / 学业繁忙更新随缘 / 暗恋隔壁一条德芙@Iwannadove / 录制请先私聊获取授权（不接受 非录制者本人 跨平台代要授权行为）/ 所有台本严禁二传二改 / 严禁未经授权擅自拿我台本私发给别人录制（欢迎在评论区@）/断线状态消息回很慢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Iwannadove"
+              }
+            ]
+          }
+        },
+        "id": "1693234932821143552",
+        "name": "是QQ星吖",
+        "pinned_tweet_id": "1822546172814508214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795837159288758273/nxy-rWap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31829,
+          "following_count": 116,
+          "like_count": 2845,
+          "listed_count": 55,
+          "media_count": 90,
+          "tweet_count": 2081
+        },
+        "username": "qiuqiu0422",
+        "verified": false
+      }
+    ]
+  }
+}

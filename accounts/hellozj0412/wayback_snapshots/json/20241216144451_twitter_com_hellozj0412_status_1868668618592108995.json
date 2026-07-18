@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1868667884848968055",
+    "created_at": "2024-12-16T14:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T15:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868668618592108995"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1868668618592108995",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868667884848968055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当时数学老师大发雷霆说怎么有人运气这么差，选择题都蒙对不了几个，我在台下好想死….."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1868667884848968055",
+        "created_at": "2024-12-16T14:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T15:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868668618592108995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868668618592108995",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868667884848968055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时数学老师大发雷霆说怎么有人运气这么差，选择题都蒙对不了几个，我在台下好想死….."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1868667884848968055",
+        "created_at": "2024-12-16T14:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T15:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868667884848968055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868667884848968055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一想到高中数学考27分的人现在在读研就想笑，还好当时有文理分科，要不然我真完了🫤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 61,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 168
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

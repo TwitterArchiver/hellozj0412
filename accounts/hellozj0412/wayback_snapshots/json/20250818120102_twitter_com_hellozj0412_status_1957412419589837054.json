@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1957412419589837054",
+    "created_at": "2025-08-18T12:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T13:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957412419589837054"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1957412419589837054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我接受不了任何人对我的期待，也接受不了任何人给我的期待，不要打趣我，不要幻想我，不要使我落空，不要剧烈摇晃我这还未稳固平静的状态，有时候我只想龟缩在自己的壳里，或者躺在使我安心的人身边"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1957412419589837054",
+        "created_at": "2025-08-18T12:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T13:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957412419589837054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957412419589837054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我接受不了任何人对我的期待，也接受不了任何人给我的期待，不要打趣我，不要幻想我，不要使我落空，不要剧烈摇晃我这还未稳固平静的状态，有时候我只想龟缩在自己的壳里，或者躺在使我安心的人身边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 119,
+          "like_count": 5259,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1739
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

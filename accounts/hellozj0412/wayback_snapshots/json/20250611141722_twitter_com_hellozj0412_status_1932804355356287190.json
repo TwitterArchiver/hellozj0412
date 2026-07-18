@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1932761276322886100",
+    "created_at": "2025-06-11T14:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T15:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932804355356287190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1697317579428343808",
+          "start": 0,
+          "username": "lululuguoe22166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932804355356287190",
+    "in_reply_to_user_id": "1697317579428343808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932796792913211649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lululuguoe22166 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1932761276322886100",
+        "created_at": "2025-06-11T14:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932804355356287190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1697317579428343808",
+              "start": 0,
+              "username": "lululuguoe22166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932804355356287190",
+        "in_reply_to_user_id": "1697317579428343808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932796792913211649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lululuguoe22166 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697317579428343808",
+        "conversation_id": "1932761276322886100",
+        "created_at": "2025-06-11T13:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T14:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932796792913211649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932796792913211649",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932761276322886100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 毕业快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 108,
+          "like_count": 4262,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1367
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T18:37:20.000Z",
+        "description": "临床打工僧",
+        "id": "1697317579428343808",
+        "location": "home",
+        "name": "lululuguoer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705983680295092224/22Jgkx3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 58,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 203
+        },
+        "username": "lululuguoe22166",
+        "verified": false
+      }
+    ]
+  }
+}

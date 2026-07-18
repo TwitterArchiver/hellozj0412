@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1927904018824843703",
+    "created_at": "2025-05-29T01:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T02:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927904493762437548"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927904493762437548",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927904018824843703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "p1的粉色拿铁狠狠创了我，里面加了很多香料….喝一口就呕了，到底谁会喝….还以为是什么草莓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927904008200671238",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsFKeyHaUAYEnzU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1927904008183873536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsFKeyDaAAA2F49.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927904008200671239",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsFKeyHaUAcNMr7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927904008179699714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsFKeyCaUAI0HHl.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1927904018824843703",
+        "created_at": "2025-05-29T01:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T02:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927904493762437548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927904493762437548",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927904018824843703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "p1的粉色拿铁狠狠创了我，里面加了很多香料….喝一口就呕了，到底谁会喝….还以为是什么草莓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927904008200671238",
+            "3_1927904008183873536",
+            "3_1927904008200671239",
+            "3_1927904008179699714"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1927904018824843703",
+        "created_at": "2025-05-29T01:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T02:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927904018824843703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0E6VH7AAwR",
+              "end": 75,
+              "expanded_url": "https://x.com/hellozj0412/status/1927904018824843703/photo/1",
+              "media_key": "3_1927904008200671238",
+              "start": 52,
+              "url": "https://t.co/0E6VH7AAwR"
+            },
+            {
+              "display_url": "pic.x.com/0E6VH7AAwR",
+              "end": 75,
+              "expanded_url": "https://x.com/hellozj0412/status/1927904018824843703/photo/1",
+              "media_key": "3_1927904008183873536",
+              "start": 52,
+              "url": "https://t.co/0E6VH7AAwR"
+            },
+            {
+              "display_url": "pic.x.com/0E6VH7AAwR",
+              "end": 75,
+              "expanded_url": "https://x.com/hellozj0412/status/1927904018824843703/photo/1",
+              "media_key": "3_1927904008200671239",
+              "start": 52,
+              "url": "https://t.co/0E6VH7AAwR"
+            },
+            {
+              "display_url": "pic.x.com/0E6VH7AAwR",
+              "end": 75,
+              "expanded_url": "https://x.com/hellozj0412/status/1927904018824843703/photo/1",
+              "media_key": "3_1927904008179699714",
+              "start": 52,
+              "url": "https://t.co/0E6VH7AAwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927904018824843703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子都是中国胃了…吃来吃去都不如一顿火锅香，P2的餐厅很不错，价格实惠食材好，华裔开的餐厅还是有水平 https://t.co/0E6VH7AAwR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 102,
+          "like_count": 3970,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1248
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1902421128624103693",
+    "created_at": "2025-03-20T03:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T04:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902570266418352521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1783054284818714624",
+          "start": 0,
+          "username": "omen000823"
+        },
+        {
+          "end": 24,
+          "id": "1517856560227172354",
+          "start": 12,
+          "username": "TALCOHOlMAX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902570266418352521",
+    "in_reply_to_user_id": "1783054284818714624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902422979931177290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omen000823 @TALCOHOlMAX 黑心资本家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1902421128624103693",
+        "created_at": "2025-03-20T03:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T04:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902570266418352521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1783054284818714624",
+              "start": 0,
+              "username": "omen000823"
+            },
+            {
+              "end": 24,
+              "id": "1517856560227172354",
+              "start": 12,
+              "username": "TALCOHOlMAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902570266418352521",
+        "in_reply_to_user_id": "1783054284818714624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902422979931177290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omen000823 @TALCOHOlMAX 黑心资本家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783054284818714624",
+        "conversation_id": "1902421128624103693",
+        "created_at": "2025-03-19T18:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T19:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902422979931177290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517856560227172354",
+              "start": 0,
+              "username": "TALCOHOlMAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902422979931177290",
+        "in_reply_to_user_id": "1517856560227172354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902422406523973702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TALCOHOlMAX 实习证明抵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 82,
+          "like_count": 1737,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 692
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T08:44:21.000Z",
+        "description": "DAILY ME DAILY CRAZY |特工",
+        "id": "1783054284818714624",
+        "name": "Gervais",
+        "pinned_tweet_id": "1855896294411456929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849648081043951616/l8xv0W3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 196,
+          "like_count": 4203,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 2742
+        },
+        "username": "omen000823",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-23T13:23:17.000Z",
+        "description": "极速版了解我：巨蟹 intp sub-brat bbw ｜带上一瓶伏特加同我走到海的尽头｜提问箱https://t.co/XF4imL2Azz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/talcohoimax",
+                "end": 71,
+                "expanded_url": "https://ngl.link/talcohoimax",
+                "start": 48,
+                "url": "https://t.co/XF4imL2Azz"
+              }
+            ]
+          }
+        },
+        "id": "1517856560227172354",
+        "location": "夜之城",
+        "name": "Yukari",
+        "pinned_tweet_id": "1901251208033300635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891902307488628736/zJ_CV8Xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 154,
+          "like_count": 1558,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 766
+        },
+        "username": "TALCOHOlMAX",
+        "verified": false
+      }
+    ]
+  }
+}

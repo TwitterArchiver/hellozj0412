@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1901668126598586882",
+    "created_at": "2025-03-17T16:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T17:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901668126598586882"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1901668126598586882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对爱装深情的人十分恶心，看到你拙劣的演技特别想笑，你打着喜欢我的口号一遍遍伤害我有意思吗，我们是有好的回忆，可是现在全被消磨殆尽了，就好像欠债，总要拿点东西还，对吧，我们的结局就是彻底断联，静静躺尸在互相列表就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1901668126598586882",
+        "created_at": "2025-03-17T16:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T17:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901668126598586882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901668126598586882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对爱装深情的人十分恶心，看到你拙劣的演技特别想笑，你打着喜欢我的口号一遍遍伤害我有意思吗，我们是有好的回忆，可是现在全被消磨殆尽了，就好像欠债，总要拿点东西还，对吧，我们的结局就是彻底断联，静静躺尸在互相列表就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 81,
+          "like_count": 1660,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 644
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

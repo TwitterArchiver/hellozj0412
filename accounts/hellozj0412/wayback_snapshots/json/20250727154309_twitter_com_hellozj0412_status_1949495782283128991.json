@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1949448533788287285",
+    "created_at": "2025-07-27T15:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T16:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949495782283128991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1590695308463288321",
+          "start": 0,
+          "username": "acclzd_clz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949495782283128991",
+    "in_reply_to_user_id": "1590695308463288321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949448533788287285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acclzd_clz 香的没边，晚上没吃饭直接被车厘子喂饱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1927,
+        "media_key": "3_1949448496488349697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3VFDUbgAEFkBE.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1949448533788287285",
+        "created_at": "2025-07-27T15:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T16:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949495782283128991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1590695308463288321",
+              "start": 0,
+              "username": "acclzd_clz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949495782283128991",
+        "in_reply_to_user_id": "1590695308463288321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949448533788287285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acclzd_clz 香的没边，晚上没吃饭直接被车厘子喂饱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949448496488349697"
+          ]
+        },
+        "author_id": "1590695308463288321",
+        "conversation_id": "1949448533788287285",
+        "created_at": "2025-07-27T12:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949448533788287285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "一爱"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "体型差"
+            },
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "daddy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fNxRurYsoP",
+              "end": 57,
+              "expanded_url": "https://x.com/acclzd_clz/status/1949448533788287285/photo/1",
+              "media_key": "3_1949448496488349697",
+              "start": 34,
+              "url": "https://t.co/fNxRurYsoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949448533788287285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 21774,
+          "like_count": 387,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "“自己动”\n“又坏掉了，是吗？”\n\n#一爱 #体型差 #daddy https://t.co/fNxRurYsoP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 116,
+          "like_count": 4894,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1660
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T13:18:17.000Z",
+        "description": "无墙内账号 骂我没财运☝️不回定制打赏以外私信 ☝️ 文笔朴素单调🫶关评论置顶是广告 自辨。没被盗号 纯缺钱 看清楚",
+        "id": "1590695308463288321",
+        "location": "流量来流量来",
+        "name": "荞麦厘子",
+        "pinned_tweet_id": "1949448533788287285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948593695093391362/2myH9lAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79323,
+          "following_count": 73,
+          "like_count": 8407,
+          "listed_count": 78,
+          "media_count": 332,
+          "tweet_count": 996
+        },
+        "username": "acclzd_clz",
+        "verified": false
+      }
+    ]
+  }
+}

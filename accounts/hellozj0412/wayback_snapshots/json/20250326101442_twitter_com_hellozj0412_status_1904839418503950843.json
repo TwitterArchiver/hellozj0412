@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1904545533173117128",
+    "created_at": "2025-03-26T10:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T11:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904839418503950843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891721793452548096",
+          "start": 0,
+          "username": "Yulialing01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904839418503950843",
+    "in_reply_to_user_id": "1891721793452548096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904759694025011390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yulialing01 粤语里就爱听这句话😻😻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1904545533173117128",
+        "created_at": "2025-03-26T10:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T11:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904839418503950843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891721793452548096",
+              "start": 0,
+              "username": "Yulialing01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904839418503950843",
+        "in_reply_to_user_id": "1891721793452548096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904759694025011390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yulialing01 粤语里就爱听这句话😻😻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891721793452548096",
+        "conversation_id": "1904545533173117128",
+        "created_at": "2025-03-26T04:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T05:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904759694025011390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904759694025011390",
+        "in_reply_to_user_id": "1891721793452548096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 530,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904547415258009642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已收到三声bb，其中有一个是“bb唔好中意你”🥰我就这样被溺爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 76,
+          "like_count": 1936,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 788
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:30:09.000Z",
+        "description": "睡个好觉",
+        "id": "1891721793452548096",
+        "name": "Yulia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891724772691554304/sRb76K2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 102,
+          "like_count": 11553,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 4815
+        },
+        "username": "Yulialing01",
+        "verified": false
+      }
+    ]
+  }
+}

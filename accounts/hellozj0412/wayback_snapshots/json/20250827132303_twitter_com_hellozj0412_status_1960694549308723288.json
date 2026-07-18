@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960275653435224064"
+      ],
+      "media_source_tweet_id": [
+        "1960275659798024638"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1960694549308723288",
+    "created_at": "2025-08-27T13:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T14:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960694549308723288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1444920982595010563",
+          "start": 3,
+          "username": "_jfxi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hdMsXP3uqi",
+          "end": 44,
+          "expanded_url": "https://x.com/_jfxi/status/1960275659798024638/photo/1",
+          "media_key": "3_1960275653435224064",
+          "start": 21,
+          "url": "https://t.co/hdMsXP3uqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960694549308723288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3119
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960275659798024638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_jfxi: 黒髪メガネ、どうぞ https://t.co/hdMsXP3uqi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960275653435224064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRMUiDacAARAx5.jpg",
+        "width": 1474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960275653435224064"
+          ],
+          "media_source_tweet_id": [
+            "1960275659798024638"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1960694549308723288",
+        "created_at": "2025-08-27T13:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960694549308723288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1444920982595010563",
+              "start": 3,
+              "username": "_jfxi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdMsXP3uqi",
+              "end": 44,
+              "expanded_url": "https://x.com/_jfxi/status/1960275659798024638/photo/1",
+              "media_key": "3_1960275653435224064",
+              "start": 21,
+              "url": "https://t.co/hdMsXP3uqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960694549308723288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3119
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960275659798024638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_jfxi: 黒髪メガネ、どうぞ https://t.co/hdMsXP3uqi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960275653435224064"
+          ]
+        },
+        "author_id": "1444920982595010563",
+        "conversation_id": "1960275659798024638",
+        "created_at": "2025-08-26T09:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T10:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960275659798024638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdMsXP3uqi",
+              "end": 33,
+              "expanded_url": "https://x.com/_jfxi/status/1960275659798024638/photo/1",
+              "media_key": "3_1960275653435224064",
+              "start": 10,
+              "url": "https://t.co/hdMsXP3uqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960275659798024638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2847,
+          "impression_count": 519176,
+          "like_count": 39016,
+          "quote_count": 234,
+          "reply_count": 12,
+          "retweet_count": 3119
+        },
+        "reply_settings": "everyone",
+        "text": "黒髪メガネ、どうぞ https://t.co/hdMsXP3uqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 119,
+          "like_count": 5357,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1760
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T07:03:19.000Z",
+        "description": "イラストと漫画/お仕事募集中(企業様のみ)/【huipoppo@gmail.com】/現在、漫画の執筆依頼は受けておりません",
+        "id": "1444920982595010563",
+        "location": "h@Lapins26/絵の使用一切禁止",
+        "name": "不井",
+        "pinned_tweet_id": "1874111943033970758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716393230391181312/zucpPIWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79199,
+          "following_count": 40,
+          "like_count": 2848,
+          "listed_count": 256,
+          "media_count": 181,
+          "tweet_count": 3412
+        },
+        "username": "_jfxi",
+        "verified": false
+      }
+    ]
+  }
+}

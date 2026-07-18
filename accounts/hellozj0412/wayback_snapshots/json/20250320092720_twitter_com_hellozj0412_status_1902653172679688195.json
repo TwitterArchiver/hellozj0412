@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1902653172679688195",
+    "created_at": "2025-03-20T09:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T10:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902653172679688195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/410okayama_/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/410okayama_/status/1902128731562610820",
+          "start": 9,
+          "url": "https://t.co/oTST8S8FJX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902653172679688195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902128731562610820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我家猫就这个死样 https://t.co/oTST8S8FJX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1902128726630133761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmW3_7va8AEZwjv.jpg",
+        "width": 1404
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1902653172679688195",
+        "created_at": "2025-03-20T09:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T10:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902653172679688195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/410okayama_/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/410okayama_/status/1902128731562610820",
+              "start": 9,
+              "url": "https://t.co/oTST8S8FJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902653172679688195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902128731562610820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我家猫就这个死样 https://t.co/oTST8S8FJX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902128726630133761"
+          ]
+        },
+        "author_id": "1594156070980575232",
+        "conversation_id": "1902128731562610820",
+        "created_at": "2025-03-18T22:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T23:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902128731562610820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fpOMJhF9QS",
+              "end": 32,
+              "expanded_url": "https://x.com/410okayama_/status/1902128731562610820/photo/1",
+              "media_key": "3_1902128726630133761",
+              "start": 9,
+              "url": "https://t.co/fpOMJhF9QS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902128731562610820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1895,
+          "impression_count": 1113265,
+          "like_count": 45073,
+          "quote_count": 52,
+          "reply_count": 15,
+          "retweet_count": 4219
+        },
+        "reply_settings": "everyone",
+        "text": "上から目線ねこ様 https://t.co/fpOMJhF9QS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 82,
+          "like_count": 1767,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 710
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T02:30:19.000Z",
+        "description": "京都精華大マンガ学部卒。 書籍・広告・似顔絵など。男児3人とイラストレーターの妻( @moe_0628_ )と5人暮らし。TIS会員。童美連会員。 ご依頼についてはHPをご覧ください▷https://t.co/YDPSjd6S1l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "moe_0628_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okayamatakatoshi.com",
+                "end": 115,
+                "expanded_url": "http://www.okayamatakatoshi.com",
+                "start": 92,
+                "url": "https://t.co/YDPSjd6S1l"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/okayamatakatos…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/okayamatakatoshi?fbclid=PAAabJGGHgE-jAyuZWPGiLmzGFVmTKwja7szx64wYBdFpSsxiHR8jfn2XJ",
+                "start": 0,
+                "url": "https://t.co/7jiKRWBjqb"
+              }
+            ]
+          }
+        },
+        "id": "1594156070980575232",
+        "name": "おかやまたかとし",
+        "pinned_tweet_id": "1897951291848151112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769733513715363840/4hfM3Ow0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17305,
+          "following_count": 829,
+          "like_count": 11587,
+          "listed_count": 182,
+          "media_count": 1012,
+          "tweet_count": 1903
+        },
+        "url": "https://t.co/7jiKRWBjqb",
+        "username": "410okayama_",
+        "verified": true
+      }
+    ]
+  }
+}

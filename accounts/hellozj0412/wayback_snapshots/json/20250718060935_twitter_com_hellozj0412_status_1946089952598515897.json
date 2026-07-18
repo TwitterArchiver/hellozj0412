@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1946070534984552522",
+    "created_at": "2025-07-18T06:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T07:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946089952598515897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1829588595315003392",
+          "start": 0,
+          "username": "yi4eert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946089952598515897",
+    "in_reply_to_user_id": "1829588595315003392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946070534984552522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi4eert 对我就这样幻想😗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1946070534984552522",
+        "created_at": "2025-07-18T06:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T07:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946089952598515897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1829588595315003392",
+              "start": 0,
+              "username": "yi4eert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946089952598515897",
+        "in_reply_to_user_id": "1829588595315003392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946070534984552522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi4eert 对我就这样幻想😗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829588595315003392",
+        "conversation_id": "1946070534984552522",
+        "created_at": "2025-07-18T04:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T05:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946070534984552522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946070534984552522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 446,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "掌控欲强占有欲强懒得说话社交 看我全说我长得凶每天没表情 偶尔犯病晚点梗 心情一般捏捏脸 心情不爽了话都懒得多说捏着屁股就是一巴掌 视奸都是玩剩下的小招数 阴湿感重惹急了二话不说就开始冷着脸做 对就这样宣传我我就这样做自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 112,
+          "like_count": 4728,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1595
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T18:35:06.000Z",
+        "description": "infp /成分复杂/想发什么发什么/不被定义看感觉/存在即合理 内容🈲二改 谢谢每一个你的喜欢",
+        "id": "1829588595315003392",
+        "location": "生活顺利 睡个好觉",
+        "name": "nrel",
+        "pinned_tweet_id": "1868830180405657611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829588858989625374/-UECBccc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10713,
+          "following_count": 10,
+          "like_count": 1765,
+          "listed_count": 9,
+          "media_count": 396,
+          "tweet_count": 1980
+        },
+        "username": "yi4eert",
+        "verified": false
+      }
+    ]
+  }
+}

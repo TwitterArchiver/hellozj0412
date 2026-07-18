@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926520971504025600"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1926520987614343512",
+    "created_at": "2025-05-25T06:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T07:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926520987614343512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uFnh7tmE4z",
+          "end": 37,
+          "expanded_url": "https://x.com/hellozj0412/status/1926520987614343512/photo/1",
+          "media_key": "3_1926520971504025600",
+          "start": 14,
+          "url": "https://t.co/uFnh7tmE4z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926520987614343512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于要去巴厘岛了，俺不中嘞 https://t.co/uFnh7tmE4z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926520971504025600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grxgnc7WgAAvejY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926520971504025600"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1926520987614343512",
+        "created_at": "2025-05-25T06:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T07:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926520987614343512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFnh7tmE4z",
+              "end": 37,
+              "expanded_url": "https://x.com/hellozj0412/status/1926520987614343512/photo/1",
+              "media_key": "3_1926520971504025600",
+              "start": 14,
+              "url": "https://t.co/uFnh7tmE4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926520987614343512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于要去巴厘岛了，俺不中嘞 https://t.co/uFnh7tmE4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 103,
+          "like_count": 3925,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1224
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

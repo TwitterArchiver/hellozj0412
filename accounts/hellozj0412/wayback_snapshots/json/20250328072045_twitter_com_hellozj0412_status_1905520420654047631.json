@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1905055148289978769",
+    "created_at": "2025-03-28T07:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T08:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905520420654047631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828592816244826112",
+          "start": 0,
+          "username": "luanluanko"
+        },
+        {
+          "end": 23,
+          "id": "1590695308463288321",
+          "start": 12,
+          "username": "acclzd_clz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905520420654047631",
+    "in_reply_to_user_id": "1828592816244826112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905288043885637713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luanluanko @acclzd_clz 这一点很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1905055148289978769",
+        "created_at": "2025-03-28T07:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T08:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905520420654047631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828592816244826112",
+              "start": 0,
+              "username": "luanluanko"
+            },
+            {
+              "end": 23,
+              "id": "1590695308463288321",
+              "start": 12,
+              "username": "acclzd_clz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905520420654047631",
+        "in_reply_to_user_id": "1828592816244826112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905288043885637713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luanluanko @acclzd_clz 这一点很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828592816244826112",
+        "conversation_id": "1905055148289978769",
+        "created_at": "2025-03-27T15:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T16:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905288043885637713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1590695308463288321",
+              "start": 0,
+              "username": "acclzd_clz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905288043885637713",
+        "in_reply_to_user_id": "1590695308463288321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905055148289978769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acclzd_clz 那很好了 如果对方还能带一些自卑的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 73,
+          "like_count": 2004,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 825
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T00:38:08.000Z",
+        "description": "",
+        "id": "1828592816244826112",
+        "name": "luan luan ko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828592938513022976/jdxTmFDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 42,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 127
+        },
+        "username": "luanluanko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T13:18:17.000Z",
+        "description": "无墙内账号 骂我没财运 不回定制打赏以外私信☝️关评论为 推广 ☝️请自辩 ☝️不是台本娘 不授权哈 文笔朴素单调 VPN https://t.co/wvkOROMgAd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.one/#/register?cod…",
+                "end": 85,
+                "expanded_url": "https://tw01.damoplane.one/#/register?code=Fa954Y7z",
+                "start": 62,
+                "url": "https://t.co/wvkOROMgAd"
+              }
+            ]
+          }
+        },
+        "id": "1590695308463288321",
+        "location": "流量来流量来",
+        "name": "荞麦厘子（年上制造者",
+        "pinned_tweet_id": "1904618917420794184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887405012529389570/u14SCDTG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64449,
+          "following_count": 38,
+          "like_count": 7252,
+          "listed_count": 69,
+          "media_count": 261,
+          "tweet_count": 957
+        },
+        "username": "acclzd_clz",
+        "verified": false
+      }
+    ]
+  }
+}

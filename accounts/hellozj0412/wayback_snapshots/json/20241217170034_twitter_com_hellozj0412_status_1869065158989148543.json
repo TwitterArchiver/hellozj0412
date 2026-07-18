@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1869065158989148543",
+    "created_at": "2024-12-17T17:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T18:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869065158989148543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/archivexg/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/archivexg/status/1869035310015013307",
+          "start": 17,
+          "url": "https://t.co/C2e1sh7BQp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869065158989148543",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869035310015013307",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是芭比是Harvey💗HBD🎂 https://t.co/C2e1sh7BQp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1869065158989148543",
+        "created_at": "2024-12-17T17:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T18:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869065158989148543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/archivexg/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/archivexg/status/1869035310015013307",
+              "start": 17,
+              "url": "https://t.co/C2e1sh7BQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869065158989148543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869035310015013307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是芭比是Harvey💗HBD🎂 https://t.co/C2e1sh7BQp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869035292151164928"
+          ]
+        },
+        "author_id": "1495916308898226177",
+        "conversation_id": "1869035310015013307",
+        "created_at": "2024-12-17T15:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T16:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869035310015013307"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Harvey",
+              "probability": 0.504,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 63,
+              "normalized_text": "HappyBirthday_HARVEY",
+              "probability": 0.7723,
+              "start": 44,
+              "type": "Person"
+            },
+            {
+              "end": 77,
+              "normalized_text": "HAPPY_HARVEY",
+              "probability": 0.6714,
+              "start": 66,
+              "type": "Person"
+            },
+            {
+              "end": 92,
+              "normalized_text": "_HARVEY",
+              "probability": 0.4685,
+              "start": 86,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 43,
+              "tag": "HappyBirthday_HARVEY"
+            },
+            {
+              "end": 82,
+              "start": 65,
+              "tag": "HAPPY_HARVEY_DAY"
+            },
+            {
+              "end": 100,
+              "start": 83,
+              "tag": "XG_HARVEY_22歳誕生祭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PJnuAUz6Wp",
+              "end": 124,
+              "expanded_url": "https://x.com/ArchiveXG/status/1869035310015013307/photo/1",
+              "media_key": "3_1869035292151164928",
+              "start": 101,
+              "url": "https://t.co/PJnuAUz6Wp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869035310015013307",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3458,
+          "like_count": 138,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "Happy birthday Harvey 🎂🎉🎊🎂, Love you Amy🦄💜\n#HappyBirthday_HARVEY\n#HAPPY_HARVEY_DAY\n#XG_HARVEY_22歳誕生祭 https://t.co/PJnuAUz6Wp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 64,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 208
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T00:20:29.000Z",
+        "description": "#XG and #Alphaz is Certified 🐺🐺🐺.. This page is dedicated to Harvey 🦄 Hinata 💎 Juria 🐿️ Jurin 🦋 Chisa ☀️ Cocona 🍄 Maya 🐶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "XG"
+              },
+              {
+                "end": 15,
+                "start": 8,
+                "tag": "Alphaz"
+              }
+            ]
+          }
+        },
+        "id": "1495916308898226177",
+        "name": "ArchiveXG",
+        "pinned_tweet_id": "1693098896283541978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835917689518219264/NGCXFjGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43446,
+          "following_count": 308,
+          "like_count": 18680,
+          "listed_count": 155,
+          "media_count": 4202,
+          "tweet_count": 8820
+        },
+        "username": "ArchiveXG",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1956708195428155508",
+    "created_at": "2025-08-16T13:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T14:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956708195428155508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1376813917561757702",
+          "start": 3,
+          "username": "TaoTie_s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956708195428155508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956279102761058586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TaoTie_s: 文字是否有巧言令色的成分，字字句句写得凄美动听的忠诚和爱情是否真实存在？\n写进日记里，写进情书里，写进社交平台里，却唯独不把你放生活的点点滴滴里。她不爱你，或许她爱上了“喜欢爱人”的自己。她会用语言描绘你，但不会好好对待你。\n\n（没指任何人，我检讨自…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1956708195428155508",
+        "created_at": "2025-08-16T13:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T14:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956708195428155508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1376813917561757702",
+              "start": 3,
+              "username": "TaoTie_s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956708195428155508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956279102761058586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TaoTie_s: 文字是否有巧言令色的成分，字字句句写得凄美动听的忠诚和爱情是否真实存在？\n写进日记里，写进情书里，写进社交平台里，却唯独不把你放生活的点点滴滴里。她不爱你，或许她爱上了“喜欢爱人”的自己。她会用语言描绘你，但不会好好对待你。\n\n（没指任何人，我检讨自…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1376813917561757702",
+        "conversation_id": "1956279102761058586",
+        "created_at": "2025-08-15T08:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T09:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956279102761058586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956279102761058586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 21728,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "文字是否有巧言令色的成分，字字句句写得凄美动听的忠诚和爱情是否真实存在？\n写进日记里，写进情书里，写进社交平台里，却唯独不把你放生活的点点滴滴里。她不爱你，或许她爱上了“喜欢爱人”的自己。她会用语言描绘你，但不会好好对待你。\n\n（没指任何人，我检讨自己）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 119,
+          "like_count": 5224,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1729
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-30T08:30:00.000Z",
+        "description": "les🌈 0S/女权主义/INTP/纯爱战士 dom偏刑主S    ❤️已有对象\n💰接推广or约稿定制文 （推广自辨）",
+        "id": "1376813917561757702",
+        "name": "饕餮s",
+        "pinned_tweet_id": "1870107005467406457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1377498476674605058/Eeg1Jmac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144229,
+          "following_count": 100,
+          "like_count": 8302,
+          "listed_count": 146,
+          "media_count": 214,
+          "tweet_count": 5334
+        },
+        "username": "TaoTie_s",
+        "verified": false
+      }
+    ]
+  }
+}

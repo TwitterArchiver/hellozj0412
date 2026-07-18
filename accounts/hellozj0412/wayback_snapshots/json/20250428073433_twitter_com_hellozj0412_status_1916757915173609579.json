@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1916431705075785784",
+    "created_at": "2025-04-28T07:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T08:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916757915173609579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1859613114875973632",
+          "start": 0,
+          "username": "OxOlasiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916757915173609579",
+    "in_reply_to_user_id": "1859613114875973632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916431705075785784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OxOlasiss 同意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1916431705075785784",
+        "created_at": "2025-04-28T07:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T08:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916757915173609579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1859613114875973632",
+              "start": 0,
+              "username": "OxOlasiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916757915173609579",
+        "in_reply_to_user_id": "1859613114875973632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916431705075785784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OxOlasiss 同意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859613114875973632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1916431705075785784",
+        "created_at": "2025-04-27T09:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T10:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916431705075785784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916431705075785784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3727,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "全是排球蓝锁国乙咒术第五的谷店可以别开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 90,
+          "like_count": 2959,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 957
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T15:01:39.000Z",
+        "description": "@moment365934 那我问你 为什么我如此幸福\n\n都来跟我玩好吗https://t.co/icF1nodwdc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "moment365934"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/oxolasiss1",
+                "end": 59,
+                "expanded_url": "https://ngl.link/oxolasiss1",
+                "start": 36,
+                "url": "https://t.co/icF1nodwdc"
+              }
+            ]
+          }
+        },
+        "id": "1859613114875973632",
+        "location": "男的招惹我默认全家暴毙吃屎喝尿我骂的没妈没妈的骂我",
+        "name": "孙笑川乳汁狂飙",
+        "pinned_tweet_id": "1867814490483671505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916721322324905984/F7a8KpJ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 399,
+          "like_count": 6744,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 2790
+        },
+        "username": "OxOlasiss",
+        "verified": false
+      }
+    ]
+  }
+}

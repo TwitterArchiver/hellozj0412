@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867250142010564608"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1867250299959697498",
+    "created_at": "2024-12-12T16:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T17:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1867250299959697498"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 7,
+          "tag": "XG"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1448636764722118659",
+          "start": 11,
+          "username": "XGOfficial_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1WtBMNqLmZ",
+          "end": 47,
+          "expanded_url": "https://x.com/hellozj0412/status/1867250299959697498/photo/1",
+          "media_key": "3_1867250142010564608",
+          "start": 24,
+          "url": "https://t.co/1WtBMNqLmZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867250299959697498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最满意的一集 #XG @XGOfficial_ https://t.co/1WtBMNqLmZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1992,
+        "media_key": "3_1867250142010564608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GenOHG1WYAAc1EP.jpg",
+        "width": 1494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867250142010564608"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1867250299959697498",
+        "created_at": "2024-12-12T16:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T17:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867250299959697498"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "XG"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1448636764722118659",
+              "start": 11,
+              "username": "XGOfficial_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1WtBMNqLmZ",
+              "end": 47,
+              "expanded_url": "https://x.com/hellozj0412/status/1867250299959697498/photo/1",
+              "media_key": "3_1867250142010564608",
+              "start": 24,
+              "url": "https://t.co/1WtBMNqLmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867250299959697498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最满意的一集 #XG @XGOfficial_ https://t.co/1WtBMNqLmZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 57,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 97
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-14T13:09:43.000Z",
+        "description": "XG’s 2nd Mini Album ‘AWE’\n2024.11.08 FRI\nhttps://t.co/WBytIksGOh\n\n#XG #XGALX",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 66,
+                "tag": "XG"
+              },
+              {
+                "end": 76,
+                "start": 70,
+                "tag": "XGALX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xgalx.com/xg/xg-2ndminia…",
+                "end": 64,
+                "expanded_url": "https://xgalx.com/xg/xg-2ndminialbum/",
+                "start": 41,
+                "url": "https://t.co/WBytIksGOh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xgalx.com/en/xg/",
+                "end": 23,
+                "expanded_url": "https://xgalx.com/en/xg/",
+                "start": 0,
+                "url": "https://t.co/2HC34hICmR"
+              }
+            ]
+          }
+        },
+        "id": "1448636764722118659",
+        "name": "XG OFFICIAL",
+        "pinned_tweet_id": "1854812353700708826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851187312010674177/qQwNDmrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470290,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 1214,
+          "media_count": 1957,
+          "tweet_count": 3072
+        },
+        "url": "https://t.co/2HC34hICmR",
+        "username": "XGOfficial_",
+        "verified": true
+      }
+    ]
+  }
+}

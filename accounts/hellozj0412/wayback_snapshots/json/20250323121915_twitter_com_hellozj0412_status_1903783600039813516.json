@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1903783600039813516",
+    "created_at": "2025-03-23T12:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T13:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903783600039813516"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/godbottlexd/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/godbottlexd/status/1903364317040492861",
+          "start": 6,
+          "url": "https://t.co/RLMiFSo2fx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903783600039813516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903364317040492861",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "重开很关键 https://t.co/RLMiFSo2fx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1903364312804233216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmobwg7aEAAQmUt.jpg",
+        "width": 674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1903783600039813516",
+        "created_at": "2025-03-23T12:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T13:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903783600039813516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godbottlexd/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/godbottlexd/status/1903364317040492861",
+              "start": 6,
+              "url": "https://t.co/RLMiFSo2fx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903783600039813516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903364317040492861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重开很关键 https://t.co/RLMiFSo2fx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903364312804233216"
+          ]
+        },
+        "author_id": "1664970844026867713",
+        "conversation_id": "1903364317040492861",
+        "created_at": "2025-03-22T08:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T09:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903364317040492861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8zQqAAiExU",
+              "end": 23,
+              "expanded_url": "https://x.com/GodBottleXD/status/1903364317040492861/photo/1",
+              "media_key": "3_1903364312804233216",
+              "start": 0,
+              "url": "https://t.co/8zQqAAiExU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903364317040492861",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 452768,
+          "like_count": 5172,
+          "quote_count": 21,
+          "reply_count": 42,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8zQqAAiExU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 75,
+          "like_count": 1822,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 735
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T12:23:12.000Z",
+        "description": "让银河燃烧吧",
+        "id": "1664970844026867713",
+        "name": "GodBottleXD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664972571111202817/5c2-gyNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 131,
+          "like_count": 454,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 922
+        },
+        "username": "GodBottleXD",
+        "verified": false
+      }
+    ]
+  }
+}

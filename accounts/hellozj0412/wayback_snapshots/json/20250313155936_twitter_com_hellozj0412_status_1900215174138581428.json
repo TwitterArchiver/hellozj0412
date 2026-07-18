@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1900215174138581428",
+    "created_at": "2025-03-13T15:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T16:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900215174138581428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cracker6865910…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/cracker68659106/status/1896747139717599612",
+          "start": 2,
+          "url": "https://t.co/zxzD32gxCY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900215174138581428",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896747139717599612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "香 https://t.co/zxzD32gxCY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1896747126983737344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlKZdmybwAAfkCp.jpg",
+        "width": 1764
+      },
+      {
+        "height": 1802,
+        "media_key": "3_1896747126983651328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlKZdmyacAA9cEr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1896747126979481600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlKZdmxa0AA0dg7.jpg",
+        "width": 1788
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1896747127172186112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlKZdnfXQAAAKks.jpg",
+        "width": 1892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1900215174138581428",
+        "created_at": "2025-03-13T15:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T16:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900215174138581428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cracker6865910…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/cracker68659106/status/1896747139717599612",
+              "start": 2,
+              "url": "https://t.co/zxzD32gxCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900215174138581428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896747139717599612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "香 https://t.co/zxzD32gxCY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896747126983737344",
+            "3_1896747126983651328",
+            "3_1896747126979481600",
+            "3_1896747127172186112"
+          ]
+        },
+        "author_id": "1363439095532331011",
+        "conversation_id": "1896747139717599612",
+        "created_at": "2025-03-04T02:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T03:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896747139717599612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i74tONCpPR",
+              "end": 36,
+              "expanded_url": "https://x.com/Cracker68659106/status/1896747139717599612/photo/1",
+              "media_key": "3_1896747126983737344",
+              "start": 13,
+              "url": "https://t.co/i74tONCpPR"
+            },
+            {
+              "display_url": "pic.x.com/i74tONCpPR",
+              "end": 36,
+              "expanded_url": "https://x.com/Cracker68659106/status/1896747139717599612/photo/1",
+              "media_key": "3_1896747126983651328",
+              "start": 13,
+              "url": "https://t.co/i74tONCpPR"
+            },
+            {
+              "display_url": "pic.x.com/i74tONCpPR",
+              "end": 36,
+              "expanded_url": "https://x.com/Cracker68659106/status/1896747139717599612/photo/1",
+              "media_key": "3_1896747126979481600",
+              "start": 13,
+              "url": "https://t.co/i74tONCpPR"
+            },
+            {
+              "display_url": "pic.x.com/i74tONCpPR",
+              "end": 36,
+              "expanded_url": "https://x.com/Cracker68659106/status/1896747139717599612/photo/1",
+              "media_key": "3_1896747127172186112",
+              "start": 13,
+              "url": "https://t.co/i74tONCpPR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896747139717599612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 565,
+          "impression_count": 32381,
+          "like_count": 1942,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "近期涩图和擦边图也是有了 https://t.co/i74tONCpPR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 76,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 577
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T10:43:24.000Z",
+        "description": "绝望是一种常态",
+        "id": "1363439095532331011",
+        "location": "LIMBO",
+        "name": "Pipeb💣",
+        "pinned_tweet_id": "1835299070195200175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900056333841543169/Firq61V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65776,
+          "following_count": 252,
+          "like_count": 15913,
+          "listed_count": 216,
+          "media_count": 2143,
+          "tweet_count": 7298
+        },
+        "username": "Cracker68659106",
+        "verified": false
+      }
+    ]
+  }
+}

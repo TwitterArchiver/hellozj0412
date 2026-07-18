@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1914665463784804764",
+    "created_at": "2025-04-22T14:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T15:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914687456063930865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843618227160518656",
+          "start": 0,
+          "username": "pingguozhi111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914687456063930865",
+    "in_reply_to_user_id": "1843618227160518656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914665463784804764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingguozhi111 传奇受虐狂是吧😇，我有这精力爱谁不好，最后竹篮打水一场空我找谁哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1914665463784804764",
+        "created_at": "2025-04-22T14:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T15:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914687456063930865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843618227160518656",
+              "start": 0,
+              "username": "pingguozhi111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914687456063930865",
+        "in_reply_to_user_id": "1843618227160518656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914665463784804764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingguozhi111 传奇受虐狂是吧😇，我有这精力爱谁不好，最后竹篮打水一场空我找谁哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843618227160518656",
+        "conversation_id": "1914665463784804764",
+        "created_at": "2025-04-22T12:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T13:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914665463784804764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914665463784804764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1105,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "别再说拧巴的人需要一个赶不走的爱人了  那🦐人犯是不是还需要一个传奇耐杀王  没钱的人是不是还需要一个不会报j的银行 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 86,
+          "like_count": 2817,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 924
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T11:43:52.000Z",
+        "description": "阴暗恶毒的小老鼠一只 欢迎光临我的下水道^ ^",
+        "id": "1843618227160518656",
+        "location": "茧",
+        "name": "苹果汁🧃重度依赖",
+        "pinned_tweet_id": "1900131195108942078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904908229420998658/JkY7D4ow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2986,
+          "following_count": 612,
+          "like_count": 13273,
+          "listed_count": 10,
+          "media_count": 323,
+          "tweet_count": 3962
+        },
+        "username": "pingguozhi111",
+        "verified": false
+      }
+    ]
+  }
+}

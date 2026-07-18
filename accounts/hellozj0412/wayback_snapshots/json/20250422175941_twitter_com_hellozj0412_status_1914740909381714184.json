@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1914684820845711623",
+    "created_at": "2025-04-22T17:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T18:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914740909381714184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1805510900100870144",
+          "start": 0,
+          "username": "sss766s5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914740909381714184",
+    "in_reply_to_user_id": "1805510900100870144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914705193469440184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sss766s5 emm，脑子闪过很多抽象和具象的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1914684820845711623",
+        "created_at": "2025-04-22T17:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T18:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914740909381714184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805510900100870144",
+              "start": 0,
+              "username": "sss766s5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914740909381714184",
+        "in_reply_to_user_id": "1805510900100870144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914705193469440184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss766s5 emm，脑子闪过很多抽象和具象的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805510900100870144",
+        "conversation_id": "1914684820845711623",
+        "created_at": "2025-04-22T15:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T16:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914705193469440184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914705193469440184",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914684820845711623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 比如？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 86,
+          "like_count": 2827,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 928
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T07:58:52.000Z",
+        "description": "#抽象大赛小井街道赛区业余组少儿团体铜奖\n#哪有dom这么爱笑的\n#网友见面的夜晚怒讲地理卷子\n#给sub安排任务让她考上一本\n#模仿孙悟空骂sub调情",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 0,
+                "tag": "抽象大赛小井街道赛区业余组少儿团体铜奖"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "tag": "哪有dom这么爱笑的"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "tag": "网友见面的夜晚怒讲地理卷子"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "tag": "给sub安排任务让她考上一本"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "tag": "模仿孙悟空骂sub调情"
+              }
+            ]
+          }
+        },
+        "id": "1805510900100870144",
+        "location": "魔仙堡",
+        "name": "别笑了T老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825479568364650496/4FEuPIZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 179,
+          "like_count": 2535,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1136
+        },
+        "username": "sss766s5",
+        "verified": false
+      }
+    ]
+  }
+}

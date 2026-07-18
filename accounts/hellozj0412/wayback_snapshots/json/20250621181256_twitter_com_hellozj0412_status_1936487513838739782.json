@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936487371874160640"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1936487513838739782",
+    "created_at": "2025-06-21T18:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T19:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936487513838739782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SO8ybdeuOq",
+          "end": 80,
+          "expanded_url": "https://x.com/hellozj0412/status/1936487513838739782/photo/1",
+          "media_key": "3_1936487371874160640",
+          "start": 57,
+          "url": "https://t.co/SO8ybdeuOq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936487513838739782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我已经爱上北京涮羊肉蘸麻酱，炫了东来顺又炫了聚宝源（吃聚宝源根本来不及拍照，火速吃了起来….大馋丫头你无敌了呀👍 https://t.co/SO8ybdeuOq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1936487371874160640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt_JATiW0AAwbJP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936487371874160640"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1936487513838739782",
+        "created_at": "2025-06-21T18:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T19:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936487513838739782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SO8ybdeuOq",
+              "end": 80,
+              "expanded_url": "https://x.com/hellozj0412/status/1936487513838739782/photo/1",
+              "media_key": "3_1936487371874160640",
+              "start": 57,
+              "url": "https://t.co/SO8ybdeuOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936487513838739782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经爱上北京涮羊肉蘸麻酱，炫了东来顺又炫了聚宝源（吃聚宝源根本来不及拍照，火速吃了起来….大馋丫头你无敌了呀👍 https://t.co/SO8ybdeuOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 110,
+          "like_count": 4299,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1392
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

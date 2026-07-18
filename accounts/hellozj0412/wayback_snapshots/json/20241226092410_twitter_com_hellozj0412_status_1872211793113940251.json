@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871891655667695616"
+      ],
+      "media_source_tweet_id": [
+        "1871891666866667932"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1872211793113940251",
+    "created_at": "2024-12-26T09:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T10:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872211793113940251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1716310941581668354",
+          "start": 3,
+          "username": "GirlPinteresti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SrD3Gbc0jZ",
+          "end": 43,
+          "expanded_url": "https://x.com/GirlPinteresti/status/1871891666866667932/photo/1",
+          "media_key": "3_1871891655667695616",
+          "start": 20,
+          "url": "https://t.co/SrD3Gbc0jZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872211793113940251",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871891666866667932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GirlPinteresti: https://t.co/SrD3Gbc0jZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_1871891655667695616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfpLiwoXQAArkGG.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871891655667695616"
+          ],
+          "media_source_tweet_id": [
+            "1871891666866667932"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1872211793113940251",
+        "created_at": "2024-12-26T09:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T10:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872211793113940251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1716310941581668354",
+              "start": 3,
+              "username": "GirlPinteresti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SrD3Gbc0jZ",
+              "end": 43,
+              "expanded_url": "https://x.com/GirlPinteresti/status/1871891666866667932/photo/1",
+              "media_key": "3_1871891655667695616",
+              "start": 20,
+              "url": "https://t.co/SrD3Gbc0jZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872211793113940251",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871891666866667932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GirlPinteresti: https://t.co/SrD3Gbc0jZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871891655667695616"
+          ]
+        },
+        "author_id": "1716310941581668354",
+        "conversation_id": "1871891666866667932",
+        "created_at": "2024-12-25T12:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T13:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871891666866667932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SrD3Gbc0jZ",
+              "end": 23,
+              "expanded_url": "https://x.com/GirlPinteresti/status/1871891666866667932/photo/1",
+              "media_key": "3_1871891655667695616",
+              "start": 0,
+              "url": "https://t.co/SrD3Gbc0jZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871891666866667932",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 44183,
+          "like_count": 1159,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SrD3Gbc0jZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 63,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 361
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T04:29:59.000Z",
+        "description": "💗🧚🏻‍♀️ 💞🪷 🪄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "snapchat.com/add/ibloggerri",
+                "end": 23,
+                "expanded_url": "https://www.snapchat.com/add/ibloggerri",
+                "start": 0,
+                "url": "https://t.co/w6POZPvObR"
+              }
+            ]
+          }
+        },
+        "id": "1716310941581668354",
+        "location": "للتواصل والإعلان خاص ",
+        "name": "GIRL PINTEREST 𐙚",
+        "pinned_tweet_id": "1864652459055952366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789714784520122368/a7GoVbG4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129336,
+          "following_count": 39,
+          "like_count": 1163,
+          "listed_count": 32,
+          "media_count": 2247,
+          "tweet_count": 3204
+        },
+        "url": "https://t.co/w6POZPvObR",
+        "username": "GirlPinteresti",
+        "verified": true
+      }
+    ]
+  }
+}

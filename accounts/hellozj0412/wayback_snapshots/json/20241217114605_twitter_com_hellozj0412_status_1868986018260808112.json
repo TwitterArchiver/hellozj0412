@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868985980490817536"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1868986018260808112",
+    "created_at": "2024-12-17T11:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T12:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868986018260808112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G09OGWHO7i",
+          "end": 48,
+          "expanded_url": "https://x.com/hellozj0412/status/1868986018260808112/photo/1",
+          "media_key": "3_1868985980490817536",
+          "start": 25,
+          "url": "https://t.co/G09OGWHO7i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868986018260808112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟朋友一起住就会变成米虫😽等她下班一起去吃吃喝喝 https://t.co/G09OGWHO7i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1868985980490817536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge_42NFXIAAb1Sx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868985980490817536"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1868986018260808112",
+        "created_at": "2024-12-17T11:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T12:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868986018260808112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G09OGWHO7i",
+              "end": 48,
+              "expanded_url": "https://x.com/hellozj0412/status/1868986018260808112/photo/1",
+              "media_key": "3_1868985980490817536",
+              "start": 25,
+              "url": "https://t.co/G09OGWHO7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868986018260808112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟朋友一起住就会变成米虫😽等她下班一起去吃吃喝喝 https://t.co/G09OGWHO7i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 63,
+          "like_count": 694,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 195
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

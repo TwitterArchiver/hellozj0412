@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2019069393280569498",
+    "created_at": "2026-02-04T15:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T16:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019069393280569498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1816105634179534848",
+          "start": 3,
+          "username": "sevensand7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019069393280569498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 139
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018874538570981511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sevensand7: 写作是一种很好的用来袒露脆弱的方式，因为你终究会意识到这个世界并不准允直白的脆弱，而是被天真的无聊和温吞的乐观牵着绳子。但假如你绕着弯说同一件事，加上一点点修辞和结构，人们就会被在外的东西吸引，忽略掉脆弱本身。你也就能达成释放脆弱的目的，而不是让…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2019069393280569498",
+        "created_at": "2026-02-04T15:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019069393280569498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1816105634179534848",
+              "start": 3,
+              "username": "sevensand7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019069393280569498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 139
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018874538570981511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sevensand7: 写作是一种很好的用来袒露脆弱的方式，因为你终究会意识到这个世界并不准允直白的脆弱，而是被天真的无聊和温吞的乐观牵着绳子。但假如你绕着弯说同一件事，加上一点点修辞和结构，人们就会被在外的东西吸引，忽略掉脆弱本身。你也就能达成释放脆弱的目的，而不是让…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816105634179534848",
+        "conversation_id": "2018874538570981511",
+        "created_at": "2026-02-04T02:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T03:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018874538570981511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018874538570981511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 22472,
+          "like_count": 878,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "写作是一种很好的用来袒露脆弱的方式，因为你终究会意识到这个世界并不准允直白的脆弱，而是被天真的无聊和温吞的乐观牵着绳子。但假如你绕着弯说同一件事，加上一点点修辞和结构，人们就会被在外的东西吸引，忽略掉脆弱本身。你也就能达成释放脆弱的目的，而不是让它在身体里横冲直撞到最后毁灭一切。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 116,
+          "like_count": 5079,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 1801
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T13:38:30.000Z",
+        "description": "无论你以怎样的姿态沉入水中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sevensand",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sevensand",
+                "start": 0,
+                "url": "https://t.co/njTONSv2Zn"
+              }
+            ]
+          }
+        },
+        "id": "1816105634179534848",
+        "location": "提问箱 ——",
+        "name": "七尺沙地和她孕育的孩子",
+        "pinned_tweet_id": "1959893696754897185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014242802549583872/w4UL_Bn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 317,
+          "like_count": 26963,
+          "listed_count": 8,
+          "media_count": 858,
+          "tweet_count": 8208
+        },
+        "url": "https://t.co/njTONSv2Zn",
+        "username": "sevensand7",
+        "verified": false
+      }
+    ]
+  }
+}

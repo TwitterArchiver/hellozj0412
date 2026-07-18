@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904009249774305280"
+      ],
+      "media_source_tweet_id": [
+        "1904009253167468890"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1904198898408698208",
+    "created_at": "2025-03-24T15:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T16:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904198898408698208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1598872816560246784",
+          "start": 3,
+          "username": "akanei6no_Sora"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0PwifCUR8O",
+          "end": 60,
+          "expanded_url": "https://x.com/akanei6no_Sora/status/1904009253167468890/photo/1",
+          "media_key": "3_1904009249774305280",
+          "start": 37,
+          "url": "https://t.co/0PwifCUR8O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904198898408698208",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 550
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904009253167468890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akanei6no_Sora: Skeb thank you❣️ https://t.co/0PwifCUR8O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1391,
+        "media_key": "3_1904009249774305280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmxmUyXbAAA7UbF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904009249774305280"
+          ],
+          "media_source_tweet_id": [
+            "1904009253167468890"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1904198898408698208",
+        "created_at": "2025-03-24T15:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T16:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904198898408698208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1598872816560246784",
+              "start": 3,
+              "username": "akanei6no_Sora"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0PwifCUR8O",
+              "end": 60,
+              "expanded_url": "https://x.com/akanei6no_Sora/status/1904009253167468890/photo/1",
+              "media_key": "3_1904009249774305280",
+              "start": 37,
+              "url": "https://t.co/0PwifCUR8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904198898408698208",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 550
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904009253167468890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akanei6no_Sora: Skeb thank you❣️ https://t.co/0PwifCUR8O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904009249774305280"
+          ]
+        },
+        "author_id": "1598872816560246784",
+        "conversation_id": "1904009253167468890",
+        "created_at": "2025-03-24T03:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T04:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904009253167468890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0PwifCUR8O",
+              "end": 40,
+              "expanded_url": "https://x.com/akanei6no_Sora/status/1904009253167468890/photo/1",
+              "media_key": "3_1904009249774305280",
+              "start": 17,
+              "url": "https://t.co/0PwifCUR8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904009253167468890",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 689,
+          "impression_count": 83287,
+          "like_count": 5834,
+          "quote_count": 48,
+          "reply_count": 7,
+          "retweet_count": 550
+        },
+        "reply_settings": "everyone",
+        "text": "Skeb thank you❣️ https://t.co/0PwifCUR8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 76,
+          "like_count": 1869,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 760
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T02:53:13.000Z",
+        "description": "血とSMが好きです。あれな絵を描きます。\nSkeb‣‣https://t.co/52Qf2eE4dM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@akanei6no_Sora",
+                "end": 50,
+                "expanded_url": "https://skeb.jp/@akanei6no_Sora",
+                "start": 27,
+                "url": "https://t.co/52Qf2eE4dM"
+              }
+            ]
+          }
+        },
+        "id": "1598872816560246784",
+        "name": "夜坂",
+        "pinned_tweet_id": "1901139170296557582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893971544025489408/Z_hy7F9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55007,
+          "following_count": 39,
+          "like_count": 4037,
+          "listed_count": 98,
+          "media_count": 63,
+          "tweet_count": 4466
+        },
+        "username": "akanei6no_Sora",
+        "verified": true
+      }
+    ]
+  }
+}

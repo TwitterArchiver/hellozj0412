@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1916758949396619305",
+    "created_at": "2025-04-28T07:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T08:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916760792176681206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1363439095532331011",
+          "start": 0,
+          "username": "Cracker68659106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916760792176681206",
+    "in_reply_to_user_id": "1363439095532331011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916759490126581967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cracker68659106 目前的状态be like此图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 873,
+        "media_key": "3_1916759485043142656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpmymKHbcAAzcrq.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1916758949396619305",
+        "created_at": "2025-04-28T07:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T08:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916760792176681206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1363439095532331011",
+              "start": 0,
+              "username": "Cracker68659106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916760792176681206",
+        "in_reply_to_user_id": "1363439095532331011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916759490126581967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cracker68659106 目前的状态be like此图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916759485043142656"
+          ]
+        },
+        "author_id": "1363439095532331011",
+        "conversation_id": "1916758949396619305",
+        "created_at": "2025-04-28T07:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T08:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916759490126581967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/amgUOEKs8B",
+              "end": 23,
+              "expanded_url": "https://x.com/Cracker68659106/status/1916759490126581967/photo/1",
+              "media_key": "3_1916759485043142656",
+              "start": 0,
+              "url": "https://t.co/amgUOEKs8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916759490126581967",
+        "in_reply_to_user_id": "1363439095532331011",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916758949396619305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/amgUOEKs8B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 90,
+          "like_count": 2966,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 959
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T10:43:24.000Z",
+        "description": "人外oc有，nsfw有，隨緣更新。业余，问我我也不会画啊",
+        "id": "1363439095532331011",
+        "location": "LIMBO",
+        "name": "Pipebomb",
+        "pinned_tweet_id": "1916441876137476577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913945330317737984/aFpP__Fq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66759,
+          "following_count": 259,
+          "like_count": 16559,
+          "listed_count": 220,
+          "media_count": 2201,
+          "tweet_count": 7611
+        },
+        "username": "Cracker68659106",
+        "verified": false
+      }
+    ]
+  }
+}

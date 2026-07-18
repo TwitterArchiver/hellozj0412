@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1896186886449975550",
+    "created_at": "2025-03-03T00:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T01:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896350439630921855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1590695308463288321",
+          "start": 0,
+          "username": "acclzd_clz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896350439630921855",
+    "in_reply_to_user_id": "1590695308463288321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896186886449975550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acclzd_clz 车厘子我们喜欢你，太会写了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1896186848499654657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlCb5GyW4AEBWuG.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1896186886449975550",
+        "created_at": "2025-03-03T00:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T01:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896350439630921855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1590695308463288321",
+              "start": 0,
+              "username": "acclzd_clz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896350439630921855",
+        "in_reply_to_user_id": "1590695308463288321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896186886449975550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acclzd_clz 车厘子我们喜欢你，太会写了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896186848499654657"
+          ]
+        },
+        "author_id": "1590695308463288321",
+        "conversation_id": "1896186886449975550",
+        "created_at": "2025-03-02T13:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T14:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896186886449975550"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "一爱"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男鬼"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "触手"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hqdTNWNSM",
+              "end": 51,
+              "expanded_url": "https://x.com/acclzd_clz/status/1896186886449975550/photo/1",
+              "media_key": "3_1896186848499654657",
+              "start": 28,
+              "url": "https://t.co/0hqdTNWNSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896186886449975550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 15857,
+          "like_count": 261,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "羞涩的成年男鬼很喜欢对你表白呢\n#一爱 #男鬼 #触手 https://t.co/0hqdTNWNSM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 69,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 514
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T13:18:17.000Z",
+        "description": "无墙内账号 骂我没财运 不回定制打赏以外私信☝️关评论为 推广 ☝️请自辩 ☝️不是台本娘 不授权哈 VPN https://t.co/wvkOROMgAd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.one/#/register?cod…",
+                "end": 78,
+                "expanded_url": "https://tw01.damoplane.one/#/register?code=Fa954Y7z",
+                "start": 55,
+                "url": "https://t.co/wvkOROMgAd"
+              }
+            ]
+          }
+        },
+        "id": "1590695308463288321",
+        "location": "流量来流量来",
+        "name": "荞麦厘子（年上制造者",
+        "pinned_tweet_id": "1894718848324255849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887405012529389570/u14SCDTG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59041,
+          "following_count": 48,
+          "like_count": 6906,
+          "listed_count": 58,
+          "media_count": 234,
+          "tweet_count": 927
+        },
+        "username": "acclzd_clz",
+        "verified": false
+      }
+    ]
+  }
+}

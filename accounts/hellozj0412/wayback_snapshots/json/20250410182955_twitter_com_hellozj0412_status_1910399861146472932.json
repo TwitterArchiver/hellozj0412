@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1909960735201059139",
+    "created_at": "2025-04-10T18:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T19:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910399861146472932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1642905398847102978",
+          "start": 0,
+          "username": "Carolina520520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910399861146472932",
+    "in_reply_to_user_id": "1642905398847102978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909960735201059139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Carolina520520 有时候残缺也是一种美啊…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1909960735201059139",
+        "created_at": "2025-04-10T18:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T19:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910399861146472932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1642905398847102978",
+              "start": 0,
+              "username": "Carolina520520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910399861146472932",
+        "in_reply_to_user_id": "1642905398847102978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909960735201059139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Carolina520520 有时候残缺也是一种美啊…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642905398847102978",
+        "conversation_id": "1909960735201059139",
+        "created_at": "2025-04-09T13:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T14:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909960735201059139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909960735201059139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 37620,
+          "like_count": 367,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "老公是个帅帅的哑巴\n不会花言巧语 却会真心爱你 在每一次你说想吃什么东西想要什么礼物的时候 都默默买来给你\n在床上面对你的呻吟和挣扎 也是默默地埋头苦干 说不出口的爱意都化作了床上的持续\n你恨他是个不会说爱的哑巴 却发现他边操你边把嘴唇凑了上来 眼睛亮亮的 小狗一样看着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 84,
+          "like_count": 2486,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1000
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T15:02:37.000Z",
+        "description": "sub｜我的文字会说话｜Daddy @cccc5426 ｜🩷推广请自辨 ｜日常碎碎念@caro521521",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "cccc5426"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "caro521521"
+              }
+            ]
+          }
+        },
+        "id": "1642905398847102978",
+        "name": "哆咪",
+        "pinned_tweet_id": "1909961183869673663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784097619628978176/QrtuElXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31274,
+          "following_count": 182,
+          "like_count": 1626,
+          "listed_count": 65,
+          "media_count": 123,
+          "tweet_count": 1235
+        },
+        "username": "Carolina520520",
+        "verified": false
+      }
+    ]
+  }
+}

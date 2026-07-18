@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1904119936991002970",
+    "created_at": "2025-03-24T16:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T17:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904207479329714653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1748655374238916609",
+          "start": 0,
+          "username": "dhsiidje"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904207479329714653",
+    "in_reply_to_user_id": "1748655374238916609",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904119936991002970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dhsiidje 爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1904119936991002970",
+        "created_at": "2025-03-24T16:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T17:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904207479329714653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1748655374238916609",
+              "start": 0,
+              "username": "dhsiidje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904207479329714653",
+        "in_reply_to_user_id": "1748655374238916609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904119936991002970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dhsiidje 爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748655374238916609",
+        "conversation_id": "1904119936991002970",
+        "created_at": "2025-03-24T10:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T11:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904119936991002970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904119936991002970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4034,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你不喜欢我了吗？我不闹小脾气了，不能不要我好吗？不要抛弃我好不好？我错了，求求你不要离开我，我不惹你生气了，我不想再没人要了，理理我吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 76,
+          "like_count": 1876,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 762
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T10:35:51.000Z",
+        "description": "哪天可能不讲话",
+        "id": "1748655374238916609",
+        "name": "假妆",
+        "pinned_tweet_id": "1843607428002394502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807381540244234240/tCDEUcZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 240,
+          "like_count": 46072,
+          "listed_count": 2,
+          "media_count": 490,
+          "tweet_count": 8368
+        },
+        "username": "dhsiidje",
+        "verified": false
+      }
+    ]
+  }
+}

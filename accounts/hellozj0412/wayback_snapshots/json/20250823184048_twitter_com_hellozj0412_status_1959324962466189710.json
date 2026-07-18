@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1959280559215321397",
+    "created_at": "2025-08-23T18:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T19:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959324962466189710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1853087949359058944",
+          "start": 0,
+          "username": "xizhou_03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959324962466189710",
+    "in_reply_to_user_id": "1853087949359058944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959280559215321397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xizhou_03 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1959280559215321397",
+        "created_at": "2025-08-23T18:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T19:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959324962466189710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1853087949359058944",
+              "start": 0,
+              "username": "xizhou_03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959324962466189710",
+        "in_reply_to_user_id": "1853087949359058944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959280559215321397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xizhou_03 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853087949359058944",
+        "conversation_id": "1959280559215321397",
+        "created_at": "2025-08-23T15:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T16:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959280559215321397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959280559215321397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4324,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不告诉我也没关系。我知道很多焦虑对你来说难以克服，也许反问和认知强化的过程仍然没法让你坦诚，但我说了没关系。我很喜欢那些乱七八糟的声音，喜欢你失去管理的表情，喜欢你把不满意的身体部分也朝我展示，我希望我表现得明显，你能感觉到我好喜欢好喜欢。我愿意比你更先接纳它们，哪怕你没有要求。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 119,
+          "like_count": 5306,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1748
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T14:53:07.000Z",
+        "description": "le/dom1",
+        "id": "1853087949359058944",
+        "name": "燕西洲",
+        "pinned_tweet_id": "1932469642381123670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905700366668513280/LFkDX-mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6912,
+          "following_count": 19,
+          "like_count": 992,
+          "listed_count": 4,
+          "media_count": 64,
+          "tweet_count": 361
+        },
+        "username": "xizhou_03",
+        "verified": false
+      }
+    ]
+  }
+}

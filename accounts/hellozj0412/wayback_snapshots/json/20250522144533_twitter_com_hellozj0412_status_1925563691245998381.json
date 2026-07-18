@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925563682396016640",
+        "3_1925563682354089984"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1925563691245998381",
+    "created_at": "2025-05-22T14:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T15:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925563691245998381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zRiXmXAx9x",
+          "end": 39,
+          "expanded_url": "https://x.com/hellozj0412/status/1925563691245998381/photo/1",
+          "media_key": "3_1925563682396016640",
+          "start": 16,
+          "url": "https://t.co/zRiXmXAx9x"
+        },
+        {
+          "display_url": "pic.x.com/zRiXmXAx9x",
+          "end": 39,
+          "expanded_url": "https://x.com/hellozj0412/status/1925563691245998381/photo/1",
+          "media_key": "3_1925563682354089984",
+          "start": 16,
+          "url": "https://t.co/zRiXmXAx9x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925563691245998381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国胃就是下车第一顿先吃麻辣烫 https://t.co/zRiXmXAx9x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925563682396016640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grj595GbkAAwUMS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925563682354089984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grj5948b0AAhjw8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925563682396016640",
+            "3_1925563682354089984"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1925563691245998381",
+        "created_at": "2025-05-22T14:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T15:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925563691245998381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRiXmXAx9x",
+              "end": 39,
+              "expanded_url": "https://x.com/hellozj0412/status/1925563691245998381/photo/1",
+              "media_key": "3_1925563682396016640",
+              "start": 16,
+              "url": "https://t.co/zRiXmXAx9x"
+            },
+            {
+              "display_url": "pic.x.com/zRiXmXAx9x",
+              "end": 39,
+              "expanded_url": "https://x.com/hellozj0412/status/1925563691245998381/photo/1",
+              "media_key": "3_1925563682354089984",
+              "start": 16,
+              "url": "https://t.co/zRiXmXAx9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925563691245998381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国胃就是下车第一顿先吃麻辣烫 https://t.co/zRiXmXAx9x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 101,
+          "like_count": 3858,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1200
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

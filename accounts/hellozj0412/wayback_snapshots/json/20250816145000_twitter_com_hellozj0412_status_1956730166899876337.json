@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956347855545024512"
+      ],
+      "media_source_tweet_id": [
+        "1956347866047553999"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1956730166899876337",
+    "created_at": "2025-08-16T14:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T15:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956730166899876337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3257468552",
+          "start": 3,
+          "username": "_KANGCONO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YcqFhwrXtq",
+          "end": 41,
+          "expanded_url": "https://x.com/_KANGCONO/status/1956347866047553999/photo/1",
+          "media_key": "3_1956347855545024512",
+          "start": 18,
+          "url": "https://t.co/YcqFhwrXtq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956730166899876337",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 844
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956347866047553999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_KANGCONO: 🕷️ https://t.co/YcqFhwrXtq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956347855545024512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZYAmrbwAAEi5E.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956347855545024512"
+          ],
+          "media_source_tweet_id": [
+            "1956347866047553999"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1956730166899876337",
+        "created_at": "2025-08-16T14:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956730166899876337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3257468552",
+              "start": 3,
+              "username": "_KANGCONO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YcqFhwrXtq",
+              "end": 41,
+              "expanded_url": "https://x.com/_KANGCONO/status/1956347866047553999/photo/1",
+              "media_key": "3_1956347855545024512",
+              "start": 18,
+              "url": "https://t.co/YcqFhwrXtq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956730166899876337",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 844
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956347866047553999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_KANGCONO: 🕷️ https://t.co/YcqFhwrXtq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956347855545024512"
+          ]
+        },
+        "author_id": "3257468552",
+        "conversation_id": "1956347866047553999",
+        "created_at": "2025-08-15T13:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T14:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956347866047553999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YcqFhwrXtq",
+              "end": 26,
+              "expanded_url": "https://x.com/_KANGCONO/status/1956347866047553999/photo/1",
+              "media_key": "3_1956347855545024512",
+              "start": 3,
+              "url": "https://t.co/YcqFhwrXtq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956347866047553999",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 996,
+          "impression_count": 105093,
+          "like_count": 9344,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 844
+        },
+        "reply_settings": "everyone",
+        "text": "🕷️ https://t.co/YcqFhwrXtq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 119,
+          "like_count": 5227,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1730
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-27T06:35:28.000Z",
+        "description": "✉️ ozooxo@naver.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KANGCONO",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KANGCONO",
+                "start": 0,
+                "url": "https://t.co/tZ1wrKIOh0"
+              }
+            ]
+          }
+        },
+        "id": "3257468552",
+        "name": "영주 KANGCONO",
+        "pinned_tweet_id": "1955968553615835399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786002516460851200/ctxATt1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75554,
+          "following_count": 85,
+          "like_count": 9245,
+          "listed_count": 297,
+          "media_count": 28,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/tZ1wrKIOh0",
+        "username": "_KANGCONO",
+        "verified": false
+      }
+    ]
+  }
+}

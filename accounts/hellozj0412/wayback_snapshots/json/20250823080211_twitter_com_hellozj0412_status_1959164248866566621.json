@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1959164248866566621",
+    "created_at": "2025-08-23T08:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T09:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959164248866566621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1907823563979313152",
+          "start": 3,
+          "username": "Ellaquieresalir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959164248866566621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958850721056538761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ellaquieresalir: 看了下🍠上总结的上海dating现状，感觉自己要晕船了，人生中第一次见到那么多ship。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1959164248866566621",
+        "created_at": "2025-08-23T08:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T09:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959164248866566621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1907823563979313152",
+              "start": 3,
+              "username": "Ellaquieresalir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959164248866566621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958850721056538761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ellaquieresalir: 看了下🍠上总结的上海dating现状，感觉自己要晕船了，人生中第一次见到那么多ship。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907823563979313152",
+        "conversation_id": "1958850721056538761",
+        "created_at": "2025-08-22T11:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T12:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958850721056538761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958850721056538761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4044,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看了下🍠上总结的上海dating现状，感觉自己要晕船了，人生中第一次见到那么多ship。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 119,
+          "like_count": 5300,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1747
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T15:52:45.000Z",
+        "description": "不要来这里，这里有流沙还有浪。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ellaquieresalir",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ellaquieresalir",
+                "start": 0,
+                "url": "https://t.co/2rHq3a94fd"
+              }
+            ]
+          }
+        },
+        "id": "1907823563979313152",
+        "location": "0.1km",
+        "name": "爱死亡冰塊和熄灭的烟头",
+        "pinned_tweet_id": "1945523552834224287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955360672142807040/BVz7SllG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 219,
+          "like_count": 6675,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/2rHq3a94fd",
+        "username": "Ellaquieresalir",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1919564876562706623",
+    "created_at": "2025-05-06T11:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T12:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919713916608745836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1694372773341343744",
+          "start": 0,
+          "username": "Aerina167531"
+        },
+        {
+          "end": 29,
+          "id": "1867539520771829761",
+          "start": 14,
+          "username": "KAIHEDENIMASIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919713916608745836",
+    "in_reply_to_user_id": "1694372773341343744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919574152236728709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aerina167531 @KAIHEDENIMASIL 现在我真坐上了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1919564876562706623",
+        "created_at": "2025-05-06T11:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T12:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919713916608745836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1694372773341343744",
+              "start": 0,
+              "username": "Aerina167531"
+            },
+            {
+              "end": 29,
+              "id": "1867539520771829761",
+              "start": 14,
+              "username": "KAIHEDENIMASIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919713916608745836",
+        "in_reply_to_user_id": "1694372773341343744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919574152236728709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aerina167531 @KAIHEDENIMASIL 现在我真坐上了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694372773341343744",
+        "conversation_id": "1919564876562706623",
+        "created_at": "2025-05-06T02:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T03:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919574152236728709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867539520771829761",
+              "start": 0,
+              "username": "KAIHEDENIMASIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919574152236728709",
+        "in_reply_to_user_id": "1867539520771829761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919564876562706623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KAIHEDENIMASIL 进大学的时候已经被告知选专业就像在泰坦尼克号上选座位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 92,
+          "like_count": 3286,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1068
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T15:36:38.000Z",
+        "description": "我的树洞\n挂个箱子https://t.co/v8VwjVrpQ0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aerina36475",
+                "end": 32,
+                "expanded_url": "https://ngl.link/aerina36475",
+                "start": 9,
+                "url": "https://t.co/v8VwjVrpQ0"
+              }
+            ]
+          }
+        },
+        "id": "1694372773341343744",
+        "name": "芝礼云",
+        "pinned_tweet_id": "1857111876540502226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900012349094006784/1yFUrgxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 61,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 600
+        },
+        "username": "Aerina167531",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T11:58:21.000Z",
+        "description": "ENTP 一个分享生活碎碎念的小女孩 不爱看就滚远点 除互关不加v了 钞能力除外",
+        "id": "1867539520771829761",
+        "location": "喜欢我请打钱。不要光在私信叫宝贝。🫥",
+        "name": "爆浆奶黄包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906855925740359680/HST9OKBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10935,
+          "following_count": 792,
+          "like_count": 24803,
+          "listed_count": 8,
+          "media_count": 366,
+          "tweet_count": 6036
+        },
+        "username": "KAIHEDENIMASIL",
+        "verified": false
+      }
+    ]
+  }
+}

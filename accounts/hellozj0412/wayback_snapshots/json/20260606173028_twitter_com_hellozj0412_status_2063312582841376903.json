@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063170586550116353"
+      ],
+      "media_source_tweet_id": [
+        "2063170594087329889"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "2063312582841376903",
+    "created_at": "2026-06-06T17:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063312582841376903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2052038674683146241",
+          "start": 3,
+          "username": "Ankyo_0411"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mJ2GTneh02",
+          "end": 66,
+          "expanded_url": "https://x.com/Ankyo_0411/status/2063170594087329889/photo/1",
+          "media_key": "3_2063170586550116353",
+          "start": 43,
+          "url": "https://t.co/mJ2GTneh02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063312582841376903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063170594087329889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ankyo_0411: 每天打开社交软件看到别人都在幸福的我be like： https://t.co/mJ2GTneh02"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2063170586550116353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHat6JaoAEhxF3.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063170586550116353"
+          ],
+          "media_source_tweet_id": [
+            "2063170594087329889"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "2063312582841376903",
+        "created_at": "2026-06-06T17:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063312582841376903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052038674683146241",
+              "start": 3,
+              "username": "Ankyo_0411"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJ2GTneh02",
+              "end": 66,
+              "expanded_url": "https://x.com/Ankyo_0411/status/2063170594087329889/photo/1",
+              "media_key": "3_2063170586550116353",
+              "start": 43,
+              "url": "https://t.co/mJ2GTneh02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063312582841376903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063170594087329889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ankyo_0411: 每天打开社交软件看到别人都在幸福的我be like： https://t.co/mJ2GTneh02"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063170586550116353"
+          ]
+        },
+        "author_id": "2052038674683146241",
+        "conversation_id": "2063170594087329889",
+        "created_at": "2026-06-06T08:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063170594087329889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJ2GTneh02",
+              "end": 50,
+              "expanded_url": "https://x.com/Ankyo_0411/status/2063170594087329889/photo/1",
+              "media_key": "3_2063170586550116353",
+              "start": 27,
+              "url": "https://t.co/mJ2GTneh02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063170594087329889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3429,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "每天打开社交软件看到别人都在幸福的我be like： https://t.co/mJ2GTneh02"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 120,
+          "like_count": 5155,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1850
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T14:54:12.000Z",
+        "description": "阿五里推秽土转生中\n07 ESFJ 白羊\n🏠徐州↔️南京🎒\n喜欢和你分享所有事",
+        "id": "2052038674683146241",
+        "name": "离过婚知道怎么疼男人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061857967314698240/CkgubMXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 110,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 106
+        },
+        "username": "Ankyo_0411",
+        "verified": false
+      }
+    ]
+  }
+}

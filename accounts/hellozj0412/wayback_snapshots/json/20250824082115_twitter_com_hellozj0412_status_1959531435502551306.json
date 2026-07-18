@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1959531435502551306",
+    "created_at": "2025-08-24T08:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T09:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959531435502551306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zq_8964/status…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/zq_8964/status/1959476246561313066",
+          "start": 21,
+          "url": "https://t.co/HylXV2TzzI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959531435502551306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959476246561313066",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每一次迈进画室的时候都能一直处于心流状态 https://t.co/HylXV2TzzI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1959531435502551306",
+        "created_at": "2025-08-24T08:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T09:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959531435502551306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zq_8964/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/zq_8964/status/1959476246561313066",
+              "start": 21,
+              "url": "https://t.co/HylXV2TzzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959531435502551306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959476246561313066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每一次迈进画室的时候都能一直处于心流状态 https://t.co/HylXV2TzzI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077246570800631808",
+        "conversation_id": "1959476246561313066",
+        "created_at": "2025-08-24T04:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T05:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959476246561313066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whatsgo8205917…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/whatsgo82059172/status/1737390877205762224",
+              "start": 94,
+              "url": "https://t.co/6ewnarHpAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959476246561313066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1737390877205762224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "画画可以让大部分人迅速进入 心流状态   甚至无关技术的好坏 无关专业与否 心流状态让人很舒服 对我来说甚至是一种放松大脑的方式 画画的时候脑子里只要思考画画这一件事 其他事情都抛之脑后 https://t.co/6ewnarHpAu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 119,
+          "like_count": 5320,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1752
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-24T16:56:11.000Z",
+        "description": "7433/不怎么上/有的时候会屏蔽或者取关又关注别人，没有恶意纯自己整理信息",
+        "id": "1077246570800631808",
+        "location": "中国",
+        "name": "广结骟缘（学语言版）",
+        "pinned_tweet_id": "1957956928489025819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959483216584409088/nm8uB3gf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 1134,
+          "like_count": 3396,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 4296
+        },
+        "username": "ZQ_8964",
+        "verified": false
+      }
+    ]
+  }
+}

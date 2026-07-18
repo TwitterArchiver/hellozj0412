@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896123183172038656"
+      ],
+      "media_source_tweet_id": [
+        "1896123205179625946"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1896189355540324537",
+    "created_at": "2025-03-02T13:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T14:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896189355540324537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gJBXcWHjzJ",
+          "end": 50,
+          "expanded_url": "https://x.com/hgds01/status/1896123205179625946/photo/1",
+          "media_key": "3_1896123183172038656",
+          "start": 27,
+          "url": "https://t.co/gJBXcWHjzJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896189355540324537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896123205179625946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds01: 嘴上没关系 然后自己偷偷内耗 https://t.co/gJBXcWHjzJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_1896123183172038656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlBh_S9aMAAtlv3.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896123183172038656"
+          ],
+          "media_source_tweet_id": [
+            "1896123205179625946"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1896189355540324537",
+        "created_at": "2025-03-02T13:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T14:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896189355540324537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJBXcWHjzJ",
+              "end": 50,
+              "expanded_url": "https://x.com/hgds01/status/1896123205179625946/photo/1",
+              "media_key": "3_1896123183172038656",
+              "start": 27,
+              "url": "https://t.co/gJBXcWHjzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896189355540324537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896123205179625946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds01: 嘴上没关系 然后自己偷偷内耗 https://t.co/gJBXcWHjzJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896123183172038656"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1896123205179625946",
+        "created_at": "2025-03-02T08:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T09:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896123205179625946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJBXcWHjzJ",
+              "end": 38,
+              "expanded_url": "https://x.com/hgds01/status/1896123205179625946/photo/1",
+              "media_key": "3_1896123183172038656",
+              "start": 15,
+              "url": "https://t.co/gJBXcWHjzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896123205179625946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7717,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "嘴上没关系 然后自己偷偷内耗 https://t.co/gJBXcWHjzJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 69,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 510
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "‼️广告自辩‼️/感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删/自用VPN👉https://t.co/ZLKkKdfNhU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tw02.damoplane.one/#/register?cod…",
+                "end": 85,
+                "expanded_url": "https://tw02.damoplane.one/#/register?code=WE2Wrjl5",
+                "start": 62,
+                "url": "https://t.co/ZLKkKdfNhU"
+              }
+            ]
+          }
+        },
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1895905596324659385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65869,
+          "following_count": 2881,
+          "like_count": 41639,
+          "listed_count": 85,
+          "media_count": 1640,
+          "tweet_count": 5878
+        },
+        "username": "hgds01",
+        "verified": false
+      }
+    ]
+  }
+}

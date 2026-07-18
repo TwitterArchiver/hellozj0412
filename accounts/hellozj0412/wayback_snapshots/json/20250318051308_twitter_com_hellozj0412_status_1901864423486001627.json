@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901424290886713344"
+      ],
+      "media_source_tweet_id": [
+        "1901424296343617770"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1901864423486001627",
+    "created_at": "2025-03-18T05:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T06:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901864423486001627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1315321715052830722",
+          "start": 3,
+          "username": "i0RnrQ5Y18E0cN3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NcbRIy8Gfp",
+          "end": 51,
+          "expanded_url": "https://x.com/i0RnrQ5Y18E0cN3/status/1901424296343617770/photo/1",
+          "media_key": "3_1901424290886713344",
+          "start": 28,
+          "url": "https://t.co/NcbRIy8Gfp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901864423486001627",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12135
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901424296343617770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i0RnrQ5Y18E0cN3: いい鯵だろ〜 https://t.co/NcbRIy8Gfp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1490,
+        "media_key": "3_1901424290886713344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmM3UYGaAAAwxUD.jpg",
+        "width": 1299
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901424290886713344"
+          ],
+          "media_source_tweet_id": [
+            "1901424296343617770"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1901864423486001627",
+        "created_at": "2025-03-18T05:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T06:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901864423486001627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1315321715052830722",
+              "start": 3,
+              "username": "i0RnrQ5Y18E0cN3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcbRIy8Gfp",
+              "end": 51,
+              "expanded_url": "https://x.com/i0RnrQ5Y18E0cN3/status/1901424296343617770/photo/1",
+              "media_key": "3_1901424290886713344",
+              "start": 28,
+              "url": "https://t.co/NcbRIy8Gfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901864423486001627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901424296343617770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i0RnrQ5Y18E0cN3: いい鯵だろ〜 https://t.co/NcbRIy8Gfp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901424290886713344"
+          ]
+        },
+        "author_id": "1315321715052830722",
+        "conversation_id": "1901424296343617770",
+        "created_at": "2025-03-17T00:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T01:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901424296343617770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcbRIy8Gfp",
+              "end": 30,
+              "expanded_url": "https://x.com/i0RnrQ5Y18E0cN3/status/1901424296343617770/photo/1",
+              "media_key": "3_1901424290886713344",
+              "start": 7,
+              "url": "https://t.co/NcbRIy8Gfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901424296343617770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4339,
+          "impression_count": 1949525,
+          "like_count": 108736,
+          "quote_count": 139,
+          "reply_count": 74,
+          "retweet_count": 12135
+        },
+        "reply_settings": "everyone",
+        "text": "いい鯵だろ〜 https://t.co/NcbRIy8Gfp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 81,
+          "like_count": 1667,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 648
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-11T16:02:08.000Z",
+        "description": "2025年◉京都個展5月27日〜6月1日祇園小舎（祇園四条通）◉名古屋個展9月22日〜10月4日中善画材（西尾市）◉銀座個展11月12日〜18日ギャラリー銀座（銀座2丁目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/yutaka.murakam…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/yutaka.murakami.3994",
+                "start": 0,
+                "url": "https://t.co/mH45b7iFG5"
+              }
+            ]
+          }
+        },
+        "id": "1315321715052830722",
+        "name": "村上ゆたか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809800175512350720/Z3qSY4oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40997,
+          "following_count": 404,
+          "like_count": 6597,
+          "listed_count": 390,
+          "media_count": 385,
+          "tweet_count": 2413
+        },
+        "url": "https://t.co/mH45b7iFG5",
+        "username": "i0RnrQ5Y18E0cN3",
+        "verified": false
+      }
+    ]
+  }
+}

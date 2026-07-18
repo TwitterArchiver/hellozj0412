@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1945852000048144501",
+    "created_at": "2025-07-17T14:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T15:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945852000048144501"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945852000048144501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很长一段时间发生的种种好像是旧课题未完成又新增内容但是其实方向都走错了的感觉，我脑中存在了半年之久的脑雾在某一刻突然拨开云雾见天明了，我曾经抗拒面对的都站在我旁边与我拥抱对我安抚，至此我才明白那些曾经张牙舞爪使我惊惧的只是着急向我指引方向，那时我没看清，往反方向跑走了很远"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1945852000048144501",
+        "created_at": "2025-07-17T14:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T15:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945852000048144501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945852000048144501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很长一段时间发生的种种好像是旧课题未完成又新增内容但是其实方向都走错了的感觉，我脑中存在了半年之久的脑雾在某一刻突然拨开云雾见天明了，我曾经抗拒面对的都站在我旁边与我拥抱对我安抚，至此我才明白那些曾经张牙舞爪使我惊惧的只是着急向我指引方向，那时我没看清，往反方向跑走了很远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 113,
+          "like_count": 4709,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1585
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

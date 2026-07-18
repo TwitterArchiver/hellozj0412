@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1844381150057464109",
+    "created_at": "2024-12-20T05:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T06:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869982361015795976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600438389605429251",
+          "start": 0,
+          "username": "duojiaoyutouyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869982361015795976",
+    "in_reply_to_user_id": "1600438389605429251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844381150057464109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duojiaoyutouyu 明恋是什么意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1844381150057464109",
+        "created_at": "2024-12-20T05:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T06:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869982361015795976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600438389605429251",
+              "start": 0,
+              "username": "duojiaoyutouyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869982361015795976",
+        "in_reply_to_user_id": "1600438389605429251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844381150057464109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duojiaoyutouyu 明恋是什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1844381144802041857"
+          ]
+        },
+        "author_id": "1600438389605429251",
+        "conversation_id": "1844381150057464109",
+        "created_at": "2024-10-10T14:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T15:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844381150057464109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sMoXnNybwU",
+              "end": 34,
+              "expanded_url": "https://x.com/duojiaoyutouyu/status/1844381150057464109/photo/1",
+              "media_key": "3_1844381144802041857",
+              "start": 11,
+              "url": "https://t.co/sMoXnNybwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844381150057464109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 39497,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好像还有很多事可以干 https://t.co/sMoXnNybwU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 61,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 281
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T10:33:52.000Z",
+        "description": "愿者上钩 | 台本娘 | 随缘更新 定制私信 | 录本自取 仅限于推上并艾特我 | 商用需本人许可 | 独家和定制不可录制 | 点梗请投https://t.co/BuUuhPv2K0 | 🚫代入现实生活 | 搬运的一辈子发不了财 |  犯贱的一律当傻逼处理 | gl gb bg皆可代，🈲代bl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gyii10640",
+                "end": 91,
+                "expanded_url": "https://ngl.link/gyii10640",
+                "start": 68,
+                "url": "https://t.co/BuUuhPv2K0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "duojiaoyutou.fanbox.cc/posts",
+                "end": 23,
+                "expanded_url": "https://duojiaoyutou.fanbox.cc/posts",
+                "start": 0,
+                "url": "https://t.co/NxFzCCQhuy"
+              }
+            ]
+          }
+        },
+        "id": "1600438389605429251",
+        "location": "地球",
+        "name": "剁椒鱼头🐟（死人微活）",
+        "pinned_tweet_id": "1776288265978728848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865204729053335552/_iyly7wk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35845,
+          "following_count": 164,
+          "like_count": 15070,
+          "listed_count": 65,
+          "media_count": 422,
+          "tweet_count": 6512
+        },
+        "url": "https://t.co/NxFzCCQhuy",
+        "username": "duojiaoyutouyu",
+        "verified": false
+      }
+    ]
+  }
+}

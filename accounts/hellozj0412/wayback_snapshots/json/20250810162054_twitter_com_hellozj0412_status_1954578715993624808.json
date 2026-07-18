@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1954510372272275511",
+    "created_at": "2025-08-10T16:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T17:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954578715993624808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1420430141738524674",
+          "start": 0,
+          "username": "RiderOnHeroine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954578715993624808",
+    "in_reply_to_user_id": "1420430141738524674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954510372272275511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RiderOnHeroine 嗯嗯嗯嗯！我也喜欢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1954510372272275511",
+        "created_at": "2025-08-10T16:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T17:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954578715993624808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1420430141738524674",
+              "start": 0,
+              "username": "RiderOnHeroine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954578715993624808",
+        "in_reply_to_user_id": "1420430141738524674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954510372272275511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RiderOnHeroine 嗯嗯嗯嗯！我也喜欢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420430141738524674",
+        "conversation_id": "1954510372272275511",
+        "created_at": "2025-08-10T11:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T12:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954510372272275511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954510372272275511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 764,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真挺喜欢nerd型的为什么大家不喜欢呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 119,
+          "like_count": 5143,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1700
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T17:05:20.000Z",
+        "description": "匿名提问https://t.co/Sz8nF7K14A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rideronheroine…",
+                "end": 27,
+                "expanded_url": "https://ngl.link/rideronheroine11",
+                "start": 4,
+                "url": "https://t.co/Sz8nF7K14A"
+              }
+            ]
+          }
+        },
+        "id": "1420430141738524674",
+        "name": "术士",
+        "pinned_tweet_id": "1911823217481920602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515210638280527872/8fsTRxJq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16365,
+          "following_count": 8,
+          "like_count": 30,
+          "listed_count": 39,
+          "media_count": 51,
+          "tweet_count": 182
+        },
+        "username": "RiderOnHeroine",
+        "verified": false
+      }
+    ]
+  }
+}

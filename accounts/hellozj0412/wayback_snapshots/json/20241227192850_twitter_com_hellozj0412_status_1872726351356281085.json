@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1872671588765831667",
+    "created_at": "2024-12-27T19:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T20:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872726351356281085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1180026205518610432",
+          "start": 0,
+          "username": "XiuJingDe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872726351356281085",
+    "in_reply_to_user_id": "1180026205518610432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872671588765831667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiuJingDe OK了你现在直接成为麦霸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1872671588765831667",
+        "created_at": "2024-12-27T19:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T20:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872726351356281085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1180026205518610432",
+              "start": 0,
+              "username": "XiuJingDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872726351356281085",
+        "in_reply_to_user_id": "1180026205518610432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872671588765831667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiuJingDe OK了你现在直接成为麦霸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872671383203028992"
+          ]
+        },
+        "author_id": "1180026205518610432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1872671588765831667",
+        "created_at": "2024-12-27T15:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T16:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872671588765831667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rYfizlJdkR",
+              "end": 86,
+              "expanded_url": "https://x.com/XiuJingDe/status/1872671588765831667/photo/1",
+              "media_key": "3_1872671383203028992",
+              "start": 63,
+              "url": "https://t.co/rYfizlJdkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872671588765831667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 544,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想了想明天ktv要叫谁一起去，发现我没有能叫的朋友，马上进入难过状态的边缘时突然又想起来我不是打算一个人去ktv吗为啥要叫人 https://t.co/rYfizlJdkR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 63,
+          "like_count": 1180,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 397
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-04T07:45:52.000Z",
+        "description": "我们一定要变成这样吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=mTipXYKH",
+                "start": 0,
+                "url": "https://t.co/DEYf5Ds15O"
+              }
+            ]
+          }
+        },
+        "id": "1180026205518610432",
+        "location": "自用vpn↓",
+        "name": "修靖德",
+        "pinned_tweet_id": "1714981050299089268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696804794051264514/sv1iZcQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19564,
+          "following_count": 198,
+          "like_count": 22303,
+          "listed_count": 29,
+          "media_count": 1308,
+          "tweet_count": 24381
+        },
+        "url": "https://t.co/DEYf5Ds15O",
+        "username": "XiuJingDe",
+        "verified": false
+      }
+    ]
+  }
+}

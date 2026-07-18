@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1902385165571391785",
+    "created_at": "2025-03-19T16:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T17:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902399055596073149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584061393543626752",
+          "start": 0,
+          "username": "borzoisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902399055596073149",
+    "in_reply_to_user_id": "1584061393543626752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902385165571391785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@borzoisama 好可爱！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1902385154783621120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmahOBDasAAdzMH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1902385165571391785",
+        "created_at": "2025-03-19T16:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T17:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902399055596073149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584061393543626752",
+              "start": 0,
+              "username": "borzoisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902399055596073149",
+        "in_reply_to_user_id": "1584061393543626752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902385165571391785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@borzoisama 好可爱！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902385154783621120"
+          ]
+        },
+        "author_id": "1584061393543626752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1902385165571391785",
+        "created_at": "2025-03-19T15:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T16:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902385165571391785"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "菜狗",
+              "probability": 0.7094,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f2AlWo51Oq",
+              "end": 29,
+              "expanded_url": "https://x.com/borzoisama/status/1902385165571391785/photo/1",
+              "media_key": "3_1902385154783621120",
+              "start": 6,
+              "url": "https://t.co/f2AlWo51Oq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902385165571391785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "菜狗在此！ https://t.co/f2AlWo51Oq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 82,
+          "like_count": 1724,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 684
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T05:57:34.000Z",
+        "description": "掐死我好吗｜垃圾桶@bor_zoii｜匿名箱 https://t.co/vkMnCkNP33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "bor_zoii"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hai_butsu",
+                "end": 46,
+                "expanded_url": "https://ngl.link/hai_butsu",
+                "start": 23,
+                "url": "https://t.co/vkMnCkNP33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=OfnVvACr",
+                "start": 0,
+                "url": "https://t.co/MmdFlgQfLH"
+              }
+            ]
+          }
+        },
+        "id": "1584061393543626752",
+        "location": "被子里",
+        "name": "狗sama",
+        "pinned_tweet_id": "1880115263246594124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888152214830796800/L3dMIwTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 139,
+          "like_count": 16920,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 6046
+        },
+        "url": "https://t.co/MmdFlgQfLH",
+        "username": "borzoisama",
+        "verified": false
+      }
+    ]
+  }
+}

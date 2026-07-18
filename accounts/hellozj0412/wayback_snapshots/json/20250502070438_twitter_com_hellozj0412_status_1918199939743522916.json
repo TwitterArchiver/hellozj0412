@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1918039755503354108",
+    "created_at": "2025-05-02T07:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T08:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918199939743522916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1806385013614915584",
+          "start": 0,
+          "username": "ru_wo53937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918199939743522916",
+    "in_reply_to_user_id": "1806385013614915584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918039755503354108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ru_wo53937 什么题啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1918039755503354108",
+        "created_at": "2025-05-02T07:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T08:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918199939743522916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1806385013614915584",
+              "start": 0,
+              "username": "ru_wo53937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918199939743522916",
+        "in_reply_to_user_id": "1806385013614915584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918039755503354108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ru_wo53937 什么题啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806385013614915584",
+        "conversation_id": "1918039755503354108",
+        "created_at": "2025-05-01T20:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T21:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918039755503354108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918039755503354108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和狗做了那个据说陌生人做完都会变情侣的36题。做完最大的感受是。我也太冷漠了。感觉我现在都没什么情绪了，没有谁能引起我剧烈的情绪波动除了我爸妈。我觉得很可怕，我连想真心的爱别人都做不到，什么恋爱的甜蜜什么想要为爱赴汤蹈火的勇气统统没有，也不会为了喜欢谁哭的要死要活。我伤心的情绪都没"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 91,
+          "like_count": 3148,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1007
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T17:52:14.000Z",
+        "description": "",
+        "id": "1806385013614915584",
+        "name": "爱我如呼吸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891769771915403264/sgLM9xE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 57,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 487
+        },
+        "username": "ru_wo53937",
+        "verified": false
+      }
+    ]
+  }
+}

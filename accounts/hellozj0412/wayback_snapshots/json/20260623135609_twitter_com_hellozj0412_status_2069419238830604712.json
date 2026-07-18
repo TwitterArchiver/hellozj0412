@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2069419238830604712",
+    "created_at": "2026-06-23T13:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069419238830604712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chnchn1051161/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/chnchn1051161/status/2069133451186553008",
+          "start": 17,
+          "url": "https://t.co/vUBEmZFYxM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069419238830604712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069133451186553008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我的创伤已经到了无药可救的地步 https://t.co/vUBEmZFYxM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2069419238830604712",
+        "created_at": "2026-06-23T13:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069419238830604712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chnchn1051161/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/chnchn1051161/status/2069133451186553008",
+              "start": 17,
+              "url": "https://t.co/vUBEmZFYxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069419238830604712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069133451186553008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我的创伤已经到了无药可救的地步 https://t.co/vUBEmZFYxM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760227849146191872",
+        "conversation_id": "2069133451186553008",
+        "created_at": "2026-06-22T19:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069133451186553008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069133451186553008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1658,
+          "like_count": 49,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈现在才发现 执着于把话说开是一种情感创伤 这句话是对的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 121,
+          "like_count": 5350,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1895
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T09:00:08.000Z",
+        "description": "07/les🌈/sub\n男的关注我会直接被我拉黑。女孩子们互fo直接私信我呀。很熟的互关可以加微叉。\n讲些乱七八糟的碎碎念。",
+        "id": "1760227849146191872",
+        "name": "木春目民",
+        "pinned_tweet_id": "2066161697895952743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002374885277102080/jan0wEAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 158,
+          "like_count": 4014,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 765
+        },
+        "url": "",
+        "username": "chnchn1051161",
+        "verified": false
+      }
+    ]
+  }
+}

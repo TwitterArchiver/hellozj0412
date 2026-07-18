@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906859740334108672"
+      ],
+      "media_source_tweet_id": [
+        "1906859742628319382"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1906920378166915569",
+    "created_at": "2025-04-01T04:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T05:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906920378166915569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "845834548923416577",
+          "start": 3,
+          "username": "blackcoffee19vn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TY2GAAsDsq",
+          "end": 44,
+          "expanded_url": "https://x.com/blackcoffee19vn/status/1906859742628319382/photo/1",
+          "media_key": "3_1906859740334108672",
+          "start": 21,
+          "url": "https://t.co/TY2GAAsDsq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906920378166915569",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906859742628319382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blackcoffee19vn: https://t.co/TY2GAAsDsq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906859740334108672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnaG1LMbsAAU-bI.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906859740334108672"
+          ],
+          "media_source_tweet_id": [
+            "1906859742628319382"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906920378166915569",
+        "created_at": "2025-04-01T04:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906920378166915569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "845834548923416577",
+              "start": 3,
+              "username": "blackcoffee19vn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TY2GAAsDsq",
+              "end": 44,
+              "expanded_url": "https://x.com/blackcoffee19vn/status/1906859742628319382/photo/1",
+              "media_key": "3_1906859740334108672",
+              "start": 21,
+              "url": "https://t.co/TY2GAAsDsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906920378166915569",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906859742628319382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blackcoffee19vn: https://t.co/TY2GAAsDsq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906859740334108672"
+          ]
+        },
+        "author_id": "845834548923416577",
+        "conversation_id": "1906859742628319382",
+        "created_at": "2025-04-01T00:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T01:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906859742628319382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TY2GAAsDsq",
+              "end": 23,
+              "expanded_url": "https://x.com/blackcoffee19vn/status/1906859742628319382/photo/1",
+              "media_key": "3_1906859740334108672",
+              "start": 0,
+              "url": "https://t.co/TY2GAAsDsq"
+            },
+            {
+              "display_url": "x.com/ChauSidara/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ChauSidara/status/1906755619752657147",
+              "start": 24,
+              "url": "https://t.co/MmRtOS08fd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906859742628319382",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2094,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906755619752657147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/TY2GAAsDsq https://t.co/MmRtOS08fd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 82,
+          "like_count": 2175,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 889
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-26T03:07:26.000Z",
+        "description": "",
+        "id": "845834548923416577",
+        "name": "BlackCoffee🐺XG_AWE",
+        "pinned_tweet_id": "1866130509807694305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894764941732675585/DXtTOPGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 304,
+          "like_count": 29840,
+          "listed_count": 2,
+          "media_count": 646,
+          "tweet_count": 5350
+        },
+        "username": "blackcoffee19vn",
+        "verified": false
+      }
+    ]
+  }
+}

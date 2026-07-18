@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1903692925243912647",
+    "created_at": "2025-03-23T12:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T13:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903782140153676100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1490956030364499970",
+          "start": 0,
+          "username": "Jiu12126220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903782140153676100",
+    "in_reply_to_user_id": "1490956030364499970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903692925243912647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiu12126220 这么牛！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903692911868596224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmtGnf1bUAAW4D3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1903692911717273600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmtGnfRWUAAh2yB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1903692925243912647",
+        "created_at": "2025-03-23T12:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T13:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903782140153676100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1490956030364499970",
+              "start": 0,
+              "username": "Jiu12126220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903782140153676100",
+        "in_reply_to_user_id": "1490956030364499970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903692925243912647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiu12126220 这么牛！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903692911868596224",
+            "3_1903692911717273600"
+          ]
+        },
+        "author_id": "1490956030364499970",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1903692925243912647",
+        "created_at": "2025-03-23T06:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T07:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903692925243912647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G10KbYsHUR",
+              "end": 54,
+              "expanded_url": "https://x.com/Jiu12126220/status/1903692925243912647/photo/1",
+              "media_key": "3_1903692911868596224",
+              "start": 31,
+              "url": "https://t.co/G10KbYsHUR"
+            },
+            {
+              "display_url": "pic.x.com/G10KbYsHUR",
+              "end": 54,
+              "expanded_url": "https://x.com/Jiu12126220/status/1903692925243912647/photo/1",
+              "media_key": "3_1903692911717273600",
+              "start": 31,
+              "url": "https://t.co/G10KbYsHUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903692925243912647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16741,
+          "like_count": 343,
+          "quote_count": 1,
+          "reply_count": 78,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次做马蹄糕超级成功！！！！\n路过的一人夸一句我是天才好吗 https://t.co/G10KbYsHUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 75,
+          "like_count": 1818,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 732
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T07:50:09.000Z",
+        "description": "泥不要再喝酒啦！",
+        "id": "1490956030364499970",
+        "name": "喝了吗",
+        "pinned_tweet_id": "1899488302232735795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854497578215424000/xJxmiQSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 73,
+          "like_count": 1335,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1131
+        },
+        "username": "Jiu12126220",
+        "verified": false
+      }
+    ]
+  }
+}

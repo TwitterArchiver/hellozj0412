@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1919929541469848035",
+    "created_at": "2025-05-07T07:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T08:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920021578319884337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902295194776821760",
+          "start": 0,
+          "username": "ZaynieeI73725"
+        },
+        {
+          "end": 22,
+          "id": "1831042430449471488",
+          "start": 15,
+          "username": "x57688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920021578319884337",
+    "in_reply_to_user_id": "1902295194776821760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919958626988343753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaynieeI73725 @x57688 哈哈哈哈哈哈哈哈对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1919929541469848035",
+        "created_at": "2025-05-07T07:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920021578319884337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902295194776821760",
+              "start": 0,
+              "username": "ZaynieeI73725"
+            },
+            {
+              "end": 22,
+              "id": "1831042430449471488",
+              "start": 15,
+              "username": "x57688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920021578319884337",
+        "in_reply_to_user_id": "1902295194776821760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919958626988343753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaynieeI73725 @x57688 哈哈哈哈哈哈哈哈对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902295194776821760",
+        "conversation_id": "1919929541469848035",
+        "created_at": "2025-05-07T03:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T04:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919958626988343753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831042430449471488",
+              "start": 0,
+              "username": "x57688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919958626988343753",
+        "in_reply_to_user_id": "1831042430449471488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919929541469848035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x57688 取了发现上牙膛一个凹😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 92,
+          "like_count": 3349,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1081
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T09:45:06.000Z",
+        "description": "一个爱好复杂食谱混乱的小女孩。🥺找我玩匿名信好吗：https://t.co/HtZ4V3n00s ❌不线下❌",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iniee48498",
+                "end": 48,
+                "expanded_url": "https://ngl.link/iniee48498",
+                "start": 25,
+                "url": "https://t.co/HtZ4V3n00s"
+              }
+            ]
+          }
+        },
+        "id": "1902295194776821760",
+        "name": "iniee",
+        "pinned_tweet_id": "1913104024171401557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902295425971044352/NufghTYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 113,
+          "like_count": 1026,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 328
+        },
+        "username": "ZaynieeI73725",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T18:52:28.000Z",
+        "description": "。",
+        "id": "1831042430449471488",
+        "name": "香芋派",
+        "pinned_tweet_id": "1911831708326088833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906616397083623424/y65g1_yu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5561,
+          "following_count": 223,
+          "like_count": 12220,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 7300
+        },
+        "username": "x57688",
+        "verified": false
+      }
+    ]
+  }
+}

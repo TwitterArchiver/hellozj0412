@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1902304169320497448",
+    "created_at": "2025-03-19T12:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T13:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902332757511946403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1559411494630326273",
+          "start": 0,
+          "username": "Sean36438836"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902332757511946403",
+    "in_reply_to_user_id": "1559411494630326273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902304169320497448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sean36438836 没在猎奇区里出现已经是你的幸运了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1902304169320497448",
+        "created_at": "2025-03-19T12:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T13:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902332757511946403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1559411494630326273",
+              "start": 0,
+              "username": "Sean36438836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902332757511946403",
+        "in_reply_to_user_id": "1559411494630326273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902304169320497448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sean36438836 没在猎奇区里出现已经是你的幸运了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559411494630326273",
+        "conversation_id": "1902304169320497448",
+        "created_at": "2025-03-19T10:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T11:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902304169320497448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902304169320497448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2696,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实我每次给人发完牛牛，我都会。很难过。会哭。非常奇怪。因为。我老是想，我把最隐私的东西给你看了。你能不能，别离开的那么快。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 82,
+          "like_count": 1719,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 677
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T05:28:33.000Z",
+        "description": "一絲不苟與徹底的精神錯亂僅有一步之遙｜活著，不要違背自己的本心 ｜ 能坚持就坚持｜ 直男｜翻一翻我主页宝宝试试我的考研辅导呢，挣点辛苦钱～",
+        "id": "1559411494630326273",
+        "location": "北京",
+        "name": "春告鳥",
+        "pinned_tweet_id": "1872612429743772158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744288191388307456/B7Jibj4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6382,
+          "following_count": 997,
+          "like_count": 30014,
+          "listed_count": 7,
+          "media_count": 950,
+          "tweet_count": 4325
+        },
+        "username": "Sean36438836",
+        "verified": false
+      }
+    ]
+  }
+}

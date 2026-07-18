@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1907100425146577228",
+    "created_at": "2025-04-01T21:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T22:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907178881578070049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1618878387820576768",
+          "start": 0,
+          "username": "ARC_Cherry0305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907178881578070049",
+    "in_reply_to_user_id": "1618878387820576768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907100425146577228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARC_Cherry0305 汉堡的春天到了是吗👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1907100425146577228",
+        "created_at": "2025-04-01T21:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T22:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907178881578070049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1618878387820576768",
+              "start": 0,
+              "username": "ARC_Cherry0305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907178881578070049",
+        "in_reply_to_user_id": "1618878387820576768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907100425146577228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARC_Cherry0305 汉堡的春天到了是吗👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618878387820576768",
+        "conversation_id": "1907100425146577228",
+        "created_at": "2025-04-01T15:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T16:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907100425146577228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907100425146577228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1480,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近这么多高质量推主关注我\n我又没有好看脸照又没有性感身材发\n只能天天碎碎念 像极了面对小女孩却阳痿的中年男人🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 82,
+          "like_count": 2198,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 900
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T07:47:47.000Z",
+        "description": "Don't want to be part of the world.",
+        "id": "1618878387820576768",
+        "name": "双层吉士汉堡",
+        "pinned_tweet_id": "1633027483040878592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891359283658588160/Ckt9ChId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 201,
+          "like_count": 2389,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 1942
+        },
+        "username": "ARC_Cherry0305",
+        "verified": false
+      }
+    ]
+  }
+}

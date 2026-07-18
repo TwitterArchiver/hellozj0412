@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1931695166072463690",
+    "created_at": "2025-06-08T12:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T13:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931695166072463690"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931695166072463690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "6月开始，做事的效率开始变低，不想看房子不想搬家，不想动，好像是学生时代最后一个假期，想时间慢点，偶尔还会想之后能不能，会不会读博…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1931695166072463690",
+        "created_at": "2025-06-08T12:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T13:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931695166072463690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931695166072463690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6月开始，做事的效率开始变低，不想看房子不想搬家，不想动，好像是学生时代最后一个假期，想时间慢点，偶尔还会想之后能不能，会不会读博…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 109,
+          "like_count": 4216,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1348
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

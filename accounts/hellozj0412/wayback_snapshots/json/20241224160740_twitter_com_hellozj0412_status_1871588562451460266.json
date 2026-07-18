@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1871588562451460266",
+    "created_at": "2024-12-24T16:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T17:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1871588562451460266"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1871588562451460266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每年都很想找一个城市旅居一个月，今年算是正式达成了，并且住了俩个月，明年emmm明年努努力吧，熬过实习期，不对，我offer呢？！！快来啊你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1871588562451460266",
+        "created_at": "2024-12-24T16:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T17:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871588562451460266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871588562451460266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每年都很想找一个城市旅居一个月，今年算是正式达成了，并且住了俩个月，明年emmm明年努努力吧，熬过实习期，不对，我offer呢？！！快来啊你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 63,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 344
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

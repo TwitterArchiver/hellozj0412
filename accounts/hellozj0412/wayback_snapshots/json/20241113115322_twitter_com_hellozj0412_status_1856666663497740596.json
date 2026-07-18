@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1856602189810336086",
+    "created_at": "2024-11-13T11:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T12:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856666663497740596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1774743855109472257",
+          "start": 0,
+          "username": "yy77qe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856666663497740596",
+    "in_reply_to_user_id": "1774743855109472257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856603226218606818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy77qe 你完了你被男同缠上了，很快你的简介里就会改成双了😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1856602189810336086",
+        "created_at": "2024-11-13T11:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T12:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856666663497740596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774743855109472257",
+              "start": 0,
+              "username": "yy77qe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856666663497740596",
+        "in_reply_to_user_id": "1774743855109472257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856603226218606818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy77qe 你完了你被男同缠上了，很快你的简介里就会改成双了😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774743855109472257",
+        "conversation_id": "1856602189810336086",
+        "created_at": "2024-11-13T07:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T08:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856603226218606818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856603226218606818",
+        "in_reply_to_user_id": "1774743855109472257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9970,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856602189810336086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有直男微双是什么东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 49,
+          "like_count": 310,
+          "listed_count": 0,
+          "tweet_count": 36
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T10:21:39.000Z",
+        "description": "🧩 直男 ｜ 自用🪜：https://t.co/bv5DpOb7Jo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 34,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=GG4SQTfh",
+                "start": 11,
+                "url": "https://t.co/bv5DpOb7Jo"
+              }
+            ]
+          }
+        },
+        "id": "1774743855109472257",
+        "name": "77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830171909058936832/j6-2IjFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5600,
+          "following_count": 75,
+          "like_count": 446,
+          "listed_count": 4,
+          "tweet_count": 88
+        },
+        "username": "yy77qe",
+        "verified": false
+      }
+    ]
+  }
+}

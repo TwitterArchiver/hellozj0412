@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1905250848613294448",
+    "created_at": "2025-03-28T02:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T03:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905447958486692045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1197408879136497664",
+          "start": 0,
+          "username": "kuailexiaogou_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905447958486692045",
+    "in_reply_to_user_id": "1197408879136497664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905250848613294448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuailexiaogou_1 腿好直😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905250836269481984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnDPiofbwAAzIyy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1905250848613294448",
+        "created_at": "2025-03-28T02:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T03:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905447958486692045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1197408879136497664",
+              "start": 0,
+              "username": "kuailexiaogou_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905447958486692045",
+        "in_reply_to_user_id": "1197408879136497664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905250848613294448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuailexiaogou_1 腿好直😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905250836269481984"
+          ]
+        },
+        "author_id": "1197408879136497664",
+        "conversation_id": "1905250848613294448",
+        "created_at": "2025-03-27T13:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T14:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905250848613294448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KTys5FS4jI",
+              "end": 60,
+              "expanded_url": "https://x.com/kuailexiaogou_1/status/1905250848613294448/photo/1",
+              "media_key": "3_1905250836269481984",
+              "start": 37,
+              "url": "https://t.co/KTys5FS4jI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905250848613294448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 19908,
+          "like_count": 314,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好龟龟换衣服的时候我就在她家里拍拍拍（小姐姐今天就这样穿得萌萌的出门了） https://t.co/KTys5FS4jI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 76,
+          "like_count": 1980,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 818
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-21T06:58:38.000Z",
+        "description": "碎碎念的地方 ▏只有这一个号 不搞黄 不约 不线下 不聊天 私信骚扰我的我会拉黑▏置顶锁评推广自辨 置顶锁评推广自辨！！！▏推荐我自己长期使用的喵叽VPN加速器 高速稳定🔗https://t.co/S0W4cJ4Xyi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 109,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=lG68rFm0",
+                "start": 86,
+                "url": "https://t.co/S0W4cJ4Xyi"
+              }
+            ]
+          }
+        },
+        "id": "1197408879136497664",
+        "name": "我马上就睡！",
+        "pinned_tweet_id": "1904561511294755054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743261577720000512/k8tMfsH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31261,
+          "following_count": 296,
+          "like_count": 1639,
+          "listed_count": 82,
+          "media_count": 221,
+          "tweet_count": 2018
+        },
+        "username": "kuailexiaogou_1",
+        "verified": false
+      }
+    ]
+  }
+}

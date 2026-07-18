@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1961657789991780469",
+    "created_at": "2025-08-30T05:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T06:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961657789991780469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ln2umerical/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/ln2umerical/status/1961389645864079550",
+          "start": 8,
+          "url": "https://t.co/xYdSyBea15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961657789991780469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961389645864079550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑晕了哈哈哈哈 https://t.co/xYdSyBea15"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1961657789991780469",
+        "created_at": "2025-08-30T05:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T06:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961657789991780469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ln2umerical/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ln2umerical/status/1961389645864079550",
+              "start": 8,
+              "url": "https://t.co/xYdSyBea15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961657789991780469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961389645864079550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑晕了哈哈哈哈 https://t.co/xYdSyBea15"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734598399327088640",
+        "conversation_id": "1961389645864079550",
+        "created_at": "2025-08-29T11:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961389645864079550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961389645864079550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 32001,
+          "like_count": 445,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "对方红着脸问好像摸到了什么东西硬硬的。我说 是我的肝吧，可能喝酒喝硬化了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 119,
+          "like_count": 5349,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1761
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "04/养胃男/想到啥发啥/互关请来加我😽 /恩师lii @Lillcuainil /纯净版@ln2umerical1\n\n年卡12r自用VPN\nhttps://t.co/kZHn0UTG3C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "Lillcuainil"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "ln2umerical1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "性价比机场.com/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://xn--6nq44r2uh9rhj7f.com/#/register?code=gsLtgWTi",
+                "start": 71,
+                "url": "https://t.co/kZHn0UTG3C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/mZpOgIfYSD"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北（恩师lii）",
+        "pinned_tweet_id": "1960304278259552546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734598546262003712/kRkc1y0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7921,
+          "following_count": 301,
+          "like_count": 34788,
+          "listed_count": 13,
+          "media_count": 552,
+          "tweet_count": 21854
+        },
+        "url": "https://t.co/mZpOgIfYSD",
+        "username": "ln2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

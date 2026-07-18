@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1938305844464259559",
+    "created_at": "2025-06-27T09:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T10:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938530095611642151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699685199863316480",
+          "start": 0,
+          "username": "caomeix04231621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938530095611642151",
+    "in_reply_to_user_id": "1699685199863316480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938305844464259559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeix04231621 谁把我性幻想写出来了🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1938305844464259559",
+        "created_at": "2025-06-27T09:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938530095611642151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699685199863316480",
+              "start": 0,
+              "username": "caomeix04231621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938530095611642151",
+        "in_reply_to_user_id": "1699685199863316480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938305844464259559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeix04231621 谁把我性幻想写出来了🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699685199863316480",
+        "conversation_id": "1938305844464259559",
+        "created_at": "2025-06-26T18:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T19:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938305844464259559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938305844464259559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 11165,
+          "like_count": 162,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是不会放弃夹心饼干这个想法的，眼前人含住奶子，身后人就掐着我的脖子接吻，两个人的粗口轮流，眼巴巴求着一个轻一点，另一个就用jb把嘴巴塞满了。捂着眼睛让我猜现在是谁在抽插，脑子里是旁观者的画面，是在回想两个人不同的插入感受，但是答不上来，想要摸一下判断，被十指相扣更加用力了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 109,
+          "like_count": 4343,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1426
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T07:25:18.000Z",
+        "description": "不接推广，不卖置顶，不卖号/文是纯幻想还有一些日常记录/评论区广告不要信/🚪88，纯绿",
+        "id": "1699685199863316480",
+        "name": "椰椰椰椰奶小羊",
+        "pinned_tweet_id": "1886140198968586634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792871309686558720/TBXQXNM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54625,
+          "following_count": 320,
+          "like_count": 6992,
+          "listed_count": 111,
+          "media_count": 328,
+          "tweet_count": 6346
+        },
+        "username": "caomeix04231621",
+        "verified": false
+      }
+    ]
+  }
+}

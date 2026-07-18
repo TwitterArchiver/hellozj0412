@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1919804994804449697",
+    "created_at": "2025-05-06T17:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T18:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919804994804449697"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1919804994804449697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近很想买些新的手冲玩具，但是挑选的时候完全眼花陷入选择困难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1919804994804449697",
+        "created_at": "2025-05-06T17:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T18:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919804994804449697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919804994804449697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近很想买些新的手冲玩具，但是挑选的时候完全眼花陷入选择困难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 92,
+          "like_count": 3304,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1074
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

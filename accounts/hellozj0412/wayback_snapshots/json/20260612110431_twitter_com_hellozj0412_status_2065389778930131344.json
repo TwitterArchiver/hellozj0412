@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2065389778930131344",
+    "created_at": "2026-06-12T11:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065389778930131344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1604337555264180224",
+          "start": 3,
+          "username": "EscritosBlue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065389778930131344",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 850
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065094689456304309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EscritosBlue: es como si\nla vida me \ncastigara \ncada vez \nque amo a\nalguien."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2065389778930131344",
+        "created_at": "2026-06-12T11:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065389778930131344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1604337555264180224",
+              "start": 3,
+              "username": "EscritosBlue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065389778930131344",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 850
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065094689456304309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EscritosBlue: es como si\nla vida me \ncastigara \ncada vez \nque amo a\nalguien."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604337555264180224",
+        "conversation_id": "2065094689456304309",
+        "created_at": "2026-06-11T15:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065094689456304309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065094689456304309",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 41101,
+          "like_count": 2693,
+          "quote_count": 16,
+          "reply_count": 8,
+          "retweet_count": 850
+        },
+        "reply_settings": "everyone",
+        "text": "es como si\nla vida me \ncastigara \ncada vez \nque amo a\nalguien."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 122,
+          "like_count": 5229,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1864
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T04:47:46.000Z",
+        "description": "Bienvenido/a, las mejores frases están acá",
+        "id": "1604337555264180224",
+        "location": "Activa las notificaciones 🔔",
+        "name": "ًً",
+        "pinned_tweet_id": "1606672610573557762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604338858564489219/pp5lO_mH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 3,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 114
+        },
+        "username": "EscritosBlue",
+        "verified": true
+      }
+    ]
+  }
+}

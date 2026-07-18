@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1900331497845854523",
+    "created_at": "2025-03-14T14:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T15:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900557985186726359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "232476685",
+          "start": 0,
+          "username": "shichigoro756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900557985186726359",
+    "in_reply_to_user_id": "232476685",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900334968171356515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shichigoro756 😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1900331497845854523",
+        "created_at": "2025-03-14T14:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T15:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900557985186726359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "232476685",
+              "start": 0,
+              "username": "shichigoro756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900557985186726359",
+        "in_reply_to_user_id": "232476685",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900334968171356515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shichigoro756 😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "232476685",
+        "conversation_id": "1900331497845854523",
+        "created_at": "2025-03-13T23:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T00:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900334968171356515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900334968171356515",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900331497845854523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 ✨☺️✨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 79,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 594
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-31T07:15:56.000Z",
+        "description": "shichigoro official→(@shichigoro_756) ／ AA= Suite #19 MV→https://t.co/hAnxwp7Kqj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "shichigoro_756"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=CeYSLv…",
+                "end": 80,
+                "expanded_url": "https://www.youtube.com/watch?v=CeYSLvmxELU",
+                "start": 57,
+                "url": "https://t.co/hAnxwp7Kqj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shichigoro.com",
+                "end": 23,
+                "expanded_url": "https://www.shichigoro.com",
+                "start": 0,
+                "url": "https://t.co/6RtJS99cIp"
+              }
+            ]
+          }
+        },
+        "id": "232476685",
+        "name": "shichigoro-shingo",
+        "pinned_tweet_id": "1898917924951540065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2745833149/b5ae0cb20f8bcd20c658fab0aa5c3de1_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27889,
+          "following_count": 1179,
+          "like_count": 21545,
+          "listed_count": 291,
+          "media_count": 1184,
+          "tweet_count": 10801
+        },
+        "url": "https://t.co/6RtJS99cIp",
+        "username": "shichigoro756",
+        "verified": false
+      }
+    ]
+  }
+}

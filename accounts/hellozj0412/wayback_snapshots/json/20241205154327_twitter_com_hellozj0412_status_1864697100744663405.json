@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1864530729671250349",
+    "created_at": "2024-12-05T15:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T16:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864697100744663405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815295909271678976",
+          "start": 0,
+          "username": "xiao_yuan233"
+        },
+        {
+          "end": 28,
+          "id": "2326265520",
+          "start": 14,
+          "username": "littlebuggr31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864697100744663405",
+    "in_reply_to_user_id": "1815295909271678976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864608247002615882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_yuan233 @littlebuggr31 woc我非常理解，但我更喜欢AI仿真机器人，《底特律变人》里的那种，emm这辈子应该享受不了那种技术了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1864530729671250349",
+        "created_at": "2024-12-05T15:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T16:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864697100744663405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815295909271678976",
+              "start": 0,
+              "username": "xiao_yuan233"
+            },
+            {
+              "end": 28,
+              "id": "2326265520",
+              "start": 14,
+              "username": "littlebuggr31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864697100744663405",
+        "in_reply_to_user_id": "1815295909271678976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864608247002615882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_yuan233 @littlebuggr31 woc我非常理解，但我更喜欢AI仿真机器人，《底特律变人》里的那种，emm这辈子应该享受不了那种技术了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815295909271678976",
+        "conversation_id": "1864530729671250349",
+        "created_at": "2024-12-05T09:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T10:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864608247002615882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2326265520",
+              "start": 0,
+              "username": "littlebuggr31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864608247002615882",
+        "in_reply_to_user_id": "2326265520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3309,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864530729671250349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlebuggr31 我要非碳基生物的谢谢😋草履虫也行😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 58,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 62
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T08:01:03.000Z",
+        "description": "当pyq发",
+        "id": "1815295909271678976",
+        "name": "王维C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860716341424238592/qCuAA1AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 33,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 173
+        },
+        "username": "xiao_yuan233",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-04T01:06:03.000Z",
+        "description": "参赛的前三名男女推可获得百万流量支持   /   jb大赛主理人    /   接受男女投稿   /  欢迎男女推参赛，让参赛变成一种潮流",
+        "id": "2326265520",
+        "location": "附近的人",
+        "name": "粉",
+        "pinned_tweet_id": "1856919726133580091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765755432449241088/cIUsOirR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106086,
+          "following_count": 165,
+          "like_count": 213,
+          "listed_count": 113,
+          "media_count": 164,
+          "tweet_count": 1009
+        },
+        "username": "littlebuggr31",
+        "verified": false
+      }
+    ]
+  }
+}

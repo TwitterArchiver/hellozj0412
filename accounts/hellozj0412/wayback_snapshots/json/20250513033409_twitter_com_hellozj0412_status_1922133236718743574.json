@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1922131548268102036",
+    "created_at": "2025-05-13T03:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T04:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922133236718743574"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1922133236718743574",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922131548268102036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每次你来敲门，我都惶恐不安的躲在家里，即使确定你已经走了，之后再出门都十分害怕，直到今天你才终于承认你偷藏了我家楼下的门禁卡，但你在几分钟前还在狡辩你只是跟着别人一起进门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1922131548268102036",
+        "created_at": "2025-05-13T03:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T04:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922133236718743574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922133236718743574",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922131548268102036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次你来敲门，我都惶恐不安的躲在家里，即使确定你已经走了，之后再出门都十分害怕，直到今天你才终于承认你偷藏了我家楼下的门禁卡，但你在几分钟前还在狡辩你只是跟着别人一起进门"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1922131548268102036",
+        "created_at": "2025-05-13T03:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T04:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922131548268102036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922131548268102036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对你一丝感情都没有了，你最后做的每一件事情都让我对你感到恐惧，我害怕跟你见面，你完全不能控制自己，我感觉不安全，可是为什么走到这一步了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 94,
+          "like_count": 3544,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1134
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

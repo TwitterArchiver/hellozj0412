@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902053868495892481"
+      ],
+      "media_source_tweet_id": [
+        "1902053887680360530"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1902285981862011088",
+    "created_at": "2025-03-19T09:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T10:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902285981862011088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1457819009777242112",
+          "start": 3,
+          "username": "LUMIEREBELGE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Az2Bn7gHOg",
+          "end": 41,
+          "expanded_url": "https://x.com/LUMIEREBELGE/status/1902053887680360530/photo/1",
+          "media_key": "3_1902053868495892481",
+          "start": 18,
+          "url": "https://t.co/Az2Bn7gHOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902285981862011088",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1304
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902053887680360530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LUMIEREBELGE: https://t.co/Az2Bn7gHOg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1902053868495892481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmVz6nda8AEmL59.jpg",
+        "width": 3087
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902053868495892481"
+          ],
+          "media_source_tweet_id": [
+            "1902053887680360530"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1902285981862011088",
+        "created_at": "2025-03-19T09:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T10:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902285981862011088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1457819009777242112",
+              "start": 3,
+              "username": "LUMIEREBELGE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Az2Bn7gHOg",
+              "end": 41,
+              "expanded_url": "https://x.com/LUMIEREBELGE/status/1902053887680360530/photo/1",
+              "media_key": "3_1902053868495892481",
+              "start": 18,
+              "url": "https://t.co/Az2Bn7gHOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902285981862011088",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1304
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902053887680360530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LUMIEREBELGE: https://t.co/Az2Bn7gHOg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902053868495892481"
+          ]
+        },
+        "author_id": "1457819009777242112",
+        "conversation_id": "1902053887680360530",
+        "created_at": "2025-03-18T17:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T18:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902053887680360530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Az2Bn7gHOg",
+              "end": 23,
+              "expanded_url": "https://x.com/LUMIEREBELGE/status/1902053887680360530/photo/1",
+              "media_key": "3_1902053868495892481",
+              "start": 0,
+              "url": "https://t.co/Az2Bn7gHOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902053887680360530",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 907,
+          "impression_count": 150711,
+          "like_count": 13416,
+          "quote_count": 54,
+          "reply_count": 14,
+          "retweet_count": 1304
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Az2Bn7gHOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 82,
+          "like_count": 1711,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 672
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-08T21:16:15.000Z",
+        "description": "prints https://t.co/Y8ajuTPvQj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inprnt.com/gallery/lumier…",
+                "end": 30,
+                "expanded_url": "https://www.inprnt.com/gallery/lumierebelge/",
+                "start": 7,
+                "url": "https://t.co/Y8ajuTPvQj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/lumierebelge",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/lumierebelge",
+                "start": 0,
+                "url": "https://t.co/7hgIF6rsjH"
+              }
+            ]
+          }
+        },
+        "id": "1457819009777242112",
+        "location": "lumierebelgecontact@gmail.com",
+        "name": "syzygy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881843534036140032/WBoURUlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55212,
+          "following_count": 107,
+          "like_count": 3040,
+          "listed_count": 310,
+          "media_count": 234,
+          "tweet_count": 906
+        },
+        "url": "https://t.co/7hgIF6rsjH",
+        "username": "LUMIEREBELGE",
+        "verified": false
+      }
+    ]
+  }
+}

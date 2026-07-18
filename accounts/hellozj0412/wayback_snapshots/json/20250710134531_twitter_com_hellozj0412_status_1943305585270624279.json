@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1943133210772189242",
+    "created_at": "2025-07-10T13:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T14:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943305585270624279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753470997422878720",
+          "start": 0,
+          "username": "404nocoriander"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943305585270624279",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943175066516328850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@404nocoriander wawawa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1943133210772189242",
+        "created_at": "2025-07-10T13:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T14:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943305585270624279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753470997422878720",
+              "start": 0,
+              "username": "404nocoriander"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943305585270624279",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943175066516328850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404nocoriander wawawa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1943133210772189242",
+        "created_at": "2025-07-10T05:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T06:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943175066516328850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753470997422878720",
+              "start": 0,
+              "username": "404nocoriander"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943175066516328850",
+        "in_reply_to_user_id": "1753470997422878720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943133210772189242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404nocoriander 什么行业的呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 112,
+          "like_count": 4598,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1559
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T17:30:39.000Z",
+        "description": "老公孩子热炕头",
+        "id": "1753470997422878720",
+        "location": "宛平南路600号",
+        "name": "Aaa.精神卫生中心菜医生",
+        "pinned_tweet_id": "1833349563069173894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801577511824068613/Doi4tSWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2689,
+          "following_count": 264,
+          "like_count": 8531,
+          "listed_count": 9,
+          "media_count": 245,
+          "tweet_count": 6056
+        },
+        "username": "404nocoriander",
+        "verified": false
+      }
+    ]
+  }
+}

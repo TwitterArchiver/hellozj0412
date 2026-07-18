@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1903482412681891958",
+    "created_at": "2025-03-23T12:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T13:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903782600583385446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1687517394837905408",
+          "start": 0,
+          "username": "ChestnutKing4ev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903782600583385446",
+    "in_reply_to_user_id": "1687517394837905408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903482412681891958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChestnutKing4ev 咋整的！用的什么产品！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_1903482397393625088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmqHJ8TbIAA9pfy.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1903482412681891958",
+        "created_at": "2025-03-23T12:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T13:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903782600583385446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687517394837905408",
+              "start": 0,
+              "username": "ChestnutKing4ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903782600583385446",
+        "in_reply_to_user_id": "1687517394837905408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903482412681891958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChestnutKing4ev 咋整的！用的什么产品！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903482397393625088"
+          ]
+        },
+        "author_id": "1687517394837905408",
+        "conversation_id": "1903482412681891958",
+        "created_at": "2025-03-22T16:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T17:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903482412681891958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iw8bmHxM86",
+              "end": 82,
+              "expanded_url": "https://x.com/ChestnutKing4ev/status/1903482412681891958/photo/1",
+              "media_key": "3_1903482397393625088",
+              "start": 59,
+              "url": "https://t.co/Iw8bmHxM86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903482412681891958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 13924,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起我不会再对你大小声了eva酸 虽然你伤肝又伤心还让我得唇炎 但是把我黑头也清没了啊啊啊敷完面膜一看好干净的鼻子 https://t.co/Iw8bmHxM86"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 75,
+          "like_count": 1818,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 733
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T17:34:43.000Z",
+        "description": "纯绿｜无🚪｜不线下不接推广｜女宝&互关+v｜私信只接受女孩和180+大奶宽肩窄腰腹肌小帅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chestnutahan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chestnutahan",
+                "start": 0,
+                "url": "https://t.co/Ov0LQDvQrV"
+              }
+            ]
+          }
+        },
+        "id": "1687517394837905408",
+        "name": "栗子大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888237206260830208/ZF8kdYZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5406,
+          "following_count": 213,
+          "like_count": 1313,
+          "listed_count": 9,
+          "media_count": 104,
+          "tweet_count": 1554
+        },
+        "url": "https://t.co/Ov0LQDvQrV",
+        "username": "ChestnutKing4ev",
+        "verified": false
+      }
+    ]
+  }
+}

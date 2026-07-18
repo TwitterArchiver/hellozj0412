@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930518743899099136",
+        "3_1930518743890690048"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1930518811095998643",
+    "created_at": "2025-06-05T06:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T07:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930518811095998643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qAzY1wO6nd",
+          "end": 34,
+          "expanded_url": "https://x.com/hellozj0412/status/1930518811095998643/photo/1",
+          "media_key": "3_1930518743899099136",
+          "start": 11,
+          "url": "https://t.co/qAzY1wO6nd"
+        },
+        {
+          "display_url": "pic.x.com/qAzY1wO6nd",
+          "end": 34,
+          "expanded_url": "https://x.com/hellozj0412/status/1930518811095998643/photo/1",
+          "media_key": "3_1930518743890690048",
+          "start": 11,
+          "url": "https://t.co/qAzY1wO6nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930518811095998643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "麦麦新出的小玩具好萌 https://t.co/qAzY1wO6nd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930518743899099136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsqUkbpW0AAXVYA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930518743890690048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsqUkbnWgAAcRPH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930518743899099136",
+            "3_1930518743890690048"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930518811095998643",
+        "created_at": "2025-06-05T06:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T07:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930518811095998643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAzY1wO6nd",
+              "end": 34,
+              "expanded_url": "https://x.com/hellozj0412/status/1930518811095998643/photo/1",
+              "media_key": "3_1930518743899099136",
+              "start": 11,
+              "url": "https://t.co/qAzY1wO6nd"
+            },
+            {
+              "display_url": "pic.x.com/qAzY1wO6nd",
+              "end": 34,
+              "expanded_url": "https://x.com/hellozj0412/status/1930518811095998643/photo/1",
+              "media_key": "3_1930518743890690048",
+              "start": 11,
+              "url": "https://t.co/qAzY1wO6nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930518811095998643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦麦新出的小玩具好萌 https://t.co/qAzY1wO6nd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 107,
+          "like_count": 4158,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1320
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

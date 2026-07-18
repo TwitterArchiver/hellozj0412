@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1941380609517162545",
+    "created_at": "2025-07-05T12:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T13:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941475091554197792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1839576161707560960",
+          "start": 0,
+          "username": "h_lb225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941475091554197792",
+    "in_reply_to_user_id": "1839576161707560960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941380609517162545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h_lb225 笑死我了，量产式性瘾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1941380609517162545",
+        "created_at": "2025-07-05T12:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T13:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941475091554197792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1839576161707560960",
+              "start": 0,
+              "username": "h_lb225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941475091554197792",
+        "in_reply_to_user_id": "1839576161707560960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941380609517162545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h_lb225 笑死我了，量产式性瘾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839576161707560960",
+        "conversation_id": "1941380609517162545",
+        "created_at": "2025-07-05T06:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T07:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941380609517162545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941380609517162545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6621,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我们天蝎座要被你们性瘾毁了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 112,
+          "like_count": 4502,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1529
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T08:02:07.000Z",
+        "description": "天天发财 不回私信\n很喜欢有趣的人也很喜欢有意思的人\nhttps://t.co/xp7AVnfXdZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lookinmy_eyes",
+                "end": 50,
+                "expanded_url": "https://ngl.link/lookinmy_eyes",
+                "start": 27,
+                "url": "https://t.co/xp7AVnfXdZ"
+              }
+            ]
+          }
+        },
+        "id": "1839576161707560960",
+        "location": "ฅ•ω•ฅ",
+        "name": "唠叨薯条",
+        "pinned_tweet_id": "1842819733789483273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927981039894548480/89qt3a97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 158,
+          "like_count": 1115,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 422
+        },
+        "username": "h_lb225",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2063302051283755438",
+    "created_at": "2026-06-07T16:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063660327166976072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813270237795786760",
+          "start": 0,
+          "username": "li2845057770167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063660327166976072",
+    "in_reply_to_user_id": "1813270237795786760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063507002563924220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li2845057770167 yes！很想尝试新发型，刚好夏天短发也很清爽方便"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2063302051283755438",
+        "created_at": "2026-06-07T16:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063660327166976072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813270237795786760",
+              "start": 0,
+              "username": "li2845057770167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063660327166976072",
+        "in_reply_to_user_id": "1813270237795786760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063507002563924220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li2845057770167 yes！很想尝试新发型，刚好夏天短发也很清爽方便"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813270237795786760",
+        "conversation_id": "2063302051283755438",
+        "created_at": "2026-06-07T06:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063507002563924220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063507002563924220",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063302051283755438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 老师居然换成短发了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 121,
+          "like_count": 5182,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1851
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T17:51:41.000Z",
+        "description": "",
+        "id": "1813270237795786760",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867976143443550209/QKjzWL5-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 778,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "username": "li2845057770167",
+        "verified": false
+      }
+    ]
+  }
+}

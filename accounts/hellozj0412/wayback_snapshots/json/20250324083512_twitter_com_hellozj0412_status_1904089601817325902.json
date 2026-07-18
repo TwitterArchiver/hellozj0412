@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903906137017323520"
+      ],
+      "media_source_tweet_id": [
+        "1903906150963441771"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1904089601817325902",
+    "created_at": "2025-03-24T08:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T09:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904089601817325902"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "xg",
+          "probability": 0.4934,
+          "start": 50,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1774533853006159872",
+          "start": 3,
+          "username": "Hypeboy_Jurin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VmevSO5hIo",
+          "end": 76,
+          "expanded_url": "https://x.com/Hypeboy_Jurin/status/1903906150963441771/photo/1",
+          "media_key": "3_1903906137017323520",
+          "start": 53,
+          "url": "https://t.co/VmevSO5hIo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904089601817325902",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903906150963441771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hypeboy_Jurin: •֊ my favorite headpieces from xg https://t.co/VmevSO5hIo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903906137017323520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmwIi1aakAA70H9.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903906137017323520"
+          ],
+          "media_source_tweet_id": [
+            "1903906150963441771"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1904089601817325902",
+        "created_at": "2025-03-24T08:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T09:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904089601817325902"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "xg",
+              "probability": 0.4934,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1774533853006159872",
+              "start": 3,
+              "username": "Hypeboy_Jurin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmevSO5hIo",
+              "end": 76,
+              "expanded_url": "https://x.com/Hypeboy_Jurin/status/1903906150963441771/photo/1",
+              "media_key": "3_1903906137017323520",
+              "start": 53,
+              "url": "https://t.co/VmevSO5hIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904089601817325902",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903906150963441771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hypeboy_Jurin: •֊ my favorite headpieces from xg https://t.co/VmevSO5hIo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903906137017323520"
+          ]
+        },
+        "author_id": "1774533853006159872",
+        "conversation_id": "1903906150963441771",
+        "created_at": "2025-03-23T20:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T21:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903906150963441771"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "xg",
+              "probability": 0.5193,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmevSO5hIo",
+              "end": 57,
+              "expanded_url": "https://x.com/Hypeboy_Jurin/status/1903906150963441771/photo/1",
+              "media_key": "3_1903906137017323520",
+              "start": 34,
+              "url": "https://t.co/VmevSO5hIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903906150963441771",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4268,
+          "like_count": 323,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "•֊ my favorite headpieces from xg https://t.co/VmevSO5hIo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 76,
+          "like_count": 1855,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 752
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T20:27:22.000Z",
+        "description": "𝚡𝚐 𝚊𝚕𝚕 𝚝𝚑𝚎 𝚠𝚊𝚢 ♡̶",
+        "id": "1774533853006159872",
+        "name": "ΉYPΣBӨY",
+        "pinned_tweet_id": "1883532591187607822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889331980992380928/IdwD091r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6360,
+          "following_count": 1847,
+          "like_count": 169702,
+          "listed_count": 14,
+          "media_count": 4225,
+          "tweet_count": 16832
+        },
+        "username": "Hypeboy_Jurin",
+        "verified": false
+      }
+    ]
+  }
+}

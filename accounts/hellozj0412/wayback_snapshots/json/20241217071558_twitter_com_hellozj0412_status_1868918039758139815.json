@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1868908028092940798",
+    "created_at": "2024-12-17T07:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T08:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868918039758139815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1425118858134777859",
+          "start": 0,
+          "username": "jiubuchifeirou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868918039758139815",
+    "in_reply_to_user_id": "1425118858134777859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868908028092940798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiubuchifeirou 狗狗就是那种生气了一脚踹开还会爬过来舔脚的生物啊☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1868908028092940798",
+        "created_at": "2024-12-17T07:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T08:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868918039758139815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1425118858134777859",
+              "start": 0,
+              "username": "jiubuchifeirou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868918039758139815",
+        "in_reply_to_user_id": "1425118858134777859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868908028092940798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiubuchifeirou 狗狗就是那种生气了一脚踹开还会爬过来舔脚的生物啊☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868908019305865216"
+          ]
+        },
+        "author_id": "1425118858134777859",
+        "conversation_id": "1868908028092940798",
+        "created_at": "2024-12-17T06:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T07:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868908028092940798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qK86uMJVhQ",
+              "end": 34,
+              "expanded_url": "https://x.com/jiubuchifeirou/status/1868908028092940798/photo/1",
+              "media_key": "3_1868908019305865216",
+              "start": 11,
+              "url": "https://t.co/qK86uMJVhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868908028092940798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1178,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "狗一样的男人最爽了。 https://t.co/qK86uMJVhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 63,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 189
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-10T15:37:10.000Z",
+        "description": "黄文碎碎念一体机//作品禁止二传二改//别把我发墙内//转推引用随意//骂我你永远发不了财//一二三四五六爱都来点//别指手画脚//不喜欢吵架 烦我我就b你",
+        "id": "1425118858134777859",
+        "name": "无敌凉拌折耳根（不接推广）",
+        "pinned_tweet_id": "1865861602333094069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850572249868500992/Eiuv2qhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110045,
+          "following_count": 77,
+          "like_count": 9079,
+          "listed_count": 142,
+          "media_count": 404,
+          "tweet_count": 8069
+        },
+        "username": "jiubuchifeirou",
+        "verified": false
+      }
+    ]
+  }
+}

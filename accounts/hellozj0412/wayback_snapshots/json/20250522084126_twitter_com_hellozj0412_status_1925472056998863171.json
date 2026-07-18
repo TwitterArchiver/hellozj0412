@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925354558877741056"
+      ],
+      "media_source_tweet_id": [
+        "1925354569342881942"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1925472056998863171",
+    "created_at": "2025-05-22T08:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T09:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925472056998863171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "977911113319723008",
+          "start": 3,
+          "username": "whitenoisesss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aAInXkWBfg",
+          "end": 56,
+          "expanded_url": "https://x.com/whitenoisesss/status/1925354569342881942/photo/1",
+          "media_key": "3_1925354558877741056",
+          "start": 33,
+          "url": "https://t.co/aAInXkWBfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925472056998863171",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925354569342881942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whitenoisesss: SHE IS UNREAL https://t.co/aAInXkWBfg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1278,
+        "media_key": "3_1925354558877741056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grg7xTSWMAAOl3Y.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925354558877741056"
+          ],
+          "media_source_tweet_id": [
+            "1925354569342881942"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1925472056998863171",
+        "created_at": "2025-05-22T08:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T09:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925472056998863171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "977911113319723008",
+              "start": 3,
+              "username": "whitenoisesss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aAInXkWBfg",
+              "end": 56,
+              "expanded_url": "https://x.com/whitenoisesss/status/1925354569342881942/photo/1",
+              "media_key": "3_1925354558877741056",
+              "start": 33,
+              "url": "https://t.co/aAInXkWBfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925472056998863171",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925354569342881942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whitenoisesss: SHE IS UNREAL https://t.co/aAInXkWBfg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925354558877741056"
+          ]
+        },
+        "author_id": "977911113319723008",
+        "conversation_id": "1925354569342881942",
+        "created_at": "2025-05-22T00:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T01:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925354569342881942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aAInXkWBfg",
+              "end": 37,
+              "expanded_url": "https://x.com/whitenoisesss/status/1925354569342881942/photo/1",
+              "media_key": "3_1925354558877741056",
+              "start": 14,
+              "url": "https://t.co/aAInXkWBfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925354569342881942",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 10610,
+          "like_count": 833,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "SHE IS UNREAL https://t.co/aAInXkWBfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 100,
+          "like_count": 3816,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1189
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-25T14:12:32.000Z",
+        "description": "JURIN ASAYA'S SECRET INTERNET GIRLFRIEND 🌈✨#XG #XGoT7 #CHIJU AWOOOO👽🪬 CHECK OUT THE FULL ALBUM #AWE MILLION PLACES ❤️‍🔥",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 43,
+                "tag": "XG"
+              },
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "XGoT7"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "CHIJU"
+              },
+              {
+                "end": 99,
+                "start": 95,
+                "tag": "AWE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwyourdotCHIJUSUPERIOR.com",
+                "end": 23,
+                "expanded_url": "http://wwwyourdotCHIJUSUPERIOR.com",
+                "start": 0,
+                "url": "https://t.co/7U7K4hM2Fj"
+              }
+            ]
+          }
+        },
+        "id": "977911113319723008",
+        "location": "XG 0318 Boulevard🏳️‍🌈",
+        "name": "Jurin ✮˚.⋆ˣᴳ",
+        "pinned_tweet_id": "1862457773143073254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916921826103726081/tJuh4hKp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5100,
+          "following_count": 466,
+          "like_count": 21163,
+          "listed_count": 28,
+          "media_count": 4431,
+          "tweet_count": 19280
+        },
+        "url": "https://t.co/7U7K4hM2Fj",
+        "username": "whitenoisesss",
+        "verified": false
+      }
+    ]
+  }
+}

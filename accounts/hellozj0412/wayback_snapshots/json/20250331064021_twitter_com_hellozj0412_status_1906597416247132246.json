@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906271425201410049"
+      ],
+      "media_source_tweet_id": [
+        "1906271432004247929"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1906597416247132246",
+    "created_at": "2025-03-31T06:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T07:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906597416247132246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1315898557249978368",
+          "start": 3,
+          "username": "tsumugi_pt999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hKJHI1zkru",
+          "end": 56,
+          "expanded_url": "https://x.com/tsumugi_pt999/status/1906271432004247929/photo/1",
+          "media_key": "3_1906271425201410049",
+          "start": 33,
+          "url": "https://t.co/hKJHI1zkru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906597416247132246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 803
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906271432004247929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsumugi_pt999: 色づいた春が可愛すぎたの。 https://t.co/hKJHI1zkru"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1906271425201410049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnRvwuibkAEtE1y.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906271425201410049"
+          ],
+          "media_source_tweet_id": [
+            "1906271432004247929"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906597416247132246",
+        "created_at": "2025-03-31T06:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T07:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906597416247132246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1315898557249978368",
+              "start": 3,
+              "username": "tsumugi_pt999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKJHI1zkru",
+              "end": 56,
+              "expanded_url": "https://x.com/tsumugi_pt999/status/1906271432004247929/photo/1",
+              "media_key": "3_1906271425201410049",
+              "start": 33,
+              "url": "https://t.co/hKJHI1zkru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906597416247132246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 803
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906271432004247929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsumugi_pt999: 色づいた春が可愛すぎたの。 https://t.co/hKJHI1zkru"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906271425201410049"
+          ]
+        },
+        "author_id": "1315898557249978368",
+        "conversation_id": "1906271432004247929",
+        "created_at": "2025-03-30T09:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T10:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906271432004247929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKJHI1zkru",
+              "end": 37,
+              "expanded_url": "https://x.com/tsumugi_pt999/status/1906271432004247929/photo/1",
+              "media_key": "3_1906271425201410049",
+              "start": 14,
+              "url": "https://t.co/hKJHI1zkru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906271432004247929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 460,
+          "impression_count": 282254,
+          "like_count": 11041,
+          "quote_count": 12,
+          "reply_count": 21,
+          "retweet_count": 803
+        },
+        "reply_settings": "everyone",
+        "text": "色づいた春が可愛すぎたの。 https://t.co/hKJHI1zkru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 81,
+          "like_count": 2150,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 872
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T06:14:06.000Z",
+        "description": "花と景色。淡色に染まった日常を。 写真利用やご依頼はDMまでお願いします✉ ͗ ͗| Nikon Z6III 📷 書籍 | 風景で紡ぐ 明日、花笑むためのことば113: https://t.co/senMDe68E1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.asia/d/ay0zTen",
+                "end": 108,
+                "expanded_url": "https://amzn.asia/d/ay0zTen",
+                "start": 85,
+                "url": "https://t.co/senMDe68E1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/tsumugi_pt999",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/tsumugi_pt999",
+                "start": 0,
+                "url": "https://t.co/bOWvXCnwW3"
+              }
+            ]
+          }
+        },
+        "id": "1315898557249978368",
+        "location": "無断転載、加工はご遠慮下さい。",
+        "name": "紡季｜tsumugi 書籍発売中",
+        "pinned_tweet_id": "1847563988227465674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633395915221516289/nnQ5Vy3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65194,
+          "following_count": 217,
+          "like_count": 50800,
+          "listed_count": 607,
+          "media_count": 1259,
+          "tweet_count": 41919
+        },
+        "url": "https://t.co/bOWvXCnwW3",
+        "username": "tsumugi_pt999",
+        "verified": true
+      }
+    ]
+  }
+}

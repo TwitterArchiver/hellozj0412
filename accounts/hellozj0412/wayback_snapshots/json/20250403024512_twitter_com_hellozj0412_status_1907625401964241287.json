@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1872129237685297387",
+    "created_at": "2025-04-03T02:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T03:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907625401964241287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1491049985755914248",
+          "start": 0,
+          "username": "musictowatch_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907625401964241287",
+    "in_reply_to_user_id": "1491049985755914248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907624844994425005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@musictowatch_ 已拉黑！火速来关注你了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1872129237685297387",
+        "created_at": "2025-04-03T02:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T03:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907625401964241287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1491049985755914248",
+              "start": 0,
+              "username": "musictowatch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907625401964241287",
+        "in_reply_to_user_id": "1491049985755914248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907624844994425005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@musictowatch_ 已拉黑！火速来关注你了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491049985755914248",
+        "conversation_id": "1872129237685297387",
+        "created_at": "2025-04-03T02:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T03:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907624844994425005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907624844994425005",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907623646597689729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 是的啊啊啊啊啊那是皮下男诈骗号！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 82,
+          "like_count": 2246,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 922
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T14:03:21.000Z",
+        "description": "",
+        "id": "1491049985755914248",
+        "location": "我说的一切都是假的，只有快乐是真的。",
+        "name": "vinyls",
+        "pinned_tweet_id": "1888876218117988753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906408034902880256/PqMJ7-75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24291,
+          "following_count": 39,
+          "like_count": 3612,
+          "listed_count": 95,
+          "media_count": 200,
+          "tweet_count": 1314
+        },
+        "username": "musictowatch_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2069985699944915266",
+    "created_at": "2026-06-25T15:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070162038081585601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1855066705636315136",
+          "start": 0,
+          "username": "wobuyaoshuohua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070162038081585601",
+    "in_reply_to_user_id": "1855066705636315136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069985699944915266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobuyaoshuohua 每买一条裤子都要多花一笔修裤脚的费用….."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2069985699944915266",
+        "created_at": "2026-06-25T15:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070162038081585601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1855066705636315136",
+              "start": 0,
+              "username": "wobuyaoshuohua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070162038081585601",
+        "in_reply_to_user_id": "1855066705636315136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069985699944915266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobuyaoshuohua 每买一条裤子都要多花一笔修裤脚的费用….."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855066705636315136",
+        "conversation_id": "2069985699944915266",
+        "created_at": "2026-06-25T03:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069985699944915266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069985699944915266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6375,
+          "like_count": 154,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "女装现在特别公平呀 管你高的矮的全都拖地裤 管你胖的瘦的全部吊带无袖小飞袖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 122,
+          "like_count": 5417,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1918
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T01:57:13.000Z",
+        "description": "截图死全家 | 我骂的没妈 骂我的死全家 | 讨厌所有人",
+        "id": "1855066705636315136",
+        "location": "🚪1888  一份你全家的丧葬费",
+        "name": "乳糖不耐受害者",
+        "pinned_tweet_id": "2065596599150186669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046193166508797952/JiehycCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 59,
+          "like_count": 1602,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 1881
+        },
+        "url": "",
+        "username": "wobuyaoshuohua",
+        "verified": false
+      }
+    ]
+  }
+}

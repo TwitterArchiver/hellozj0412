@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2075972247010099471",
+    "created_at": "2026-07-11T15:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075972247010099471"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075972247010099471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我大概有抑郁躁郁双向焦虑\n嗯\n我现在状态很差，因为要不要离职以及下一段工作的去向感觉非常非常不稳定，我想大哭，但是大哭也解决不了任何问题，我想度假，隔离环境但时间不等我\n恐惧。前所未有的恐惧把我快要吞没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2075972247010099471",
+        "created_at": "2026-07-11T15:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075972247010099471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075972247010099471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我大概有抑郁躁郁双向焦虑\n嗯\n我现在状态很差，因为要不要离职以及下一段工作的去向感觉非常非常不稳定，我想大哭，但是大哭也解决不了任何问题，我想度假，隔离环境但时间不等我\n恐惧。前所未有的恐惧把我快要吞没"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 119,
+          "like_count": 5596,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1968
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

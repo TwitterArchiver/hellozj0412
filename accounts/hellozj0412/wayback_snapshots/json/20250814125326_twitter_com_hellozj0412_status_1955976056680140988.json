@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1955640715737973134",
+    "created_at": "2025-08-14T12:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T13:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955976056680140988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1774817207576350720",
+          "start": 0,
+          "username": "Nox_TTi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955976056680140988",
+    "in_reply_to_user_id": "1774817207576350720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955640715737973134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nox_TTi 接☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1955640715737973134",
+        "created_at": "2025-08-14T12:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T13:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955976056680140988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1774817207576350720",
+              "start": 0,
+              "username": "Nox_TTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955976056680140988",
+        "in_reply_to_user_id": "1774817207576350720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955640715737973134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nox_TTi 接☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774817207576350720",
+        "conversation_id": "1955640715737973134",
+        "created_at": "2025-08-13T14:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955640715737973134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955640715737973134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14341,
+          "like_count": 199,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "后任把我操的哭着说不要了还要亲亲我的脸说宝宝再来最后一次 好吗好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 119,
+          "like_count": 5204,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1714
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T15:13:06.000Z",
+        "description": "叫我天天/Nox｜直女 switch｜喜欢我就打钱｜锁评推广自辨｜晚安",
+        "id": "1774817207576350720",
+        "name": "Nox",
+        "pinned_tweet_id": "1952968731375878305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920689183557120000/w9nPJui6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3079,
+          "following_count": 75,
+          "like_count": 1942,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 1637
+        },
+        "username": "Nox_TTi",
+        "verified": false
+      }
+    ]
+  }
+}

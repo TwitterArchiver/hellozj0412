@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1957130638605144172",
+    "created_at": "2025-08-18T12:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T13:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957413547329163745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1855653059767988224",
+          "start": 0,
+          "username": "zxsjzxsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957413547329163745",
+    "in_reply_to_user_id": "1855653059767988224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957130638605144172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxsjzxsj 是状态不好的时候主动蹭上来抚慰照顾你的狗男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1957130638605144172",
+        "created_at": "2025-08-18T12:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T13:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957413547329163745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1855653059767988224",
+              "start": 0,
+              "username": "zxsjzxsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957413547329163745",
+        "in_reply_to_user_id": "1855653059767988224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957130638605144172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxsjzxsj 是状态不好的时候主动蹭上来抚慰照顾你的狗男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855653059767988224",
+        "conversation_id": "1957130638605144172",
+        "created_at": "2025-08-17T17:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T18:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957130638605144172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957130638605144172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4901,
+          "like_count": 107,
+          "quote_count": 7,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "狗男和狗男也是不一样的，这是被扇一巴掌之后会得寸进尺的爽到了的狗男，这是被拒绝后耷拉耳朵蔫巴的缩起来的狗男，这是一眼就看穿你的小心思顺着你为所欲为的狗男，这是一直把你护在身后保护的狗男。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 119,
+          "like_count": 5261,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1740
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T16:45:54.000Z",
+        "description": "谢谢你那一刻的真心。可以叫我小睡或者皮蛋，说点废话，别问能不能加vx了，给我打钱就能加。互关宝宝可以加。默认私信前先打钱。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zxsjzxsj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zxsjzxsj",
+                "start": 0,
+                "url": "https://t.co/gghArve9P2"
+              }
+            ]
+          }
+        },
+        "id": "1855653059767988224",
+        "name": "只想睡觉",
+        "pinned_tweet_id": "1932997759495516581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934242183181414401/4eC84Gdn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 51,
+          "like_count": 7027,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 3284
+        },
+        "url": "https://t.co/gghArve9P2",
+        "username": "zxsjzxsj",
+        "verified": false
+      }
+    ]
+  }
+}

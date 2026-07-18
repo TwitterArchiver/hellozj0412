@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1949767251835383999",
+    "created_at": "2025-07-28T09:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T10:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949767681520939191"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949767681520939191",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949767251835383999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实精力并不是很好啊，已经很累很累了，今天一天都晕的要命，人魂分离的恍惚了一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1949767251835383999",
+        "created_at": "2025-07-28T09:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949767681520939191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949767681520939191",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949767251835383999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实精力并不是很好啊，已经很累很累了，今天一天都晕的要命，人魂分离的恍惚了一天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1949767251835383999",
+        "created_at": "2025-07-28T09:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949767251835383999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949767251835383999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和rt上班的第五天，连续上班的第八天，rt说我精力怎么这么好，上班的时候也总是很开心的笑，莫名其妙说一些冷笑话什么的，rt总被我逗乐，我只是感觉枯燥繁琐的内容也会有一些可以发散or联想的有趣内容，其实很无厘头，说出来的时候自己觉得很好笑，也算是一种苦中作乐？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 118,
+          "like_count": 4909,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1665
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

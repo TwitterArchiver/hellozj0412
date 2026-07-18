@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929858056843640832",
+        "3_1929858057804128256",
+        "3_1929858056889786368",
+        "3_1929858057783136256"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1929858129837039747",
+    "created_at": "2025-06-03T11:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T12:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929858129837039747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GpmhobBfaw",
+          "end": 81,
+          "expanded_url": "https://x.com/hellozj0412/status/1929858129837039747/photo/1",
+          "media_key": "3_1929858056843640832",
+          "start": 58,
+          "url": "https://t.co/GpmhobBfaw"
+        },
+        {
+          "display_url": "pic.x.com/GpmhobBfaw",
+          "end": 81,
+          "expanded_url": "https://x.com/hellozj0412/status/1929858129837039747/photo/1",
+          "media_key": "3_1929858057804128256",
+          "start": 58,
+          "url": "https://t.co/GpmhobBfaw"
+        },
+        {
+          "display_url": "pic.x.com/GpmhobBfaw",
+          "end": 81,
+          "expanded_url": "https://x.com/hellozj0412/status/1929858129837039747/photo/1",
+          "media_key": "3_1929858056889786368",
+          "start": 58,
+          "url": "https://t.co/GpmhobBfaw"
+        },
+        {
+          "display_url": "pic.x.com/GpmhobBfaw",
+          "end": 81,
+          "expanded_url": "https://x.com/hellozj0412/status/1929858129837039747/photo/1",
+          "media_key": "3_1929858057783136256",
+          "start": 58,
+          "url": "https://t.co/GpmhobBfaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929858129837039747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在赤道永恒的夏日里，听到海浪拍打礁石的声音，感受阳光穿透皮肤的温度，迎面吹来的海风扬起裙摆，每片海都有它独属的颜色 https://t.co/GpmhobBfaw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1929858056843640832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsg7rYkXQAA4sse.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929858057804128256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsg7rcJXIAAiruE.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929858056889786368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsg7rYvXYAAFMoo.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1929858057783136256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsg7rcEW0AA7n-m.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929858056843640832",
+            "3_1929858057804128256",
+            "3_1929858056889786368",
+            "3_1929858057783136256"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1929858129837039747",
+        "created_at": "2025-06-03T11:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T12:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929858129837039747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GpmhobBfaw",
+              "end": 81,
+              "expanded_url": "https://x.com/hellozj0412/status/1929858129837039747/photo/1",
+              "media_key": "3_1929858056843640832",
+              "start": 58,
+              "url": "https://t.co/GpmhobBfaw"
+            },
+            {
+              "display_url": "pic.x.com/GpmhobBfaw",
+              "end": 81,
+              "expanded_url": "https://x.com/hellozj0412/status/1929858129837039747/photo/1",
+              "media_key": "3_1929858057804128256",
+              "start": 58,
+              "url": "https://t.co/GpmhobBfaw"
+            },
+            {
+              "display_url": "pic.x.com/GpmhobBfaw",
+              "end": 81,
+              "expanded_url": "https://x.com/hellozj0412/status/1929858129837039747/photo/1",
+              "media_key": "3_1929858056889786368",
+              "start": 58,
+              "url": "https://t.co/GpmhobBfaw"
+            },
+            {
+              "display_url": "pic.x.com/GpmhobBfaw",
+              "end": 81,
+              "expanded_url": "https://x.com/hellozj0412/status/1929858129837039747/photo/1",
+              "media_key": "3_1929858057783136256",
+              "start": 58,
+              "url": "https://t.co/GpmhobBfaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929858129837039747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在赤道永恒的夏日里，听到海浪拍打礁石的声音，感受阳光穿透皮肤的温度，迎面吹来的海风扬起裙摆，每片海都有它独属的颜色 https://t.co/GpmhobBfaw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 102,
+          "like_count": 4067,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1302
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

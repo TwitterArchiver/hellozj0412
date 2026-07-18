@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2064723752236294321",
+    "created_at": "2026-06-10T14:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064723752236294321"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064723752236294321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要独立面对一段糟糕的时间，还好的是，还有出口，还有能被挽回的东西，还有不会滑坡的勇气，我始终要坚信自己大部分是对的，即使一切都在扭曲，我还没成为漩涡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2064723752236294321",
+        "created_at": "2026-06-10T14:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064723752236294321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064723752236294321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要独立面对一段糟糕的时间，还好的是，还有出口，还有能被挽回的东西，还有不会滑坡的勇气，我始终要坚信自己大部分是对的，即使一切都在扭曲，我还没成为漩涡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 122,
+          "like_count": 5204,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1857
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

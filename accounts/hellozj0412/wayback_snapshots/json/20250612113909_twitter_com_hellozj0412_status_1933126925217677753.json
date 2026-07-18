@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933068959232012288",
+        "3_1933068959286505472"
+      ],
+      "media_source_tweet_id": [
+        "1933069047207534726",
+        "1933069047207534726"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1933126925217677753",
+    "created_at": "2025-06-12T11:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T12:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933126925217677753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1912484085735591936",
+          "start": 3,
+          "username": "Megane_chuck"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jb2NyOyDlq",
+          "end": 51,
+          "expanded_url": "https://x.com/Megane_chuck/status/1933069047207534726/photo/1",
+          "media_key": "3_1933068959232012288",
+          "start": 28,
+          "url": "https://t.co/jb2NyOyDlq"
+        },
+        {
+          "display_url": "pic.x.com/jb2NyOyDlq",
+          "end": 51,
+          "expanded_url": "https://x.com/Megane_chuck/status/1933069047207534726/photo/1",
+          "media_key": "3_1933068959286505472",
+          "start": 28,
+          "url": "https://t.co/jb2NyOyDlq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933126925217677753",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2027
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933069047207534726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Megane_chuck: 재업 원하셔서.. https://t.co/jb2NyOyDlq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2058,
+        "media_key": "3_1933068959232012288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtOj-gFbsAAxgeX.jpg",
+        "width": 2020
+      },
+      {
+        "height": 2469,
+        "media_key": "3_1933068959286505472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtOj-gSbMAAaV5h.jpg",
+        "width": 1765
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933068959232012288",
+            "3_1933068959286505472"
+          ],
+          "media_source_tweet_id": [
+            "1933069047207534726",
+            "1933069047207534726"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1933126925217677753",
+        "created_at": "2025-06-12T11:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T12:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933126925217677753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1912484085735591936",
+              "start": 3,
+              "username": "Megane_chuck"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jb2NyOyDlq",
+              "end": 51,
+              "expanded_url": "https://x.com/Megane_chuck/status/1933069047207534726/photo/1",
+              "media_key": "3_1933068959232012288",
+              "start": 28,
+              "url": "https://t.co/jb2NyOyDlq"
+            },
+            {
+              "display_url": "pic.x.com/jb2NyOyDlq",
+              "end": 51,
+              "expanded_url": "https://x.com/Megane_chuck/status/1933069047207534726/photo/1",
+              "media_key": "3_1933068959286505472",
+              "start": 28,
+              "url": "https://t.co/jb2NyOyDlq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933126925217677753",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2027
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933069047207534726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Megane_chuck: 재업 원하셔서.. https://t.co/jb2NyOyDlq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933068959232012288",
+            "3_1933068959286505472"
+          ]
+        },
+        "author_id": "1912484085735591936",
+        "conversation_id": "1933069047207534726",
+        "created_at": "2025-06-12T07:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T08:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933069047207534726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jb2NyOyDlq",
+              "end": 33,
+              "expanded_url": "https://x.com/Megane_chuck/status/1933069047207534726/photo/1",
+              "media_key": "3_1933068959232012288",
+              "start": 10,
+              "url": "https://t.co/jb2NyOyDlq"
+            },
+            {
+              "display_url": "pic.x.com/jb2NyOyDlq",
+              "end": 33,
+              "expanded_url": "https://x.com/Megane_chuck/status/1933069047207534726/photo/1",
+              "media_key": "3_1933068959286505472",
+              "start": 10,
+              "url": "https://t.co/jb2NyOyDlq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933069047207534726",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1201,
+          "impression_count": 120967,
+          "like_count": 7194,
+          "quote_count": 412,
+          "reply_count": 0,
+          "retweet_count": 2027
+        },
+        "reply_settings": "following",
+        "text": "재업 원하셔서.. https://t.co/jb2NyOyDlq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 108,
+          "like_count": 4265,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1373
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T12:32:00.000Z",
+        "description": "2차/구독추천x/ 안경성인남자/웹툰 문의x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Megane_chuck",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/Megane_chuck",
+                "start": 0,
+                "url": "https://t.co/9eecTQjqbo"
+              }
+            ]
+          }
+        },
+        "id": "1912484085735591936",
+        "name": "안성남",
+        "pinned_tweet_id": "1930125839699673251",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4174,
+          "following_count": 6,
+          "like_count": 113,
+          "listed_count": 10,
+          "media_count": 16,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/9eecTQjqbo",
+        "username": "Megane_chuck",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1939376836569624705",
+    "created_at": "2025-07-01T00:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T01:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939841696688177405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1529377080642871296",
+          "start": 0,
+          "username": "Necrotomato2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939841696688177405",
+    "in_reply_to_user_id": "1529377080642871296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939376836569624705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Necrotomato2 每个人都有多或少的美好品质，如果只凭这些也许开始喜欢你的原因，但是一直喜欢你的原因我只有很多难以描述的感觉，体温，味道，触感，声音，笑容，都在吸引我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1939376836569624705",
+        "created_at": "2025-07-01T00:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T01:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939841696688177405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1529377080642871296",
+              "start": 0,
+              "username": "Necrotomato2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939841696688177405",
+        "in_reply_to_user_id": "1529377080642871296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939376836569624705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Necrotomato2 每个人都有多或少的美好品质，如果只凭这些也许开始喜欢你的原因，但是一直喜欢你的原因我只有很多难以描述的感觉，体温，味道，触感，声音，笑容，都在吸引我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529377080642871296",
+        "conversation_id": "1939376836569624705",
+        "created_at": "2025-06-29T17:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T18:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939376836569624705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939376836569624705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1372,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怎么说呢，能理智分析都非真心。所以喜欢、爱这种东西，在我看来就要在有逻辑和没逻辑的之间：为什么喜欢你，我能说得出最开始喜欢你的原因，为什么继续一直喜欢你，我说不出原因了就是喜欢，我也不知道为什么我就是喜欢你，没有逻辑了就是我的爱的开始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 112,
+          "like_count": 4426,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1484
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T08:21:33.000Z",
+        "description": "my little tomato",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/necrotomato2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/necrotomato2",
+                "start": 0,
+                "url": "https://t.co/JYiy2RfNHd"
+              }
+            ]
+          }
+        },
+        "id": "1529377080642871296",
+        "name": "困惑的番茄2",
+        "pinned_tweet_id": "1936803105481667006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883128658770157568/FQbBPeok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 91,
+          "like_count": 21656,
+          "listed_count": 0,
+          "media_count": 475,
+          "tweet_count": 1384
+        },
+        "url": "https://t.co/JYiy2RfNHd",
+        "username": "Necrotomato2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857137595530264576",
+        "3_1857137595492532224",
+        "3_1857137595479977984"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1857137643651211635",
+    "created_at": "2024-11-14T19:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T20:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857137643651211635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nPsoMk1Zud",
+          "end": 133,
+          "expanded_url": "https://x.com/hellozj0412/status/1857137643651211635/photo/1",
+          "media_key": "3_1857137595530264576",
+          "start": 110,
+          "url": "https://t.co/nPsoMk1Zud"
+        },
+        {
+          "display_url": "pic.x.com/nPsoMk1Zud",
+          "end": 133,
+          "expanded_url": "https://x.com/hellozj0412/status/1857137643651211635/photo/1",
+          "media_key": "3_1857137595492532224",
+          "start": 110,
+          "url": "https://t.co/nPsoMk1Zud"
+        },
+        {
+          "display_url": "pic.x.com/nPsoMk1Zud",
+          "end": 133,
+          "expanded_url": "https://x.com/hellozj0412/status/1857137643651211635/photo/1",
+          "media_key": "3_1857137595479977984",
+          "start": 110,
+          "url": "https://t.co/nPsoMk1Zud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857137643651211635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实这次出远门是想大散心一次，忘记很多烦人的事情焦虑的事情，但是发现好像做不到，和好朋友住在一起的日子非常快乐，但是就好像慢性毒药，当回去那座城市的时候不仅依然要面对之前棘手的问题，并且还会出现与好朋友分别后的戒断反应 https://t.co/nPsoMk1Zud"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1251,
+        "media_key": "3_1857137595530264576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcXgzbiawAAMPHT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1857137595492532224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcXgzbZbAAAzE6z.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1857137595479977984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcXgzbWbcAAPo_O.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857137595530264576",
+            "3_1857137595492532224",
+            "3_1857137595479977984"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1857137643651211635",
+        "created_at": "2024-11-14T19:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T20:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857137643651211635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPsoMk1Zud",
+              "end": 133,
+              "expanded_url": "https://x.com/hellozj0412/status/1857137643651211635/photo/1",
+              "media_key": "3_1857137595530264576",
+              "start": 110,
+              "url": "https://t.co/nPsoMk1Zud"
+            },
+            {
+              "display_url": "pic.x.com/nPsoMk1Zud",
+              "end": 133,
+              "expanded_url": "https://x.com/hellozj0412/status/1857137643651211635/photo/1",
+              "media_key": "3_1857137595492532224",
+              "start": 110,
+              "url": "https://t.co/nPsoMk1Zud"
+            },
+            {
+              "display_url": "pic.x.com/nPsoMk1Zud",
+              "end": 133,
+              "expanded_url": "https://x.com/hellozj0412/status/1857137643651211635/photo/1",
+              "media_key": "3_1857137595479977984",
+              "start": 110,
+              "url": "https://t.co/nPsoMk1Zud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857137643651211635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实这次出远门是想大散心一次，忘记很多烦人的事情焦虑的事情，但是发现好像做不到，和好朋友住在一起的日子非常快乐，但是就好像慢性毒药，当回去那座城市的时候不仅依然要面对之前棘手的问题，并且还会出现与好朋友分别后的戒断反应 https://t.co/nPsoMk1Zud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 50,
+          "like_count": 345,
+          "listed_count": 0,
+          "tweet_count": 48
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

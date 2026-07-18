@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1947315016941658334",
+    "created_at": "2025-07-22T03:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T04:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947506699725852763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1027558588359692288",
+          "start": 0,
+          "username": "abnormalityacc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947506699725852763",
+    "in_reply_to_user_id": "1027558588359692288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947315016941658334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abnormalityacc 6个shot真的不会心速过快吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1947315016941658334",
+        "created_at": "2025-07-22T03:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947506699725852763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1027558588359692288",
+              "start": 0,
+              "username": "abnormalityacc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947506699725852763",
+        "in_reply_to_user_id": "1027558588359692288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947315016941658334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abnormalityacc 6个shot真的不会心速过快吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1027558588359692288",
+        "conversation_id": "1947315016941658334",
+        "created_at": "2025-07-21T15:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T16:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947315016941658334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947315016941658334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6222,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不管我昨天晚上睡得有多烂早上醒的时候灵魂留在床上身体下床游荡，六个shot的咖啡喝下去之后都能强制性身心合一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 115,
+          "like_count": 4826,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1631
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-09T14:13:53.000Z",
+        "description": "真假自辨，唯一账号，未成年请勿模仿，all functional fantasies",
+        "id": "1027558588359692288",
+        "name": "abnormalaccount",
+        "pinned_tweet_id": "1945675825938063475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940414987899453440/aCtSwZqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34213,
+          "following_count": 115,
+          "like_count": 1231,
+          "listed_count": 69,
+          "media_count": 51,
+          "tweet_count": 207
+        },
+        "username": "abnormalityacc",
+        "verified": false
+      }
+    ]
+  }
+}

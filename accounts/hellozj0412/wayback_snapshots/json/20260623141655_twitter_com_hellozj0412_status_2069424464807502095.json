@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2069424464807502095",
+    "created_at": "2026-06-23T14:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069424464807502095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2039297240364179456",
+          "start": 3,
+          "username": "Angelasweet111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069424464807502095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069081103659659562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angelasweet111: 交往这件事 不只是为了休息日能一起去玩 那只是附属品罢了 互相支撑着对方的生活才是交往的本质 它是让人在很累的时候 只要想起对方 就能再努力一把的动力 是在自己快败给社会诱惑的时候 只要想起对方 就能立刻纠正自己的决心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2069424464807502095",
+        "created_at": "2026-06-23T14:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069424464807502095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2039297240364179456",
+              "start": 3,
+              "username": "Angelasweet111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069424464807502095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069081103659659562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angelasweet111: 交往这件事 不只是为了休息日能一起去玩 那只是附属品罢了 互相支撑着对方的生活才是交往的本质 它是让人在很累的时候 只要想起对方 就能再努力一把的动力 是在自己快败给社会诱惑的时候 只要想起对方 就能立刻纠正自己的决心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039297240364179456",
+        "conversation_id": "2069081103659659562",
+        "created_at": "2026-06-22T15:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069081103659659562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069081103659659562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1203,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "交往这件事 不只是为了休息日能一起去玩 那只是附属品罢了 互相支撑着对方的生活才是交往的本质 它是让人在很累的时候 只要想起对方 就能再努力一把的动力 是在自己快败给社会诱惑的时候 只要想起对方 就能立刻纠正自己的决心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 121,
+          "like_count": 5352,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1897
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T11:02:17.000Z",
+        "description": "05 isfj ｜💌玻璃心日记本和照片留存 我尊重所有人 但我不在乎他们｜过🚪留口令",
+        "id": "2039297240364179456",
+        "location": "WeChat🚪188｜520⋆˙⟡♡",
+        "name": "叠幸运星",
+        "pinned_tweet_id": "2049123516751216781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057033034940153856/I4OuJWTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2449,
+          "following_count": 23,
+          "like_count": 404,
+          "listed_count": 8,
+          "media_count": 176,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "Angelasweet111",
+        "verified": true
+      }
+    ]
+  }
+}

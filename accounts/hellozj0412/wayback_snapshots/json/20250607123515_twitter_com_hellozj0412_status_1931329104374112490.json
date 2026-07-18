@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1931328950027890988",
+    "created_at": "2025-06-07T12:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T13:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931329104374112490"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931329104374112490",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931328950027890988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我明天真不吃了….明天经期就结束了..我不能这么放肆了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931328929807085568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs11bdWWMAAuYev.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1931328950027890988",
+        "created_at": "2025-06-07T12:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T13:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931329104374112490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931329104374112490",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931328950027890988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我明天真不吃了….明天经期就结束了..我不能这么放肆了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931328929807085568"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1931328950027890988",
+        "created_at": "2025-06-07T12:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T13:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931328950027890988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jn6fUOy3Gf",
+              "end": 57,
+              "expanded_url": "https://x.com/hellozj0412/status/1931328950027890988/photo/1",
+              "media_key": "3_1931328929807085568",
+              "start": 34,
+              "url": "https://t.co/Jn6fUOy3Gf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931328950027890988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "立flag再被打脸就是本人最爱干的事情，是谁前天说不吃饭了来着…😀 https://t.co/Jn6fUOy3Gf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 108,
+          "like_count": 4202,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1331
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

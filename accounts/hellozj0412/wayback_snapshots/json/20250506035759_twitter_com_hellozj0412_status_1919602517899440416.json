@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1919421538656473167",
+    "created_at": "2025-05-06T03:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T04:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919602517899440416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1658300549438246912",
+          "start": 0,
+          "username": "IP0_0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919602517899440416",
+    "in_reply_to_user_id": "1658300549438246912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919421538656473167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IP0_0Y 我也在努力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1919421538656473167",
+        "created_at": "2025-05-06T03:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T04:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919602517899440416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1658300549438246912",
+              "start": 0,
+              "username": "IP0_0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919602517899440416",
+        "in_reply_to_user_id": "1658300549438246912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919421538656473167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IP0_0Y 我也在努力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658300549438246912",
+        "conversation_id": "1919421538656473167",
+        "created_at": "2025-05-05T15:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T16:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919421538656473167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919421538656473167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近充足睡眠，不再焦虑，脑袋放空，越活越年轻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 92,
+          "like_count": 3275,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1065
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T02:37:29.000Z",
+        "description": "",
+        "id": "1658300549438246912",
+        "name": "0.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903857278354341888/LZGxM9UG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 68,
+          "like_count": 7055,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 4559
+        },
+        "username": "IP0_0Y",
+        "verified": false
+      }
+    ]
+  }
+}

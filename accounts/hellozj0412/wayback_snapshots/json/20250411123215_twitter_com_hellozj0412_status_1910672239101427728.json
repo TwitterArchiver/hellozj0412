@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1910374694051864902",
+    "created_at": "2025-04-11T12:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T13:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910672239101427728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1748655374238916609",
+          "start": 0,
+          "username": "dhsiidje"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910672239101427728",
+    "in_reply_to_user_id": "1748655374238916609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910374694051864902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dhsiidje 不是被骂就是被虐啊，顺风全靠抱队友大腿🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1910374675101978624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoMDpTlbEAAIcJP.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1910374694051864902",
+        "created_at": "2025-04-11T12:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T13:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910672239101427728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1748655374238916609",
+              "start": 0,
+              "username": "dhsiidje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910672239101427728",
+        "in_reply_to_user_id": "1748655374238916609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910374694051864902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dhsiidje 不是被骂就是被虐啊，顺风全靠抱队友大腿🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910374675101978624"
+          ]
+        },
+        "author_id": "1748655374238916609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1910374694051864902",
+        "created_at": "2025-04-10T16:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T17:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910374694051864902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O0fV3vf9WB",
+              "end": 40,
+              "expanded_url": "https://x.com/dhsiidje/status/1910374694051864902/photo/1",
+              "media_key": "3_1910374675101978624",
+              "start": 17,
+              "url": "https://t.co/O0fV3vf9WB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910374694051864902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3187,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的，我们辅助玩家是最纯粹的抖m https://t.co/O0fV3vf9WB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 84,
+          "like_count": 2506,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1003
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T10:35:51.000Z",
+        "description": "哪天可能不讲话",
+        "id": "1748655374238916609",
+        "name": "假妆",
+        "pinned_tweet_id": "1843607428002394502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807381540244234240/tCDEUcZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 252,
+          "like_count": 50273,
+          "listed_count": 5,
+          "media_count": 538,
+          "tweet_count": 9046
+        },
+        "username": "dhsiidje",
+        "verified": false
+      }
+    ]
+  }
+}

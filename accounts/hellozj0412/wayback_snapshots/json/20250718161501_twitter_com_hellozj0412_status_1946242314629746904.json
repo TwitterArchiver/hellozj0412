@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1946211422360473956",
+    "created_at": "2025-07-18T16:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T17:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946242314629746904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1227584757245997057",
+          "start": 0,
+          "username": "kokoroisluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946242314629746904",
+    "in_reply_to_user_id": "1227584757245997057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946211422360473956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokoroisluv 我靠，别啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1946211422360473956",
+        "created_at": "2025-07-18T16:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T17:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946242314629746904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1227584757245997057",
+              "start": 0,
+              "username": "kokoroisluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946242314629746904",
+        "in_reply_to_user_id": "1227584757245997057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946211422360473956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokoroisluv 我靠，别啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227584757245997057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          }
+        ],
+        "conversation_id": "1946211422360473956",
+        "created_at": "2025-07-18T14:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T15:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946211422360473956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946211422360473956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我姐想带我妈妈连续爬完布罗莫火山和伊真火山，年轻人都不敢这么造孽，这算是虐待老人吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 113,
+          "like_count": 4754,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1603
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-12T13:26:37.000Z",
+        "description": "做梦🧘｜老年健💪｜偶尔唱唱难听的小音le🎵｜脑内思想具象化♻️｜https://t.co/OvjRaClhFA你问我看看答❔｜万一炸号的备用@luvissickj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "luvissickj"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/luvsisickkokoro",
+                "end": 55,
+                "expanded_url": "https://ngl.link/luvsisickkokoro",
+                "start": 32,
+                "url": "https://t.co/OvjRaClhFA"
+              }
+            ]
+          }
+        },
+        "id": "1227584757245997057",
+        "location": "🏠",
+        "name": "六元里美",
+        "pinned_tweet_id": "1825191201961840720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800140113642405888/rkYcCR2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6473,
+          "following_count": 431,
+          "like_count": 56422,
+          "listed_count": 24,
+          "media_count": 740,
+          "tweet_count": 18335
+        },
+        "username": "kokoroisluv",
+        "verified": false
+      }
+    ]
+  }
+}

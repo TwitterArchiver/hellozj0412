@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1929211480081064204",
+    "created_at": "2025-06-01T16:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T17:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929211480081064204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1312670469250711552",
+          "start": 3,
+          "username": "littlenovum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929211480081064204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929203528771207229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @littlenovum: 如果我（想）爱一个人，我会觉得ta的一切我都想了解，所有问题的缘由都很重要，我无法忍受任何不具名黑洞的存在，我也无法理解一些人，如何因为想要维护关系，蒙着眼、若无其事地、和那个黑洞日夜相处。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1929211480081064204",
+        "created_at": "2025-06-01T16:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T17:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929211480081064204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1312670469250711552",
+              "start": 3,
+              "username": "littlenovum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929211480081064204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929203528771207229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @littlenovum: 如果我（想）爱一个人，我会觉得ta的一切我都想了解，所有问题的缘由都很重要，我无法忍受任何不具名黑洞的存在，我也无法理解一些人，如何因为想要维护关系，蒙着眼、若无其事地、和那个黑洞日夜相处。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312670469250711552",
+        "conversation_id": "1929203528771207229",
+        "created_at": "2025-06-01T15:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T16:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929203528771207229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929203528771207229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "如果我（想）爱一个人，我会觉得ta的一切我都想了解，所有问题的缘由都很重要，我无法忍受任何不具名黑洞的存在，我也无法理解一些人，如何因为想要维护关系，蒙着眼、若无其事地、和那个黑洞日夜相处。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 102,
+          "like_count": 4007,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1276
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T08:26:52.000Z",
+        "description": "词语无法到达之处，是我们相连的地方。",
+        "id": "1312670469250711552",
+        "name": "novum",
+        "pinned_tweet_id": "1927351094260170787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661675844639797250/QecV26OO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15554,
+          "following_count": 186,
+          "like_count": 10492,
+          "listed_count": 36,
+          "media_count": 16,
+          "tweet_count": 2167
+        },
+        "username": "littlenovum",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1923588350713397627",
+    "created_at": "2025-05-17T16:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T17:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923776419647132157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1249952730224840704",
+          "start": 0,
+          "username": "zhengcaozi"
+        },
+        {
+          "end": 26,
+          "id": "1491049985755914248",
+          "start": 12,
+          "username": "musictowatch_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923776419647132157",
+    "in_reply_to_user_id": "1249952730224840704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923670377164947539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhengcaozi @musictowatch_ 哈哈哈不行了，自动唱起来了😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1923588350713397627",
+        "created_at": "2025-05-17T16:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T17:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923776419647132157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1249952730224840704",
+              "start": 0,
+              "username": "zhengcaozi"
+            },
+            {
+              "end": 26,
+              "id": "1491049985755914248",
+              "start": 12,
+              "username": "musictowatch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923776419647132157",
+        "in_reply_to_user_id": "1249952730224840704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923670377164947539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhengcaozi @musictowatch_ 哈哈哈不行了，自动唱起来了😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1249952730224840704",
+        "conversation_id": "1923588350713397627",
+        "created_at": "2025-05-17T09:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T10:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923670377164947539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1491049985755914248",
+              "start": 0,
+              "username": "musictowatch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923670377164947539",
+        "in_reply_to_user_id": "1491049985755914248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8542,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923588350713397627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@musictowatch_ 我爱你\n可是关系变成没关系\n问题是没问题\n于是我们继续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 98,
+          "like_count": 3707,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1165
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-14T06:50:59.000Z",
+        "description": "是个好孩子",
+        "id": "1249952730224840704",
+        "location": "中国",
+        "name": "安若离",
+        "pinned_tweet_id": "1863096820026794383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1380884038987214851/1vrJcBnJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 666,
+          "like_count": 3891,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 1593
+        },
+        "username": "zhengcaozi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T14:03:21.000Z",
+        "description": "手冲助眠法宣传大使｜此为唯一账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vinyls2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vinyls2",
+                "start": 0,
+                "url": "https://t.co/7BoND1bqQM"
+              }
+            ]
+          }
+        },
+        "id": "1491049985755914248",
+        "name": "vinyls",
+        "pinned_tweet_id": "1888876218117988753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906408034902880256/PqMJ7-75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32661,
+          "following_count": 35,
+          "like_count": 3850,
+          "listed_count": 112,
+          "media_count": 240,
+          "tweet_count": 1673
+        },
+        "url": "https://t.co/7BoND1bqQM",
+        "username": "musictowatch_",
+        "verified": false
+      }
+    ]
+  }
+}

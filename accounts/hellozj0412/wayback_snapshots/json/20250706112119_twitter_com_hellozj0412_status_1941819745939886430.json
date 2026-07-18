@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1941819745939886430",
+    "created_at": "2025-07-06T11:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T12:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941819745939886430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1884652077676453889",
+          "start": 3,
+          "username": "shutiaoNofanqie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941819745939886430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941767218850824263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shutiaoNofanqie: 其实心里当然明白放下占有权享受使用权这个道理，但是因为喜欢因为想跟这个人有以后想为两人之间的感情关系负责想做好人，所以闭上眼睛有了很多负面情绪，心里想东想西最后想，希望对面这个人也会这样想吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1941819745939886430",
+        "created_at": "2025-07-06T11:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T12:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941819745939886430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1884652077676453889",
+              "start": 3,
+              "username": "shutiaoNofanqie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941819745939886430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941767218850824263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shutiaoNofanqie: 其实心里当然明白放下占有权享受使用权这个道理，但是因为喜欢因为想跟这个人有以后想为两人之间的感情关系负责想做好人，所以闭上眼睛有了很多负面情绪，心里想东想西最后想，希望对面这个人也会这样想吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884652077676453889",
+        "conversation_id": "1941767218850824263",
+        "created_at": "2025-07-06T07:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T08:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941767218850824263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941767218850824263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 655,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实心里当然明白放下占有权享受使用权这个道理，但是因为喜欢因为想跟这个人有以后想为两人之间的感情关系负责想做好人，所以闭上眼睛有了很多负面情绪，心里想东想西最后想，希望对面这个人也会这样想吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 112,
+          "like_count": 4541,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1539
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T17:17:34.000Z",
+        "description": "最近有点累冒泡频率下降/碎碎念日记本/不喜欢屏蔽就好谢谢啦/上网纯娱乐 不接广不收口令不聊骚/匿名提问在下方",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiyiakun9",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yiyiakun9",
+                "start": 0,
+                "url": "https://t.co/TAWCTKRo8j"
+              }
+            ]
+          }
+        },
+        "id": "1884652077676453889",
+        "name": "薯条不要沾番茄酱",
+        "pinned_tweet_id": "1933414444954235247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929111818171195392/1vpc6g8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 388,
+          "like_count": 16710,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 8115
+        },
+        "url": "https://t.co/TAWCTKRo8j",
+        "username": "shutiaoNofanqie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038604007795757056",
+        "3_2038604007787421696",
+        "3_2038604007799955457"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "2038604108710764715",
+    "created_at": "2026-03-30T13:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038604108710764715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LmG6yqsS7d",
+          "end": 43,
+          "expanded_url": "https://x.com/hellozj0412/status/2038604108710764715/photo/1",
+          "media_key": "3_2038604007795757056",
+          "start": 20,
+          "url": "https://t.co/LmG6yqsS7d"
+        },
+        {
+          "display_url": "pic.x.com/LmG6yqsS7d",
+          "end": 43,
+          "expanded_url": "https://x.com/hellozj0412/status/2038604108710764715/photo/1",
+          "media_key": "3_2038604007787421696",
+          "start": 20,
+          "url": "https://t.co/LmG6yqsS7d"
+        },
+        {
+          "display_url": "pic.x.com/LmG6yqsS7d",
+          "end": 43,
+          "expanded_url": "https://x.com/hellozj0412/status/2038604108710764715/photo/1",
+          "media_key": "3_2038604007799955457",
+          "start": 20,
+          "url": "https://t.co/LmG6yqsS7d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038604108710764715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给猫换了新的胸背，又带出去公园溜溜了😸 https://t.co/LmG6yqsS7d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038604007795757056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqTi0pakAAnTlh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038604007787421696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqTi0nbYAAkh1f.jpg",
+        "width": 1558
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038604007799955457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqTi0qaoAEe7oJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038604007795757056",
+            "3_2038604007787421696",
+            "3_2038604007799955457"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "2038604108710764715",
+        "created_at": "2026-03-30T13:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038604108710764715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LmG6yqsS7d",
+              "end": 43,
+              "expanded_url": "https://x.com/hellozj0412/status/2038604108710764715/photo/1",
+              "media_key": "3_2038604007795757056",
+              "start": 20,
+              "url": "https://t.co/LmG6yqsS7d"
+            },
+            {
+              "display_url": "pic.x.com/LmG6yqsS7d",
+              "end": 43,
+              "expanded_url": "https://x.com/hellozj0412/status/2038604108710764715/photo/1",
+              "media_key": "3_2038604007787421696",
+              "start": 20,
+              "url": "https://t.co/LmG6yqsS7d"
+            },
+            {
+              "display_url": "pic.x.com/LmG6yqsS7d",
+              "end": 43,
+              "expanded_url": "https://x.com/hellozj0412/status/2038604108710764715/photo/1",
+              "media_key": "3_2038604007799955457",
+              "start": 20,
+              "url": "https://t.co/LmG6yqsS7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038604108710764715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给猫换了新的胸背，又带出去公园溜溜了😸 https://t.co/LmG6yqsS7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 116,
+          "like_count": 5144,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 1839
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

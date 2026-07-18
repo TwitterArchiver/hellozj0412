@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932761262347161600"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1932761276322886100",
+    "created_at": "2025-06-11T11:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T12:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932761276322886100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F0EtCyuRTg",
+          "end": 30,
+          "expanded_url": "https://x.com/hellozj0412/status/1932761276322886100/photo/1",
+          "media_key": "3_1932761262347161600",
+          "start": 7,
+          "url": "https://t.co/F0EtCyuRTg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932761276322886100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 12,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "答辩over https://t.co/F0EtCyuRTg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932761262347161600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKMIL3WkAANX08.jpg",
+        "width": 1576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932761262347161600"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1932761276322886100",
+        "created_at": "2025-06-11T11:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T12:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932761276322886100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0EtCyuRTg",
+              "end": 30,
+              "expanded_url": "https://x.com/hellozj0412/status/1932761276322886100/photo/1",
+              "media_key": "3_1932761262347161600",
+              "start": 7,
+              "url": "https://t.co/F0EtCyuRTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932761276322886100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "答辩over https://t.co/F0EtCyuRTg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 108,
+          "like_count": 4260,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1366
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1988033281833804256",
+    "created_at": "2026-01-31T17:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T18:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017658279053430996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1590695308463288321",
+          "start": 0,
+          "username": "acclzd_clz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017658279053430996",
+    "in_reply_to_user_id": "1590695308463288321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988033281833804256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acclzd_clz 这个1爱男m不错😋，我eat到了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2052,
+        "media_key": "3_1988033270525865984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5bpuftaMAAtgr_.jpg",
+        "width": 1539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1988033281833804256",
+        "created_at": "2026-01-31T17:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017658279053430996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1590695308463288321",
+              "start": 0,
+              "username": "acclzd_clz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017658279053430996",
+        "in_reply_to_user_id": "1590695308463288321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988033281833804256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acclzd_clz 这个1爱男m不错😋，我eat到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988033270525865984"
+          ]
+        },
+        "author_id": "1590695308463288321",
+        "conversation_id": "1988033281833804256",
+        "created_at": "2025-11-10T23:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988033281833804256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gp20S6ZVzd",
+              "end": 67,
+              "expanded_url": "https://x.com/acclzd_clz/status/1988033281833804256/photo/1",
+              "media_key": "3_1988033270525865984",
+              "start": 44,
+              "url": "https://t.co/Gp20S6ZVzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988033281833804256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 257,
+          "impression_count": 90575,
+          "like_count": 2030,
+          "quote_count": 7,
+          "reply_count": 37,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "“我是主人的小狗啊，怎么可以离开”\n\nᏊ ֊ .̫ ֊ Ꮚ ᐝ     车厘子表演摸鱼 https://t.co/Gp20S6ZVzd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 115,
+          "like_count": 4982,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1781
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T13:18:17.000Z",
+        "description": "求宝宝定制ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ｜无排单随时可找哈！",
+        "id": "1590695308463288321",
+        "location": "黄文厨子",
+        "name": "荞麦厘子",
+        "pinned_tweet_id": "1977923915717742802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000918094051733504/efPaT4ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110848,
+          "following_count": 96,
+          "like_count": 10324,
+          "listed_count": 111,
+          "media_count": 428,
+          "tweet_count": 1908
+        },
+        "username": "acclzd_clz",
+        "verified": false
+      }
+    ]
+  }
+}

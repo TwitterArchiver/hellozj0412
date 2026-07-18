@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1906764095564525726",
+    "created_at": "2025-03-31T17:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T18:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906764482879131789"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906764482879131789",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906764095564525726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也是品上爵士乐了，基本都是对方的歌，感觉一直在自我欣赏啊哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906764081920442368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnYv1H1XgAALdh_.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906764095564525726",
+        "created_at": "2025-03-31T17:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906764482879131789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906764482879131789",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906764095564525726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也是品上爵士乐了，基本都是对方的歌，感觉一直在自我欣赏啊哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906764081920442368"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906764095564525726",
+        "created_at": "2025-03-31T17:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906764095564525726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZFEzSuf5p7",
+              "end": 58,
+              "expanded_url": "https://x.com/hellozj0412/status/1906764095564525726/photo/1",
+              "media_key": "3_1906764081920442368",
+              "start": 35,
+              "url": "https://t.co/ZFEzSuf5p7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906764095564525726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实有点想睡觉了，胆囊隐隐作痛，但是还想看看能和这个陶喆一起听多久🤓 https://t.co/ZFEzSuf5p7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 81,
+          "like_count": 2162,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 884
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906674370430296064"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1906674447064379530",
+    "created_at": "2025-03-31T11:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T12:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906674447064379530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yR9z9VR0fF",
+          "end": 36,
+          "expanded_url": "https://x.com/hellozj0412/status/1906674447064379530/photo/1",
+          "media_key": "3_1906674370430296064",
+          "start": 13,
+          "url": "https://t.co/yR9z9VR0fF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906674447064379530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "减肥误食了曹氏特辣怎么办 https://t.co/yR9z9VR0fF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906674370430296064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXePOfW4AAEDMM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906674370430296064"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906674447064379530",
+        "created_at": "2025-03-31T11:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T12:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906674447064379530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yR9z9VR0fF",
+              "end": 36,
+              "expanded_url": "https://x.com/hellozj0412/status/1906674447064379530/photo/1",
+              "media_key": "3_1906674370430296064",
+              "start": 13,
+              "url": "https://t.co/yR9z9VR0fF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906674447064379530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "减肥误食了曹氏特辣怎么办 https://t.co/yR9z9VR0fF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 81,
+          "like_count": 2156,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 878
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

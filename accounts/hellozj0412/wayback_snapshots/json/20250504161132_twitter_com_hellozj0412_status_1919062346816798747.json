@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1919032586858377310",
+    "created_at": "2025-05-04T16:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T17:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919062346816798747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1078692330947969029",
+          "start": 0,
+          "username": "TingYunAiAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919062346816798747",
+    "in_reply_to_user_id": "1078692330947969029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919032586858377310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TingYunAiAi 甚至一下睡了20个小时😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1919032586858377310",
+        "created_at": "2025-05-04T16:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T17:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919062346816798747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1078692330947969029",
+              "start": 0,
+              "username": "TingYunAiAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919062346816798747",
+        "in_reply_to_user_id": "1078692330947969029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919032586858377310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TingYunAiAi 甚至一下睡了20个小时😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1078692330947969029",
+        "conversation_id": "1919032586858377310",
+        "created_at": "2025-05-04T14:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T15:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919032586858377310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919032586858377310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 868,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人真的能做到每天睡15个小时吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 90,
+          "like_count": 3231,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1037
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-28T16:41:07.000Z",
+        "description": "年轻时我一无所有，徒有一颗空荡荡的心和一具不会疲劳的身体。\n🐕：@yakamashi777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "yakamashi777"
+              }
+            ]
+          }
+        },
+        "id": "1078692330947969029",
+        "location": "不加联系方式‖互关除外",
+        "name": "呕吐雾",
+        "pinned_tweet_id": "1896170536801378813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903428964015919104/RrbGEyDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 209,
+          "like_count": 7308,
+          "listed_count": 4,
+          "media_count": 379,
+          "tweet_count": 2268
+        },
+        "username": "TingYunAiAi",
+        "verified": false
+      }
+    ]
+  }
+}

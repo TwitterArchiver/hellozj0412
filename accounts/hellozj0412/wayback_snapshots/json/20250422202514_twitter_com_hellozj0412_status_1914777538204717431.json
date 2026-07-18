@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1914777538204717431",
+    "created_at": "2025-04-22T20:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T21:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914777538204717431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/toky0luvv/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/toky0luvv/status/1914572951862829199",
+          "start": 12,
+          "url": "https://t.co/PYnWwg1oOr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914777538204717431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914572951862829199",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "烟就不带了，你我就够了 https://t.co/PYnWwg1oOr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1218,
+        "media_key": "3_1914572942505336832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHt8oaa4AAWRUa.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1914777538204717431",
+        "created_at": "2025-04-22T20:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T21:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914777538204717431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/toky0luvv/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/toky0luvv/status/1914572951862829199",
+              "start": 12,
+              "url": "https://t.co/PYnWwg1oOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914777538204717431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914572951862829199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "烟就不带了，你我就够了 https://t.co/PYnWwg1oOr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914572942505336832"
+          ]
+        },
+        "author_id": "1879134587504492544",
+        "conversation_id": "1914572951862829199",
+        "created_at": "2025-04-22T06:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T07:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914572951862829199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zU5Qw9UB3o",
+              "end": 23,
+              "expanded_url": "https://x.com/Toky0luvv/status/1914572951862829199/photo/1",
+              "media_key": "3_1914572942505336832",
+              "start": 0,
+              "url": "https://t.co/zU5Qw9UB3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914572951862829199",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1442,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zU5Qw9UB3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 88,
+          "like_count": 2843,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 933
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T11:53:04.000Z",
+        "description": "ENTJ双子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%9E%B32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%9E%B32",
+                "start": 0,
+                "url": "https://t.co/GEEleBN08a"
+              }
+            ]
+          }
+        },
+        "id": "1879134587504492544",
+        "location": "🚪52纯绿",
+        "name": "瞳",
+        "pinned_tweet_id": "1913583780843192477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914745068038316035/PTJ98E7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 318,
+          "like_count": 321,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/GEEleBN08a",
+        "username": "Toky0luvv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1944216723332252158",
+    "created_at": "2025-07-13T02:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T03:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944216723332252158"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1944216723332252158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一些事情是无法从自己内部去剖析和改变的，我不能完全接受从“为什么ta不…？”变成探求“为什么我非要…？”这种说法，抹杀人自我的一些底线需求，反而用自我修行的概念去替换，很奇怪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1944216723332252158",
+        "created_at": "2025-07-13T02:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T03:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944216723332252158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944216723332252158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一些事情是无法从自己内部去剖析和改变的，我不能完全接受从“为什么ta不…？”变成探求“为什么我非要…？”这种说法，抹杀人自我的一些底线需求，反而用自我修行的概念去替换，很奇怪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 113,
+          "like_count": 4636,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1573
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

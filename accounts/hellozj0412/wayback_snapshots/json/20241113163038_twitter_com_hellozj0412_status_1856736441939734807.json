@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1845789143973925085",
+    "created_at": "2024-11-13T16:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T17:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856736441939734807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1524400430695997440",
+          "start": 0,
+          "username": "shiyihffdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856736441939734807",
+    "in_reply_to_user_id": "1524400430695997440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846593911566778767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiyihffdh 没学就快点跑，学了就跑快点🙁目前0offer嘻嘻嘻哈哈哈哈呵呵呵疯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1845789143973925085",
+        "created_at": "2024-11-13T16:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T17:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856736441939734807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1524400430695997440",
+              "start": 0,
+              "username": "shiyihffdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856736441939734807",
+        "in_reply_to_user_id": "1524400430695997440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846593911566778767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiyihffdh 没学就快点跑，学了就跑快点🙁目前0offer嘻嘻嘻哈哈哈哈呵呵呵疯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524400430695997440",
+        "conversation_id": "1845789143973925085",
+        "created_at": "2024-10-16T16:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-16T17:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846593911566778767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846593911566778767",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846159221592617243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 咋样，这个专业就业好吗？有没有拿到offer"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 49,
+          "like_count": 312,
+          "listed_count": 0,
+          "tweet_count": 38
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T14:46:09.000Z",
+        "description": "",
+        "id": "1524400430695997440",
+        "name": "shiyihffdh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820158421879926784/0JLqq5U9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 605,
+          "like_count": 58,
+          "listed_count": 0,
+          "tweet_count": 34
+        },
+        "username": "shiyihffdh",
+        "verified": false
+      }
+    ]
+  }
+}

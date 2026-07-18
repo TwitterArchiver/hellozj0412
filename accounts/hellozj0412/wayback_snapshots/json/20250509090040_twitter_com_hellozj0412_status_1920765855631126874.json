@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1920685512420978723",
+    "created_at": "2025-05-09T09:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T10:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920765855631126874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1865831150146801664",
+          "start": 0,
+          "username": "tyson8690148518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920765855631126874",
+    "in_reply_to_user_id": "1865831150146801664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920690205570351554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tyson8690148518 哈哈哈哈哈哈拿起又放下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1920685512420978723",
+        "created_at": "2025-05-09T09:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T10:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920765855631126874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1865831150146801664",
+              "start": 0,
+              "username": "tyson8690148518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920765855631126874",
+        "in_reply_to_user_id": "1865831150146801664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920690205570351554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tyson8690148518 哈哈哈哈哈哈拿起又放下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865831150146801664",
+        "conversation_id": "1920685512420978723",
+        "created_at": "2025-05-09T04:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T05:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920690205570351554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920690205570351554",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920685512420978723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 每次回到家 直接电子ED 只想躺着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 94,
+          "like_count": 3445,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1108
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:50:14.000Z",
+        "description": "是足控…欢迎找我聊天",
+        "id": "1865831150146801664",
+        "location": "埼玉 春日部市",
+        "name": "烧烤王子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868713444280881152/3YxomWCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 2039,
+          "like_count": 38860,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 5492
+        },
+        "username": "tyson8690148518",
+        "verified": false
+      }
+    ]
+  }
+}

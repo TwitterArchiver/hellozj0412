@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2069701316805582889",
+    "created_at": "2026-06-24T11:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069744250867368280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1980622407556829184",
+          "start": 0,
+          "username": "ss48hao3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069744250867368280",
+    "in_reply_to_user_id": "1980622407556829184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069701316805582889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ss48hao3 其实隐性暴力真的会产生严重创伤，那些表达不适的话被忽视就算了，反而作为下一次强硬施压的借口和工具，即使是时间不久但是也能造成很大的心理影响，被忽视的情绪，被不尊重的感觉，被否定的人格，被打压的意志，到最后已经恐惧到不敢说话，因为接下来的巴掌会更重"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2069701166922153984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkOPt2bQAAMWqc.jpg",
+        "width": 888
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2069701166926286848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkOPt3aUAAlPDt.jpg",
+        "width": 888
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2069701167089598466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkOPueWQAIWUcs.jpg",
+        "width": 888
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2069701167144116224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkOPurWIAA1jz6.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2069701316805582889",
+        "created_at": "2026-06-24T11:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069744250867368280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1980622407556829184",
+              "start": 0,
+              "username": "ss48hao3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069744250867368280",
+        "in_reply_to_user_id": "1980622407556829184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069701316805582889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ss48hao3 其实隐性暴力真的会产生严重创伤，那些表达不适的话被忽视就算了，反而作为下一次强硬施压的借口和工具，即使是时间不久但是也能造成很大的心理影响，被忽视的情绪，被不尊重的感觉，被否定的人格，被打压的意志，到最后已经恐惧到不敢说话，因为接下来的巴掌会更重"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069701166922153984",
+            "3_2069701166926286848",
+            "3_2069701167089598466",
+            "3_2069701167144116224"
+          ]
+        },
+        "author_id": "1980622407556829184",
+        "conversation_id": "2069701316805582889",
+        "created_at": "2026-06-24T08:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069701316805582889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i26TueF81G",
+              "end": 128,
+              "expanded_url": "https://x.com/ss48hao3/status/2069701316805582889/photo/1",
+              "media_key": "3_2069701166922153984",
+              "start": 105,
+              "url": "https://t.co/i26TueF81G"
+            },
+            {
+              "display_url": "pic.x.com/i26TueF81G",
+              "end": 128,
+              "expanded_url": "https://x.com/ss48hao3/status/2069701316805582889/photo/1",
+              "media_key": "3_2069701166926286848",
+              "start": 105,
+              "url": "https://t.co/i26TueF81G"
+            },
+            {
+              "display_url": "pic.x.com/i26TueF81G",
+              "end": 128,
+              "expanded_url": "https://x.com/ss48hao3/status/2069701316805582889/photo/1",
+              "media_key": "3_2069701167089598466",
+              "start": 105,
+              "url": "https://t.co/i26TueF81G"
+            },
+            {
+              "display_url": "pic.x.com/i26TueF81G",
+              "end": 128,
+              "expanded_url": "https://x.com/ss48hao3/status/2069701316805582889/photo/1",
+              "media_key": "3_2069701167144116224",
+              "start": 105,
+              "url": "https://t.co/i26TueF81G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069701316805582889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 759,
+                "start": 753,
+                "tag": "绳师48号"
+              },
+              {
+                "end": 770,
+                "start": 760,
+                "tag": "shibari48"
+              }
+            ]
+          },
+          "text": "BDSM何时会越界成为暴力？\n1. BDSM vs 暴力的核心区别\n\nBDSM本质是基于双方同意的权力交换（Dom掌控，Sub让渡权力），双方均应享受过程。\n暴力则是单方面施加控制/伤害，忽略或剥夺对方意志。\n现代BDSM通过SSC原则（Safe安全、Sane理智、Consensual知情同意）和安全词等机制，保留“命令”的戏剧性，同时剥离其暴力属性，实现权力制衡。\n\n2. “有效同意”的三大要素（判断是否暴力的关键）\n\n·理智状态：必须在清醒、正常判断力下做出。醉酒、威胁、利诱、意识不清时的“同意”无效（法律案例支持）。\n·随时可收回（发生前与发生时）：在行为发生前及发生时，同意可以收回，随时可喊停（安全词）。以“之前同意”为由拒绝反悔 = 暴力。\n·明确而非默认：只有明确“Yes”才算同意。暗示、默认、害羞不直说都不行。“Only Yes Means Yes”。\n\n3. 常见越界形式\n\n显性暴力：强迫、威胁、身体伤害。\n隐性暴力：信息不对称、规训（如“别人都做得到，你不行”）、情感操控、利用依赖、惩罚式冷暴力、滥用权力制造不平等。\n例子：要求Sub减肥到特定体重否则不理人；利用经济/情感依赖操控；合同看似自愿但背后胁迫。\n\n4. 如何自我判断是否遭受暴力？\n\n最简单方法（心理学家建议）：问自己“我在这段关系中感到舒适吗？”即使有各种理由说服自己（“M就该听话”“S很知名”），内心持续不舒服 → 很可能存在隐性暴力。\n\n不舒服时，有权随时离开。习惯了也不等于没问题。\n\n5. 文章主旨与提醒\n\nBDSM本身不是暴力的代名词，关键在于有效的知情同意与权力制衡。\n\n未成年人因判断力不足，更易受侵害，不建议接触。\n无论Dom还是Sub，都应警惕：关系应让双方都更好，而非一方剥削另一方。\n#绳师48号 #shibari48"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2527,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "BDSM何时会越界成为暴力？\n1. BDSM vs 暴力的核心区别\n\nBDSM本质是基于双方同意的权力交换（Dom掌控，Sub让渡权力），双方均应享受过程。\n暴力则是单方面施加控制/伤害，忽略或剥夺对方意志。 https://t.co/i26TueF81G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 122,
+          "like_count": 5390,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1912
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T13:09:23.000Z",
+        "description": "#绳师48号 #shibari48\n唯一小号防丢，大号@shibari48 其他的说大号被封的都是假的，别轻信，点进大号去看粉丝量，20w+才是真的。\nbdsm基础知识科普在此号中\n属性测试链接在下面⬇️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "绳师48号"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "shibari48"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "shibari48"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "test.48haotest.site",
+                "end": 23,
+                "expanded_url": "https://test.48haotest.site",
+                "start": 0,
+                "url": "https://t.co/parLivjI6d"
+              }
+            ]
+          }
+        },
+        "id": "1980622407556829184",
+        "name": "绳师48号",
+        "pinned_tweet_id": "1980630062153232447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980624277498941440/HFLh6ZJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14931,
+          "following_count": 2,
+          "like_count": 3,
+          "listed_count": 8,
+          "media_count": 11,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/parLivjI6d",
+        "username": "ss48hao3",
+        "verified": true
+      }
+    ]
+  }
+}

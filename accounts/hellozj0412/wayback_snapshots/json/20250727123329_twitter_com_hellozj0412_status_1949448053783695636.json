@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1949355393055908221",
+    "created_at": "2025-07-27T12:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T13:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949448053783695636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759076490061426688",
+          "start": 0,
+          "username": "ScarletC33832"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949448053783695636",
+    "in_reply_to_user_id": "1759076490061426688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949355393055908221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarletC33832 只有确认对方也喜欢我的时候我才会做这些😢，但是爱贴贴已经成为下意识的动作了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1949355393055908221",
+        "created_at": "2025-07-27T12:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949448053783695636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759076490061426688",
+              "start": 0,
+              "username": "ScarletC33832"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949448053783695636",
+        "in_reply_to_user_id": "1759076490061426688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949355393055908221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletC33832 只有确认对方也喜欢我的时候我才会做这些😢，但是爱贴贴已经成为下意识的动作了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759076490061426688",
+        "conversation_id": "1949355393055908221",
+        "created_at": "2025-07-27T06:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T07:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949355393055908221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949355393055908221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 397,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想由于我太擅长压抑感受，所以我可能并不清楚自己对他人的感觉。\n然后它就以原始的方式泄露出来，喜欢的时候很喜欢贴在一起，觉得他的身体很美味很想咬。\n发现这件事让我有点难过，原来我当时是很喜欢那个人的。也让我有点崩溃，原来我很喜欢别人但没能准确地表达给对方。只是让对方觉得不适了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 115,
+          "like_count": 4884,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1655
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T04:45:26.000Z",
+        "description": "只活三天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "flowus.cn/share/9edbf4b9…",
+                "end": 23,
+                "expanded_url": "https://flowus.cn/share/9edbf4b9-2ccc-4538-95a0-7fa04d8784d4",
+                "start": 0,
+                "url": "https://t.co/0yjJgHyV4c"
+              }
+            ]
+          }
+        },
+        "id": "1759076490061426688",
+        "location": "you've raised my standard",
+        "name": "Arthur",
+        "pinned_tweet_id": "1942202630463451531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946834279574773760/_6-s-grk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 512,
+          "like_count": 8971,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 3476
+        },
+        "url": "https://t.co/0yjJgHyV4c",
+        "username": "ScarletC33832",
+        "verified": false
+      }
+    ]
+  }
+}

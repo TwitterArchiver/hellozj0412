@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1900558313634283741",
+    "created_at": "2025-03-14T14:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T15:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900558313634283741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552297710392205312",
+          "start": 3,
+          "username": "uru10101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900558313634283741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899856723491590471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uru10101: 8、9話は32ページに渡ってどえっっっち展開を仕込んでいます\n\nすでに黒の吹き出しが醸し出してますが、大和のバカでかい愛と私の性癖しか詰め込んでないので配信の際にはぜひお一人になれる場所でご覧ください・・・ https://t.co/juXtlz5y…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_1899856717447393280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl2lnl-XcAAAGTY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1900558313634283741",
+        "created_at": "2025-03-14T14:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T15:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900558313634283741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552297710392205312",
+              "start": 3,
+              "username": "uru10101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900558313634283741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899856723491590471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uru10101: 8、9話は32ページに渡ってどえっっっち展開を仕込んでいます\n\nすでに黒の吹き出しが醸し出してますが、大和のバカでかい愛と私の性癖しか詰め込んでないので配信の際にはぜひお一人になれる場所でご覧ください・・・ https://t.co/juXtlz5y…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899856717447393280"
+          ]
+        },
+        "author_id": "1552297710392205312",
+        "conversation_id": "1899856723491590471",
+        "created_at": "2025-03-12T16:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T17:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899856723491590471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/juXtlz5yY8",
+              "end": 127,
+              "expanded_url": "https://x.com/uru10101/status/1899856723491590471/photo/1",
+              "media_key": "3_1899856717447393280",
+              "start": 104,
+              "url": "https://t.co/juXtlz5yY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899856723491590471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 771,
+          "impression_count": 97335,
+          "like_count": 3763,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "8、9話は32ページに渡ってどえっっっち展開を仕込んでいます\n\nすでに黒の吹き出しが醸し出してますが、大和のバカでかい愛と私の性癖しか詰め込んでないので配信の際にはぜひお一人になれる場所でご覧ください・・・ https://t.co/juXtlz5yY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 80,
+          "like_count": 1576,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 595
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T14:20:07.000Z",
+        "description": "◾︎ウルです◾︎漫画描く◾︎商業と二次◾︎男×女◾︎連載中【やらしくて可愛い俺の凛ちゃん。】【失格王子の後宮征服記コミカライズ】◾︎🔞成人向有り未成年はフォローNGです◾︎支部→https://t.co/T6A2bVM1Du",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4004133",
+                "end": 112,
+                "expanded_url": "https://www.pixiv.net/users/4004133",
+                "start": 89,
+                "url": "https://t.co/T6A2bVM1Du"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmoa.jp/title/304610/",
+                "end": 23,
+                "expanded_url": "https://www.cmoa.jp/title/304610/",
+                "start": 0,
+                "url": "https://t.co/oOgukraqte"
+              }
+            ]
+          }
+        },
+        "id": "1552297710392205312",
+        "location": "りんくうし",
+        "name": "ウル",
+        "pinned_tweet_id": "1847234430143766639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852040173103779843/Bf17LlY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54175,
+          "following_count": 60,
+          "like_count": 12622,
+          "listed_count": 130,
+          "media_count": 420,
+          "tweet_count": 3062
+        },
+        "url": "https://t.co/oOgukraqte",
+        "username": "uru10101",
+        "verified": true
+      }
+    ]
+  }
+}

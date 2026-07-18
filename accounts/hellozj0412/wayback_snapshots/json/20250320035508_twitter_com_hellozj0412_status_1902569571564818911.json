@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1902400251539157411",
+    "created_at": "2025-03-20T03:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T04:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902569571564818911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677211387968512000",
+          "start": 0,
+          "username": "edmicovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902569571564818911",
+    "in_reply_to_user_id": "1677211387968512000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902400251539157411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@edmicovo 炸膛笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1902400251539157411",
+        "created_at": "2025-03-20T03:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T04:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902569571564818911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677211387968512000",
+              "start": 0,
+              "username": "edmicovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902569571564818911",
+        "in_reply_to_user_id": "1677211387968512000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902400251539157411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@edmicovo 炸膛笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677211387968512000",
+        "conversation_id": "1902400251539157411",
+        "created_at": "2025-03-19T16:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T17:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902400251539157411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902400251539157411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11058,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "妈的，本来在浴室自己边控的好好的，结果舍友玩瓦被对面夜露阴了于是歇斯底里的大叫，导致我炸膛炸的整个墙上都是……我靠日本人怎么这么坏啊！😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 82,
+          "like_count": 1736,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 689
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T07:02:18.000Z",
+        "description": "19岁，he/him   全身良好  身心健康，furry控   小说写手 摆烂剪辑师 本账号无H  会自己发泄欲望别约  里推自寻   Chines  English 愿我们友好相处，涉政的别tm找我  愿友谊长存，干杯🍻",
+        "id": "1677211387968512000",
+        "location": "异界不夜城",
+        "name": "Edmic_EDMK",
+        "pinned_tweet_id": "1898773489844379904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892554398234251264/qRKvPUZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 788,
+          "like_count": 1242,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 5488
+        },
+        "username": "edmicovo",
+        "verified": false
+      }
+    ]
+  }
+}

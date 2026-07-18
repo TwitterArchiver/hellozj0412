@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904529924142075904"
+      ],
+      "media_source_tweet_id": [
+        "1904529928059552103"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1904844174660149514",
+    "created_at": "2025-03-26T10:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T11:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904844174660149514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529580704878804996",
+          "start": 3,
+          "username": "betchesugh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qXtJyHftcs",
+          "end": 39,
+          "expanded_url": "https://x.com/betchesugh/status/1904529928059552103/photo/1",
+          "media_key": "3_1904529924142075904",
+          "start": 16,
+          "url": "https://t.co/qXtJyHftcs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904844174660149514",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1201
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904529928059552103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @betchesugh: https://t.co/qXtJyHftcs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1139,
+        "media_key": "3_1904529924142075904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm4_4BiXEAAwh87.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904529924142075904"
+          ],
+          "media_source_tweet_id": [
+            "1904529928059552103"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1904844174660149514",
+        "created_at": "2025-03-26T10:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T11:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904844174660149514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529580704878804996",
+              "start": 3,
+              "username": "betchesugh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qXtJyHftcs",
+              "end": 39,
+              "expanded_url": "https://x.com/betchesugh/status/1904529928059552103/photo/1",
+              "media_key": "3_1904529924142075904",
+              "start": 16,
+              "url": "https://t.co/qXtJyHftcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904844174660149514",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1201
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904529928059552103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @betchesugh: https://t.co/qXtJyHftcs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904529924142075904"
+          ]
+        },
+        "author_id": "1529580704878804996",
+        "conversation_id": "1904529928059552103",
+        "created_at": "2025-03-25T13:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T14:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904529928059552103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qXtJyHftcs",
+              "end": 23,
+              "expanded_url": "https://x.com/betchesugh/status/1904529928059552103/photo/1",
+              "media_key": "3_1904529924142075904",
+              "start": 0,
+              "url": "https://t.co/qXtJyHftcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904529928059552103",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1102,
+          "impression_count": 317216,
+          "like_count": 9466,
+          "quote_count": 126,
+          "reply_count": 70,
+          "retweet_count": 1201
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qXtJyHftcs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 76,
+          "like_count": 1948,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 794
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T21:50:50.000Z",
+        "description": "cute and kinky memes",
+        "id": "1529580704878804996",
+        "name": "could be us",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535326360457052161/craB8OC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385706,
+          "following_count": 5,
+          "like_count": 2745,
+          "listed_count": 471,
+          "media_count": 982,
+          "tweet_count": 1428
+        },
+        "username": "betchesugh",
+        "verified": true
+      }
+    ]
+  }
+}

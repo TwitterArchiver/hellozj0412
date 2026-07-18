@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923240678873763840"
+      ],
+      "media_source_tweet_id": [
+        "1923240686406484000"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1923747396757893153",
+    "created_at": "2025-05-17T14:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T15:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923747396757893153"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 39,
+          "tag": "XG_TOKYODOME"
+        },
+        {
+          "end": 63,
+          "start": 53,
+          "tag": "XG_fanart"
+        },
+        {
+          "end": 71,
+          "start": 65,
+          "tag": "JURIN"
+        },
+        {
+          "end": 79,
+          "start": 72,
+          "tag": "HARVEY"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593032891025747968",
+          "start": 3,
+          "username": "01xMOMx20"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PPjQO6j72n",
+          "end": 103,
+          "expanded_url": "https://x.com/01xMOMx20/status/1923240686406484000/photo/1",
+          "media_key": "3_1923240678873763840",
+          "start": 80,
+          "url": "https://t.co/PPjQO6j72n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923747396757893153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 225
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923240686406484000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @01xMOMx20: CHILL BILL SAIKOでした🫶🫶🫶\n #XG_TOKYODOME #XG_fanart  #JURIN #HARVEY https://t.co/PPjQO6j72n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923240678873763840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrC5NSnaEAA2TxP.jpg",
+        "width": 1210
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923240678873763840"
+          ],
+          "media_source_tweet_id": [
+            "1923240686406484000"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1923747396757893153",
+        "created_at": "2025-05-17T14:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T15:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923747396757893153"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 39,
+              "tag": "XG_TOKYODOME"
+            },
+            {
+              "end": 63,
+              "start": 53,
+              "tag": "XG_fanart"
+            },
+            {
+              "end": 71,
+              "start": 65,
+              "tag": "JURIN"
+            },
+            {
+              "end": 79,
+              "start": 72,
+              "tag": "HARVEY"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593032891025747968",
+              "start": 3,
+              "username": "01xMOMx20"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PPjQO6j72n",
+              "end": 103,
+              "expanded_url": "https://x.com/01xMOMx20/status/1923240686406484000/photo/1",
+              "media_key": "3_1923240678873763840",
+              "start": 80,
+              "url": "https://t.co/PPjQO6j72n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923747396757893153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 225
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923240686406484000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @01xMOMx20: CHILL BILL SAIKOでした🫶🫶🫶\n #XG_TOKYODOME #XG_fanart  #JURIN #HARVEY https://t.co/PPjQO6j72n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923240678873763840"
+          ]
+        },
+        "author_id": "1593032891025747968",
+        "conversation_id": "1923240686406484000",
+        "created_at": "2025-05-16T04:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T05:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923240686406484000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 24,
+              "tag": "XG_TOKYODOME"
+            },
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "XG_fanart"
+            },
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "JURIN"
+            },
+            {
+              "end": 64,
+              "start": 57,
+              "tag": "HARVEY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PPjQO6j72n",
+              "end": 88,
+              "expanded_url": "https://x.com/01xMOMx20/status/1923240686406484000/photo/1",
+              "media_key": "3_1923240678873763840",
+              "start": 65,
+              "url": "https://t.co/PPjQO6j72n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923240686406484000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 27512,
+          "like_count": 1370,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 225
+        },
+        "reply_settings": "everyone",
+        "text": "CHILL BILL SAIKOでした🫶🫶🫶\n #XG_TOKYODOME #XG_fanart  #JURIN #HARVEY https://t.co/PPjQO6j72n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 98,
+          "like_count": 3704,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1163
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T00:07:12.000Z",
+        "description": "毎日ごはんがおいしいひきこもり推し活勢 XGちゃん🦄推しほぼ箱 たまに絵を描く",
+        "id": "1593032891025747968",
+        "name": "まむ🚀🦄🪐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920444235901239296/xqV_atRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 54,
+          "like_count": 947,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 234
+        },
+        "username": "01xMOMx20",
+        "verified": false
+      }
+    ]
+  }
+}

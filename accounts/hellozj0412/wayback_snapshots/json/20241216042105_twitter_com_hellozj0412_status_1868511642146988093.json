@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1868378622991728783",
+    "created_at": "2024-12-16T04:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T05:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868511642146988093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1801839636119228420",
+          "start": 0,
+          "username": "nizhenbang0225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868511642146988093",
+    "in_reply_to_user_id": "1801839636119228420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868378622991728783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nizhenbang0225 凌晨三点🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1868378622991728783",
+        "created_at": "2024-12-16T04:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T05:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868511642146988093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1801839636119228420",
+              "start": 0,
+              "username": "nizhenbang0225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868511642146988093",
+        "in_reply_to_user_id": "1801839636119228420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868378622991728783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nizhenbang0225 凌晨三点🧐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1868378388416942081",
+            "7_1868378506062876672",
+            "7_1868378595288334336"
+          ]
+        },
+        "author_id": "1801839636119228420",
+        "conversation_id": "1868378622991728783",
+        "created_at": "2024-12-15T19:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T20:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868378622991728783"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "男喘"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "手冲实录"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJz8fwzN1R",
+              "end": 62,
+              "expanded_url": "https://x.com/nizhenbang0225/status/1868378622991728783/video/1",
+              "media_key": "7_1868378388416942081",
+              "start": 39,
+              "url": "https://t.co/HJz8fwzN1R"
+            },
+            {
+              "display_url": "pic.x.com/HJz8fwzN1R",
+              "end": 62,
+              "expanded_url": "https://x.com/nizhenbang0225/status/1868378622991728783/video/1",
+              "media_key": "7_1868378506062876672",
+              "start": 39,
+              "url": "https://t.co/HJz8fwzN1R"
+            },
+            {
+              "display_url": "pic.x.com/HJz8fwzN1R",
+              "end": 62,
+              "expanded_url": "https://x.com/nizhenbang0225/status/1868378622991728783/video/1",
+              "media_key": "7_1868378595288334336",
+              "start": 39,
+              "url": "https://t.co/HJz8fwzN1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868378622991728783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 951,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更一次手冲吧，比较sweet talk吧 爽的在乱说话了\n#男喘 #手冲实录 https://t.co/HJz8fwzN1R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 61,
+          "like_count": 596,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 156
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T04:50:28.000Z",
+        "description": "而今何事最相宜，宜醉宜游宜睡。",
+        "id": "1801839636119228420",
+        "name": "Dysania",
+        "pinned_tweet_id": "1850802473293971583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850774231002558464/6kEF9Zm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7727,
+          "following_count": 40,
+          "like_count": 261,
+          "listed_count": 12,
+          "media_count": 62,
+          "tweet_count": 420
+        },
+        "username": "nizhenbang0225",
+        "verified": false
+      }
+    ]
+  }
+}

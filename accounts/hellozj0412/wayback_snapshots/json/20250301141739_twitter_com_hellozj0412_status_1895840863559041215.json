@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1895730728580890686",
+    "created_at": "2025-03-01T14:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T15:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895840863559041215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1821521036967600128",
+          "start": 0,
+          "username": "Y86668Rr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895840863559041215",
+    "in_reply_to_user_id": "1821521036967600128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895730728580890686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y86668Rr 是有kpi吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895730721328656384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk79DAqW8AAlI0Y.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1895730728580890686",
+        "created_at": "2025-03-01T14:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T15:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895840863559041215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821521036967600128",
+              "start": 0,
+              "username": "Y86668Rr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895840863559041215",
+        "in_reply_to_user_id": "1821521036967600128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895730728580890686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y86668Rr 是有kpi吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895730721328656384"
+          ]
+        },
+        "author_id": "1821521036967600128",
+        "conversation_id": "1895730728580890686",
+        "created_at": "2025-03-01T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895730728580890686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/abeimZou3Z",
+              "end": 32,
+              "expanded_url": "https://x.com/Y86668Rr/status/1895730728580890686/photo/1",
+              "media_key": "3_1895730721328656384",
+              "start": 9,
+              "url": "https://t.co/abeimZou3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895730728580890686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 31523,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家人们注意一下哦 https://t.co/abeimZou3Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 68,
+          "like_count": 1347,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 496
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T12:17:23.000Z",
+        "description": "175/75kg ｜switch｜ 很吵一女的｜纯绿🚪288 喜欢我就给我打钱｜本身就是废墟 不存在塌房｜我有神经病你就让让我吧｜不爱回私信 回一条20💰｜推广自辨 关评推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y86668rr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y86668rr",
+                "start": 0,
+                "url": "https://t.co/kj9UaLmg3a"
+              }
+            ]
+          }
+        },
+        "id": "1821521036967600128",
+        "location": "赛博老婆🚪1314/5200",
+        "name": "悲伤大吗喽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876595471545978880/dwN-ykuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6003,
+          "following_count": 167,
+          "like_count": 3400,
+          "listed_count": 7,
+          "media_count": 108,
+          "tweet_count": 1533
+        },
+        "url": "https://t.co/kj9UaLmg3a",
+        "username": "Y86668Rr",
+        "verified": false
+      }
+    ]
+  }
+}

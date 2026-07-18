@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2073805626980147294",
+    "created_at": "2026-07-06T06:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074023042586648820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584061393543626752",
+          "start": 0,
+          "username": "borzoisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074023042586648820",
+    "in_reply_to_user_id": "1584061393543626752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074015710402236560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@borzoisama 对我来说，两者都是需要的🤔，好朋友我已经有了，但大家都是独立的个体有独自的生活，但伴侣是与我一起生活的，提供的价值不一样，两者都不能被对方代替，都一样重要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2073805626980147294",
+        "created_at": "2026-07-06T06:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074023042586648820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584061393543626752",
+              "start": 0,
+              "username": "borzoisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074023042586648820",
+        "in_reply_to_user_id": "1584061393543626752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074015710402236560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@borzoisama 对我来说，两者都是需要的🤔，好朋友我已经有了，但大家都是独立的个体有独自的生活，但伴侣是与我一起生活的，提供的价值不一样，两者都不能被对方代替，都一样重要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584061393543626752",
+        "conversation_id": "2073805626980147294",
+        "created_at": "2026-07-06T06:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074015710402236560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074015710402236560",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074014434658582884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 这样的话一群朋友是不是比一个伴侣好一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 121,
+          "like_count": 5518,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1939
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T05:57:34.000Z",
+        "description": "超绝低精力抽象乐子狗狗人",
+        "id": "1584061393543626752",
+        "location": "被子里",
+        "name": "波索尔",
+        "pinned_tweet_id": "2000158324877398121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888152214830796800/L3dMIwTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 167,
+          "like_count": 30092,
+          "listed_count": 1,
+          "media_count": 760,
+          "tweet_count": 9860
+        },
+        "url": "",
+        "username": "borzoisama",
+        "verified": false
+      }
+    ]
+  }
+}

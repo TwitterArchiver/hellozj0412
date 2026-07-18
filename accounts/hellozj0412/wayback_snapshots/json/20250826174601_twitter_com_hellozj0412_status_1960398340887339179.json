@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1960397340738773147",
+    "created_at": "2025-08-26T17:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T18:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960398340887339179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1829588595315003392",
+          "start": 0,
+          "username": "yi4eert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960398340887339179",
+    "in_reply_to_user_id": "1829588595315003392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960397340738773147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi4eert 眼泪会变成河流，而你本来就是舟，自己渡自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1960397340738773147",
+        "created_at": "2025-08-26T17:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960398340887339179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1829588595315003392",
+              "start": 0,
+              "username": "yi4eert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960398340887339179",
+        "in_reply_to_user_id": "1829588595315003392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960397340738773147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi4eert 眼泪会变成河流，而你本来就是舟，自己渡自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829588595315003392",
+        "conversation_id": "1960397340738773147",
+        "created_at": "2025-08-26T17:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960397340738773147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960397340738773147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成为平静的人这一课注定要流很多眼泪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 119,
+          "like_count": 5346,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1760
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T18:35:06.000Z",
+        "description": "infp /成分复杂/想发什么发什么/不被定义看感觉/存在即合理 内容🈲二改 谢谢每一个你的喜欢",
+        "id": "1829588595315003392",
+        "location": "好好生活。",
+        "name": "nrel",
+        "pinned_tweet_id": "1868830180405657611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829588858989625374/-UECBccc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11081,
+          "following_count": 8,
+          "like_count": 1932,
+          "listed_count": 11,
+          "media_count": 413,
+          "tweet_count": 2159
+        },
+        "username": "yi4eert",
+        "verified": false
+      }
+    ]
+  }
+}

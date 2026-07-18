@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "1909462798116986980",
+    "created_at": "2025-04-08T04:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T05:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909462798116986980"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1909462798116986980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩游戏这个东西还是不能只听人推荐，很多朋友玩的好的其实自己玩就玩不下去，不是作品不好，单纯是兴趣点不同，在赛博朋克2077发行的时候就买了，只玩了2.4h，至今闲置，消逝的光芒是我第一个晕3d晕的很厉害的，命运2买了还没打开过😢😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1909462798116986980",
+        "created_at": "2025-04-08T04:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T05:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909462798116986980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909462798116986980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩游戏这个东西还是不能只听人推荐，很多朋友玩的好的其实自己玩就玩不下去，不是作品不好，单纯是兴趣点不同，在赛博朋克2077发行的时候就买了，只玩了2.4h，至今闲置，消逝的光芒是我第一个晕3d晕的很厉害的，命运2买了还没打开过😢😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 83,
+          "like_count": 2441,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 988
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

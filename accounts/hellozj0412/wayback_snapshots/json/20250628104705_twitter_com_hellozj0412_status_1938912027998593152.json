@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1938911740135440384",
+    "created_at": "2025-06-28T10:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T11:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938912027998593152"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938912027998593152",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938911740135440384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果这个时候有人能塞我一堆成果然后告诉我，孩子你够资历读博了这是你的offer，我立马接啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1938911740135440384",
+        "created_at": "2025-06-28T10:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938912027998593152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938912027998593152",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938911740135440384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果这个时候有人能塞我一堆成果然后告诉我，孩子你够资历读博了这是你的offer，我立马接啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1938911740135440384",
+        "created_at": "2025-06-28T10:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938911740135440384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938911740135440384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么事情上人都不能既要又要啊\n读研的时候想上班，上班的时候想读博"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 110,
+          "like_count": 4377,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1449
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

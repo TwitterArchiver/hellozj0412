@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1931392580912300089",
+    "created_at": "2025-06-07T17:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T18:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931409478626193588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1590695308463288321",
+          "start": 0,
+          "username": "acclzd_clz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931409478626193588",
+    "in_reply_to_user_id": "1590695308463288321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931392580912300089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acclzd_clz 新饭！我吃！爱而不得狠狠做恨是吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1999,
+        "media_key": "3_1931392567494774784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs2vTqNbEAAwhBU.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1931392580912300089",
+        "created_at": "2025-06-07T17:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T18:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931409478626193588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1590695308463288321",
+              "start": 0,
+              "username": "acclzd_clz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931409478626193588",
+        "in_reply_to_user_id": "1590695308463288321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931392580912300089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acclzd_clz 新饭！我吃！爱而不得狠狠做恨是吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931392567494774784"
+          ]
+        },
+        "author_id": "1590695308463288321",
+        "conversation_id": "1931392580912300089",
+        "created_at": "2025-06-07T16:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931392580912300089"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "一爱"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "强制爱"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "春药"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qqqKfMEZUg",
+              "end": 98,
+              "expanded_url": "https://x.com/acclzd_clz/status/1931392580912300089/photo/1",
+              "media_key": "3_1931392567494774784",
+              "start": 75,
+              "url": "https://t.co/qqqKfMEZUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931392580912300089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 3946,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“每天对着空棺材说话，你觉得很好笑，是不是？”\n“除非我死，否则你别想离开我一步”\n#一爱 #强制爱 #春药 \no(^▽^)o厘白驾到！通通闪开！！ https://t.co/qqqKfMEZUg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 109,
+          "like_count": 4204,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1338
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T13:18:17.000Z",
+        "description": "无墙内账号 骂我没财运☝️不回定制打赏以外私信 ☝️ 文笔朴素单调🫶关评论为推广",
+        "id": "1590695308463288321",
+        "location": "流量来流量来",
+        "name": "荞麦厘子",
+        "pinned_tweet_id": "1931392580912300089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929471308200632320/cA-Mxogx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70894,
+          "following_count": 54,
+          "like_count": 7866,
+          "listed_count": 74,
+          "media_count": 300,
+          "tweet_count": 907
+        },
+        "username": "acclzd_clz",
+        "verified": false
+      }
+    ]
+  }
+}

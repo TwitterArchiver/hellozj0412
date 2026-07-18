@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1866000530591690781",
+    "created_at": "2024-12-09T15:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T16:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866148615023993212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1301394999276232704",
+          "start": 0,
+          "username": "4677324q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866148615023993212",
+    "in_reply_to_user_id": "1301394999276232704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866000530591690781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4677324q 接🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1866000530591690781",
+        "created_at": "2024-12-09T15:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T16:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866148615023993212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1301394999276232704",
+              "start": 0,
+              "username": "4677324q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866148615023993212",
+        "in_reply_to_user_id": "1301394999276232704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866000530591690781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4677324q 接🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1301394999276232704",
+        "conversation_id": "1866000530591690781",
+        "created_at": "2024-12-09T06:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T07:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866000530591690781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866000530591690781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5395,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有工作喽，hr跟我说要提交总部，下下周入职"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 60,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 76
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-03T05:42:13.000Z",
+        "description": "文明冲浪🏄🏻    男  ♒️ 把我当成互联网NPC\nIMSB\n玩玩匿名箱  https://t.co/l5jvU2jz4N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/4677324q",
+                "end": 62,
+                "expanded_url": "https://ngl.link/4677324q",
+                "start": 39,
+                "url": "https://t.co/l5jvU2jz4N"
+              }
+            ]
+          }
+        },
+        "id": "1301394999276232704",
+        "location": "在那高高的谷堆旁",
+        "name": "今天吃饱了没（逢赌必输）",
+        "pinned_tweet_id": "1570458768592482306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654050791462952962/3F_EYBGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 5542,
+          "like_count": 132984,
+          "listed_count": 7,
+          "media_count": 843,
+          "tweet_count": 21002
+        },
+        "username": "4677324q",
+        "verified": false
+      }
+    ]
+  }
+}

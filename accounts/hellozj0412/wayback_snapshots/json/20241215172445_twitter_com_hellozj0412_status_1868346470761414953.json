@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1868346470761414953",
+    "created_at": "2024-12-15T17:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T18:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868346470761414953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kakashiuvu09/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/kakashiuvu09/status/1867785655969100153",
+          "start": 17,
+          "url": "https://t.co/FMj1PL4Oiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868346470761414953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867785655969100153",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我天呐我就是一个这么坏的小女孩😈 https://t.co/FMj1PL4Oiy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1868346470761414953",
+        "created_at": "2024-12-15T17:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T18:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868346470761414953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kakashiuvu09/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kakashiuvu09/status/1867785655969100153",
+              "start": 17,
+              "url": "https://t.co/FMj1PL4Oiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868346470761414953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867785655969100153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我天呐我就是一个这么坏的小女孩😈 https://t.co/FMj1PL4Oiy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845804987311595520",
+        "conversation_id": "1867785655969100153",
+        "created_at": "2024-12-14T04:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T05:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867785655969100153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867785655969100153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3260,
+          "like_count": 41,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "赚到钱后要做的事：1.忘本  2.欺负弱小  3.落井下石 4.蹬鼻子上脸   5.爱慕虚荣  6.挥金如土  7.为所欲为  8.好吃懒做  9.爱财如命  10.咄咄逼人  11.公报私仇  12.得寸进尺  13.为富不仁  14.一毛不拔.  15.过河拆桥 16.斤斤计较  17.蛮横无理  18.趾高气昂  19.忘恩负义  20.踩高捧低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 60,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 144
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T12:33:12.000Z",
+        "description": "推广自辨",
+        "id": "1845804987311595520",
+        "name": "潮嘲熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845809946484727808/HMc_LLcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 109,
+          "like_count": 834,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 495
+        },
+        "username": "kakashiuvu09",
+        "verified": false
+      }
+    ]
+  }
+}

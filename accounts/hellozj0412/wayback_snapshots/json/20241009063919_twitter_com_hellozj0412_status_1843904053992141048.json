@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1843530180184420780",
+    "created_at": "2024-10-09T06:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T07:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843904053992141048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1770600121778233344",
+          "start": 0,
+          "username": "hasbeentaken99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843904053992141048",
+    "in_reply_to_user_id": "1770600121778233344",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843530180184420780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hasbeentaken99 感觉就是ltp呵呵🤭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1843530180184420780",
+        "created_at": "2024-10-09T06:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T07:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843904053992141048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1770600121778233344",
+              "start": 0,
+              "username": "hasbeentaken99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843904053992141048",
+        "in_reply_to_user_id": "1770600121778233344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843530180184420780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasbeentaken99 感觉就是ltp呵呵🤭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770600121778233344",
+        "conversation_id": "1843530180184420780",
+        "created_at": "2024-10-08T05:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T06:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843530180184420780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1843530180184420780",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 42404,
+          "like_count": 544,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "我对于总喜欢“看起来就很无辜无害的清纯女生”的男性没有好感\n就跟吴亦凡身体不行所以只敢操未成年一样\n心理不成熟的男的才喜欢柔弱好掌控的女性\n可以看作是一种心理阳痿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801298404578050050/gUTZ7H3k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 32,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T23:55:51.000Z",
+        "description": "自我意识过剩｜Brat & DDLG｜来这发点墙内不能发的｜认出勿扰｜没门槛因为没门",
+        "id": "1770600121778233344",
+        "name": "幻想试验箱",
+        "pinned_tweet_id": "1778699600121221334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842251347380649984/o1g5CsD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23096,
+          "following_count": 85,
+          "like_count": 4179,
+          "listed_count": 101,
+          "tweet_count": 3350
+        },
+        "username": "hasbeentaken99",
+        "verified": false
+      }
+    ]
+  }
+}

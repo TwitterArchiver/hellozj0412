@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946923188782342144"
+      ],
+      "media_source_tweet_id": [
+        "1946923197544235039"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1947239886114664568",
+    "created_at": "2025-07-21T10:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T11:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947239886114664568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1499666916671045632",
+          "start": 3,
+          "username": "saku050524"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sw94Bi3sac",
+          "end": 39,
+          "expanded_url": "https://x.com/saku050524/status/1946923197544235039/photo/1",
+          "media_key": "3_1946923188782342144",
+          "start": 16,
+          "url": "https://t.co/sw94Bi3sac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947239886114664568",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 550
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946923197544235039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saku050524: https://t.co/sw94Bi3sac"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_1946923188782342144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwTcUzBXoAAULjz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946923188782342144"
+          ],
+          "media_source_tweet_id": [
+            "1946923197544235039"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1947239886114664568",
+        "created_at": "2025-07-21T10:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T11:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947239886114664568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1499666916671045632",
+              "start": 3,
+              "username": "saku050524"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sw94Bi3sac",
+              "end": 39,
+              "expanded_url": "https://x.com/saku050524/status/1946923197544235039/photo/1",
+              "media_key": "3_1946923188782342144",
+              "start": 16,
+              "url": "https://t.co/sw94Bi3sac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947239886114664568",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 550
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946923197544235039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saku050524: https://t.co/sw94Bi3sac"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946923188782342144"
+          ]
+        },
+        "author_id": "1499666916671045632",
+        "conversation_id": "1946923197544235039",
+        "created_at": "2025-07-20T13:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T14:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946923197544235039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sw94Bi3sac",
+              "end": 23,
+              "expanded_url": "https://x.com/saku050524/status/1946923197544235039/photo/1",
+              "media_key": "3_1946923188782342144",
+              "start": 0,
+              "url": "https://t.co/sw94Bi3sac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946923197544235039",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 940,
+          "impression_count": 113701,
+          "like_count": 8900,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 550
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sw94Bi3sac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 114,
+          "like_count": 4817,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1622
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T08:44:00.000Z",
+        "description": "さく。です。絵を描いています。依頼: ❌リトリン必読※日本語可能な方のみ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sakuIllust",
+                "end": 23,
+                "expanded_url": "https://lit.link/sakuIllust",
+                "start": 0,
+                "url": "https://t.co/OEBGmDIhP6"
+              }
+            ]
+          }
+        },
+        "id": "1499666916671045632",
+        "name": "朔。",
+        "pinned_tweet_id": "1946159782072652026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716095138651627520/bomjiDwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19799,
+          "following_count": 48,
+          "like_count": 2454,
+          "listed_count": 152,
+          "media_count": 110,
+          "tweet_count": 4128
+        },
+        "url": "https://t.co/OEBGmDIhP6",
+        "username": "saku050524",
+        "verified": false
+      }
+    ]
+  }
+}

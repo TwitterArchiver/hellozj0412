@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1917517336711684356",
+    "created_at": "2025-04-30T13:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T14:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917569234801918209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1415124450362724359",
+          "start": 0,
+          "username": "le68957438"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917569234801918209",
+    "in_reply_to_user_id": "1415124450362724359",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917517336711684356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@le68957438 笑晕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917517187495194624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpxjuPtbcAAJiD_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1917517336711684356",
+        "created_at": "2025-04-30T13:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T14:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917569234801918209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1415124450362724359",
+              "start": 0,
+              "username": "le68957438"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917569234801918209",
+        "in_reply_to_user_id": "1415124450362724359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917517336711684356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@le68957438 笑晕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917517187495194624"
+          ]
+        },
+        "author_id": "1415124450362724359",
+        "conversation_id": "1917517336711684356",
+        "created_at": "2025-04-30T09:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T10:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917517336711684356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wuZj6Te3P4",
+              "end": 31,
+              "expanded_url": "https://x.com/le68957438/status/1917517336711684356/photo/1",
+              "media_key": "3_1917517187495194624",
+              "start": 8,
+              "url": "https://t.co/wuZj6Te3P4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917517336711684356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4722,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最性压抑的一集 https://t.co/wuZj6Te3P4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 89,
+          "like_count": 3078,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 989
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-14T01:42:27.000Z",
+        "description": "不务正业的男喘 小也大王的忠实粉丝 家有小猫叫多鱼 谢谢喜欢",
+        "id": "1415124450362724359",
+        "location": "guangzhou",
+        "name": "Amy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533527063222636544/mGy8G62A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5224,
+          "following_count": 627,
+          "like_count": 1459,
+          "listed_count": 16,
+          "media_count": 75,
+          "tweet_count": 488
+        },
+        "username": "le68957438",
+        "verified": false
+      }
+    ]
+  }
+}

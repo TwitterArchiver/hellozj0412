@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1906505031408394574",
+    "created_at": "2025-03-31T08:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T09:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906620643291885630"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906620643291885630",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906505031408394574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起来一个最恐怖的片段就是一个比我进度差很多的同门把论文已经写完了…！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906505031408394574",
+        "created_at": "2025-03-31T08:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T09:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906620643291885630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906620643291885630",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906505031408394574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起来一个最恐怖的片段就是一个比我进度差很多的同门把论文已经写完了…！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906505031408394574",
+        "created_at": "2025-03-31T00:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T01:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906505031408394574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906505031408394574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做过最恶心的梦来了..，巨大的虫屠杀人类，会飞的巨大金龟，墨绿色的壳，爬行速度很快的巨大蜈蚣，全身暗红…会破门钻下水道顶着井盖出现，在地铁和小区里一直屠杀，在梦里绞尽脑汁的躲避，这种大逃杀的梦真的很累，东西还巨恶心…挣扎着醒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 81,
+          "like_count": 2156,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 877
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

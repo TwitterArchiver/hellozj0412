@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1867126045050335655",
+    "created_at": "2024-12-12T13:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T14:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867201084218892460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801839636119228420",
+          "start": 0,
+          "username": "Dysania0225"
+        },
+        {
+          "end": 25,
+          "id": "1782384499848036352",
+          "start": 13,
+          "username": "Akirammt317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867201084218892460",
+    "in_reply_to_user_id": "1801839636119228420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867126045050335655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dysania0225 @Akirammt317 D老师真劳模😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1867126045050335655",
+        "created_at": "2024-12-12T13:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T14:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867201084218892460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801839636119228420",
+              "start": 0,
+              "username": "Dysania0225"
+            },
+            {
+              "end": 25,
+              "id": "1782384499848036352",
+              "start": 13,
+              "username": "Akirammt317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867201084218892460",
+        "in_reply_to_user_id": "1801839636119228420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867126045050335655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dysania0225 @Akirammt317 D老师真劳模😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801839636119228420",
+        "conversation_id": "1867126045050335655",
+        "created_at": "2024-12-12T08:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T09:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867126045050335655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "男喘"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "情侣日常"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "纯爱万岁"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782384499848036352",
+              "start": 4,
+              "username": "Akirammt317"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "dysania.fanbox.cc/posts/9026601?…",
+              "end": 157,
+              "expanded_url": "https://dysania.fanbox.cc/posts/9026601?utm_campaign=post_page&utm_medium=share&utm_source=twitter",
+              "start": 134,
+              "status": 200,
+              "title": "《听贫嘴男妈妈安慰内耗女友》｜Dysania｜pixivFANBOX",
+              "unwound_url": "https://dysania.fanbox.cc/posts/9026601?utm_campaign=post_page&utm_medium=share&utm_source=twitter",
+              "url": "https://t.co/2OYvjWxN9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867126045050335655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2192,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台本来源@Akirammt317\n金牌厨师Dysania\n——————————————\n《听贫嘴男妈妈安慰内耗女友》 \n “我喜欢耍无赖你又不是第一天知道。 嗯，不喜欢我的厚脸皮。那你亲亲我，刮掉点。 多亲亲就薄了，亲亲嘛，亲亲。”\n#男喘 #情侣日常 #纯爱万岁\n https://t.co/2OYvjWxN9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 57,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 93
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T04:50:28.000Z",
+        "description": "而今何事最相宜，宜醉宜游宜睡。",
+        "id": "1801839636119228420",
+        "name": "Dysania",
+        "pinned_tweet_id": "1850802473293971583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850774231002558464/6kEF9Zm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7446,
+          "following_count": 40,
+          "like_count": 233,
+          "listed_count": 11,
+          "media_count": 62,
+          "tweet_count": 414
+        },
+        "username": "Dysania0225",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T12:22:47.000Z",
+        "description": "台本在亮点里♡录制可自取 | 发布时@我即可 | 赛克斯魔神上位失败 | 别人做满汉全席我做有毒的糕点| 饭盒不全https://t.co/zvLaud5EEY | 完整的无料在fantia ♡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "akirammt.fanbox.cc",
+                "end": 80,
+                "expanded_url": "https://akirammt.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/zvLaud5EEY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/517565",
+                "end": 23,
+                "expanded_url": "https://fantia.jp/fanclubs/517565",
+                "start": 0,
+                "url": "https://t.co/icYpKKNA1c"
+              }
+            ]
+          }
+        },
+        "id": "1782384499848036352",
+        "location": "谁教我蟹黄",
+        "name": "Akira是结尾妖精",
+        "pinned_tweet_id": "1836651805847302353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789362137212854272/LshWmf0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5725,
+          "following_count": 333,
+          "like_count": 3088,
+          "listed_count": 23,
+          "media_count": 280,
+          "tweet_count": 1758
+        },
+        "url": "https://t.co/icYpKKNA1c",
+        "username": "Akirammt317",
+        "verified": false
+      }
+    ]
+  }
+}

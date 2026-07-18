@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1899624145052418405",
+    "created_at": "2025-03-12T22:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T23:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899946065765232720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1428706836455165956",
+          "start": 0,
+          "username": "Adonis_s_s"
+        },
+        {
+          "end": 24,
+          "id": "956153144966336512",
+          "start": 12,
+          "username": "lengfeifang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899946065765232720",
+    "in_reply_to_user_id": "1428706836455165956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899630532960702516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adonis_s_s @lengfeifang 我也好想有工作….🥹🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1899624145052418405",
+        "created_at": "2025-03-12T22:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T23:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899946065765232720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1428706836455165956",
+              "start": 0,
+              "username": "Adonis_s_s"
+            },
+            {
+              "end": 24,
+              "id": "956153144966336512",
+              "start": 12,
+              "username": "lengfeifang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899946065765232720",
+        "in_reply_to_user_id": "1428706836455165956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899630532960702516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adonis_s_s @lengfeifang 我也好想有工作….🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1428706836455165956",
+        "conversation_id": "1899624145052418405",
+        "created_at": "2025-03-12T01:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T02:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899630532960702516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "956153144966336512",
+              "start": 0,
+              "username": "lengfeifang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899630532960702516",
+        "in_reply_to_user_id": "956153144966336512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 828,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899628633687277746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengfeifang 因为我当时找到工作了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 75,
+          "like_count": 1501,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 564
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-20T13:13:59.000Z",
+        "description": "爱是两个契合灵魂之间的碰撞 INFJ\n纯1哈可能有点S？ 不约",
+        "id": "1428706836455165956",
+        "location": "南京",
+        "name": "阿澈",
+        "pinned_tweet_id": "1841052404516540437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544725415683469313/IAiuux6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 598,
+          "like_count": 19343,
+          "listed_count": 5,
+          "media_count": 229,
+          "tweet_count": 4679
+        },
+        "username": "Adonis_s_s",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-24T13:14:08.000Z",
+        "description": "仍算是学生。主业：推特鉴黄师，副业：视奸一切有趣的事",
+        "id": "956153144966336512",
+        "location": "太阳",
+        "name": "Icarusの夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852771357500813312/QzGgQoql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 1134,
+          "like_count": 3869,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 119
+        },
+        "username": "lengfeifang",
+        "verified": false
+      }
+    ]
+  }
+}

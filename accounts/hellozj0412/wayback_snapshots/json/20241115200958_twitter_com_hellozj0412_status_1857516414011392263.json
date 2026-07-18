@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857516402745237504"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1857516414011392263",
+    "created_at": "2024-11-15T20:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T21:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857516414011392263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DDWjkDIdm8",
+          "end": 157,
+          "expanded_url": "https://x.com/hellozj0412/status/1857516414011392263/photo/1",
+          "media_key": "3_1857516402745237504",
+          "start": 134,
+          "url": "https://t.co/DDWjkDIdm8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857516414011392263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇塞哇塞每次一到要汇报的日子，复盘自己的论文就会发现一堆问题，然后冒出n个想法，然后紧急修改还改不完，什么意思呢我请问，论文你是不是有点普信了，我不是你的调教对象呵呵，我将起诉我的拖延症🤓（距离ddl还有不到18个小时，进度30%，焦虑的玩手机中，已经准备好挨骂了） https://t.co/DDWjkDIdm8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_1857516402745237504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcc5U6YXYAAsr7l.jpg",
+        "width": 1128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857516402745237504"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1857516414011392263",
+        "created_at": "2024-11-15T20:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T21:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857516414011392263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDWjkDIdm8",
+              "end": 157,
+              "expanded_url": "https://x.com/hellozj0412/status/1857516414011392263/photo/1",
+              "media_key": "3_1857516402745237504",
+              "start": 134,
+              "url": "https://t.co/DDWjkDIdm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857516414011392263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞哇塞每次一到要汇报的日子，复盘自己的论文就会发现一堆问题，然后冒出n个想法，然后紧急修改还改不完，什么意思呢我请问，论文你是不是有点普信了，我不是你的调教对象呵呵，我将起诉我的拖延症🤓（距离ddl还有不到18个小时，进度30%，焦虑的玩手机中，已经准备好挨骂了） https://t.co/DDWjkDIdm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 50,
+          "like_count": 358,
+          "listed_count": 0,
+          "tweet_count": 53
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1930244509885161544",
+    "created_at": "2025-06-04T16:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930299872973832416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1227840857329434624",
+          "start": 0,
+          "username": "yuexiu_b"
+        },
+        {
+          "end": 22,
+          "id": "1653083358254235648",
+          "start": 10,
+          "username": "buyaochilea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930299872973832416",
+    "in_reply_to_user_id": "1227840857329434624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930256563283079533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuexiu_b @buyaochilea 我也想看啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1930244509885161544",
+        "created_at": "2025-06-04T16:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930299872973832416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1227840857329434624",
+              "start": 0,
+              "username": "yuexiu_b"
+            },
+            {
+              "end": 22,
+              "id": "1653083358254235648",
+              "start": 10,
+              "username": "buyaochilea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930299872973832416",
+        "in_reply_to_user_id": "1227840857329434624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930256563283079533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuexiu_b @buyaochilea 我也想看啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227840857329434624",
+        "conversation_id": "1930244509885161544",
+        "created_at": "2025-06-04T13:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T14:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930256563283079533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1653083358254235648",
+              "start": 0,
+              "username": "buyaochilea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930256563283079533",
+        "in_reply_to_user_id": "1653083358254235648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930245037893530087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buyaochilea 就我投了见异思迁嘛？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 105,
+          "like_count": 4123,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1316
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-13T06:24:17.000Z",
+        "description": "文笔稀烂的扑街厨子🚬/小号日常防迷路@YuexiuuCC/杂食/光夜6推/找本在“亮点”，录本请私信通知我/抄袭狗给我挡灾/ 自用🪜蜂鸟：https://t.co/jJpBlUSNh7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "YuexiuuCC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 92,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=Wru7Q3yw",
+                "start": 69,
+                "url": "https://t.co/jJpBlUSNh7"
+              }
+            ]
+          }
+        },
+        "id": "1227840857329434624",
+        "name": "樾岫_Being",
+        "pinned_tweet_id": "1929395979028926568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922649058176323584/cbBjveC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16211,
+          "following_count": 231,
+          "like_count": 1935,
+          "listed_count": 22,
+          "media_count": 292,
+          "tweet_count": 1652
+        },
+        "username": "yuexiu_b",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T17:06:17.000Z",
+        "description": "写文的 不是台本老师不授权｜点梗直接私信 请不要给我投在别的老师那投过的梗｜🚫任何形式的抄梗/融梗/借梗/AI🚫｜唯一其他账号@tounaolengjing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "tounaolengjing"
+              }
+            ]
+          }
+        },
+        "id": "1653083358254235648",
+        "location": "不接推广/置顶/商务",
+        "name": "别头脑发热了",
+        "pinned_tweet_id": "1925096582569198016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767177368802840576/0sF9rKJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96907,
+          "following_count": 29,
+          "like_count": 1550,
+          "listed_count": 80,
+          "media_count": 155,
+          "tweet_count": 626
+        },
+        "username": "buyaochilea",
+        "verified": false
+      }
+    ]
+  }
+}

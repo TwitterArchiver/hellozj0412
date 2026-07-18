@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1944372230055473496",
+    "created_at": "2025-07-13T12:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T13:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944372230055473496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1491049985755914248",
+          "start": 3,
+          "username": "musictowatch_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944372230055473496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944350819928678732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @musictowatch_: 我只是害怕分离害怕再见害怕付出真心、害怕有一天我付出的一切被丢在地上踩上一脚。好难看好难堪。我只想要平静的生活淡淡地接受一切，不要再有任何猛烈的情绪。非要接受的话好想许愿世界能给我一条永远不会断的丝带，能把我和珍爱的人的一切都缠绕在一起。血…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1944372230055473496",
+        "created_at": "2025-07-13T12:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T13:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944372230055473496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1491049985755914248",
+              "start": 3,
+              "username": "musictowatch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944372230055473496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944350819928678732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @musictowatch_: 我只是害怕分离害怕再见害怕付出真心、害怕有一天我付出的一切被丢在地上踩上一脚。好难看好难堪。我只想要平静的生活淡淡地接受一切，不要再有任何猛烈的情绪。非要接受的话好想许愿世界能给我一条永远不会断的丝带，能把我和珍爱的人的一切都缠绕在一起。血…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491049985755914248",
+        "conversation_id": "1944350819928678732",
+        "created_at": "2025-07-13T10:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T11:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944350819928678732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944350819928678732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2180,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我只是害怕分离害怕再见害怕付出真心、害怕有一天我付出的一切被丢在地上踩上一脚。好难看好难堪。我只想要平静的生活淡淡地接受一切，不要再有任何猛烈的情绪。非要接受的话好想许愿世界能给我一条永远不会断的丝带，能把我和珍爱的人的一切都缠绕在一起。血管、头发、命运，我们不要分开 不要分离。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 113,
+          "like_count": 4645,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1583
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T14:03:21.000Z",
+        "description": "不贪心即是奖励",
+        "id": "1491049985755914248",
+        "name": "vinyls",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906408034902880256/PqMJ7-75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43907,
+          "following_count": 30,
+          "like_count": 4153,
+          "listed_count": 138,
+          "media_count": 269,
+          "tweet_count": 1786
+        },
+        "username": "musictowatch_",
+        "verified": false
+      }
+    ]
+  }
+}

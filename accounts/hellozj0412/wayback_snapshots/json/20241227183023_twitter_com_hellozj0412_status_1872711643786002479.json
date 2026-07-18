@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1872155312339525893",
+    "created_at": "2024-12-27T18:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T19:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872711643786002479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1680635002315235333",
+          "start": 0,
+          "username": "4uoikZero"
+        },
+        {
+          "end": 19,
+          "id": "1743697490455756800",
+          "start": 11,
+          "username": "shoexie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872711643786002479",
+    "in_reply_to_user_id": "1680635002315235333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872158214172868872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4uoikZero @shoexie 补药啊，人外也没有驴😭😭，快牵走啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1872155312339525893",
+        "created_at": "2024-12-27T18:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T19:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872711643786002479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1680635002315235333",
+              "start": 0,
+              "username": "4uoikZero"
+            },
+            {
+              "end": 19,
+              "id": "1743697490455756800",
+              "start": 11,
+              "username": "shoexie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872711643786002479",
+        "in_reply_to_user_id": "1680635002315235333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872158214172868872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4uoikZero @shoexie 补药啊，人外也没有驴😭😭，快牵走啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680635002315235333",
+        "conversation_id": "1872155312339525893",
+        "created_at": "2024-12-26T05:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T06:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872158214172868872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1743697490455756800",
+              "start": 0,
+              "username": "shoexie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872158214172868872",
+        "in_reply_to_user_id": "1743697490455756800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872157705085104543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoexie 可以打个驴的标签，有点人外风哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 63,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 382
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T17:46:37.000Z",
+        "description": "不发自己了。互关可以隐藏我🦭可以来偷偷找我另一个号玩🤲🏻",
+        "id": "1680635002315235333",
+        "location": "荒野",
+        "name": "NoThInG",
+        "pinned_tweet_id": "1871558348010909940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870352757141426176/P_MrwNsf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 33,
+          "like_count": 14997,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 233
+        },
+        "username": "4uoikZero",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T18:14:22.000Z",
+        "description": "私信关了  请勿骚扰  peace&love",
+        "id": "1743697490455756800",
+        "name": "🎐",
+        "pinned_tweet_id": "1842524070379975130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872168838709866496/Nnf0WSuH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10801,
+          "following_count": 285,
+          "like_count": 11952,
+          "listed_count": 23,
+          "media_count": 353,
+          "tweet_count": 10555
+        },
+        "username": "shoexie",
+        "verified": false
+      }
+    ]
+  }
+}

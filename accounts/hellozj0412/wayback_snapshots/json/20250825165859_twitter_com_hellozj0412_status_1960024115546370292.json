@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1959874133984174407",
+    "created_at": "2025-08-25T16:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T17:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960024115546370292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547239678549495813",
+          "start": 0,
+          "username": "pretty594321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960024115546370292",
+    "in_reply_to_user_id": "1547239678549495813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959874133984174407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pretty594321 天生的….当主人的料"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1959874133984174407",
+        "created_at": "2025-08-25T16:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T17:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960024115546370292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547239678549495813",
+              "start": 0,
+              "username": "pretty594321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960024115546370292",
+        "in_reply_to_user_id": "1547239678549495813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959874133984174407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pretty594321 天生的….当主人的料"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547239678549495813",
+        "conversation_id": "1959874133984174407",
+        "created_at": "2025-08-25T07:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T08:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959874133984174407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959874133984174407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 12772,
+          "like_count": 201,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我琢磨了一下为什么有人不玩 DS 关系也从未了解 BDSM，但说话依然出口就有天生的 daddyDom 感，应该是：\nA. 陈述事实+语气坚定：不管对方在撒娇耍赖找什么话题依然不被带跑，这会让 brat 很爽\nB. 已知结果+反问语气：第一人称的语句会在语境里产生主体性，让 sub 有被使用的服从感\n嗯…语言艺术这块…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 119,
+          "like_count": 5318,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1753
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T15:21:49.000Z",
+        "description": "一期一会｜自诩为复杂的人类",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pretty594321",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pretty594321",
+                "start": 0,
+                "url": "https://t.co/bdXaUZ91TL"
+              }
+            ]
+          }
+        },
+        "id": "1547239678549495813",
+        "location": "私人日记本",
+        "name": "薄荷巧克力",
+        "pinned_tweet_id": "1753486408290111544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842669399196782592/zjnIhb0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 141,
+          "like_count": 8198,
+          "listed_count": 2,
+          "media_count": 854,
+          "tweet_count": 8456
+        },
+        "url": "https://t.co/bdXaUZ91TL",
+        "username": "pretty594321",
+        "verified": false
+      }
+    ]
+  }
+}

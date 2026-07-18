@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1926922482075705436",
+    "created_at": "2025-05-26T16:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T17:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927036168933081160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1027558588359692288",
+          "start": 0,
+          "username": "abnormalityacc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927036168933081160",
+    "in_reply_to_user_id": "1027558588359692288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927033369453306099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abnormalityacc 啊啊啊啊啊啊好震撼啊，ok，加入人生清单🥹🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1927033356190973952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4yoKoXgAAII1_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1926922482075705436",
+        "created_at": "2025-05-26T16:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T17:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927036168933081160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1027558588359692288",
+              "start": 0,
+              "username": "abnormalityacc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927036168933081160",
+        "in_reply_to_user_id": "1027558588359692288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927033369453306099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abnormalityacc 啊啊啊啊啊啊好震撼啊，ok，加入人生清单🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927033356190973952"
+          ]
+        },
+        "author_id": "1027558588359692288",
+        "conversation_id": "1926922482075705436",
+        "created_at": "2025-05-26T16:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T17:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927033369453306099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/239EbxHB7z",
+              "end": 50,
+              "expanded_url": "https://x.com/abnormalityacc/status/1927033369453306099/photo/1",
+              "media_key": "3_1927033356190973952",
+              "start": 27,
+              "url": "https://t.co/239EbxHB7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927033369453306099",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926945717953712572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 夏威夷大岛！昨天喷发的很大 https://t.co/239EbxHB7z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 102,
+          "like_count": 3932,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1233
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-09T14:13:53.000Z",
+        "description": "真假自辨，functional fantasy，my only account",
+        "id": "1027558588359692288",
+        "name": "abnormalaccount",
+        "pinned_tweet_id": "1894262945422495757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922013778943578112/9DXkvkIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19641,
+          "following_count": 113,
+          "like_count": 850,
+          "listed_count": 41,
+          "media_count": 33,
+          "tweet_count": 167
+        },
+        "username": "abnormalityacc",
+        "verified": false
+      }
+    ]
+  }
+}

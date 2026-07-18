@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1920035226320834911",
+    "created_at": "2025-05-07T18:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T19:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920177526510375031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1826214335523569664",
+          "start": 0,
+          "username": "samuel_whi48000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920177526510375031",
+    "in_reply_to_user_id": "1826214335523569664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920035226320834911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samuel_whi48000 已经开始爽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1920035226320834911",
+        "created_at": "2025-05-07T18:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T19:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920177526510375031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1826214335523569664",
+              "start": 0,
+              "username": "samuel_whi48000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920177526510375031",
+        "in_reply_to_user_id": "1826214335523569664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920035226320834911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samuel_whi48000 已经开始爽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826214335523569664",
+        "conversation_id": "1920035226320834911",
+        "created_at": "2025-05-07T08:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T09:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920035226320834911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920035226320834911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 33418,
+          "like_count": 167,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要在本里加一句“爽了吗？说谢谢爸爸”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 93,
+          "like_count": 3374,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1092
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T11:06:59.000Z",
+        "description": "业余男喘|资深小圈爱好者|喜欢录音享受录音|重度睡眠障碍患者|希望能交到朋友|所有作品内容均不代表本人价值观|可能会抽象口嗨 但是不会kp，听录音学过学不会|有任何想法和建议欢迎随时私信骚扰 匿名信箱：https://t.co/WLOcG3C2Hx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/taizai85983",
+                "end": 124,
+                "expanded_url": "https://ngl.link/taizai85983",
+                "start": 101,
+                "url": "https://t.co/WLOcG3C2Hx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/6655N",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/6655N",
+                "start": 0,
+                "url": "https://t.co/dUjDbAeVWK"
+              }
+            ]
+          }
+        },
+        "id": "1826214335523569664",
+        "location": "Japan",
+        "name": "太宰",
+        "pinned_tweet_id": "1916424466793697299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852699972317372416/G4A-KEy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4725,
+          "following_count": 12,
+          "like_count": 114,
+          "listed_count": 9,
+          "media_count": 21,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/dUjDbAeVWK",
+        "username": "samuel_whi48000",
+        "verified": false
+      }
+    ]
+  }
+}

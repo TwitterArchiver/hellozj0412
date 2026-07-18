@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1868358100241289283",
+    "created_at": "2024-12-15T18:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T19:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868358100241289283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds01/status/…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/hgds01/status/1867818874395406766",
+          "start": 49,
+          "url": "https://t.co/WGnMwdt8Dp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868358100241289283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867818874395406766",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太对了，就是这种阴湿感，我说我从小到大怎么这么讨厌一个人睡觉呢，每天起来都脊背发凉😇😇鬼钻被窝了 https://t.co/WGnMwdt8Dp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1868358100241289283",
+        "created_at": "2024-12-15T18:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T19:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868358100241289283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds01/status/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/hgds01/status/1867818874395406766",
+              "start": 49,
+              "url": "https://t.co/WGnMwdt8Dp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868358100241289283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867818874395406766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太对了，就是这种阴湿感，我说我从小到大怎么这么讨厌一个人睡觉呢，每天起来都脊背发凉😇😇鬼钻被窝了 https://t.co/WGnMwdt8Dp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867818866958905344"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1867818874395406766",
+        "created_at": "2024-12-14T06:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T07:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867818874395406766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FqYztSozQ",
+              "end": 30,
+              "expanded_url": "https://x.com/hgds01/status/1867818874395406766/photo/1",
+              "media_key": "3_1867818866958905344",
+              "start": 7,
+              "url": "https://t.co/5FqYztSozQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867818874395406766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9936,
+          "like_count": 101,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不行了。。。 https://t.co/5FqYztSozQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 60,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 149
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "如有侵权 联系秒删",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=sBjJBEk7",
+                "start": 0,
+                "url": "https://t.co/fwO0bCPmY5"
+              }
+            ]
+          }
+        },
+        "id": "1507396901594820608",
+        "location": "🚀👇自用VPN👇🚀",
+        "name": "恋",
+        "pinned_tweet_id": "1867143203331424743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51285,
+          "following_count": 2961,
+          "like_count": 39861,
+          "listed_count": 67,
+          "media_count": 1092,
+          "tweet_count": 5281
+        },
+        "url": "https://t.co/fwO0bCPmY5",
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

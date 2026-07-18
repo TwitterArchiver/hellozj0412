@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1907956106162483527",
+    "created_at": "2025-04-05T16:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T17:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908558250972184984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757615744563765248",
+          "start": 0,
+          "username": "kiyouwa233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908558250972184984",
+    "in_reply_to_user_id": "1757615744563765248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907956106162483527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiyouwa233 憋笑挑战吗，我输了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1907956106162483527",
+        "created_at": "2025-04-05T16:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T17:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908558250972184984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757615744563765248",
+              "start": 0,
+              "username": "kiyouwa233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908558250972184984",
+        "in_reply_to_user_id": "1757615744563765248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907956106162483527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiyouwa233 憋笑挑战吗，我输了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757615744563765248",
+        "conversation_id": "1907956106162483527",
+        "created_at": "2025-04-04T00:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T01:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907956106162483527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907956106162483527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 32908,
+          "like_count": 289,
+          "quote_count": 6,
+          "reply_count": 76,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "想吃精液的话 算恋童癖吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 82,
+          "like_count": 2328,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 958
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:00:44.000Z",
+        "description": "不玩辱不玩SM不线下没有🚪不加lx\n\n不闲聊",
+        "id": "1757615744563765248",
+        "location": "推广真假自辩 ",
+        "name": "农村入",
+        "pinned_tweet_id": "1903814516397539600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906764110500618241/7GBuSwho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 99,
+          "like_count": 101,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 253
+        },
+        "username": "kiyouwa233",
+        "verified": false
+      }
+    ]
+  }
+}

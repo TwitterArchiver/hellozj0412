@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1870057659862503649",
+    "created_at": "2024-12-20T18:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T19:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870173892192477527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1709645568195416064",
+          "start": 0,
+          "username": "ikpsub"
+        },
+        {
+          "end": 18,
+          "id": "1507741816749453316",
+          "start": 8,
+          "username": "ANGLE0236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870173892192477527",
+    "in_reply_to_user_id": "1709645568195416064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870057659862503649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikpsub @ANGLE0236 已被kico萌晕🌀🌀🌀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1870057659862503649",
+        "created_at": "2024-12-20T18:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T19:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870173892192477527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1709645568195416064",
+              "start": 0,
+              "username": "ikpsub"
+            },
+            {
+              "end": 18,
+              "id": "1507741816749453316",
+              "start": 8,
+              "username": "ANGLE0236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870173892192477527",
+        "in_reply_to_user_id": "1709645568195416064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870057659862503649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikpsub @ANGLE0236 已被kico萌晕🌀🌀🌀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1870057550273785857",
+            "13_1870057550290530305"
+          ]
+        },
+        "author_id": "1709645568195416064",
+        "conversation_id": "1870057659862503649",
+        "created_at": "2024-12-20T10:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T11:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870057659862503649"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "男喘"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "女性向"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "4i"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "港澳"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 89,
+              "id": "1507741816749453316",
+              "start": 79,
+              "username": "ANGLE0236"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cGicoL7ZgT",
+              "end": 147,
+              "expanded_url": "https://x.com/ikpsub/status/1870057659862503649/video/1",
+              "media_key": "13_1870057550273785857",
+              "start": 124,
+              "url": "https://t.co/cGicoL7ZgT"
+            },
+            {
+              "display_url": "pic.x.com/cGicoL7ZgT",
+              "end": 147,
+              "expanded_url": "https://x.com/ikpsub/status/1870057659862503649/video/1",
+              "media_key": "13_1870057550290530305",
+              "start": 124,
+              "url": "https://t.co/cGicoL7ZgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870057659862503649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 13476,
+          "like_count": 170,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "《强制爱》\n“就…就欺负我不会换气！！！”\n“我都扯开衣服了你…你怎么不领情”\n“湿透了…求你…求你进来”\n“只要是你无论是不是欺负我…我都接受”\n台本老师：@ANGLE0236 \n（双语版）\n左：粤语\n右：国语\n#男喘 #女性向 #4i #港澳 https://t.co/cGicoL7ZgT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 60,
+          "like_count": 970,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 305
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T19:04:20.000Z",
+        "description": "一个神秘而又可爱的小鬼 -传送门 @KIco2s（更多分享粤语及分享日常）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "KIco2s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ikpusb1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ikpusb1",
+                "start": 0,
+                "url": "https://t.co/NSD4rUOcIX"
+              }
+            ]
+          }
+        },
+        "id": "1709645568195416064",
+        "location": "Hong Kong",
+        "name": "kico",
+        "pinned_tweet_id": "1860387200837517622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844781779150123009/bVouKY51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8749,
+          "following_count": 9,
+          "like_count": 15,
+          "listed_count": 11,
+          "media_count": 111,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/NSD4rUOcIX",
+        "username": "ikpsub",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T15:30:47.000Z",
+        "description": "喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/81650713",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/81650713",
+                "start": 0,
+                "url": "https://t.co/vj5vgYHjou"
+              }
+            ]
+          }
+        },
+        "id": "1507741816749453316",
+        "location": "接定制",
+        "name": "TGangle",
+        "pinned_tweet_id": "1845091726383284494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860185452030099458/0gGBKJGz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10629,
+          "following_count": 161,
+          "like_count": 6281,
+          "listed_count": 27,
+          "media_count": 208,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/vj5vgYHjou",
+        "username": "ANGLE0236",
+        "verified": false
+      }
+    ]
+  }
+}

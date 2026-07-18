@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1909939240403956077",
+    "created_at": "2025-04-10T18:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T19:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910396311163330593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758786975300300800",
+          "start": 0,
+          "username": "QiueZzZhaii"
+        },
+        {
+          "end": 27,
+          "id": "1766696181361762304",
+          "start": 13,
+          "username": "banshaojitui_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910396311163330593",
+    "in_reply_to_user_id": "1758786975300300800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910315882951348291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiueZzZhaii @banshaojitui_ 权威，连我没有秒回他的消息都会焦虑，我发什么东西都瞬间回应，想占满我生活所有空间，一直紧紧缠着…太有安全感就没意思了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1909939240403956077",
+        "created_at": "2025-04-10T18:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T19:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910396311163330593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758786975300300800",
+              "start": 0,
+              "username": "QiueZzZhaii"
+            },
+            {
+              "end": 27,
+              "id": "1766696181361762304",
+              "start": 13,
+              "username": "banshaojitui_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910396311163330593",
+        "in_reply_to_user_id": "1758786975300300800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910315882951348291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiueZzZhaii @banshaojitui_ 权威，连我没有秒回他的消息都会焦虑，我发什么东西都瞬间回应，想占满我生活所有空间，一直紧紧缠着…太有安全感就没意思了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758786975300300800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1909939240403956077",
+        "created_at": "2025-04-10T12:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T13:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910315882951348291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766696181361762304",
+              "start": 0,
+              "username": "banshaojitui_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910315882951348291",
+        "in_reply_to_user_id": "1766696181361762304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 581,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909939240403956077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banshaojitui_ 我喜欢那种很没安全感的阴湿男..就是害怕我会离开他然后疯狂对我好然后经常问我会不会不爱他了 不舍得惹我生气也不舍得让我掉眼泪。想想就幸福。总感觉太健康的男生可能很会爱自己不太需要感情。哦不不不不我真的非常需要感受到我是被需要的。感觉这种真的只有没有安全感的人能给我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 83,
+          "like_count": 2468,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 997
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T09:34:36.000Z",
+        "description": "我是小宅！｜我是小小宅@xiaozhai802｜原谅我 有点笨拙的少女心｜女孩有生活上的急需可以找我能帮都会帮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "xiaozhai802"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "us5.av8dcloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://us5.av8dcloud.top/#/register?code=w48eDZcr",
+                "start": 0,
+                "url": "https://t.co/Bv4g7ytO2e"
+              }
+            ]
+          }
+        },
+        "id": "1758786975300300800",
+        "location": "自用梯子🪜⬇️",
+        "name": "赐我一把萌刀",
+        "pinned_tweet_id": "1796524401288245373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910198523557285888/Qjx0rXJO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3864,
+          "following_count": 188,
+          "like_count": 1390,
+          "listed_count": 6,
+          "media_count": 147,
+          "tweet_count": 4940
+        },
+        "url": "https://t.co/Bv4g7ytO2e",
+        "username": "QiueZzZhaii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T05:23:12.000Z",
+        "description": "记录📝 留给自己老了看的｜置顶🔝推广自辨",
+        "id": "1766696181361762304",
+        "location": "私人v🚪299（私信不回",
+        "name": "板烧鸡腿堡本堡",
+        "pinned_tweet_id": "1910327769978077565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893650884229574656/fV1zC7VJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11997,
+          "following_count": 91,
+          "like_count": 221,
+          "listed_count": 32,
+          "media_count": 59,
+          "tweet_count": 1056
+        },
+        "username": "banshaojitui_",
+        "verified": false
+      }
+    ]
+  }
+}

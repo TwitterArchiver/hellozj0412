@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1905889451751989479",
+    "created_at": "2025-03-29T07:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T08:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905889451751989479"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 64,
+          "normalized_text": "Dawnguard Fine Arts",
+          "probability": 0.7195,
+          "start": 46,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1714559758345080832",
+          "start": 3,
+          "username": "hex_termina"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Divine Dogma",
+          "display_url": "hextermina.com",
+          "end": 138,
+          "expanded_url": "http://hextermina.com",
+          "start": 115,
+          "status": 200,
+          "title": "Hex Termina",
+          "unwound_url": "https://hextermina.com/",
+          "url": "https://t.co/kVeOkoDkHL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905889451751989479",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905742117252825555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hex_termina: Releasing now:\n\nBetrayal and Dawnguard Fine Arts\n\n18 x 24 in\nSigned and numbered\nLimited to 100*\n\nhttps://t.co/kVeOkoDkHL…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2820,
+        "media_key": "3_1905738684227575808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnKLPHwa4AAMCWj.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1905889451751989479",
+        "created_at": "2025-03-29T07:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T08:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905889451751989479"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "Dawnguard Fine Arts",
+              "probability": 0.7195,
+              "start": 46,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1714559758345080832",
+              "start": 3,
+              "username": "hex_termina"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Divine Dogma",
+              "display_url": "hextermina.com",
+              "end": 138,
+              "expanded_url": "http://hextermina.com",
+              "start": 115,
+              "status": 200,
+              "title": "Hex Termina",
+              "unwound_url": "https://hextermina.com/",
+              "url": "https://t.co/kVeOkoDkHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905889451751989479",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905742117252825555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hex_termina: Releasing now:\n\nBetrayal and Dawnguard Fine Arts\n\n18 x 24 in\nSigned and numbered\nLimited to 100*\n\nhttps://t.co/kVeOkoDkHL…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905738684227575808"
+          ]
+        },
+        "author_id": "1714559758345080832",
+        "conversation_id": "1905742117252825555",
+        "created_at": "2025-03-28T22:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T23:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905742117252825555"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "Dawnguard Fine Arts",
+              "probability": 0.7045,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Divine Dogma",
+              "display_url": "hextermina.com",
+              "end": 121,
+              "expanded_url": "http://hextermina.com",
+              "start": 98,
+              "status": 200,
+              "title": "Hex Termina",
+              "unwound_url": "https://hextermina.com/",
+              "url": "https://t.co/kVeOkoDkHL"
+            },
+            {
+              "display_url": "pic.x.com/aFeh5W0Mrj",
+              "end": 145,
+              "expanded_url": "https://x.com/hex_termina/status/1905742117252825555/photo/1",
+              "media_key": "3_1905738684227575808",
+              "start": 122,
+              "url": "https://t.co/aFeh5W0Mrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905742117252825555",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5781,
+          "like_count": 118,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Releasing now:\n\nBetrayal and Dawnguard Fine Arts\n\n18 x 24 in\nSigned and numbered\nLimited to 100*\n\nhttps://t.co/kVeOkoDkHL https://t.co/aFeh5W0Mrj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 76,
+          "like_count": 2042,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 838
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T08:31:41.000Z",
+        "description": "Divine Dogma",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hextermina.com",
+                "end": 23,
+                "expanded_url": "http://hextermina.com",
+                "start": 0,
+                "url": "https://t.co/Y0VSsB0Rbx"
+              }
+            ]
+          }
+        },
+        "id": "1714559758345080832",
+        "name": "HEX TERMINA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719435241335463936/PbUoOB-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5743,
+          "following_count": 1,
+          "like_count": 39,
+          "listed_count": 14,
+          "media_count": 24,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/Y0VSsB0Rbx",
+        "username": "hex_termina",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1869774159498433022",
+    "created_at": "2024-12-19T16:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T17:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869776353845026909"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1869776353845026909",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869774159498433022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看了国内的就业形势，真的很想润出国外😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1869774159498433022",
+        "created_at": "2024-12-19T16:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T17:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869776353845026909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869776353845026909",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869774159498433022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看了国内的就业形势，真的很想润出国外😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1869774159498433022",
+        "created_at": "2024-12-19T15:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T16:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869774159498433022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869774159498433022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "研三很多同门都在考公考编，朋友问我为什么不学一下，要不然浪费应届生的身份，不敢直接说焦虑让我无法长时间专注一件事情，现在在图书馆写论文最长的专注时间只有三小时，期间还要站起来去走廊徘徊一会，啊到底为什么会变成这样….算了过一天是一天，起码今天也挺快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 73,
+          "like_count": 874,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 257
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

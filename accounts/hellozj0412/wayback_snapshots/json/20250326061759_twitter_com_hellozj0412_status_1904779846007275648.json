@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1904487642059911196",
+    "created_at": "2025-03-26T06:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T07:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904779846007275648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592765285534007296",
+          "start": 0,
+          "username": "DAIYUSHIHUANGDI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904779846007275648",
+    "in_reply_to_user_id": "1592765285534007296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904487642059911196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DAIYUSHIHUANGDI 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1904487642059911196",
+        "created_at": "2025-03-26T06:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T07:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904779846007275648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592765285534007296",
+              "start": 0,
+              "username": "DAIYUSHIHUANGDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904779846007275648",
+        "in_reply_to_user_id": "1592765285534007296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904487642059911196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DAIYUSHIHUANGDI 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592765285534007296",
+        "conversation_id": "1904487642059911196",
+        "created_at": "2025-03-25T10:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T11:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904487642059911196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904487642059911196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 44291,
+          "like_count": 247,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝我给你充了斑马线会员，你以后红灯也能过马路了՞˶&gt;𖥦&lt;˶՞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 76,
+          "like_count": 1934,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 787
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T06:23:39.000Z",
+        "description": "四大名著不知名研究学家｜没有门槛 话题的开始可以请我喝杯咖啡｜熟人认出勿扰可以关注不要认亲｜防丢@DAIIIYUUUUU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "DAIIIYUUUUU"
+              }
+            ]
+          }
+        },
+        "id": "1592765285534007296",
+        "name": "黛玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826054092491481088/2iiFS6rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58539,
+          "following_count": 46,
+          "like_count": 47813,
+          "listed_count": 172,
+          "media_count": 174,
+          "tweet_count": 2966
+        },
+        "username": "DAIYUSHIHUANGDI",
+        "verified": false
+      }
+    ]
+  }
+}

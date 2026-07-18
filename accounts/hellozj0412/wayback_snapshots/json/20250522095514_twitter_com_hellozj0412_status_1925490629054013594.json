@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1925187911340925135",
+    "created_at": "2025-05-22T09:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T10:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925490629054013594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1839341689477160960",
+          "start": 0,
+          "username": "bingbing874"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925490629054013594",
+    "in_reply_to_user_id": "1839341689477160960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925187911340925135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bingbing874 磨砂膏配刷子，谁用谁知道，皮肤滑滑软软的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1925187911340925135",
+        "created_at": "2025-05-22T09:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T10:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925490629054013594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1839341689477160960",
+              "start": 0,
+              "username": "bingbing874"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925490629054013594",
+        "in_reply_to_user_id": "1839341689477160960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925187911340925135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bingbing874 磨砂膏配刷子，谁用谁知道，皮肤滑滑软软的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839341689477160960",
+        "conversation_id": "1925187911340925135",
+        "created_at": "2025-05-21T13:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T14:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925187911340925135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925187911340925135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1430,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近坚持了一段时间身体皮肤管理，手感好到想邀请所有人来摸摸我……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 100,
+          "like_count": 3849,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1198
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T16:30:15.000Z",
+        "description": "废话时多时少的饼/没有🚪不加v不接推广不礼貌互关不聊骚/女宝全肯定/私信随缘\n(๑•ᴗ•๑)♡喜欢碎碎念",
+        "id": "1839341689477160960",
+        "name": "小窗外",
+        "pinned_tweet_id": "1905624717987660063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908370467284803585/2LD_GsM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 141,
+          "like_count": 7933,
+          "listed_count": 5,
+          "media_count": 153,
+          "tweet_count": 1892
+        },
+        "username": "bingbing874",
+        "verified": false
+      }
+    ]
+  }
+}

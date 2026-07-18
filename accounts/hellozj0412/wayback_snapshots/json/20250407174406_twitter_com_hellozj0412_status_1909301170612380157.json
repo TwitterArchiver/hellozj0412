@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1909129830517317993",
+    "created_at": "2025-04-07T17:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T18:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909301170612380157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547083956847198208",
+          "start": 0,
+          "username": "BuryAnita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909301170612380157",
+    "in_reply_to_user_id": "1547083956847198208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909129830517317993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BuryAnita 这个心机学长好好好👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1909129830517317993",
+        "created_at": "2025-04-07T17:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T18:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909301170612380157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547083956847198208",
+              "start": 0,
+              "username": "BuryAnita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909301170612380157",
+        "in_reply_to_user_id": "1547083956847198208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909129830517317993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BuryAnita 这个心机学长好好好👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547083956847198208",
+        "conversation_id": "1909129830517317993",
+        "created_at": "2025-04-07T06:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T07:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909129830517317993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909129830517317993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5222,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本鬼刚刚坐在他怀里跟他说我妈有家里的监控权限😱\n他一边玩我的手指毫不在意的问：嗯 怎么了？\n我：你说怎么了？\n他：我猜到了啊宝宝 不然为什么总是把你抱到鞋柜上亲\n我：？\n他亲了我一口说：那个视角能拍到我的脸呀 怎么样 妈妈满意不😈\n本王给了他两巴掌 并不准他今晚进我房间。🖕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 83,
+          "like_count": 2430,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 987
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T05:02:31.000Z",
+        "description": "水鬼👻｜已婚",
+        "id": "1547083956847198208",
+        "location": "别点啊我看哪个蠢货敢点的😡",
+        "name": "拿破鬼大帝👻",
+        "pinned_tweet_id": "1880556368354218236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908587262667087880/EBgG02mU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2981,
+          "following_count": 164,
+          "like_count": 14142,
+          "listed_count": 4,
+          "media_count": 333,
+          "tweet_count": 2258
+        },
+        "username": "BuryAnita",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901381359538692096"
+      ],
+      "media_source_tweet_id": [
+        "1901381376525607104"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1901569451390046306",
+    "created_at": "2025-03-17T09:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T10:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901569451390046306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1850899358864310272",
+          "start": 3,
+          "username": "A_ashes_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/taiRGaKVHq",
+          "end": 46,
+          "expanded_url": "https://x.com/A_ashes_/status/1901381376525607104/photo/1",
+          "media_key": "3_1901381359538692096",
+          "start": 23,
+          "url": "https://t.co/taiRGaKVHq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901569451390046306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901381376525607104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @A_ashes_: 说的太对了兄弟😢 https://t.co/taiRGaKVHq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1376,
+        "media_key": "3_1901381359538692096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmMQRcXaYAAsCOz.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901381359538692096"
+          ],
+          "media_source_tweet_id": [
+            "1901381376525607104"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1901569451390046306",
+        "created_at": "2025-03-17T09:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T10:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901569451390046306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1850899358864310272",
+              "start": 3,
+              "username": "A_ashes_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/taiRGaKVHq",
+              "end": 46,
+              "expanded_url": "https://x.com/A_ashes_/status/1901381376525607104/photo/1",
+              "media_key": "3_1901381359538692096",
+              "start": 23,
+              "url": "https://t.co/taiRGaKVHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901569451390046306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901381376525607104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @A_ashes_: 说的太对了兄弟😢 https://t.co/taiRGaKVHq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901381359538692096"
+          ]
+        },
+        "author_id": "1850899358864310272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1901381376525607104",
+        "created_at": "2025-03-16T21:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T22:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901381376525607104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/taiRGaKVHq",
+              "end": 32,
+              "expanded_url": "https://x.com/A_ashes_/status/1901381376525607104/photo/1",
+              "media_key": "3_1901381359538692096",
+              "start": 9,
+              "url": "https://t.co/taiRGaKVHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901381376525607104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1227,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "说的太对了兄弟😢 https://t.co/taiRGaKVHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 81,
+          "like_count": 1647,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 632
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T13:56:17.000Z",
+        "description": "火种与灾厄｜新月｜目击众神死亡的草原上野花一片，远在远方的风比远方更远｜碎碎念与图片备份",
+        "id": "1850899358864310272",
+        "location": "🚪188纯绿",
+        "name": "燃成灰烬的雨滴",
+        "pinned_tweet_id": "1871657010867147075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856720312874012672/lL15I4Zt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 328,
+          "like_count": 7775,
+          "listed_count": 5,
+          "media_count": 70,
+          "tweet_count": 1622
+        },
+        "username": "A_ashes_",
+        "verified": false
+      }
+    ]
+  }
+}

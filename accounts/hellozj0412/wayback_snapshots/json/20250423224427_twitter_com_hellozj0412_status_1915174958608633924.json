@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914984942724935680",
+        "3_1914984942754267141",
+        "3_1914984942783619072"
+      ],
+      "media_source_tweet_id": [
+        "1914985028167016761",
+        "1914985028167016761",
+        "1914985028167016761"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1915174958608633924",
+    "created_at": "2025-04-23T22:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T23:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915174958608633924"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "XG",
+          "probability": 0.5925,
+          "start": 28,
+          "type": "Other"
+        },
+        {
+          "end": 37,
+          "normalized_text": "Hinata",
+          "probability": 0.588,
+          "start": 32,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "XG"
+        },
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "Hinata"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1495916308898226177",
+          "start": 3,
+          "username": "ArchiveXG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XR5IJARabh",
+          "end": 62,
+          "expanded_url": "https://x.com/ArchiveXG/status/1914985028167016761/photo/1",
+          "media_key": "3_1914984942724935680",
+          "start": 39,
+          "url": "https://t.co/XR5IJARabh"
+        },
+        {
+          "display_url": "pic.x.com/XR5IJARabh",
+          "end": 62,
+          "expanded_url": "https://x.com/ArchiveXG/status/1914985028167016761/photo/1",
+          "media_key": "3_1914984942754267141",
+          "start": 39,
+          "url": "https://t.co/XR5IJARabh"
+        },
+        {
+          "display_url": "pic.x.com/XR5IJARabh",
+          "end": 62,
+          "expanded_url": "https://x.com/ArchiveXG/status/1914985028167016761/photo/1",
+          "media_key": "3_1914984942783619072",
+          "start": 39,
+          "url": "https://t.co/XR5IJARabh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915174958608633924",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 650
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914985028167016761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArchiveXG: Face card❤️\n#XG #Hinata https://t.co/XR5IJARabh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_1914984942724935680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpNkqM1XcAAq7Nl.jpg",
+        "width": 1632
+      },
+      {
+        "height": 2448,
+        "media_key": "3_1914984942754267141",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpNkqM8XAAUNdnU.jpg",
+        "width": 1632
+      },
+      {
+        "height": 2448,
+        "media_key": "3_1914984942783619072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpNkqNDW4AAYjyU.jpg",
+        "width": 1632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914984942724935680",
+            "3_1914984942754267141",
+            "3_1914984942783619072"
+          ],
+          "media_source_tweet_id": [
+            "1914985028167016761",
+            "1914985028167016761",
+            "1914985028167016761"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1915174958608633924",
+        "created_at": "2025-04-23T22:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T23:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915174958608633924"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "XG",
+              "probability": 0.5925,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "Hinata",
+              "probability": 0.588,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "XG"
+            },
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "Hinata"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1495916308898226177",
+              "start": 3,
+              "username": "ArchiveXG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XR5IJARabh",
+              "end": 62,
+              "expanded_url": "https://x.com/ArchiveXG/status/1914985028167016761/photo/1",
+              "media_key": "3_1914984942724935680",
+              "start": 39,
+              "url": "https://t.co/XR5IJARabh"
+            },
+            {
+              "display_url": "pic.x.com/XR5IJARabh",
+              "end": 62,
+              "expanded_url": "https://x.com/ArchiveXG/status/1914985028167016761/photo/1",
+              "media_key": "3_1914984942754267141",
+              "start": 39,
+              "url": "https://t.co/XR5IJARabh"
+            },
+            {
+              "display_url": "pic.x.com/XR5IJARabh",
+              "end": 62,
+              "expanded_url": "https://x.com/ArchiveXG/status/1914985028167016761/photo/1",
+              "media_key": "3_1914984942783619072",
+              "start": 39,
+              "url": "https://t.co/XR5IJARabh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915174958608633924",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 650
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914985028167016761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArchiveXG: Face card❤️\n#XG #Hinata https://t.co/XR5IJARabh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914984942724935680",
+            "3_1914984942754267141",
+            "3_1914984942783619072"
+          ]
+        },
+        "author_id": "1495916308898226177",
+        "conversation_id": "1914985028167016761",
+        "created_at": "2025-04-23T10:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T11:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914985028167016761"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "XG",
+              "probability": 0.6526,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 22,
+              "normalized_text": "Hinata",
+              "probability": 0.512,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "XG"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "Hinata"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XR5IJARabh",
+              "end": 47,
+              "expanded_url": "https://x.com/ArchiveXG/status/1914985028167016761/photo/1",
+              "media_key": "3_1914984942724935680",
+              "start": 24,
+              "url": "https://t.co/XR5IJARabh"
+            },
+            {
+              "display_url": "pic.x.com/XR5IJARabh",
+              "end": 47,
+              "expanded_url": "https://x.com/ArchiveXG/status/1914985028167016761/photo/1",
+              "media_key": "3_1914984942754267141",
+              "start": 24,
+              "url": "https://t.co/XR5IJARabh"
+            },
+            {
+              "display_url": "pic.x.com/XR5IJARabh",
+              "end": 47,
+              "expanded_url": "https://x.com/ArchiveXG/status/1914985028167016761/photo/1",
+              "media_key": "3_1914984942783619072",
+              "start": 24,
+              "url": "https://t.co/XR5IJARabh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914985028167016761",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 280,
+          "impression_count": 73556,
+          "like_count": 4947,
+          "quote_count": 79,
+          "reply_count": 3,
+          "retweet_count": 650
+        },
+        "reply_settings": "everyone",
+        "text": "Face card❤️\n#XG #Hinata https://t.co/XR5IJARabh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 88,
+          "like_count": 2858,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 940
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T00:20:29.000Z",
+        "description": "#XG and #Alphaz is Certified 🐺🐺🐺.. This page is dedicated to Harvey 🦄 Hinata 💎 Juria 🐿️ Jurin 🦋 Chisa ☀️ Cocona 🍄 Maya 🐶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "XG"
+              },
+              {
+                "end": 15,
+                "start": 8,
+                "tag": "Alphaz"
+              }
+            ]
+          }
+        },
+        "id": "1495916308898226177",
+        "name": "ArchiveXG",
+        "pinned_tweet_id": "1693098896283541978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835917689518219264/NGCXFjGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53881,
+          "following_count": 381,
+          "like_count": 23446,
+          "listed_count": 178,
+          "media_count": 5481,
+          "tweet_count": 11882
+        },
+        "username": "ArchiveXG",
+        "verified": true
+      }
+    ]
+  }
+}

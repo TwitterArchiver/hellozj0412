@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2017664584350638558",
+    "created_at": "2026-01-31T18:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017665948149551225"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017665948149551225",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017664584350638558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "催生而来的问题还体现在情感上，爱欲和性欲难以补足，开始恐惧情感上的接触…我难以平衡这些已经失衡的状态，如果这些是我人生剧本的必要情节，那么渡过这些后我又有什么走向呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2017664584350638558",
+        "created_at": "2026-01-31T18:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017665948149551225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017665948149551225",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017664584350638558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "催生而来的问题还体现在情感上，爱欲和性欲难以补足，开始恐惧情感上的接触…我难以平衡这些已经失衡的状态，如果这些是我人生剧本的必要情节，那么渡过这些后我又有什么走向呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2017664584350638558",
+        "created_at": "2026-01-31T18:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017664584350638558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017664584350638558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最近很少写一些文字记录了，年前的工作占据了太多生活空间，随之而来的压力不断提升我的欲望，我十分的渴求物质上的提升带来更好的生活质量，但是越发的被工作绩效评级所影响，内耗、焦虑、情绪化、试图提高标准来达到更好的成果，但是无论如何，公司结构性的问题让我十分焦虑未来的发展"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 115,
+          "like_count": 4990,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1786
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1905224120360378636",
+    "created_at": "2025-03-28T07:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T08:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905521302099669299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1262254360635092994",
+          "start": 0,
+          "username": "hygge1205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905521302099669299",
+    "in_reply_to_user_id": "1262254360635092994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905224120360378636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hygge1205 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1905224120360378636",
+        "created_at": "2025-03-28T07:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T08:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905521302099669299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1262254360635092994",
+              "start": 0,
+              "username": "hygge1205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905521302099669299",
+        "in_reply_to_user_id": "1262254360635092994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905224120360378636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hygge1205 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262254360635092994",
+        "conversation_id": "1905224120360378636",
+        "created_at": "2025-03-27T11:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T12:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905224120360378636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905224120360378636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4267,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肌肉男和男喘都给我藏好你的脸。自己长的丑自己心里没点b数吗。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 73,
+          "like_count": 2005,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 827
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T05:31:22.000Z",
+        "description": "我是泡泡ovo 废话日记本 纯情女大 肌肉男摩多摩多｜不玩其他社交软件 推广自辨｜🚪288 互关免｜废话小号@opaoguonai000 只过眼熟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "opaoguonai000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2.sirzhang.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "http://2.sirzhang.com/#/register?code=1mRjKmm4",
+                "start": 0,
+                "url": "https://t.co/E9Evi4YqRT"
+              }
+            ]
+          }
+        },
+        "id": "1262254360635092994",
+        "location": "喜欢请打钱 自用🪜",
+        "name": "没在ghs",
+        "pinned_tweet_id": "1902216631012749415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417903730159144960/IIeDOgVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11283,
+          "following_count": 275,
+          "like_count": 954,
+          "listed_count": 27,
+          "media_count": 355,
+          "tweet_count": 3024
+        },
+        "url": "https://t.co/E9Evi4YqRT",
+        "username": "hygge1205",
+        "verified": false
+      }
+    ]
+  }
+}

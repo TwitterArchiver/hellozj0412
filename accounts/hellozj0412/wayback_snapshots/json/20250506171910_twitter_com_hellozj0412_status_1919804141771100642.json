@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1919804141771100642",
+    "created_at": "2025-05-06T17:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T18:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919804141771100642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829588595315003392",
+          "start": 3,
+          "username": "yi4eert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919804141771100642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919742394280329313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yi4eert: 永远纠缠在一起吗 头发 身躯 命运 我和你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1919804141771100642",
+        "created_at": "2025-05-06T17:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T18:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919804141771100642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829588595315003392",
+              "start": 3,
+              "username": "yi4eert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919804141771100642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919742394280329313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yi4eert: 永远纠缠在一起吗 头发 身躯 命运 我和你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829588595315003392",
+        "conversation_id": "1919742394280329313",
+        "created_at": "2025-05-06T13:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T14:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919742394280329313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919742394280329313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 768,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永远纠缠在一起吗 头发 身躯 命运 我和你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 92,
+          "like_count": 3303,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1073
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T18:35:06.000Z",
+        "description": "infp /成分复杂/想发什么发什么/不被定义看感觉/存在即合理 欢迎私信",
+        "id": "1829588595315003392",
+        "location": "生活顺利 睡个好觉",
+        "name": "nrel",
+        "pinned_tweet_id": "1868830180405657611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829588858989625374/-UECBccc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8880,
+          "following_count": 9,
+          "like_count": 1264,
+          "listed_count": 9,
+          "media_count": 373,
+          "tweet_count": 1559
+        },
+        "username": "yi4eert",
+        "verified": false
+      }
+    ]
+  }
+}

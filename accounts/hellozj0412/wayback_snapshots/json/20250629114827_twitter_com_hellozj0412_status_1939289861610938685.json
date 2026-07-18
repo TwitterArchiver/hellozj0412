@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1938610905144774815",
+    "created_at": "2025-06-29T11:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T12:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939289861610938685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1741759416154923008",
+          "start": 0,
+          "username": "dogfly215095"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939289861610938685",
+    "in_reply_to_user_id": "1741759416154923008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939224922209034405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogfly215095 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1938610905144774815",
+        "created_at": "2025-06-29T11:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T12:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939289861610938685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1741759416154923008",
+              "start": 0,
+              "username": "dogfly215095"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939289861610938685",
+        "in_reply_to_user_id": "1741759416154923008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939224922209034405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogfly215095 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741759416154923008",
+        "conversation_id": "1938610905144774815",
+        "created_at": "2025-06-29T07:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T08:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939224922209034405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939224922209034405",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938610905144774815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 毕业快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 112,
+          "like_count": 4400,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1465
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T09:53:14.000Z",
+        "description": "",
+        "id": "1741759416154923008",
+        "name": "Adien",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741759479736332288/o_txC56v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 89,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "dogfly215095",
+        "verified": false
+      }
+    ]
+  }
+}

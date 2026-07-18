@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1953103314922680642",
+    "created_at": "2025-08-07T14:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T15:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953470267738476715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1590695308463288321",
+          "start": 0,
+          "username": "acclzd_clz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953470267738476715",
+    "in_reply_to_user_id": "1590695308463288321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953103314922680642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acclzd_clz 汪汪汪🐶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1403,
+        "media_key": "3_1953103290780246016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxrRGFCaYAAfoj_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1953103314922680642",
+        "created_at": "2025-08-07T14:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953470267738476715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1590695308463288321",
+              "start": 0,
+              "username": "acclzd_clz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953470267738476715",
+        "in_reply_to_user_id": "1590695308463288321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953103314922680642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acclzd_clz 汪汪汪🐶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953103290780246016"
+          ]
+        },
+        "author_id": "1590695308463288321",
+        "conversation_id": "1953103314922680642",
+        "created_at": "2025-08-06T14:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T15:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953103314922680642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "一爱"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "女性向"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0TpUIHXti",
+              "end": 51,
+              "expanded_url": "https://x.com/acclzd_clz/status/1953103314922680642/photo/1",
+              "media_key": "3_1953103290780246016",
+              "start": 28,
+              "url": "https://t.co/J0TpUIHXti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953103314922680642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 38130,
+          "like_count": 487,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "“小狗应该汪汪叫对不对？”\n\n#一爱 #女性向 #羞辱 https://t.co/J0TpUIHXti"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 120,
+          "like_count": 5123,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1693
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T13:18:17.000Z",
+        "description": "无墙内账号 骂我没财运☝️不回定制打赏以外私信 ☝️ 文笔朴素单调🫶置顶关评论是推广。没有被盗号哈。纯缺钱看清楚(^^)",
+        "id": "1590695308463288321",
+        "location": "流量来流量来",
+        "name": "荞麦厘子",
+        "pinned_tweet_id": "1953103314922680642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948593695093391362/2myH9lAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81500,
+          "following_count": 79,
+          "like_count": 8815,
+          "listed_count": 79,
+          "media_count": 339,
+          "tweet_count": 1024
+        },
+        "username": "acclzd_clz",
+        "verified": false
+      }
+    ]
+  }
+}

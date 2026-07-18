@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1935155102719033530",
+    "created_at": "2025-06-27T09:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T10:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938533661852275182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1779411678226268160",
+          "start": 0,
+          "username": "cahier_jeunesse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938533661852275182",
+    "in_reply_to_user_id": "1779411678226268160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935155102719033530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cahier_jeunesse 看的我更绝望了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1935155102719033530",
+        "created_at": "2025-06-27T09:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938533661852275182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1779411678226268160",
+              "start": 0,
+              "username": "cahier_jeunesse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938533661852275182",
+        "in_reply_to_user_id": "1779411678226268160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935155102719033530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cahier_jeunesse 看的我更绝望了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779411678226268160",
+        "conversation_id": "1935155102719033530",
+        "created_at": "2025-06-18T01:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T02:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935155102719033530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935155102719033530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和33讨论过很多次都觉得男性之间很少有女性之间那么亲密和深刻的友谊，很多人看起来称兄道弟但其实从来没有过真正的交流，稳固的关系背后几乎都有利益成分。所以一部分男性希望在女性身上获得真正的亲密感，而女性希望在男性身上重现和女性朋友间的亲密感，最后只会获得绝望的直女一枚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 109,
+          "like_count": 4352,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1431
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T07:29:56.000Z",
+        "description": "敢为天下后",
+        "id": "1779411678226268160",
+        "name": "弥",
+        "pinned_tweet_id": "1929158623667572843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912871903465025536/dXAi2ESn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 6,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 328
+        },
+        "username": "cahier_jeunesse",
+        "verified": false
+      }
+    ]
+  }
+}

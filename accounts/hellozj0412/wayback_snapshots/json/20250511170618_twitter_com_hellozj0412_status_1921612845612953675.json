@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1921432302774550806",
+    "created_at": "2025-05-11T17:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T18:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921612845612953675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1519323079255932928",
+          "start": 0,
+          "username": "BBlack_envelope"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921612845612953675",
+    "in_reply_to_user_id": "1519323079255932928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921432302774550806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBlack_envelope 在咖啡店里喝咖啡都没用，打工就是一款睡眠模拟器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1921432302774550806",
+        "created_at": "2025-05-11T17:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T18:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921612845612953675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1519323079255932928",
+              "start": 0,
+              "username": "BBlack_envelope"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921612845612953675",
+        "in_reply_to_user_id": "1519323079255932928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921432302774550806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBlack_envelope 在咖啡店里喝咖啡都没用，打工就是一款睡眠模拟器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519323079255932928",
+        "conversation_id": "1921432302774550806",
+        "created_at": "2025-05-11T05:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T06:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921432302774550806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921432302774550806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3302,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前一直以为喝了咖啡就不困了，来咖啡店兼职后发现只要上班就会困"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 94,
+          "like_count": 3528,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1124
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-27T14:30:41.000Z",
+        "description": "影视特效民工｜艺术学硕士在读｜健身及各类户外运动｜美食博主｜不知道如何跟我开展话题就为我买单一杯酒吧！（想和我聊天麻烦支付一杯🥃钱）｜下方网站自用vpn，推荐码90019001，填写可免费获得三天！｜全网只有这一个号，其他都是盗图的｜最后，祝你鸿运当头",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lightningxvpn.com/cn",
+                "end": 23,
+                "expanded_url": "https://lightningxvpn.com/cn",
+                "start": 0,
+                "url": "https://t.co/DhHd6kC5SZ"
+              }
+            ]
+          }
+        },
+        "id": "1519323079255932928",
+        "location": "Tianjin",
+        "name": "酱汁牛肉味青豌豆（全网就这一个号别的都是盗图）",
+        "pinned_tweet_id": "1899362910331429362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782720620859473920/Yto5Xmp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37611,
+          "following_count": 543,
+          "like_count": 12283,
+          "listed_count": 93,
+          "media_count": 1626,
+          "tweet_count": 6841
+        },
+        "url": "https://t.co/DhHd6kC5SZ",
+        "username": "BBlack_envelope",
+        "verified": false
+      }
+    ]
+  }
+}

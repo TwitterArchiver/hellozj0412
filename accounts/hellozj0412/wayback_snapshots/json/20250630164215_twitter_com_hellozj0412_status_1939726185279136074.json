@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1939634925256556693",
+    "created_at": "2025-06-30T16:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T17:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939726185279136074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816870680660705283",
+          "start": 0,
+          "username": "SuuuR0415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939726185279136074",
+    "in_reply_to_user_id": "1816870680660705283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939704552409731537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuuuR0415 递笔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1939634925256556693",
+        "created_at": "2025-06-30T16:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T17:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939726185279136074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816870680660705283",
+              "start": 0,
+              "username": "SuuuR0415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939726185279136074",
+        "in_reply_to_user_id": "1816870680660705283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939704552409731537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuuuR0415 递笔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816870680660705283",
+        "conversation_id": "1939634925256556693",
+        "created_at": "2025-06-30T15:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T16:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939704552409731537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939704552409731537",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939691560792424559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 我支持！如果反响好我将继续写！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 112,
+          "like_count": 4413,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1473
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T16:18:53.000Z",
+        "description": "树上有蓝色的叶子｜叫我饼饼or33｜录本请私我或评论授权🫶｜推荐我自己长期使用的喵叽VPN加速器🚀高效 稳定 强推🔗 https://t.co/yg0fodPjwg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 82,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=VcdHJxby",
+                "start": 59,
+                "url": "https://t.co/yg0fodPjwg"
+              }
+            ]
+          }
+        },
+        "id": "1816870680660705283",
+        "location": "bing的窝",
+        "name": "bing的根号3",
+        "pinned_tweet_id": "1939269619690201527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916294265447251968/voy3Sg7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8808,
+          "following_count": 194,
+          "like_count": 5000,
+          "listed_count": 16,
+          "media_count": 122,
+          "tweet_count": 1495
+        },
+        "username": "SuuuR0415",
+        "verified": false
+      }
+    ]
+  }
+}

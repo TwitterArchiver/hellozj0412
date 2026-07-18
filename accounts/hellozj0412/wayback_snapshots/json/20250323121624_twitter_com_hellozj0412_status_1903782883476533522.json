@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1903782883476533522",
+    "created_at": "2025-03-23T12:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T13:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903782883476533522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/archivexg/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/archivexg/status/1903750583854502092",
+          "start": 6,
+          "url": "https://t.co/87pmUbEgp4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903782883476533522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903750583854502092",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美我一大跳 https://t.co/87pmUbEgp4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_1903750532000342017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmt7BbjXYAENSR0.jpg",
+        "width": 1632
+      },
+      {
+        "height": 2448,
+        "media_key": "3_1903750531924832256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmt7BbRXMAAHE9o.jpg",
+        "width": 1632
+      },
+      {
+        "height": 2448,
+        "media_key": "3_1903750532012851200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmt7BbmWQAAJd2-.jpg",
+        "width": 1632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1903782883476533522",
+        "created_at": "2025-03-23T12:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T13:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903782883476533522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/archivexg/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/archivexg/status/1903750583854502092",
+              "start": 6,
+              "url": "https://t.co/87pmUbEgp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903782883476533522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903750583854502092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美我一大跳 https://t.co/87pmUbEgp4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903750532000342017",
+            "3_1903750531924832256",
+            "3_1903750532012851200"
+          ]
+        },
+        "author_id": "1495916308898226177",
+        "conversation_id": "1903750583854502092",
+        "created_at": "2025-03-23T10:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T11:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903750583854502092"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "XG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMbejSWyXW",
+              "end": 35,
+              "expanded_url": "https://x.com/ArchiveXG/status/1903750583854502092/photo/1",
+              "media_key": "3_1903750532000342017",
+              "start": 12,
+              "url": "https://t.co/wMbejSWyXW"
+            },
+            {
+              "display_url": "pic.x.com/wMbejSWyXW",
+              "end": 35,
+              "expanded_url": "https://x.com/ArchiveXG/status/1903750583854502092/photo/1",
+              "media_key": "3_1903750531924832256",
+              "start": 12,
+              "url": "https://t.co/wMbejSWyXW"
+            },
+            {
+              "display_url": "pic.x.com/wMbejSWyXW",
+              "end": 35,
+              "expanded_url": "https://x.com/ArchiveXG/status/1903750583854502092/photo/1",
+              "media_key": "3_1903750532012851200",
+              "start": 12,
+              "url": "https://t.co/wMbejSWyXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903750583854502092",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 9750,
+          "like_count": 425,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "Hinata💎\n#XG https://t.co/wMbejSWyXW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 75,
+          "like_count": 1819,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 734
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T00:20:29.000Z",
+        "description": "#XG and #Alphaz is Certified 🐺🐺🐺.. This page is dedicated to Harvey 🦄 Hinata 💎 Juria 🐿️ Jurin 🦋 Chisa ☀️ Cocona 🍄 Maya 🐶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "XG"
+              },
+              {
+                "end": 15,
+                "start": 8,
+                "tag": "Alphaz"
+              }
+            ]
+          }
+        },
+        "id": "1495916308898226177",
+        "name": "ArchiveXG",
+        "pinned_tweet_id": "1693098896283541978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835917689518219264/NGCXFjGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49575,
+          "following_count": 350,
+          "like_count": 22078,
+          "listed_count": 169,
+          "media_count": 5140,
+          "tweet_count": 11109
+        },
+        "username": "ArchiveXG",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1938235438122058061",
+    "created_at": "2025-06-26T13:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T14:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938235438122058061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1753470997422878720",
+          "start": 3,
+          "username": "404nocoriander"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938235438122058061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937825698791698565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @404nocoriander: 你要是问我毕业了想干什么 其实我只想每天游手好闲无所事事虚度时光到处旅游然后体验各种我没尝试过的东西然后哪天嘎嘣一下死了 但是我没有钱 所以我要去上班了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1938235438122058061",
+        "created_at": "2025-06-26T13:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T14:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938235438122058061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1753470997422878720",
+              "start": 3,
+              "username": "404nocoriander"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938235438122058061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937825698791698565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @404nocoriander: 你要是问我毕业了想干什么 其实我只想每天游手好闲无所事事虚度时光到处旅游然后体验各种我没尝试过的东西然后哪天嘎嘣一下死了 但是我没有钱 所以我要去上班了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753470997422878720",
+        "conversation_id": "1937825698791698565",
+        "created_at": "2025-06-25T10:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T11:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937825698791698565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937825698791698565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4195,
+          "like_count": 117,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你要是问我毕业了想干什么 其实我只想每天游手好闲无所事事虚度时光到处旅游然后体验各种我没尝试过的东西然后哪天嘎嘣一下死了 但是我没有钱 所以我要去上班了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 110,
+          "like_count": 4315,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1407
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T17:30:39.000Z",
+        "description": "老公孩子热炕头",
+        "id": "1753470997422878720",
+        "location": "宛平南路600号",
+        "name": "Aaa.精神卫生中心菜医生",
+        "pinned_tweet_id": "1833349563069173894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801577511824068613/Doi4tSWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2598,
+          "following_count": 253,
+          "like_count": 8044,
+          "listed_count": 7,
+          "media_count": 237,
+          "tweet_count": 5747
+        },
+        "username": "404nocoriander",
+        "verified": false
+      }
+    ]
+  }
+}

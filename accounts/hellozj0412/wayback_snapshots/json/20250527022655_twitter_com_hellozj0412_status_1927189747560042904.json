@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926999365211574272"
+      ],
+      "media_source_tweet_id": [
+        "1926999374619435285"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1927189747560042904",
+    "created_at": "2025-05-27T02:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T03:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927189747560042904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1371641536979423234",
+          "start": 3,
+          "username": "kior_____"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5fnsZ00w9H",
+          "end": 38,
+          "expanded_url": "https://x.com/kior_____/status/1926999374619435285/photo/1",
+          "media_key": "3_1926999365211574272",
+          "start": 15,
+          "url": "https://t.co/5fnsZ00w9H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927189747560042904",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926999374619435285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kior_____: https://t.co/5fnsZ00w9H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2512,
+        "media_key": "3_1926999365211574272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4TtoXW0AA-0OE.jpg",
+        "width": 1765
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926999365211574272"
+          ],
+          "media_source_tweet_id": [
+            "1926999374619435285"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1927189747560042904",
+        "created_at": "2025-05-27T02:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T03:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927189747560042904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1371641536979423234",
+              "start": 3,
+              "username": "kior_____"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fnsZ00w9H",
+              "end": 38,
+              "expanded_url": "https://x.com/kior_____/status/1926999374619435285/photo/1",
+              "media_key": "3_1926999365211574272",
+              "start": 15,
+              "url": "https://t.co/5fnsZ00w9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927189747560042904",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926999374619435285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kior_____: https://t.co/5fnsZ00w9H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926999365211574272"
+          ]
+        },
+        "author_id": "1371641536979423234",
+        "conversation_id": "1926999374619435285",
+        "created_at": "2025-05-26T13:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T14:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926999374619435285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fnsZ00w9H",
+              "end": 23,
+              "expanded_url": "https://x.com/kior_____/status/1926999374619435285/photo/1",
+              "media_key": "3_1926999365211574272",
+              "start": 0,
+              "url": "https://t.co/5fnsZ00w9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926999374619435285",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1211,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5fnsZ00w9H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 103,
+          "like_count": 3954,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1239
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-16T01:56:52.000Z",
+        "description": "painting & animating . inquiries : hello@kiorko.com .  @OVRLYWAREHOUSE . @ArtgumiDAO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 55,
+                "username": "OVRLYWAREHOUSE"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "ArtgumiDAO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kior_____",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kior_____",
+                "start": 0,
+                "url": "https://t.co/BItnU1Z9Sp"
+              }
+            ]
+          }
+        },
+        "id": "1371641536979423234",
+        "location": "South Korea",
+        "name": "Kior",
+        "pinned_tweet_id": "1925157179688153345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923294998730362881/xE8zjEDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10290,
+          "following_count": 1506,
+          "like_count": 62564,
+          "listed_count": 110,
+          "media_count": 1516,
+          "tweet_count": 21802
+        },
+        "url": "https://t.co/BItnU1Z9Sp",
+        "username": "kior_____",
+        "verified": true
+      }
+    ]
+  }
+}

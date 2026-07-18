@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2065350443207934190",
+    "created_at": "2026-06-12T15:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065451967795900719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041774928442036224",
+          "start": 0,
+          "username": "QuanH76157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065451967795900719",
+    "in_reply_to_user_id": "2041774928442036224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065350443207934190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuanH76157 给我看美了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2065350443207934190",
+        "created_at": "2026-06-12T15:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065451967795900719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041774928442036224",
+              "start": 0,
+              "username": "QuanH76157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065451967795900719",
+        "in_reply_to_user_id": "2041774928442036224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065350443207934190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuanH76157 给我看美了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041774928442036224",
+        "conversation_id": "2065350443207934190",
+        "created_at": "2026-06-12T08:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065350443207934190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065350443207934190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2462,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "其实闷骚才是最带劲的\n\n对别人都是冷冷淡淡的，人前一副正经纯情的样子，表面看似平淡，实际内心腹黑又敏感\n\n确定关系后占有欲强，腹黑反差大，心机还得寸进尺，真的很好品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 122,
+          "like_count": 5253,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1869
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T07:07:51.000Z",
+        "description": "大三学生 AI探索中 web3忠实信徒\n\n进社群+v：HahaForward",
+        "id": "2041774928442036224",
+        "name": "Milu",
+        "pinned_tweet_id": "2051251060938063938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043138785928749056/8bs3L5Bx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 592,
+          "like_count": 2538,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 1731
+        },
+        "username": "QuanH76157",
+        "verified": true
+      }
+    ]
+  }
+}

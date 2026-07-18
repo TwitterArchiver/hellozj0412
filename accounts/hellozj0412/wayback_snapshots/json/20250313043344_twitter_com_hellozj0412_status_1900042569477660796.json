@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1899811745755267134",
+    "created_at": "2025-03-13T04:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T05:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900042569477660796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1363439095532331011",
+          "start": 0,
+          "username": "Cracker68659106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900042569477660796",
+    "in_reply_to_user_id": "1363439095532331011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899994373808677073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cracker68659106 有些人就是很爱孤立人，因为你不ta们的合群（单方面的）？，反正我也经历过，这种low货就是不要给反应就好了，ta们还会享受你不开心的情绪，做好自己的事情就好了，反正这种人你也不会跟ta成为朋友😸😸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1899811745755267134",
+        "created_at": "2025-03-13T04:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T05:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900042569477660796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1363439095532331011",
+              "start": 0,
+              "username": "Cracker68659106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900042569477660796",
+        "in_reply_to_user_id": "1363439095532331011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899994373808677073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cracker68659106 有些人就是很爱孤立人，因为你不ta们的合群（单方面的）？，反正我也经历过，这种low货就是不要给反应就好了，ta们还会享受你不开心的情绪，做好自己的事情就好了，反正这种人你也不会跟ta成为朋友😸😸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363439095532331011",
+        "conversation_id": "1899811745755267134",
+        "created_at": "2025-03-13T01:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T02:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899994373808677073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899994373808677073",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899942045348676065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 我啥都没干我都不知道我踩什么雷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 75,
+          "like_count": 1505,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 565
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T10:43:24.000Z",
+        "description": "produce junk\nI hate reading papers",
+        "id": "1363439095532331011",
+        "location": "LIMBO",
+        "name": "Pipeb💣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895299284805001218/dstXNCNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65807,
+          "following_count": 253,
+          "like_count": 15880,
+          "listed_count": 216,
+          "media_count": 2140,
+          "tweet_count": 7279
+        },
+        "username": "Cracker68659106",
+        "verified": false
+      }
+    ]
+  }
+}

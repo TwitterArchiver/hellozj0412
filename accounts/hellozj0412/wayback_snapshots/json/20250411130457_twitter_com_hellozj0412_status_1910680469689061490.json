@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1909968907156525399",
+    "created_at": "2025-04-11T13:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T14:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910680469689061490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1788329901201956864",
+          "start": 0,
+          "username": "yyu77701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910680469689061490",
+    "in_reply_to_user_id": "1788329901201956864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909968907156525399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyu77701 爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1909968907156525399",
+        "created_at": "2025-04-11T13:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T14:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910680469689061490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788329901201956864",
+              "start": 0,
+              "username": "yyu77701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910680469689061490",
+        "in_reply_to_user_id": "1788329901201956864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909968907156525399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyu77701 爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788329901201956864",
+        "conversation_id": "1909968907156525399",
+        "created_at": "2025-04-09T13:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T14:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909968907156525399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909968907156525399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 19939,
+          "like_count": 238,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "有一种男朋友，相处的时候不会说那种肉麻的话但是会很贴心地把一切繁琐的事情处理好，平时看他闷闷的情绪也很稳定，以为惹他生气的后果是无事发生但是他会偷偷在心里记仇，晚上doi的时候他会做得比平时更久更用力，在受不了想逃跑的时候又被他抓回来禁锢住，什么都不说只有一句“不许跑”🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 84,
+          "like_count": 2509,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1004
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T22:07:44.000Z",
+        "description": "刻舟求剑",
+        "id": "1788329901201956864",
+        "name": "热奶宝",
+        "pinned_tweet_id": "1907688567859445827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857838974355779585/-MS5I7UB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73111,
+          "following_count": 267,
+          "like_count": 1590,
+          "listed_count": 211,
+          "media_count": 142,
+          "tweet_count": 759
+        },
+        "username": "yyu77701",
+        "verified": false
+      }
+    ]
+  }
+}

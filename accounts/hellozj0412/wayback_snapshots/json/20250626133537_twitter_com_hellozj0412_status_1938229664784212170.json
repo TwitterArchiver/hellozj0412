@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1938229664784212170",
+    "created_at": "2025-06-26T13:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T14:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938229664784212170"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938229664784212170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道从什么时候开始，预测各种结局成了每段感情里的日常，包括友情爱情亲情，被迫思考出一个比一个差的结局，仿佛在真的走到那个时候时，自己会坚强的跨过，于是先在心理上建立足够厚的防御，但是反而更受损了，因为有些人实在是不想分离，总是在接受离开与产生执念里反复"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1938229664784212170",
+        "created_at": "2025-06-26T13:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T14:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938229664784212170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938229664784212170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道从什么时候开始，预测各种结局成了每段感情里的日常，包括友情爱情亲情，被迫思考出一个比一个差的结局，仿佛在真的走到那个时候时，自己会坚强的跨过，于是先在心理上建立足够厚的防御，但是反而更受损了，因为有些人实在是不想分离，总是在接受离开与产生执念里反复"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 110,
+          "like_count": 4312,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1402
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

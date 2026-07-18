@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1938278972997177358",
+    "created_at": "2025-06-27T09:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T10:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938535200570438032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1779411678226268160",
+          "start": 0,
+          "username": "cahier_jeunesse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938535200570438032",
+    "in_reply_to_user_id": "1779411678226268160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938278972997177358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cahier_jeunesse nfp呢😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1938278972997177358",
+        "created_at": "2025-06-27T09:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938535200570438032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1779411678226268160",
+              "start": 0,
+              "username": "cahier_jeunesse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938535200570438032",
+        "in_reply_to_user_id": "1779411678226268160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938278972997177358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cahier_jeunesse nfp呢😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779411678226268160",
+        "conversation_id": "1938278972997177358",
+        "created_at": "2025-06-26T16:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T17:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938278972997177358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938278972997177358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ntp阳痿感都很重，没有什么活力，stp就是一种会被玩死在床上的肉欲感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 110,
+          "like_count": 4353,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1433
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T07:29:56.000Z",
+        "description": "敢为天下后",
+        "id": "1779411678226268160",
+        "name": "弥",
+        "pinned_tweet_id": "1929158623667572843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912871903465025536/dXAi2ESn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 6,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 328
+        },
+        "username": "cahier_jeunesse",
+        "verified": false
+      }
+    ]
+  }
+}

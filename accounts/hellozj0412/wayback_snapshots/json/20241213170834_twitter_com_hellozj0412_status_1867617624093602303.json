@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1867604886646665312",
+    "created_at": "2024-12-13T17:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T18:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867617624093602303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801839636119228420",
+          "start": 0,
+          "username": "Dysania0225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867617624093602303",
+    "in_reply_to_user_id": "1801839636119228420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867615115379646711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dysania0225 终于加载出来了，但是..老师..这对吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1867604886646665312",
+        "created_at": "2024-12-13T17:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T18:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867617624093602303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801839636119228420",
+              "start": 0,
+              "username": "Dysania0225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867617624093602303",
+        "in_reply_to_user_id": "1801839636119228420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867615115379646711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dysania0225 终于加载出来了，但是..老师..这对吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801839636119228420",
+        "conversation_id": "1867604886646665312",
+        "created_at": "2024-12-13T16:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T17:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867615115379646711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867615115379646711",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867608314022154463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 不是 加载得没声了吗 夸夸呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 58,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 112
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T04:50:28.000Z",
+        "description": "而今何事最相宜，宜醉宜游宜睡。",
+        "id": "1801839636119228420",
+        "name": "Dysania",
+        "pinned_tweet_id": "1850802473293971583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850774231002558464/6kEF9Zm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7629,
+          "following_count": 37,
+          "like_count": 251,
+          "listed_count": 11,
+          "media_count": 62,
+          "tweet_count": 423
+        },
+        "username": "Dysania0225",
+        "verified": false
+      }
+    ]
+  }
+}

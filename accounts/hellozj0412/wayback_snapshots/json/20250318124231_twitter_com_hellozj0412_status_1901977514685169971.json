@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1901666740737917066",
+    "created_at": "2025-03-18T12:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T13:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901977514685169971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591013944897904640",
+          "start": 0,
+          "username": "recsetuaiano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901977514685169971",
+    "in_reply_to_user_id": "1591013944897904640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901666740737917066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@recsetuaiano 短打的神….."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1901666740737917066",
+        "created_at": "2025-03-18T12:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T13:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901977514685169971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591013944897904640",
+              "start": 0,
+              "username": "recsetuaiano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901977514685169971",
+        "in_reply_to_user_id": "1591013944897904640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901666740737917066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@recsetuaiano 短打的神….."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591013944897904640",
+        "conversation_id": "1901666740737917066",
+        "created_at": "2025-03-17T16:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T17:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901666740737917066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901666740737917066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 109131,
+          "like_count": 1441,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "乖乖 真的喜欢我吗 被玩得眼泪汪汪的 口水都止不住了 下面还失禁一样地喷水 好可爱 分腿器弄得腿不舒服对不对 别道歉了 我不想听这个 应该说 最喜欢主人了 主人对我做什么都可以 求主人操我淫贱的小穴 嗯 再把眼睛翻上去 舌头吐出来 真漂亮…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 81,
+          "like_count": 1692,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 662
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T10:24:30.000Z",
+        "description": "幸福健康",
+        "id": "1591013944897904640",
+        "name": "Kncore",
+        "pinned_tweet_id": "1895181947800084834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893886166790795264/1PvVaa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48515,
+          "following_count": 409,
+          "like_count": 16695,
+          "listed_count": 50,
+          "media_count": 45,
+          "tweet_count": 1547
+        },
+        "username": "recsetuaiano",
+        "verified": false
+      }
+    ]
+  }
+}

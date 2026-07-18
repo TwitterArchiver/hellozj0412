@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929857208897937408",
+        "3_1929857208927358976",
+        "3_1929857208914784256",
+        "3_1929857208931549184"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1929857352712266165",
+    "created_at": "2025-06-03T11:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T12:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929857352712266165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vIhCwlBLyp",
+          "end": 96,
+          "expanded_url": "https://x.com/hellozj0412/status/1929857352712266165/photo/1",
+          "media_key": "3_1929857208897937408",
+          "start": 73,
+          "url": "https://t.co/vIhCwlBLyp"
+        },
+        {
+          "display_url": "pic.x.com/vIhCwlBLyp",
+          "end": 96,
+          "expanded_url": "https://x.com/hellozj0412/status/1929857352712266165/photo/1",
+          "media_key": "3_1929857208927358976",
+          "start": 73,
+          "url": "https://t.co/vIhCwlBLyp"
+        },
+        {
+          "display_url": "pic.x.com/vIhCwlBLyp",
+          "end": 96,
+          "expanded_url": "https://x.com/hellozj0412/status/1929857352712266165/photo/1",
+          "media_key": "3_1929857208914784256",
+          "start": 73,
+          "url": "https://t.co/vIhCwlBLyp"
+        },
+        {
+          "display_url": "pic.x.com/vIhCwlBLyp",
+          "end": 96,
+          "expanded_url": "https://x.com/hellozj0412/status/1929857352712266165/photo/1",
+          "media_key": "3_1929857208931549184",
+          "start": 73,
+          "url": "https://t.co/vIhCwlBLyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929857352712266165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Nusa Penida🏝️\n\n在赤道永恒的夏日里，听到海浪拍打礁石的声音，感受阳光穿透皮肤的温度，迎面吹来的海风扬起裙摆，每片海都有它独属的颜色 https://t.co/vIhCwlBLyp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929857208897937408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsg66BuWoAAVrAm.jpg",
+        "width": 1486
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929857208927358976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsg66B1XkAAjbH6.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1929857208914784256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsg66ByXsAAELn8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929857208931549184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsg66B2XgAAJaJr.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929857208897937408",
+            "3_1929857208927358976",
+            "3_1929857208914784256",
+            "3_1929857208931549184"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1929857352712266165",
+        "created_at": "2025-06-03T11:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T12:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929857352712266165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIhCwlBLyp",
+              "end": 96,
+              "expanded_url": "https://x.com/hellozj0412/status/1929857352712266165/photo/1",
+              "media_key": "3_1929857208897937408",
+              "start": 73,
+              "url": "https://t.co/vIhCwlBLyp"
+            },
+            {
+              "display_url": "pic.x.com/vIhCwlBLyp",
+              "end": 96,
+              "expanded_url": "https://x.com/hellozj0412/status/1929857352712266165/photo/1",
+              "media_key": "3_1929857208927358976",
+              "start": 73,
+              "url": "https://t.co/vIhCwlBLyp"
+            },
+            {
+              "display_url": "pic.x.com/vIhCwlBLyp",
+              "end": 96,
+              "expanded_url": "https://x.com/hellozj0412/status/1929857352712266165/photo/1",
+              "media_key": "3_1929857208914784256",
+              "start": 73,
+              "url": "https://t.co/vIhCwlBLyp"
+            },
+            {
+              "display_url": "pic.x.com/vIhCwlBLyp",
+              "end": 96,
+              "expanded_url": "https://x.com/hellozj0412/status/1929857352712266165/photo/1",
+              "media_key": "3_1929857208931549184",
+              "start": 73,
+              "url": "https://t.co/vIhCwlBLyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929857352712266165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Nusa Penida🏝️\n\n在赤道永恒的夏日里，听到海浪拍打礁石的声音，感受阳光穿透皮肤的温度，迎面吹来的海风扬起裙摆，每片海都有它独属的颜色 https://t.co/vIhCwlBLyp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 102,
+          "like_count": 4067,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1301
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

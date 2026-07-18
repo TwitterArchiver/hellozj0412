@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1913114518156406855",
+    "created_at": "2025-04-18T06:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T07:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913118926495473865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745636689866076160",
+          "start": 0,
+          "username": "rubirubikawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913118926495473865",
+    "in_reply_to_user_id": "1745636689866076160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913114518156406855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rubirubikawa 现在要被称做二次元的纯度有点疯魔这是能说的吗，而且特别多小警察….，初高中的时候氛围还很好来着…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 464,
+        "media_key": "3_1913114481007398912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Goy_e_8aEAA0cVe.jpg",
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1913114518156406855",
+        "created_at": "2025-04-18T06:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T07:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913118926495473865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745636689866076160",
+              "start": 0,
+              "username": "rubirubikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913118926495473865",
+        "in_reply_to_user_id": "1745636689866076160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913114518156406855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rubirubikawa 现在要被称做二次元的纯度有点疯魔这是能说的吗，而且特别多小警察….，初高中的时候氛围还很好来着…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913114481007398912"
+          ]
+        },
+        "author_id": "1745636689866076160",
+        "conversation_id": "1913114518156406855",
+        "created_at": "2025-04-18T06:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T07:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913114518156406855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AF0lqPb8Bp",
+              "end": 23,
+              "expanded_url": "https://x.com/rubirubikawa/status/1913114518156406855/photo/1",
+              "media_key": "3_1913114481007398912",
+              "start": 0,
+              "url": "https://t.co/AF0lqPb8Bp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913114518156406855",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AF0lqPb8Bp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 85,
+          "like_count": 2643,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 868
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T02:40:07.000Z",
+        "description": "21/♉/🍵/bi/？nf？",
+        "id": "1745636689866076160",
+        "name": "双马尾",
+        "pinned_tweet_id": "1913070312771797365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911254745848639488/7jPCRk1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 138,
+          "like_count": 1882,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 480
+        },
+        "username": "rubirubikawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1896609806397669849",
+    "created_at": "2025-03-03T17:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T18:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896610196870553817"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1896610196870553817",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896609806397669849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "公司很小，就是20人左右的工作室，但是是一所高校的配合单位，不是很懂，为什么不直招高校里的人呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1896609806397669849",
+        "created_at": "2025-03-03T17:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T18:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896610196870553817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896610196870553817",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896609806397669849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "公司很小，就是20人左右的工作室，但是是一所高校的配合单位，不是很懂，为什么不直招高校里的人呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1896609806397669849",
+        "created_at": "2025-03-03T17:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T18:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896609806397669849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896609806397669849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有必要去外地面试吗，给offer的概率也不是那么大，发了作品集就直接约面试，也没问别的，hr只接受线下，呃啊啊啊啊，一来一回几百大洋没了还可能是无用功，好纠结，但是工作地点还不错好纠结啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 71,
+          "like_count": 1417,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 525
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

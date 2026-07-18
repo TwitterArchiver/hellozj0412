@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1900331034165510305",
+    "created_at": "2025-03-13T23:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T00:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900331034165510305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/arashisyo_/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/arashisyo_/status/1900192635752710420",
+          "start": 11,
+          "url": "https://t.co/21rljRaQ4J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900331034165510305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900192635752710420",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只看tag就已经爽了 https://t.co/21rljRaQ4J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 711251,
+        "height": 1280,
+        "media_key": "13_1900190957410095104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1900190957410095104/img/sumGUU779J2AkAkd.jpg",
+        "public_metrics": {
+          "view_count": 4780
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900190957410095104/vid/avc1/320x694/5IDezQkcVn2ejwbe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900190957410095104/vid/avc1/480x1040/QdiHweh2quo4bXJg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900190957410095104/vid/avc1/590x1280/c0ddvAJISBwSVtOi.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1900190957410095104/pl/kWbEY97OvW9tBciR.m3u8?tag=14&v=3e5"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1900331034165510305",
+        "created_at": "2025-03-13T23:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T00:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900331034165510305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arashisyo_/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/arashisyo_/status/1900192635752710420",
+              "start": 11,
+              "url": "https://t.co/21rljRaQ4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900331034165510305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900192635752710420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只看tag就已经爽了 https://t.co/21rljRaQ4J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1900190957410095104"
+          ]
+        },
+        "author_id": "1879402560978919424",
+        "conversation_id": "1900192635752710420",
+        "created_at": "2025-03-13T14:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T15:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900192635752710420"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "男喘"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "女性向"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "一爱"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "屿你的岛"
+            },
+            {
+              "end": 149,
+              "start": 131,
+              "tag": "腹黑阴湿抖S上司x变态暗恋抖M下属"
+            },
+            {
+              "end": 160,
+              "start": 150,
+              "tag": "今天是内裤怪盗上司"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/arQYEqqWSd",
+              "end": 184,
+              "expanded_url": "https://x.com/ArashiSyo_/status/1900192635752710420/video/1",
+              "media_key": "13_1900190957410095104",
+              "start": 161,
+              "url": "https://t.co/arQYEqqWSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900192635752710420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 15377,
+          "like_count": 169,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "💼一爱向《S上司-出差的上司来电phonesex-》\n1i | phone sex | 阴湿 \n\n「主人不是说了吗...要主人允许才能高潮，废物母狗发起情来主人的命令都不听了吗？\n...你知道错了？你每次都知道错了。」\n\n#男喘 #女性向 #一爱 \n#屿你的岛\n#腹黑阴湿抖S上司x变态暗恋抖M下属\n#今天是内裤怪盗上司 https://t.co/arQYEqqWSd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 78,
+          "like_count": 1549,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 587
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:38:00.000Z",
+        "description": "男喘🚢“零碎的岛屿终会找到海，漂泊不定的船也终会靠岸。”｜ 🫙匿名漂流瓶：https://t.co/p6E9szdchL 🤲",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/arashi_syo",
+                "end": 60,
+                "expanded_url": "https://ngl.link/arashi_syo",
+                "start": 37,
+                "url": "https://t.co/p6E9szdchL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arashisyo515.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://arashisyo515.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/IQM3WvIAPT"
+              }
+            ]
+          }
+        },
+        "id": "1879402560978919424",
+        "location": "岚屿",
+        "name": "岚屿-ArashiSyo",
+        "pinned_tweet_id": "1883526423199330719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879591138405048320/COYp6UQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3867,
+          "following_count": 30,
+          "like_count": 2500,
+          "listed_count": 9,
+          "media_count": 99,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/IQM3WvIAPT",
+        "username": "ArashiSyo_",
+        "verified": true
+      }
+    ]
+  }
+}

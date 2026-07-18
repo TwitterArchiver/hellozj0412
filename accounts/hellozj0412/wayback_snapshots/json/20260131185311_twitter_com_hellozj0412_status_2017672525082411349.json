@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2017551935512154279",
+    "created_at": "2026-01-31T18:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017672525082411349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1567543722170253313",
+          "start": 0,
+          "username": "ouO1nieowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017672525082411349",
+    "in_reply_to_user_id": "1567543722170253313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017551935512154279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouO1nieowo 我就这么窝囊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2017551935512154279",
+        "created_at": "2026-01-31T18:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017672525082411349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1567543722170253313",
+              "start": 0,
+              "username": "ouO1nieowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017672525082411349",
+        "in_reply_to_user_id": "1567543722170253313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017551935512154279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouO1nieowo 我就这么窝囊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567543722170253313",
+        "conversation_id": "2017551935512154279",
+        "created_at": "2026-01-31T10:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T11:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017551935512154279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017551935512154279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2482,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每次刷到那种理想型或者感兴趣的人 我都不敢评论或者私信 我怕对方不理我 怕对方觉得我太主动会很没面子 我会默默点个赞然后希望对方主动来找我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 115,
+          "like_count": 4999,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1789
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T16:02:09.000Z",
+        "description": "ISFJ摩羯座 我想发啥就发啥 不加联系不聊骚不线下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sweetyroll",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sweetyroll",
+                "start": 0,
+                "url": "https://t.co/i5cFRaceBK"
+              }
+            ]
+          }
+        },
+        "id": "1567543722170253313",
+        "location": "没🚪 ",
+        "name": "SweetyRoll",
+        "pinned_tweet_id": "2014644987955445806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015403365497270272/XImd6Pk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 22,
+          "like_count": 36,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 183
+        },
+        "url": "https://t.co/i5cFRaceBK",
+        "username": "ouO1nieowo",
+        "verified": false
+      }
+    ]
+  }
+}

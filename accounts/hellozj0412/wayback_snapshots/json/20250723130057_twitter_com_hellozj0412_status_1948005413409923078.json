@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1947846421887271270",
+    "created_at": "2025-07-23T13:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T14:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948005413409923078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1239064974884028416",
+          "start": 0,
+          "username": "FabricsAndSoul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948005413409923078",
+    "in_reply_to_user_id": "1239064974884028416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947846421887271270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FabricsAndSoul 啊啊啊这种事情效率很重要啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1947846421887271270",
+        "created_at": "2025-07-23T13:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T14:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948005413409923078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1239064974884028416",
+              "start": 0,
+              "username": "FabricsAndSoul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948005413409923078",
+        "in_reply_to_user_id": "1239064974884028416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947846421887271270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FabricsAndSoul 啊啊啊这种事情效率很重要啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239064974884028416",
+        "conversation_id": "1947846421887271270",
+        "created_at": "2025-07-23T02:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T03:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947846421887271270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947846421887271270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和老公的火象特质都挺显著的，出现矛盾就是立马爆发速速解决，爽爽的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 115,
+          "like_count": 4849,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1640
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-15T05:44:59.000Z",
+        "description": "一条两英寸宽的红宝石项链，像一道价值连城的割喉伤口",
+        "id": "1239064974884028416",
+        "name": "染血之室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945634638191284224/xigxRfYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 83,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 80
+        },
+        "username": "FabricsAndSoul",
+        "verified": false
+      }
+    ]
+  }
+}

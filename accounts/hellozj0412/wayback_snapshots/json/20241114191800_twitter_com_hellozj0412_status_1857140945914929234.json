@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1857026701802238451",
+    "created_at": "2024-11-14T19:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T20:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857140945914929234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1364579426793521157",
+          "start": 0,
+          "username": "winkovo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857140945914929234",
+    "in_reply_to_user_id": "1364579426793521157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857026701802238451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winkovo1 在哪里🧐馋这口很久了，从没吃到好吃的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1857026701802238451",
+        "created_at": "2024-11-14T19:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T20:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857140945914929234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1364579426793521157",
+              "start": 0,
+              "username": "winkovo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857140945914929234",
+        "in_reply_to_user_id": "1364579426793521157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857026701802238451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winkovo1 在哪里🧐馋这口很久了，从没吃到好吃的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857026665450205184"
+          ]
+        },
+        "author_id": "1364579426793521157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1857026701802238451",
+        "created_at": "2024-11-14T11:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T12:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857026701802238451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8ebsFFK1m",
+              "end": 28,
+              "expanded_url": "https://x.com/winkovo1/status/1857026701802238451/photo/1",
+              "media_key": "3_1857026665450205184",
+              "start": 5,
+              "url": "https://t.co/J8ebsFFK1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857026701802238451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3769,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摆的一比 https://t.co/J8ebsFFK1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843904579479486464/O2CpXYjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 50,
+          "like_count": 345,
+          "listed_count": 0,
+          "tweet_count": 52
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-24T14:14:28.000Z",
+        "description": "",
+        "id": "1364579426793521157",
+        "name": "winkovo",
+        "pinned_tweet_id": "1829838506367328348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410910732502200320/nyaB94yx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31269,
+          "following_count": 37,
+          "like_count": 204,
+          "listed_count": 60,
+          "tweet_count": 23
+        },
+        "username": "winkovo1",
+        "verified": false
+      }
+    ]
+  }
+}

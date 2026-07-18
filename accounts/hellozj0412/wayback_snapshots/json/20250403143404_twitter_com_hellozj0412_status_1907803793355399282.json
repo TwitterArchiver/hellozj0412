@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1907754120720847120",
+    "created_at": "2025-04-03T14:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T15:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907803793355399282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1838194243732635648",
+          "start": 0,
+          "username": "hhhawang"
+        },
+        {
+          "end": 20,
+          "id": "1269231851362639872",
+          "start": 10,
+          "username": "Evakkkkds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907803793355399282",
+    "in_reply_to_user_id": "1838194243732635648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907803567823663435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhawang @Evakkkkds 同求👉👈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1907754120720847120",
+        "created_at": "2025-04-03T14:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907803793355399282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1838194243732635648",
+              "start": 0,
+              "username": "hhhawang"
+            },
+            {
+              "end": 20,
+              "id": "1269231851362639872",
+              "start": 10,
+              "username": "Evakkkkds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907803793355399282",
+        "in_reply_to_user_id": "1838194243732635648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907803567823663435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhawang @Evakkkkds 同求👉👈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838194243732635648",
+        "conversation_id": "1907754120720847120",
+        "created_at": "2025-04-03T14:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907803567823663435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1269231851362639872",
+              "start": 0,
+              "username": "Evakkkkds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907803567823663435",
+        "in_reply_to_user_id": "1269231851362639872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907754120720847120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evakkkkds 求内衣链接😭😭😭🫰🫰🫰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 82,
+          "like_count": 2266,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 937
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T12:30:48.000Z",
+        "description": "拥有让自己幸福的能力🫰",
+        "id": "1838194243732635648",
+        "name": "死猪不怕开水烫",
+        "pinned_tweet_id": "1906227743794012228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907775644391583744/YVlb5yIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 30,
+          "like_count": 1925,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 153
+        },
+        "username": "hhhawang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-06T11:37:20.000Z",
+        "description": "🚪168/很爱讲废话 介意勿关/是个肥婆/防走失@yuanzipaobukuai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "yuanzipaobukuai"
+              }
+            ]
+          }
+        },
+        "id": "1269231851362639872",
+        "name": "你自己擦一下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688075000811757568/mnIobTEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21304,
+          "following_count": 101,
+          "like_count": 75,
+          "listed_count": 64,
+          "media_count": 228,
+          "tweet_count": 827
+        },
+        "username": "Evakkkkds",
+        "verified": false
+      }
+    ]
+  }
+}

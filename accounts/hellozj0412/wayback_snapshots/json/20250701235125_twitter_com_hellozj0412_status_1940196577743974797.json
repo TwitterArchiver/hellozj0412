@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1939982481476002008",
+    "created_at": "2025-07-01T23:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T00:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940196577743974797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1838577918618030080",
+          "start": 0,
+          "username": "onekiss_115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940196577743974797",
+    "in_reply_to_user_id": "1838577918618030080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939982481476002008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onekiss_115 啊？邪修就是有招啊，我不当正派了🤯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 808,
+        "media_key": "3_1939982471342202880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guwzx3rWIAAmUwJ.jpg",
+        "width": 1178
+      },
+      {
+        "height": 877,
+        "media_key": "3_1939982471338008577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guwzx3qWIAEogui.jpg",
+        "width": 1178
+      },
+      {
+        "height": 821,
+        "media_key": "3_1939982471400984576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guwzx35XEAAJKwT.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1939982481476002008",
+        "created_at": "2025-07-01T23:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T00:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940196577743974797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1838577918618030080",
+              "start": 0,
+              "username": "onekiss_115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940196577743974797",
+        "in_reply_to_user_id": "1838577918618030080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939982481476002008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onekiss_115 啊？邪修就是有招啊，我不当正派了🤯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939982471342202880",
+            "3_1939982471338008577",
+            "3_1939982471400984576"
+          ]
+        },
+        "author_id": "1838577918618030080",
+        "conversation_id": "1939982481476002008",
+        "created_at": "2025-07-01T09:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T10:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939982481476002008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWNTlT2Zii",
+              "end": 40,
+              "expanded_url": "https://x.com/onekiss_115/status/1939982481476002008/photo/1",
+              "media_key": "3_1939982471342202880",
+              "start": 17,
+              "url": "https://t.co/NWNTlT2Zii"
+            },
+            {
+              "display_url": "pic.x.com/NWNTlT2Zii",
+              "end": 40,
+              "expanded_url": "https://x.com/onekiss_115/status/1939982481476002008/photo/1",
+              "media_key": "3_1939982471338008577",
+              "start": 17,
+              "url": "https://t.co/NWNTlT2Zii"
+            },
+            {
+              "display_url": "pic.x.com/NWNTlT2Zii",
+              "end": 40,
+              "expanded_url": "https://x.com/onekiss_115/status/1939982481476002008/photo/1",
+              "media_key": "3_1939982471400984576",
+              "start": 17,
+              "url": "https://t.co/NWNTlT2Zii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939982481476002008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3088,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ 卧槽我不行了。邪修就是快啊。 https://t.co/NWNTlT2Zii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 111,
+          "like_count": 4437,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1492
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T13:55:26.000Z",
+        "description": "顺利吗开心吗睡得好吗",
+        "id": "1838577918618030080",
+        "location": "🚪3000 因为拉椅子二层看台票3000👊😭👊",
+        "name": "阳光农家蛋",
+        "pinned_tweet_id": "1936401163903230125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932664994249994240/x7Ar8Akh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 132,
+          "like_count": 4801,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 2497
+        },
+        "username": "onekiss_115",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1907446601351893437",
+    "created_at": "2025-04-03T05:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T06:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907672865089933539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1618878387820576768",
+          "start": 0,
+          "username": "ARC_Cherry0305"
+        },
+        {
+          "end": 27,
+          "id": "1752362488820318208",
+          "start": 16,
+          "username": "Zilong4929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907672865089933539",
+    "in_reply_to_user_id": "1618878387820576768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907636423085404578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARC_Cherry0305 @Zilong4929 主播有没有更速成的方法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1907446601351893437",
+        "created_at": "2025-04-03T05:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T06:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907672865089933539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1618878387820576768",
+              "start": 0,
+              "username": "ARC_Cherry0305"
+            },
+            {
+              "end": 27,
+              "id": "1752362488820318208",
+              "start": 16,
+              "username": "Zilong4929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907672865089933539",
+        "in_reply_to_user_id": "1618878387820576768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907636423085404578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARC_Cherry0305 @Zilong4929 主播有没有更速成的方法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618878387820576768",
+        "conversation_id": "1907446601351893437",
+        "created_at": "2025-04-03T03:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T04:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907636423085404578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752362488820318208",
+              "start": 0,
+              "username": "Zilong4929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907636423085404578",
+        "in_reply_to_user_id": "1752362488820318208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907446601351893437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zilong4929 深蹲欢迎你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 82,
+          "like_count": 2253,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 925
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T07:47:47.000Z",
+        "description": "Don't want to be part of the world.",
+        "id": "1618878387820576768",
+        "name": "双层吉士汉堡",
+        "pinned_tweet_id": "1633027483040878592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891359283658588160/Ckt9ChId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 204,
+          "like_count": 2528,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1995
+        },
+        "username": "ARC_Cherry0305",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T16:06:02.000Z",
+        "description": "不是帅哥别骚扰我。^_^🈶🚪别烦我。",
+        "id": "1752362488820318208",
+        "name": "Zzzzz",
+        "pinned_tweet_id": "1787164678625313188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851299476595720192/W_4qyw-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 109,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 415
+        },
+        "username": "Zilong4929",
+        "verified": false
+      }
+    ]
+  }
+}

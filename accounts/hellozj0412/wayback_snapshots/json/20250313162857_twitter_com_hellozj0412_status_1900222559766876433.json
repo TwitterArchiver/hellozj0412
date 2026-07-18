@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1900222559766876433",
+    "created_at": "2025-03-13T16:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T17:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900222559766876433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ret0ky0/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ret0ky0/status/1899733549026254850",
+          "start": 18,
+          "url": "https://t.co/bvK6WWyCmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900222559766876433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899733549026254850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉是个很好的素材🥺哪位老师能画… https://t.co/bvK6WWyCmQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1481,
+        "media_key": "3_1899733541132648448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl01lycbQAANPAt.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1899733541145169920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl01lyfaUAAJggs.jpg",
+        "width": 767
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1900222559766876433",
+        "created_at": "2025-03-13T16:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T17:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900222559766876433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ret0ky0/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ret0ky0/status/1899733549026254850",
+              "start": 18,
+              "url": "https://t.co/bvK6WWyCmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900222559766876433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899733549026254850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉是个很好的素材🥺哪位老师能画… https://t.co/bvK6WWyCmQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899733541132648448",
+            "3_1899733541145169920"
+          ]
+        },
+        "author_id": "1450773205178720260",
+        "conversation_id": "1899733549026254850",
+        "created_at": "2025-03-12T08:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T09:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899733549026254850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vG6gvFmRNa",
+              "end": 23,
+              "expanded_url": "https://x.com/ReT0ky0/status/1899733549026254850/photo/1",
+              "media_key": "3_1899733541132648448",
+              "start": 0,
+              "url": "https://t.co/vG6gvFmRNa"
+            },
+            {
+              "display_url": "pic.x.com/vG6gvFmRNa",
+              "end": 23,
+              "expanded_url": "https://x.com/ReT0ky0/status/1899733549026254850/photo/1",
+              "media_key": "3_1899733541145169920",
+              "start": 0,
+              "url": "https://t.co/vG6gvFmRNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899733549026254850",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1880,
+          "impression_count": 284227,
+          "like_count": 12248,
+          "quote_count": 14,
+          "reply_count": 18,
+          "retweet_count": 419
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vG6gvFmRNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 77,
+          "like_count": 1537,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 583
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T10:37:49.000Z",
+        "description": "Something good Archives.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ret0ky0_memory…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/ret0ky0_memory?igshid=OGIzYTJhMTRmYQ==",
+                "start": 0,
+                "url": "https://t.co/bplsffeB4f"
+              }
+            ]
+          }
+        },
+        "id": "1450773205178720260",
+        "name": "Re:TOKYO MEMORY",
+        "pinned_tweet_id": "1679151106558169088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459403716784963584/I3Gq8aGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738280,
+          "following_count": 12,
+          "like_count": 434,
+          "listed_count": 1673,
+          "media_count": 3634,
+          "tweet_count": 3798
+        },
+        "url": "https://t.co/bplsffeB4f",
+        "username": "ReT0ky0",
+        "verified": true
+      }
+    ]
+  }
+}

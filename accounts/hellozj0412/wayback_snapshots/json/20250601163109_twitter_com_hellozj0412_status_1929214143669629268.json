@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928993318265856000",
+        "3_1928993318190374912",
+        "3_1928993318165180416",
+        "3_1928993318165159936"
+      ],
+      "media_source_tweet_id": [
+        "1928993332794921014",
+        "1928993332794921014",
+        "1928993332794921014",
+        "1928993332794921014"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1929214143669629268",
+    "created_at": "2025-06-01T16:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T17:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929214143669629268"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "XG",
+          "probability": 0.6642,
+          "start": 27,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1045867731856347136",
+          "start": 3,
+          "username": "Alphaz44"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bkNvdHTs8u",
+          "end": 62,
+          "expanded_url": "https://x.com/Alphaz44/status/1928993332794921014/photo/1",
+          "media_key": "3_1928993318265856000",
+          "start": 39,
+          "url": "https://t.co/bkNvdHTs8u"
+        },
+        {
+          "display_url": "pic.x.com/bkNvdHTs8u",
+          "end": 62,
+          "expanded_url": "https://x.com/Alphaz44/status/1928993332794921014/photo/1",
+          "media_key": "3_1928993318190374912",
+          "start": 39,
+          "url": "https://t.co/bkNvdHTs8u"
+        },
+        {
+          "display_url": "pic.x.com/bkNvdHTs8u",
+          "end": 62,
+          "expanded_url": "https://x.com/Alphaz44/status/1928993332794921014/photo/1",
+          "media_key": "3_1928993318165180416",
+          "start": 39,
+          "url": "https://t.co/bkNvdHTs8u"
+        },
+        {
+          "display_url": "pic.x.com/bkNvdHTs8u",
+          "end": 62,
+          "expanded_url": "https://x.com/Alphaz44/status/1928993332794921014/photo/1",
+          "media_key": "3_1928993318165159936",
+          "start": 39,
+          "url": "https://t.co/bkNvdHTs8u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929214143669629268",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928993332794921014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alphaz44: This type of XG photo 🤌🏽 https://t.co/bkNvdHTs8u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928993318265856000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsUpM-VWoAAzcQH.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928993318190374912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsUpM-DW4AAzvq2.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928993318165180416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsUpM99WcAAnlB6.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928993318165159936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsUpM99WIAAX899.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928993318265856000",
+            "3_1928993318190374912",
+            "3_1928993318165180416",
+            "3_1928993318165159936"
+          ],
+          "media_source_tweet_id": [
+            "1928993332794921014",
+            "1928993332794921014",
+            "1928993332794921014",
+            "1928993332794921014"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1929214143669629268",
+        "created_at": "2025-06-01T16:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T17:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929214143669629268"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "XG",
+              "probability": 0.6642,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1045867731856347136",
+              "start": 3,
+              "username": "Alphaz44"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bkNvdHTs8u",
+              "end": 62,
+              "expanded_url": "https://x.com/Alphaz44/status/1928993332794921014/photo/1",
+              "media_key": "3_1928993318265856000",
+              "start": 39,
+              "url": "https://t.co/bkNvdHTs8u"
+            },
+            {
+              "display_url": "pic.x.com/bkNvdHTs8u",
+              "end": 62,
+              "expanded_url": "https://x.com/Alphaz44/status/1928993332794921014/photo/1",
+              "media_key": "3_1928993318190374912",
+              "start": 39,
+              "url": "https://t.co/bkNvdHTs8u"
+            },
+            {
+              "display_url": "pic.x.com/bkNvdHTs8u",
+              "end": 62,
+              "expanded_url": "https://x.com/Alphaz44/status/1928993332794921014/photo/1",
+              "media_key": "3_1928993318165180416",
+              "start": 39,
+              "url": "https://t.co/bkNvdHTs8u"
+            },
+            {
+              "display_url": "pic.x.com/bkNvdHTs8u",
+              "end": 62,
+              "expanded_url": "https://x.com/Alphaz44/status/1928993332794921014/photo/1",
+              "media_key": "3_1928993318165159936",
+              "start": 39,
+              "url": "https://t.co/bkNvdHTs8u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929214143669629268",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928993332794921014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alphaz44: This type of XG photo 🤌🏽 https://t.co/bkNvdHTs8u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928993318265856000",
+            "3_1928993318190374912",
+            "3_1928993318165180416",
+            "3_1928993318165159936"
+          ]
+        },
+        "author_id": "1045867731856347136",
+        "conversation_id": "1928993332794921014",
+        "created_at": "2025-06-01T01:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T02:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928993332794921014"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "XG",
+              "probability": 0.6627,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bkNvdHTs8u",
+              "end": 48,
+              "expanded_url": "https://x.com/Alphaz44/status/1928993332794921014/photo/1",
+              "media_key": "3_1928993318265856000",
+              "start": 25,
+              "url": "https://t.co/bkNvdHTs8u"
+            },
+            {
+              "display_url": "pic.x.com/bkNvdHTs8u",
+              "end": 48,
+              "expanded_url": "https://x.com/Alphaz44/status/1928993332794921014/photo/1",
+              "media_key": "3_1928993318190374912",
+              "start": 25,
+              "url": "https://t.co/bkNvdHTs8u"
+            },
+            {
+              "display_url": "pic.x.com/bkNvdHTs8u",
+              "end": 48,
+              "expanded_url": "https://x.com/Alphaz44/status/1928993332794921014/photo/1",
+              "media_key": "3_1928993318165180416",
+              "start": 25,
+              "url": "https://t.co/bkNvdHTs8u"
+            },
+            {
+              "display_url": "pic.x.com/bkNvdHTs8u",
+              "end": 48,
+              "expanded_url": "https://x.com/Alphaz44/status/1928993332794921014/photo/1",
+              "media_key": "3_1928993318165159936",
+              "start": 25,
+              "url": "https://t.co/bkNvdHTs8u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928993332794921014",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 44849,
+          "like_count": 919,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "This type of XG photo 🤌🏽 https://t.co/bkNvdHTs8u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 102,
+          "like_count": 4011,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1280
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-29T02:47:53.000Z",
+        "description": "🏳️‍🌈 @flamengo // #teamLH // Alphaz // Little monster 🐺XG yeah we born with the X Gene🐺",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "teamLH"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "flamengo"
+              }
+            ]
+          }
+        },
+        "id": "1045867731856347136",
+        "location": "Cidade do Crime",
+        "name": "Lena in AWE of MAYHEM",
+        "pinned_tweet_id": "1815760232351433100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707186622653956096/tsGYk3Ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 1351,
+          "like_count": 48025,
+          "listed_count": 3,
+          "media_count": 1653,
+          "tweet_count": 33597
+        },
+        "username": "Alphaz44",
+        "verified": false
+      }
+    ]
+  }
+}

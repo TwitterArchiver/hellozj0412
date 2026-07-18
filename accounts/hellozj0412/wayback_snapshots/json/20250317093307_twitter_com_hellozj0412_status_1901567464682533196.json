@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1901007365769765007",
+    "created_at": "2025-03-17T09:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T10:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901567464682533196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_insky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901567464682533196",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901007365769765007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_insky 感觉像是我简历上的实习经历，看着很牛逼，其实都是装的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1901007365769765007",
+        "created_at": "2025-03-17T09:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T10:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901567464682533196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_insky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901567464682533196",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901007365769765007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_insky 感觉像是我简历上的实习经历，看着很牛逼，其实都是装的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "1901007365769765007",
+        "created_at": "2025-03-15T20:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T21:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901007365769765007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901007365769765007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 32365,
+          "like_count": 650,
+          "quote_count": 4,
+          "reply_count": 62,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "很畏惧那种名字后面加一堆旗然后简介是一堆看不懂的什么什么主义的那种人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 81,
+          "like_count": 1642,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 627
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "已有上千年生命的神秘外星鱼 现以温良的凡人身份在地球游历/小号@fishoutworld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "fishoutworld"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "迷你世界",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "1901214474771845332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4365,
+          "following_count": 543,
+          "like_count": 12235,
+          "listed_count": 12,
+          "media_count": 1200,
+          "tweet_count": 11662
+        },
+        "username": "Greenfish_insky",
+        "verified": false
+      }
+    ]
+  }
+}

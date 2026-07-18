@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1937914402663239731",
+    "created_at": "2025-06-26T14:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T15:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938239448879403255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1529386038916829185",
+          "start": 0,
+          "username": "apixum792"
+        },
+        {
+          "end": 19,
+          "id": "1826321786834944000",
+          "start": 11,
+          "username": "hgds520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938239448879403255",
+    "in_reply_to_user_id": "1529386038916829185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938223859150557264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apixum792 @hgds520 那很幸福了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1937914402663239731",
+        "created_at": "2025-06-26T14:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T15:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938239448879403255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1529386038916829185",
+              "start": 0,
+              "username": "apixum792"
+            },
+            {
+              "end": 19,
+              "id": "1826321786834944000",
+              "start": 11,
+              "username": "hgds520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938239448879403255",
+        "in_reply_to_user_id": "1529386038916829185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938223859150557264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apixum792 @hgds520 那很幸福了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529386038916829185",
+        "conversation_id": "1937914402663239731",
+        "created_at": "2025-06-26T13:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T14:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938223859150557264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1826321786834944000",
+              "start": 0,
+              "username": "hgds520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938223859150557264",
+        "in_reply_to_user_id": "1826321786834944000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937914402663239731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds520 如果他直接给你打来了电话问你在干嘛呢😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 110,
+          "like_count": 4323,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1411
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T08:57:10.000Z",
+        "description": "打王者dd我可以吗",
+        "id": "1529386038916829185",
+        "name": "超爱打游戏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935030089680609280/JTEgxDVz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 48,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 151
+        },
+        "username": "apixum792",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "瞎发着玩的",
+        "id": "1826321786834944000",
+        "location": "江浙沪",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1930606456522633247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 294,
+          "like_count": 5827,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 324
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

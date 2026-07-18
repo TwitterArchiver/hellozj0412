@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076395821403402240"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "2076395828214972641",
+    "created_at": "2026-07-12T19:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T20:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076395828214972641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gARjJ62mQp",
+          "end": 51,
+          "expanded_url": "https://x.com/hellozj0412/status/2076395828214972641/photo/1",
+          "media_key": "3_2076395821403402240",
+          "start": 28,
+          "url": "https://t.co/gARjJ62mQp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076395828214972641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "周一周二周三周四周五上班我想杀人\n周六周日我想free https://t.co/gARjJ62mQp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_2076395821403402240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNDW_5Pa8AAaibd.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076395821403402240"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "2076395828214972641",
+        "created_at": "2026-07-12T19:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T20:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076395828214972641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gARjJ62mQp",
+              "end": 51,
+              "expanded_url": "https://x.com/hellozj0412/status/2076395828214972641/photo/1",
+              "media_key": "3_2076395821403402240",
+              "start": 28,
+              "url": "https://t.co/gARjJ62mQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076395828214972641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周一周二周三周四周五上班我想杀人\n周六周日我想free https://t.co/gARjJ62mQp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 119,
+          "like_count": 5607,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1982
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

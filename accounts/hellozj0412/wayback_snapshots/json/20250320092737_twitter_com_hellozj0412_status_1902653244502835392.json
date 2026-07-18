@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902084373358264320"
+      ],
+      "media_source_tweet_id": [
+        "1902084382719869184"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1902653244502835392",
+    "created_at": "2025-03-20T09:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T10:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902653244502835392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1832490285869289472",
+          "start": 3,
+          "username": "cruellademode"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GJA1GzK6pR",
+          "end": 74,
+          "expanded_url": "https://x.com/cruellademode/status/1902084382719869184/photo/1",
+          "media_key": "3_1902084373358264320",
+          "start": 51,
+          "url": "https://t.co/GJA1GzK6pR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902653244502835392",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5128
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902084382719869184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cruellademode: when anatomy meets high fashion https://t.co/GJA1GzK6pR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1464,
+        "media_key": "3_1902084373358264320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmWPqO7XQAAkwMf.jpg",
+        "width": 1098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902084373358264320"
+          ],
+          "media_source_tweet_id": [
+            "1902084382719869184"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1902653244502835392",
+        "created_at": "2025-03-20T09:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T10:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902653244502835392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1832490285869289472",
+              "start": 3,
+              "username": "cruellademode"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJA1GzK6pR",
+              "end": 74,
+              "expanded_url": "https://x.com/cruellademode/status/1902084382719869184/photo/1",
+              "media_key": "3_1902084373358264320",
+              "start": 51,
+              "url": "https://t.co/GJA1GzK6pR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902653244502835392",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5128
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902084382719869184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cruellademode: when anatomy meets high fashion https://t.co/GJA1GzK6pR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902084373358264320"
+          ]
+        },
+        "author_id": "1832490285869289472",
+        "conversation_id": "1902084382719869184",
+        "created_at": "2025-03-18T19:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T20:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902084382719869184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJA1GzK6pR",
+              "end": 55,
+              "expanded_url": "https://x.com/cruellademode/status/1902084382719869184/photo/1",
+              "media_key": "3_1902084373358264320",
+              "start": 32,
+              "url": "https://t.co/GJA1GzK6pR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902084382719869184",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2783,
+          "impression_count": 687386,
+          "like_count": 46501,
+          "quote_count": 206,
+          "reply_count": 34,
+          "retweet_count": 5128
+        },
+        "reply_settings": "everyone",
+        "text": "when anatomy meets high fashion https://t.co/GJA1GzK6pR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 82,
+          "like_count": 1768,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 711
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T18:45:20.000Z",
+        "description": "fashion & 2am thoughts | in memory of @frenchmarlboro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "frenchmarlboro"
+              }
+            ]
+          }
+        },
+        "id": "1832490285869289472",
+        "name": "ella",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832490450382430208/dIyQP8g8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5181,
+          "following_count": 131,
+          "like_count": 1643,
+          "listed_count": 11,
+          "media_count": 118,
+          "tweet_count": 325
+        },
+        "username": "cruellademode",
+        "verified": true
+      }
+    ]
+  }
+}

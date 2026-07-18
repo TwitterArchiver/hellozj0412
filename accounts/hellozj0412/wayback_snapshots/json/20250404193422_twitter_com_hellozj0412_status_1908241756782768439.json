@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1908241756782768439",
+    "created_at": "2025-04-04T19:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T20:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908241756782768439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1749848735436427265",
+          "start": 3,
+          "username": "pipi98426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908241756782768439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908194618891489299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pipi98426: 最讨厌的是隔着屏幕安慰人，如果在你身边我要和你躺在温暖的小床里，静静的抱着你，点开你最喜欢的歌，旁边的桌子上要放着很喜欢喝的奶茶，但隔着屏幕安慰人是我最不想做的事情，我认为起不到作用而且我也不擅长，觉得我既无能又尴尬."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1908241756782768439",
+        "created_at": "2025-04-04T19:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T20:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908241756782768439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1749848735436427265",
+              "start": 3,
+              "username": "pipi98426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908241756782768439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908194618891489299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pipi98426: 最讨厌的是隔着屏幕安慰人，如果在你身边我要和你躺在温暖的小床里，静静的抱着你，点开你最喜欢的歌，旁边的桌子上要放着很喜欢喝的奶茶，但隔着屏幕安慰人是我最不想做的事情，我认为起不到作用而且我也不擅长，觉得我既无能又尴尬."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749848735436427265",
+        "conversation_id": "1908194618891489299",
+        "created_at": "2025-04-04T16:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T17:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908194618891489299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908194618891489299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3117,
+          "like_count": 100,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "最讨厌的是隔着屏幕安慰人，如果在你身边我要和你躺在温暖的小床里，静静的抱着你，点开你最喜欢的歌，旁边的桌子上要放着很喜欢喝的奶茶，但隔着屏幕安慰人是我最不想做的事情，我认为起不到作用而且我也不擅长，觉得我既无能又尴尬."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 82,
+          "like_count": 2298,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 949
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "我承认我说话无聊还爱卖点烂萌｜橙子皮总会有一天被扔进垃圾桶｜大家好，或许我是一只洗娃娃～",
+        "id": "1749848735436427265",
+        "location": "🥣",
+        "name": "橙子皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908212054902575104/Tag2ms3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 420,
+          "like_count": 98215,
+          "listed_count": 9,
+          "media_count": 251,
+          "tweet_count": 10111
+        },
+        "username": "pipi98426",
+        "verified": false
+      }
+    ]
+  }
+}

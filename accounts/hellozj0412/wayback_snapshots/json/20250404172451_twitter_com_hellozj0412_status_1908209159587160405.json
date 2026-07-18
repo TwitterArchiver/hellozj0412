@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1908096835492917378",
+    "created_at": "2025-04-04T17:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T18:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908209159587160405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1531200287733473280",
+          "start": 0,
+          "username": "PharosTheatre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908209159587160405",
+    "in_reply_to_user_id": "1531200287733473280",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908096835492917378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PharosTheatre B😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_1908096822943641600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnrr83CbcAARrtg.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1908096835492917378",
+        "created_at": "2025-04-04T17:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T18:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908209159587160405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1531200287733473280",
+              "start": 0,
+              "username": "PharosTheatre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908209159587160405",
+        "in_reply_to_user_id": "1531200287733473280",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908096835492917378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PharosTheatre B😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908096822943641600"
+          ]
+        },
+        "author_id": "1531200287733473280",
+        "conversation_id": "1908096835492917378",
+        "created_at": "2025-04-04T09:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T10:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908096835492917378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRhZyFq7tH",
+              "end": 30,
+              "expanded_url": "https://x.com/PharosTheatre/status/1908096835492917378/photo/1",
+              "media_key": "3_1908096822943641600",
+              "start": 7,
+              "url": "https://t.co/GRhZyFq7tH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908096835492917378",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 57612,
+          "like_count": 779,
+          "quote_count": 20,
+          "reply_count": 66,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "A or B https://t.co/GRhZyFq7tH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 82,
+          "like_count": 2289,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 946
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T09:06:23.000Z",
+        "description": "Female／无属性写文机器／定制文90每千字／什么都写/ 任何需求请私信／不能回复为推广请自辨（吃完饭会好好回馈大家）",
+        "id": "1531200287733473280",
+        "location": "西風漂流帶",
+        "name": "灯塔Theatre",
+        "pinned_tweet_id": "1894658079578640502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876687975905693696/5_Kzm9R3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42852,
+          "following_count": 286,
+          "like_count": 108,
+          "listed_count": 68,
+          "media_count": 44,
+          "tweet_count": 679
+        },
+        "username": "PharosTheatre",
+        "verified": false
+      }
+    ]
+  }
+}

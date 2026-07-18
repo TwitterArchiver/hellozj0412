@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953469609140531200"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1953469725402419685",
+    "created_at": "2025-08-07T14:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T15:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953469725402419685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eCv4vIqw08",
+          "end": 142,
+          "expanded_url": "https://x.com/hellozj0412/status/1953469725402419685/photo/1",
+          "media_key": "3_1953469609140531200",
+          "start": 119,
+          "url": "https://t.co/eCv4vIqw08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953469725402419685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 11,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟同事下班一起吃饭完再一起坐地铁，开了几站到底站..听见“请全体乘客下车”才反应过来坐反了…我看错了ta也没看就直接跟我上车了，更好笑的是，ta下车转线的时候又坐反了哈哈哈哈哈哈哈\n又因为事情很好笑想多分享几个朋友，结果被抓包更是好笑😄 https://t.co/eCv4vIqw08"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1050,
+        "media_key": "3_1953469609140531200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxweQnRXsAA-ag4.jpg",
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953469609140531200"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1953469725402419685",
+        "created_at": "2025-08-07T14:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953469725402419685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCv4vIqw08",
+              "end": 142,
+              "expanded_url": "https://x.com/hellozj0412/status/1953469725402419685/photo/1",
+              "media_key": "3_1953469609140531200",
+              "start": 119,
+              "url": "https://t.co/eCv4vIqw08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953469725402419685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟同事下班一起吃饭完再一起坐地铁，开了几站到底站..听见“请全体乘客下车”才反应过来坐反了…我看错了ta也没看就直接跟我上车了，更好笑的是，ta下车转线的时候又坐反了哈哈哈哈哈哈哈\n又因为事情很好笑想多分享几个朋友，结果被抓包更是好笑😄 https://t.co/eCv4vIqw08"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 120,
+          "like_count": 5123,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1693
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

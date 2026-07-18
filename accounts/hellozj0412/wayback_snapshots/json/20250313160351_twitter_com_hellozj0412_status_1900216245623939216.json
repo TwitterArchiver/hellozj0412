@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1896938080751464516",
+    "created_at": "2025-03-13T16:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T17:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900216245623939216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711300401054752768",
+          "start": 0,
+          "username": "CcloveLevi"
+        },
+        {
+          "end": 21,
+          "id": "1771513890138132480",
+          "start": 12,
+          "username": "xshu3064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900216245623939216",
+    "in_reply_to_user_id": "1711300401054752768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897167183383515155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CcloveLevi @xshu3064 我需要贴近人的肌肤来汲取能量🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1896938080751464516",
+        "created_at": "2025-03-13T16:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T17:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900216245623939216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711300401054752768",
+              "start": 0,
+              "username": "CcloveLevi"
+            },
+            {
+              "end": 21,
+              "id": "1771513890138132480",
+              "start": 12,
+              "username": "xshu3064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900216245623939216",
+        "in_reply_to_user_id": "1711300401054752768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897167183383515155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CcloveLevi @xshu3064 我需要贴近人的肌肤来汲取能量🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711300401054752768",
+        "conversation_id": "1896938080751464516",
+        "created_at": "2025-03-05T06:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T07:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897167183383515155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771513890138132480",
+              "start": 0,
+              "username": "xshu3064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897167183383515155",
+        "in_reply_to_user_id": "1771513890138132480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 20478,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896938080751464516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xshu3064 确实是，而且还想约素炮，就是抱在一起睡觉贴贴那样，但是又怕忍不住而且也会担心对方会不会带病什么的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 76,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 578
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T08:39:54.000Z",
+        "description": "",
+        "id": "1711300401054752768",
+        "name": "Levi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895801128702611456/KlV0vo7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 15,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 22
+        },
+        "username": "CcloveLevi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T12:26:49.000Z",
+        "description": "不线下｜不闲聊｜不接广｜不出原味 备用@xyy3064",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "xyy3064"
+              }
+            ]
+          }
+        },
+        "id": "1771513890138132480",
+        "location": "嘘寒问暖不如打笔巨款🚪211",
+        "name": "湫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772665243774464000/eITTTB3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17357,
+          "following_count": 53,
+          "like_count": 61,
+          "listed_count": 26,
+          "media_count": 139,
+          "tweet_count": 2762
+        },
+        "username": "xshu3064",
+        "verified": false
+      }
+    ]
+  }
+}

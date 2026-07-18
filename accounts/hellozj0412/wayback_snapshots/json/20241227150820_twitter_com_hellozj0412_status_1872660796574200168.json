@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1872563775620211030",
+    "created_at": "2024-12-27T15:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T16:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872660796574200168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1364579426793521157",
+          "start": 0,
+          "username": "winkovo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872660796574200168",
+    "in_reply_to_user_id": "1364579426793521157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872563775620211030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winkovo1 被安慰到了，明天立马开始写论文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1872563775620211030",
+        "created_at": "2024-12-27T15:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T16:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872660796574200168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1364579426793521157",
+              "start": 0,
+              "username": "winkovo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872660796574200168",
+        "in_reply_to_user_id": "1364579426793521157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872563775620211030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winkovo1 被安慰到了，明天立马开始写论文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364579426793521157",
+        "conversation_id": "1872563775620211030",
+        "created_at": "2024-12-27T08:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T09:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872563775620211030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872563775620211030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3925,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你会焦虑是因为你有完成这件事的实力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 63,
+          "like_count": 1162,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 374
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-24T14:14:28.000Z",
+        "description": "男同退散//悲观者永远正确 乐观者永远前行",
+        "id": "1364579426793521157",
+        "location": "江苏",
+        "name": "winkovo",
+        "pinned_tweet_id": "1867061540219916324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410910732502200320/nyaB94yx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33743,
+          "following_count": 49,
+          "like_count": 247,
+          "listed_count": 68,
+          "media_count": 60,
+          "tweet_count": 152
+        },
+        "username": "winkovo1",
+        "verified": false
+      }
+    ]
+  }
+}

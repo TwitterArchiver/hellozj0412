@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1869360845404479601",
+    "created_at": "2024-12-19T12:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T13:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869729075251818773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1737692559634501632",
+          "start": 0,
+          "username": "S__kun_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869729075251818773",
+    "in_reply_to_user_id": "1737692559634501632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869360845404479601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S__kun_2 喜欢😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1869360845404479601",
+        "created_at": "2024-12-19T12:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T13:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869729075251818773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1737692559634501632",
+              "start": 0,
+              "username": "S__kun_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869729075251818773",
+        "in_reply_to_user_id": "1737692559634501632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869360845404479601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S__kun_2 喜欢😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869360839570202624"
+          ]
+        },
+        "author_id": "1737692559634501632",
+        "conversation_id": "1869360845404479601",
+        "created_at": "2024-12-18T12:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T13:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869360845404479601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNy916HkFy",
+              "end": 30,
+              "expanded_url": "https://x.com/S__kun_2/status/1869360845404479601/photo/1",
+              "media_key": "3_1869360839570202624",
+              "start": 7,
+              "url": "https://t.co/CNy916HkFy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869360845404479601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 25627,
+          "like_count": 929,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "仕事終わり。 https://t.co/CNy916HkFy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 73,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 248
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T04:33:03.000Z",
+        "description": "日常と筋トレ。INFJ-A 。他の垢@S__kun_1｜@s_7tpy ファンマーク🍯 ただいま増量中。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "S__kun_1"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "username": "s_7tpy"
+              }
+            ]
+          }
+        },
+        "id": "1737692559634501632",
+        "location": "名古屋",
+        "name": "えす",
+        "pinned_tweet_id": "1862835766864519307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737694965831249920/CRIPME6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15929,
+          "following_count": 402,
+          "like_count": 11815,
+          "listed_count": 55,
+          "media_count": 248,
+          "tweet_count": 1663
+        },
+        "username": "S__kun_2",
+        "verified": false
+      }
+    ]
+  }
+}

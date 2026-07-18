@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929461505851871232",
+        "3_1929461505952456704",
+        "3_1929461505910550528",
+        "3_1929461505881153536"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1929461669626851501",
+    "created_at": "2025-06-02T08:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T09:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929461669626851501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B6EPjS92Pm",
+          "end": 30,
+          "expanded_url": "https://x.com/hellozj0412/status/1929461669626851501/photo/1",
+          "media_key": "3_1929461505851871232",
+          "start": 7,
+          "url": "https://t.co/B6EPjS92Pm"
+        },
+        {
+          "display_url": "pic.x.com/B6EPjS92Pm",
+          "end": 30,
+          "expanded_url": "https://x.com/hellozj0412/status/1929461669626851501/photo/1",
+          "media_key": "3_1929461505952456704",
+          "start": 7,
+          "url": "https://t.co/B6EPjS92Pm"
+        },
+        {
+          "display_url": "pic.x.com/B6EPjS92Pm",
+          "end": 30,
+          "expanded_url": "https://x.com/hellozj0412/status/1929461669626851501/photo/1",
+          "media_key": "3_1929461505910550528",
+          "start": 7,
+          "url": "https://t.co/B6EPjS92Pm"
+        },
+        {
+          "display_url": "pic.x.com/B6EPjS92Pm",
+          "end": 30,
+          "expanded_url": "https://x.com/hellozj0412/status/1929461669626851501/photo/1",
+          "media_key": "3_1929461505881153536",
+          "start": 7,
+          "url": "https://t.co/B6EPjS92Pm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929461669626851501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "店好，电脑坏 https://t.co/B6EPjS92Pm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929461505851871232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsbTBFAXUAAsJ-T.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929461505952456704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsbTBFYWIAAMYuh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929461505910550528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsbTBFOWsAAdvjd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929461505881153536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsbTBFHWIAAJZ21.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929461505851871232",
+            "3_1929461505952456704",
+            "3_1929461505910550528",
+            "3_1929461505881153536"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1929461669626851501",
+        "created_at": "2025-06-02T08:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T09:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929461669626851501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6EPjS92Pm",
+              "end": 30,
+              "expanded_url": "https://x.com/hellozj0412/status/1929461669626851501/photo/1",
+              "media_key": "3_1929461505851871232",
+              "start": 7,
+              "url": "https://t.co/B6EPjS92Pm"
+            },
+            {
+              "display_url": "pic.x.com/B6EPjS92Pm",
+              "end": 30,
+              "expanded_url": "https://x.com/hellozj0412/status/1929461669626851501/photo/1",
+              "media_key": "3_1929461505952456704",
+              "start": 7,
+              "url": "https://t.co/B6EPjS92Pm"
+            },
+            {
+              "display_url": "pic.x.com/B6EPjS92Pm",
+              "end": 30,
+              "expanded_url": "https://x.com/hellozj0412/status/1929461669626851501/photo/1",
+              "media_key": "3_1929461505910550528",
+              "start": 7,
+              "url": "https://t.co/B6EPjS92Pm"
+            },
+            {
+              "display_url": "pic.x.com/B6EPjS92Pm",
+              "end": 30,
+              "expanded_url": "https://x.com/hellozj0412/status/1929461669626851501/photo/1",
+              "media_key": "3_1929461505881153536",
+              "start": 7,
+              "url": "https://t.co/B6EPjS92Pm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929461669626851501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "店好，电脑坏 https://t.co/B6EPjS92Pm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 101,
+          "like_count": 4043,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1289
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

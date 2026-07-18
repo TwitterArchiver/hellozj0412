@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1869266352357376222",
+    "created_at": "2024-12-18T06:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T07:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869266352357376222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tweetsofhamste…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/tweetsofhamster/status/1869009743618216433",
+          "start": 8,
+          "url": "https://t.co/cdwVEeZk6o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869266352357376222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869009743618216433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊噜噜噜噜噜噜 https://t.co/cdwVEeZk6o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1869266352357376222",
+        "created_at": "2024-12-18T06:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T07:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869266352357376222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tweetsofhamste…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/tweetsofhamster/status/1869009743618216433",
+              "start": 8,
+              "url": "https://t.co/cdwVEeZk6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869266352357376222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869009743618216433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊噜噜噜噜噜噜 https://t.co/cdwVEeZk6o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869009740644466690"
+          ]
+        },
+        "author_id": "1756337790760124416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1869009743618216433",
+        "created_at": "2024-12-17T13:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T14:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869009743618216433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6otT0fyEsj",
+              "end": 23,
+              "expanded_url": "https://x.com/TweetsOfHamster/status/1869009743618216433/photo/1",
+              "media_key": "3_1869009740644466690",
+              "start": 0,
+              "url": "https://t.co/6otT0fyEsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869009743618216433",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 910,
+          "impression_count": 514604,
+          "like_count": 25437,
+          "quote_count": 126,
+          "reply_count": 35,
+          "retweet_count": 4050
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6otT0fyEsj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 71,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 223
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T15:22:51.000Z",
+        "description": "Tweeting all things mouse hamster!🐹",
+        "id": "1756337790760124416",
+        "location": "United Kingdom ",
+        "name": "Tweets Of Hamster 🐹",
+        "pinned_tweet_id": "1868619791323541956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768229299541422080/t3Igood1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36962,
+          "following_count": 2885,
+          "like_count": 11704,
+          "listed_count": 133,
+          "media_count": 5286,
+          "tweet_count": 6895
+        },
+        "username": "TweetsOfHamster",
+        "verified": true
+      }
+    ]
+  }
+}

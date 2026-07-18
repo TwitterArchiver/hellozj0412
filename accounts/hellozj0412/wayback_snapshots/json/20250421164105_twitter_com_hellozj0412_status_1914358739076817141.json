@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1914313756471115981",
+    "created_at": "2025-04-21T16:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T17:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914358739076817141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1761489717152129024",
+          "start": 0,
+          "username": "33oh22"
+        },
+        {
+          "end": 20,
+          "id": "1797999894004928512",
+          "start": 8,
+          "username": "WuZong82055"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914358739076817141",
+    "in_reply_to_user_id": "1761489717152129024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914314095018545430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@33oh22 @WuZong82055 我笑晕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1914313756471115981",
+        "created_at": "2025-04-21T16:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T17:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914358739076817141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1761489717152129024",
+              "start": 0,
+              "username": "33oh22"
+            },
+            {
+              "end": 20,
+              "id": "1797999894004928512",
+              "start": 8,
+              "username": "WuZong82055"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914358739076817141",
+        "in_reply_to_user_id": "1761489717152129024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914314095018545430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@33oh22 @WuZong82055 我笑晕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761489717152129024",
+        "conversation_id": "1914313756471115981",
+        "created_at": "2025-04-21T13:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T14:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914314095018545430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797999894004928512",
+              "start": 0,
+              "username": "WuZong82055"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914314095018545430",
+        "in_reply_to_user_id": "1797999894004928512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 611,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914313756471115981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WuZong82055 泽老师：“叫爸爸”\n“爸爸的爸爸叫爷爷……”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 86,
+          "like_count": 2797,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 917
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T20:34:34.000Z",
+        "description": "🛴 变态宝宝 几把猫猫  泛性恋 什么都吃 属性m/brat 不喜欢被狗塑 ddlg是好文明",
+        "id": "1761489717152129024",
+        "location": "Central Region, Singapore",
+        "name": "面包师33oh22",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906773301978165248/4pvHM_3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 277,
+          "like_count": 4055,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 182
+        },
+        "username": "33oh22",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T14:32:45.000Z",
+        "description": "励志成为听得见艹不着的男喘产粮大户|目标是粉丝10w+ |ENFJ |私信没回不代表没看|喜欢吃完菜会关注和留言的宝贝|匿名https://t.co/d2fBh3ia4r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wuzong82055",
+                "end": 85,
+                "expanded_url": "https://ngl.link/wuzong82055",
+                "start": 62,
+                "url": "https://t.co/d2fBh3ia4r"
+              }
+            ]
+          }
+        },
+        "id": "1797999894004928512",
+        "name": "泽",
+        "pinned_tweet_id": "1911047613144830424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798385059894075393/FNiPSN0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10515,
+          "following_count": 21,
+          "like_count": 1866,
+          "listed_count": 21,
+          "media_count": 72,
+          "tweet_count": 185
+        },
+        "username": "WuZong82055",
+        "verified": false
+      }
+    ]
+  }
+}

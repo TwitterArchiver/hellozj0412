@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881662683092754432"
+      ],
+      "media_source_tweet_id": [
+        "1881662687513592156"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1896546585108214069",
+    "created_at": "2025-03-03T13:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T14:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896546585108214069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1848987101230178304",
+          "start": 3,
+          "username": "shitsuhito"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/piCQZhbaTe",
+          "end": 39,
+          "expanded_url": "https://x.com/shitsuhito/status/1881662687513592156/photo/1",
+          "media_key": "3_1881662683092754432",
+          "start": 16,
+          "url": "https://t.co/piCQZhbaTe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896546585108214069",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 239
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881662687513592156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shitsuhito: https://t.co/piCQZhbaTe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1881662683092754432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh0CPaTaIAAha4p.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881662683092754432"
+          ],
+          "media_source_tweet_id": [
+            "1881662687513592156"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1896546585108214069",
+        "created_at": "2025-03-03T13:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T14:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896546585108214069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1848987101230178304",
+              "start": 3,
+              "username": "shitsuhito"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/piCQZhbaTe",
+              "end": 39,
+              "expanded_url": "https://x.com/shitsuhito/status/1881662687513592156/photo/1",
+              "media_key": "3_1881662683092754432",
+              "start": 16,
+              "url": "https://t.co/piCQZhbaTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896546585108214069",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 239
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881662687513592156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shitsuhito: https://t.co/piCQZhbaTe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881662683092754432"
+          ]
+        },
+        "author_id": "1848987101230178304",
+        "conversation_id": "1881662687513592156",
+        "created_at": "2025-01-21T11:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T12:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881662687513592156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/piCQZhbaTe",
+              "end": 23,
+              "expanded_url": "https://x.com/shitsuhito/status/1881662687513592156/photo/1",
+              "media_key": "3_1881662683092754432",
+              "start": 0,
+              "url": "https://t.co/piCQZhbaTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881662687513592156",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 37469,
+          "like_count": 4017,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 239
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/piCQZhbaTe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 69,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 517
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T07:17:43.000Z",
+        "description": "漫画準備中。https://t.co/YXqfYoKuNs／@421BL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 30,
+                "username": "421BL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/421info",
+                "end": 29,
+                "expanded_url": "https://lit.link/421info",
+                "start": 6,
+                "url": "https://t.co/YXqfYoKuNs"
+              }
+            ]
+          }
+        },
+        "id": "1848987101230178304",
+        "name": "漆一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892994818399248385/DC3W-gAG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10093,
+          "following_count": 29,
+          "like_count": 45,
+          "listed_count": 26,
+          "media_count": 34,
+          "tweet_count": 74
+        },
+        "username": "shitsuhito",
+        "verified": false
+      }
+    ]
+  }
+}

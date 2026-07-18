@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2067507510882480203",
+    "created_at": "2026-06-18T16:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067648017281462715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1108662571677044737",
+          "start": 0,
+          "username": "YuCheng_S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067648017281462715",
+    "in_reply_to_user_id": "1108662571677044737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067507510882480203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuCheng_S 我也好想瘦…..😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067507500849745921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFDHi6a0AEhyr_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2067507510882480203",
+        "created_at": "2026-06-18T16:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067648017281462715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1108662571677044737",
+              "start": 0,
+              "username": "YuCheng_S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067648017281462715",
+        "in_reply_to_user_id": "1108662571677044737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067507510882480203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuCheng_S 我也好想瘦…..😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067507500849745921"
+          ]
+        },
+        "author_id": "1108662571677044737",
+        "conversation_id": "2067507510882480203",
+        "created_at": "2026-06-18T07:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067507510882480203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/10kIDQOofK",
+              "end": 47,
+              "expanded_url": "https://x.com/YuCheng_S/status/2067507510882480203/photo/1",
+              "media_key": "3_2067507500849745921",
+              "start": 24,
+              "url": "https://t.co/10kIDQOofK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067507510882480203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1390,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特大好消息，瘦了15kg，可以重新面对自己了😬 https://t.co/10kIDQOofK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 122,
+          "like_count": 5277,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1878
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T09:32:09.000Z",
+        "description": "杭州／简单的变态。",
+        "id": "1108662571677044737",
+        "name": "驭懲",
+        "pinned_tweet_id": "1336619062093201409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1137996561294606336/VGOSs2ZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30462,
+          "following_count": 33,
+          "like_count": 86,
+          "listed_count": 160,
+          "media_count": 36,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "YuCheng_S",
+        "verified": false
+      }
+    ]
+  }
+}

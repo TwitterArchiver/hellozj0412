@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1869372934164529358",
+    "created_at": "2024-12-19T18:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T19:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869813818274332847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551038703262281729",
+          "start": 0,
+          "username": "kankanshifu1128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869813818274332847",
+    "in_reply_to_user_id": "1551038703262281729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869372934164529358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kankanshifu1128 那我的朋友们真的把我养的很差…🤧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1869372934164529358",
+        "created_at": "2024-12-19T18:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T19:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869813818274332847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551038703262281729",
+              "start": 0,
+              "username": "kankanshifu1128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869813818274332847",
+        "in_reply_to_user_id": "1551038703262281729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869372934164529358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kankanshifu1128 那我的朋友们真的把我养的很差…🤧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869372922512490496"
+          ]
+        },
+        "author_id": "1551038703262281729",
+        "conversation_id": "1869372934164529358",
+        "created_at": "2024-12-18T13:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T14:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869372934164529358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PAntDJskg",
+              "end": 48,
+              "expanded_url": "https://x.com/kankanshifu1128/status/1869372934164529358/photo/1",
+              "media_key": "3_1869372922512490496",
+              "start": 25,
+              "url": "https://t.co/4PAntDJskg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869372934164529358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们这种人就是这样的，莫名其妙就想给朋友花钱…… https://t.co/4PAntDJskg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 57,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 275
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T02:57:13.000Z",
+        "description": "（猫猫图都是我保存的网图，不是我养的小猫）",
+        "id": "1551038703262281729",
+        "name": "库库（沉迷小猫人机对话版）",
+        "pinned_tweet_id": "1856016262687797372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865050923128811520/FlPaya4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 202,
+          "like_count": 14603,
+          "listed_count": 29,
+          "media_count": 2385,
+          "tweet_count": 18999
+        },
+        "username": "kankanshifu1128",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902528485152976897",
+        "3_1902528485186572288"
+      ],
+      "media_source_tweet_id": [
+        "1902528499233239548",
+        "1902528499233239548"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1902653002449612861",
+    "created_at": "2025-03-20T09:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T10:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902653002449612861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1370968333583982592",
+          "start": 3,
+          "username": "xe0_xeo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u2wPvTy3zu",
+          "end": 50,
+          "expanded_url": "https://x.com/xe0_xeo/status/1902528499233239548/photo/1",
+          "media_key": "3_1902528485152976897",
+          "start": 27,
+          "url": "https://t.co/u2wPvTy3zu"
+        },
+        {
+          "display_url": "pic.x.com/u2wPvTy3zu",
+          "end": 50,
+          "expanded_url": "https://x.com/xe0_xeo/status/1902528499233239548/photo/1",
+          "media_key": "3_1902528485186572288",
+          "start": 27,
+          "url": "https://t.co/u2wPvTy3zu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902653002449612861",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 273
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902528499233239548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xe0_xeo: Takeshi Obata https://t.co/u2wPvTy3zu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1902528485152976897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmcjk8Sa8AEnx26.jpg",
+        "width": 1388
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1902528485186572288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmcjk8abkAAR2_N.jpg",
+        "width": 1494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902528485152976897",
+            "3_1902528485186572288"
+          ],
+          "media_source_tweet_id": [
+            "1902528499233239548",
+            "1902528499233239548"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1902653002449612861",
+        "created_at": "2025-03-20T09:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T10:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902653002449612861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1370968333583982592",
+              "start": 3,
+              "username": "xe0_xeo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2wPvTy3zu",
+              "end": 50,
+              "expanded_url": "https://x.com/xe0_xeo/status/1902528499233239548/photo/1",
+              "media_key": "3_1902528485152976897",
+              "start": 27,
+              "url": "https://t.co/u2wPvTy3zu"
+            },
+            {
+              "display_url": "pic.x.com/u2wPvTy3zu",
+              "end": 50,
+              "expanded_url": "https://x.com/xe0_xeo/status/1902528499233239548/photo/1",
+              "media_key": "3_1902528485186572288",
+              "start": 27,
+              "url": "https://t.co/u2wPvTy3zu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902653002449612861",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902528499233239548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xe0_xeo: Takeshi Obata https://t.co/u2wPvTy3zu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902528485152976897",
+            "3_1902528485186572288"
+          ]
+        },
+        "author_id": "1370968333583982592",
+        "conversation_id": "1902528499233239548",
+        "created_at": "2025-03-20T01:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T02:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902528499233239548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2wPvTy3zu",
+              "end": 37,
+              "expanded_url": "https://x.com/xe0_xeo/status/1902528499233239548/photo/1",
+              "media_key": "3_1902528485152976897",
+              "start": 14,
+              "url": "https://t.co/u2wPvTy3zu"
+            },
+            {
+              "display_url": "pic.x.com/u2wPvTy3zu",
+              "end": 37,
+              "expanded_url": "https://x.com/xe0_xeo/status/1902528499233239548/photo/1",
+              "media_key": "3_1902528485186572288",
+              "start": 14,
+              "url": "https://t.co/u2wPvTy3zu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902528499233239548",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 28235,
+          "like_count": 2283,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "Takeshi Obata https://t.co/u2wPvTy3zu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 82,
+          "like_count": 1766,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 709
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-14T05:21:42.000Z",
+        "description": "weltgeist // priv @xch1e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 18,
+                "username": "xch1e"
+              }
+            ]
+          }
+        },
+        "id": "1370968333583982592",
+        "location": "10.1.1.201",
+        "name": "Xeo ¯³",
+        "pinned_tweet_id": "1733955099641495952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886280322528215040/88_F-5IF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130500,
+          "following_count": 385,
+          "like_count": 16455,
+          "listed_count": 971,
+          "media_count": 6193,
+          "tweet_count": 11483
+        },
+        "username": "xe0_xeo",
+        "verified": false
+      }
+    ]
+  }
+}

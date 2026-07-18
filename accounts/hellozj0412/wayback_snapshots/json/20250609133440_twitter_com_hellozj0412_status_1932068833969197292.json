@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1932038627095441711",
+    "created_at": "2025-06-09T13:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T14:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932068833969197292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1906272106398314497",
+          "start": 0,
+          "username": "Naneee002"
+        },
+        {
+          "end": 21,
+          "id": "373172600",
+          "start": 11,
+          "username": "hmydggsmn"
+        },
+        {
+          "end": 35,
+          "id": "1547239678549495813",
+          "start": 22,
+          "username": "pretty594321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932068833969197292",
+    "in_reply_to_user_id": "1906272106398314497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932063131213390225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naneee002 @hmydggsmn @pretty594321 哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1932038627095441711",
+        "created_at": "2025-06-09T13:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932068833969197292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1906272106398314497",
+              "start": 0,
+              "username": "Naneee002"
+            },
+            {
+              "end": 21,
+              "id": "373172600",
+              "start": 11,
+              "username": "hmydggsmn"
+            },
+            {
+              "end": 35,
+              "id": "1547239678549495813",
+              "start": 22,
+              "username": "pretty594321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932068833969197292",
+        "in_reply_to_user_id": "1906272106398314497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932063131213390225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naneee002 @hmydggsmn @pretty594321 哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906272106398314497",
+        "conversation_id": "1932038627095441711",
+        "created_at": "2025-06-09T13:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932063131213390225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "373172600",
+              "start": 0,
+              "username": "hmydggsmn"
+            },
+            {
+              "end": 24,
+              "id": "1547239678549495813",
+              "start": 11,
+              "username": "pretty594321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932063131213390225",
+        "in_reply_to_user_id": "373172600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932039358003241224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hmydggsmn @pretty594321 巴掌果然使人进步"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 109,
+          "like_count": 4242,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1362
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T09:07:55.000Z",
+        "description": "喜欢小⭕️微大 brat ^_^ DDLG 爱碎碎念 可以叫我nn/小n 口令红包欢迎  ✉️欢迎 女宝互fo欢迎 匿名欢迎👉🏻https://t.co/bHG6WTy30I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naneee81513",
+                "end": 87,
+                "expanded_url": "https://ngl.link/naneee81513",
+                "start": 64,
+                "url": "https://t.co/bHG6WTy30I"
+              }
+            ]
+          }
+        },
+        "id": "1906272106398314497",
+        "location": "🚪88  📍20",
+        "name": "Naneee",
+        "pinned_tweet_id": "1929525121397457285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906272311197802496/CbJoAgGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 169,
+          "like_count": 1326,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 416
+        },
+        "username": "Naneee002",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-14T03:36:02.000Z",
+        "description": "Dom/S｜021｜187/85｜智性恋｜直的｜xp是Brat｜是个变态｜sp or sj｜无性｜不收不长期不1v1｜业余风光/野生动物摄影师｜实践记录以录音&文字为主｜分享自己喜欢的视频｜会不定时清粉｜不喜勿关/推止于推",
+        "id": "373172600",
+        "location": "宛平南路600号",
+        "name": "_卡斯特梅尔的雨季",
+        "pinned_tweet_id": "1909111478315282501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845474992433299457/OGblYZTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5474,
+          "following_count": 1757,
+          "like_count": 1326,
+          "listed_count": 4,
+          "media_count": 301,
+          "tweet_count": 1274
+        },
+        "username": "hmydggsmn",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T15:21:49.000Z",
+        "description": "一期一会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pretty594321",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pretty594321",
+                "start": 0,
+                "url": "https://t.co/bdXaUZ8u4d"
+              }
+            ]
+          }
+        },
+        "id": "1547239678549495813",
+        "location": "树洞之一",
+        "name": "薄荷巧克力",
+        "pinned_tweet_id": "1753486408290111544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842669399196782592/zjnIhb0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 104,
+          "like_count": 3908,
+          "listed_count": 2,
+          "media_count": 593,
+          "tweet_count": 5267
+        },
+        "url": "https://t.co/bdXaUZ8u4d",
+        "username": "pretty594321",
+        "verified": false
+      }
+    ]
+  }
+}

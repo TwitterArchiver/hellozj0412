@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1906765336621576497",
+    "created_at": "2025-04-01T06:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T07:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906955729681969528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1860721509024649216",
+          "start": 0,
+          "username": "imyuyuoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906955729681969528",
+    "in_reply_to_user_id": "1860721509024649216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906765336621576497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imyuyuoi 感觉肉都是香的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906765336621576497",
+        "created_at": "2025-04-01T06:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T07:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906955729681969528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1860721509024649216",
+              "start": 0,
+              "username": "imyuyuoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906955729681969528",
+        "in_reply_to_user_id": "1860721509024649216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906765336621576497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imyuyuoi 感觉肉都是香的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860721509024649216",
+        "conversation_id": "1906765336621576497",
+        "created_at": "2025-03-31T17:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906765336621576497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906765336621576497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2839,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢一个人就会情不自禁想咬他，我他妈啃啃啃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 82,
+          "like_count": 2180,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 893
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T16:26:03.000Z",
+        "description": "",
+        "id": "1860721509024649216",
+        "name": "yuyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860721773743943680/3Rx13Rvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 4,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 21
+        },
+        "username": "imyuyuoi",
+        "verified": false
+      }
+    ]
+  }
+}

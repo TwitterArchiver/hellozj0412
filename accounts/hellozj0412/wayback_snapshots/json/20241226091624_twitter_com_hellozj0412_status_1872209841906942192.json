@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1872192281765421192",
+    "created_at": "2024-12-26T09:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T10:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872209841906942192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1849385218198691840",
+          "start": 0,
+          "username": "yvlinling"
+        },
+        {
+          "end": 21,
+          "id": "1584061393543626752",
+          "start": 11,
+          "username": "hai_butsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872209841906942192",
+    "in_reply_to_user_id": "1849385218198691840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872208053153796475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvlinling @hai_butsu 意想不到的温柔呢😽"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1872208053153796475].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1872208053153796475",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1872208053153796475"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1872192281765421192",
+        "created_at": "2024-12-26T09:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T10:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872209841906942192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1849385218198691840",
+              "start": 0,
+              "username": "yvlinling"
+            },
+            {
+              "end": 21,
+              "id": "1584061393543626752",
+              "start": 11,
+              "username": "hai_butsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872209841906942192",
+        "in_reply_to_user_id": "1849385218198691840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872208053153796475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvlinling @hai_butsu 意想不到的温柔呢😽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 63,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 359
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T09:39:50.000Z",
+        "description": "男的。",
+        "id": "1849385218198691840",
+        "name": "雨霖铃",
+        "pinned_tweet_id": "1855167563585495050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871651014128152576/z3GRmBOl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 254,
+          "like_count": 22341,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 6946
+        },
+        "username": "yvlinling",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T05:57:34.000Z",
+        "description": "电子日记｜欢迎视奸｜评论区多互动领取回关｜可取用vpn https://t.co/KJlgSvJ6h6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "v.600mlwater.top/#/register?cod…",
+                "end": 51,
+                "expanded_url": "https://v.600mlwater.top/#/register?code=XrLLYjuo",
+                "start": 28,
+                "url": "https://t.co/KJlgSvJ6h6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hai_butsu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hai_butsu",
+                "start": 0,
+                "url": "https://t.co/vkMnCkNP33"
+              }
+            ]
+          }
+        },
+        "id": "1584061393543626752",
+        "location": "被子里",
+        "name": "廃物",
+        "pinned_tweet_id": "1870028284962230478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869774945125060608/58cy0E2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 89,
+          "like_count": 11524,
+          "listed_count": 1,
+          "media_count": 513,
+          "tweet_count": 4397
+        },
+        "url": "https://t.co/vkMnCkNP33",
+        "username": "hai_butsu",
+        "verified": false
+      }
+    ]
+  }
+}

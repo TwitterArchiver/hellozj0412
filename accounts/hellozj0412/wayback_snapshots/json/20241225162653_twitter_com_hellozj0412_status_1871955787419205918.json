@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1871955787419205918",
+    "created_at": "2024-12-25T16:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T17:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1871955787419205918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hypeboy_jurin/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/hypeboy_jurin/status/1871874434832961997",
+          "start": 11,
+          "url": "https://t.co/b5YtsTpmoI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871955787419205918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871874434832961997",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下辈子我要长这样😽😽 https://t.co/b5YtsTpmoI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1871955787419205918",
+        "created_at": "2024-12-25T16:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T17:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871955787419205918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hypeboy_jurin/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hypeboy_jurin/status/1871874434832961997",
+              "start": 11,
+              "url": "https://t.co/b5YtsTpmoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871955787419205918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871874434832961997",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下辈子我要长这样😽😽 https://t.co/b5YtsTpmoI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871874418525249537"
+          ]
+        },
+        "author_id": "1774533853006159872",
+        "conversation_id": "1871874434832961997",
+        "created_at": "2024-12-25T11:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T12:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871874434832961997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5V9LTM6dtg",
+              "end": 42,
+              "expanded_url": "https://x.com/Hypeboy_Jurin/status/1871874434832961997/photo/1",
+              "media_key": "3_1871874418525249537",
+              "start": 19,
+              "url": "https://t.co/5V9LTM6dtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871874434832961997",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 8888,
+          "like_count": 480,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "she's so pretty ✨🥺 https://t.co/5V9LTM6dtg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 63,
+          "like_count": 1093,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 350
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T20:27:22.000Z",
+        "description": "𝚡𝚐 𝚊𝚕𝚕 𝚝𝚑𝚎 𝚠𝚊𝚢 ♡̶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hypeboy_jurin/…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hypeboy_jurin/profilecard/?igsh=Mzg3MnY2em9xMjkx",
+                "start": 0,
+                "url": "https://t.co/TrDJkt9msa"
+              }
+            ]
+          }
+        },
+        "id": "1774533853006159872",
+        "name": "ΉYPΣBӨY",
+        "pinned_tweet_id": "1852407537355895146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861502609305092096/bQ4FFsGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5655,
+          "following_count": 1790,
+          "like_count": 132144,
+          "listed_count": 10,
+          "media_count": 3652,
+          "tweet_count": 15132
+        },
+        "url": "https://t.co/TrDJkt9msa",
+        "username": "Hypeboy_Jurin",
+        "verified": false
+      }
+    ]
+  }
+}

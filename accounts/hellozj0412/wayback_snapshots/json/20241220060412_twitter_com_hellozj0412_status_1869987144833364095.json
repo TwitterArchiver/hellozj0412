@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1869986367205454108",
+    "created_at": "2024-12-20T06:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T07:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869987144833364095"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1869987144833364095",
+    "in_reply_to_user_id": "1801298330624135170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869986367205454108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个人看病这辈子不可能了，从小到大最恐惧的就是去医院做检查排队拿药，控制不住的心跳加快，没人陪我我可以在家一直忍着😇，甚至会隐瞒病情直到我束手无策或者疼的不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1869986367205454108",
+        "created_at": "2024-12-20T06:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T07:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869987144833364095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869987144833364095",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869986367205454108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个人看病这辈子不可能了，从小到大最恐惧的就是去医院做检查排队拿药，控制不住的心跳加快，没人陪我我可以在家一直忍着😇，甚至会隐瞒病情直到我束手无策或者疼的不行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869986329754288128"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1869986367205454108",
+        "created_at": "2024-12-20T06:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T07:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869986367205454108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rtgg7ajYGY",
+              "end": 109,
+              "expanded_url": "https://x.com/hellozj0412/status/1869986367205454108/photo/1",
+              "media_key": "3_1869986329754288128",
+              "start": 86,
+              "url": "https://t.co/Rtgg7ajYGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869986367205454108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫明恋/基本上没啥好感的人对我展现出好感都会被我立马切断联系，所以没有一次被表白和拒绝别人表白的事情🫠，有时候想想还挺遗憾的，那种青涩的双向奔赴型校园恋爱终究是错过了 https://t.co/Rtgg7ajYGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 61,
+          "like_count": 930,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 283
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1869360442176581974",
+    "created_at": "2024-12-18T14:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T15:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869390181733896560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1848987101230178304",
+          "start": 0,
+          "username": "shitsuhito"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869390181733896560",
+    "in_reply_to_user_id": "1848987101230178304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869360442176581974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shitsuhito 不会是FaceTime视频通话吧，老师你小心遇到诈骗哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1869360442176581974",
+        "created_at": "2024-12-18T14:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T15:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869390181733896560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1848987101230178304",
+              "start": 0,
+              "username": "shitsuhito"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869390181733896560",
+        "in_reply_to_user_id": "1848987101230178304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869360442176581974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shitsuhito 不会是FaceTime视频通话吧，老师你小心遇到诈骗哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848987101230178304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1869360442176581974",
+        "created_at": "2024-12-18T12:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T13:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869360442176581974"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "iPhone",
+              "probability": 0.9531,
+              "start": 0,
+              "type": "Product"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869360442176581974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "iPhone開きっぱなしでポケットとか入れて勝手に電話かけてしまう現象初めて経験したけど怖すぎる......速攻で電話アプリをワンタップで開けないような場所に移動させた...ひぃひぃ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 73,
+          "like_count": 806,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 234
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T07:17:43.000Z",
+        "description": "一次創作。絵や漫画を描いていきます。https://t.co/A5A7BFVssX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/nid",
+                "end": 41,
+                "expanded_url": "https://lit.link/nid",
+                "start": 18,
+                "url": "https://t.co/A5A7BFVssX"
+              }
+            ]
+          }
+        },
+        "id": "1848987101230178304",
+        "name": "漆一",
+        "pinned_tweet_id": "1867510657639493998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859332235914301440/L4eBcMJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6077,
+          "following_count": 27,
+          "like_count": 21,
+          "listed_count": 8,
+          "media_count": 22,
+          "tweet_count": 62
+        },
+        "username": "shitsuhito",
+        "verified": false
+      }
+    ]
+  }
+}

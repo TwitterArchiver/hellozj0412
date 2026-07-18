@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1906598460872171830",
+    "created_at": "2025-03-31T06:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T07:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906598460872171830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gsldolls/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/gsldolls/status/1906235455089074412",
+          "start": 5,
+          "url": "https://t.co/zos2xjq2Mj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906598460872171830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906235455089074412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈…. https://t.co/zos2xjq2Mj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906235445362454528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnRPCbMWcAARDec.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1906598460872171830",
+        "created_at": "2025-03-31T06:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T07:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906598460872171830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gsldolls/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/gsldolls/status/1906235455089074412",
+              "start": 5,
+              "url": "https://t.co/zos2xjq2Mj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906598460872171830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906235455089074412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈…. https://t.co/zos2xjq2Mj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906235445362454528"
+          ]
+        },
+        "author_id": "1612868820536000513",
+        "conversation_id": "1906235455089074412",
+        "created_at": "2025-03-30T06:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T07:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906235455089074412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhJavnCgM6",
+              "end": 30,
+              "expanded_url": "https://x.com/gsldolls/status/1906235455089074412/photo/1",
+              "media_key": "3_1906235445362454528",
+              "start": 7,
+              "url": "https://t.co/DhJavnCgM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906235455089074412",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1001,
+          "impression_count": 272114,
+          "like_count": 28730,
+          "quote_count": 143,
+          "reply_count": 13,
+          "retweet_count": 5800
+        },
+        "reply_settings": "everyone",
+        "text": "insane https://t.co/DhJavnCgM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879204406161219584/Mn9atGXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 81,
+          "like_count": 2153,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 874
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T17:47:56.000Z",
+        "description": "harajuku barbie",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/itgrls",
+                "end": 23,
+                "expanded_url": "https://rentry.co/itgrls",
+                "start": 0,
+                "url": "https://t.co/YHP4ohZOXR"
+              }
+            ]
+          }
+        },
+        "id": "1612868820536000513",
+        "location": "☆ ",
+        "name": "َ",
+        "pinned_tweet_id": "1884246226075541980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906512786257235968/tHtORw1X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4067,
+          "following_count": 213,
+          "like_count": 33421,
+          "listed_count": 33,
+          "media_count": 1152,
+          "tweet_count": 5560
+        },
+        "url": "https://t.co/YHP4ohZOXR",
+        "username": "gsldolls",
+        "verified": true
+      }
+    ]
+  }
+}

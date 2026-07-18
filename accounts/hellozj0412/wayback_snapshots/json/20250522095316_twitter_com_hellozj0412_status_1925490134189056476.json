@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925232976193101825"
+      ],
+      "media_source_tweet_id": [
+        "1925233080316698976"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "conversation_id": "1925490134189056476",
+    "created_at": "2025-05-22T09:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T10:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925490134189056476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1054765308206960641",
+          "start": 3,
+          "username": "hitrisisters"
+        },
+        {
+          "end": 44,
+          "id": "890209122272129024",
+          "start": 33,
+          "username": "LastoMondo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p9YV9Z7Gzi",
+          "end": 68,
+          "expanded_url": "https://x.com/hitrisisters/status/1925233080316698976/photo/1",
+          "media_key": "3_1925232976193101825",
+          "start": 45,
+          "url": "https://t.co/p9YV9Z7Gzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925490134189056476",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 220
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925233080316698976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hitrisisters: commission for @LastoMondo https://t.co/p9YV9Z7Gzi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3347,
+        "media_key": "3_1925232976193101825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrfNMQfboAEZ9kq.jpg",
+        "width": 2637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925232976193101825"
+          ],
+          "media_source_tweet_id": [
+            "1925233080316698976"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "conversation_id": "1925490134189056476",
+        "created_at": "2025-05-22T09:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T10:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925490134189056476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1054765308206960641",
+              "start": 3,
+              "username": "hitrisisters"
+            },
+            {
+              "end": 44,
+              "id": "890209122272129024",
+              "start": 33,
+              "username": "LastoMondo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9YV9Z7Gzi",
+              "end": 68,
+              "expanded_url": "https://x.com/hitrisisters/status/1925233080316698976/photo/1",
+              "media_key": "3_1925232976193101825",
+              "start": 45,
+              "url": "https://t.co/p9YV9Z7Gzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925490134189056476",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 220
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925233080316698976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hitrisisters: commission for @LastoMondo https://t.co/p9YV9Z7Gzi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925232976193101825"
+          ]
+        },
+        "author_id": "1054765308206960641",
+        "conversation_id": "1925233080316698976",
+        "created_at": "2025-05-21T16:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T17:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925233080316698976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "890209122272129024",
+              "start": 15,
+              "username": "LastoMondo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9YV9Z7Gzi",
+              "end": 50,
+              "expanded_url": "https://x.com/hitrisisters/status/1925233080316698976/photo/1",
+              "media_key": "3_1925232976193101825",
+              "start": 27,
+              "url": "https://t.co/p9YV9Z7Gzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925233080316698976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 20043,
+          "like_count": 2073,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "commission for @LastoMondo https://t.co/p9YV9Z7Gzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 100,
+          "like_count": 3848,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1197
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-23T16:03:40.000Z",
+        "description": "dm for commission",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Marolan",
+                "end": 23,
+                "expanded_url": "http://patreon.com/Marolan",
+                "start": 0,
+                "url": "https://t.co/NWzs8bfOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1054765308206960641",
+        "name": "Julija",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860132250060488705/psB2aPnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8270,
+          "following_count": 1411,
+          "like_count": 4111,
+          "listed_count": 55,
+          "media_count": 139,
+          "tweet_count": 220
+        },
+        "url": "https://t.co/NWzs8bfOxJ",
+        "username": "hitrisisters",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-26T13:56:08.000Z",
+        "description": "shit I don't know",
+        "id": "890209122272129024",
+        "name": "Mond",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925003468781043712/GuDWuOs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 379,
+          "like_count": 23233,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 41
+        },
+        "username": "LastoMondo",
+        "verified": false
+      }
+    ]
+  }
+}

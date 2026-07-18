@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1913265129023848723",
+    "created_at": "2025-04-18T17:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T18:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913283014005493844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1853087949359058944",
+          "start": 0,
+          "username": "xizhou_03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913283014005493844",
+    "in_reply_to_user_id": "1853087949359058944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913265129023848723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xizhou_03 姐姐你真的好会写🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1913265129023848723",
+        "created_at": "2025-04-18T17:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T18:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913283014005493844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1853087949359058944",
+              "start": 0,
+              "username": "xizhou_03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913283014005493844",
+        "in_reply_to_user_id": "1853087949359058944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913265129023848723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xizhou_03 姐姐你真的好会写🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853087949359058944",
+        "conversation_id": "1913265129023848723",
+        "created_at": "2025-04-18T16:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T17:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913265129023848723"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "les"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913265129023848723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 949,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#les 其实你是聪明的。大部分的理智时刻，你清楚我热爱使用问句，是在诱导你讲出我想要的答案。你也比谁都知道，我在床上随口聊的所有色情场景预设都会实现，但那些关于你身体反应的细节描述仍然不可抑制地带来耻感。我猜你也在这样情绪博弈的对峙中感到愉悦对吗？忍不住脸红是你又流水的前情提要吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 85,
+          "like_count": 2668,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 876
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T14:53:07.000Z",
+        "description": "摄影师 / le / dom1 / 📪：https://t.co/8uTuHMIjnK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xizhou_",
+                "end": 43,
+                "expanded_url": "https://ngl.link/xizhou_",
+                "start": 20,
+                "url": "https://t.co/8uTuHMIjnK"
+              }
+            ]
+          }
+        },
+        "id": "1853087949359058944",
+        "name": "燕西洲",
+        "pinned_tweet_id": "1909809941264875585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905700366668513280/LFkDX-mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 15,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 124
+        },
+        "username": "xizhou_03",
+        "verified": false
+      }
+    ]
+  }
+}

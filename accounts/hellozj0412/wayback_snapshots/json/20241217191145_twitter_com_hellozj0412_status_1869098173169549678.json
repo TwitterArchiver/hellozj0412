@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "1869098173169549678",
+    "created_at": "2024-12-17T19:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T20:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869098173169549678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tuukzs/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/tuukzs/status/1868315992654512241",
+          "start": 8,
+          "url": "https://t.co/xrRF1TvMec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869098173169549678",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868315992654512241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wowwww🪄 https://t.co/xrRF1TvMec"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "1869098173169549678",
+        "created_at": "2024-12-17T19:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T20:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869098173169549678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tuukzs/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/tuukzs/status/1868315992654512241",
+              "start": 8,
+              "url": "https://t.co/xrRF1TvMec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869098173169549678",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868315992654512241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wowwww🪄 https://t.co/xrRF1TvMec"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868315985645584384"
+          ]
+        },
+        "author_id": "1399492734713487360",
+        "conversation_id": "1868315992654512241",
+        "created_at": "2024-12-15T15:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T16:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868315992654512241"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Decision",
+              "probability": 0.6018,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 19,
+              "normalized_text": "Destiny",
+              "probability": 0.4314,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jnYBQ2j60f",
+              "end": 44,
+              "expanded_url": "https://x.com/tuukzs/status/1868315992654512241/photo/1",
+              "media_key": "3_1868315985645584384",
+              "start": 21,
+              "url": "https://t.co/jnYBQ2j60f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868315992654512241",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 48914,
+          "like_count": 2067,
+          "quote_count": 5,
+          "reply_count": 25,
+          "retweet_count": 318
+        },
+        "reply_settings": "everyone",
+        "text": "Decision And Destiny https://t.co/jnYBQ2j60f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "sadpp",
+        "pinned_tweet_id": "1867250299959697498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010581597925376/qXtWP0ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 67,
+          "like_count": 731,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 217
+        },
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T22:27:31.000Z",
+        "description": "Mystical Practitioner. The art of divination using cards. I guide spirits. https://t.co/fr2SFBEQ0V @SpellcasterArt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "SpellcasterArt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "SuperRare.com/tuukzs",
+                "end": 98,
+                "expanded_url": "http://SuperRare.com/tuukzs",
+                "start": 75,
+                "url": "https://t.co/fr2SFBEQ0V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/tuukz",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/tuukz",
+                "start": 0,
+                "url": "https://t.co/FdwsuqSrzY"
+              }
+            ]
+          }
+        },
+        "id": "1399492734713487360",
+        "location": "㊙️",
+        "name": "✨✨✨",
+        "pinned_tweet_id": "1869019318077518029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868520149239644162/TvSr53ss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46892,
+          "following_count": 2807,
+          "like_count": 536741,
+          "listed_count": 441,
+          "media_count": 10905,
+          "tweet_count": 113430
+        },
+        "url": "https://t.co/FdwsuqSrzY",
+        "username": "tuukzs",
+        "verified": false
+      }
+    ]
+  }
+}

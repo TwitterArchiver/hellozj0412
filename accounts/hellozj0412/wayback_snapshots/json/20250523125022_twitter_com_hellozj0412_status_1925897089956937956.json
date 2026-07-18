@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925897073511010304",
+        "3_1925897073523646464",
+        "3_1925897073443926016",
+        "3_1925897073477525504"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1925897089956937956",
+    "created_at": "2025-05-23T12:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T13:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925897089956937956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zP8C1iH5Pn",
+          "end": 47,
+          "expanded_url": "https://x.com/hellozj0412/status/1925897089956937956/photo/1",
+          "media_key": "3_1925897073511010304",
+          "start": 24,
+          "url": "https://t.co/zP8C1iH5Pn"
+        },
+        {
+          "display_url": "pic.x.com/zP8C1iH5Pn",
+          "end": 47,
+          "expanded_url": "https://x.com/hellozj0412/status/1925897089956937956/photo/1",
+          "media_key": "3_1925897073523646464",
+          "start": 24,
+          "url": "https://t.co/zP8C1iH5Pn"
+        },
+        {
+          "display_url": "pic.x.com/zP8C1iH5Pn",
+          "end": 47,
+          "expanded_url": "https://x.com/hellozj0412/status/1925897089956937956/photo/1",
+          "media_key": "3_1925897073443926016",
+          "start": 24,
+          "url": "https://t.co/zP8C1iH5Pn"
+        },
+        {
+          "display_url": "pic.x.com/zP8C1iH5Pn",
+          "end": 47,
+          "expanded_url": "https://x.com/hellozj0412/status/1925897089956937956/photo/1",
+          "media_key": "3_1925897073477525504",
+          "start": 24,
+          "url": "https://t.co/zP8C1iH5Pn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925897089956937956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这次在玛琅定的酒店性价比超级高，餐厅也便宜好吃 https://t.co/zP8C1iH5Pn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1925897073511010304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GropLzyWkAAOq96.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925897073523646464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GropLz1XYAAyrJo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925897073443926016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GropLziW8AAKZSw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925897073477525504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GropLzqXoAAeFYj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925897073511010304",
+            "3_1925897073523646464",
+            "3_1925897073443926016",
+            "3_1925897073477525504"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1925897089956937956",
+        "created_at": "2025-05-23T12:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T13:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925897089956937956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zP8C1iH5Pn",
+              "end": 47,
+              "expanded_url": "https://x.com/hellozj0412/status/1925897089956937956/photo/1",
+              "media_key": "3_1925897073511010304",
+              "start": 24,
+              "url": "https://t.co/zP8C1iH5Pn"
+            },
+            {
+              "display_url": "pic.x.com/zP8C1iH5Pn",
+              "end": 47,
+              "expanded_url": "https://x.com/hellozj0412/status/1925897089956937956/photo/1",
+              "media_key": "3_1925897073523646464",
+              "start": 24,
+              "url": "https://t.co/zP8C1iH5Pn"
+            },
+            {
+              "display_url": "pic.x.com/zP8C1iH5Pn",
+              "end": 47,
+              "expanded_url": "https://x.com/hellozj0412/status/1925897089956937956/photo/1",
+              "media_key": "3_1925897073443926016",
+              "start": 24,
+              "url": "https://t.co/zP8C1iH5Pn"
+            },
+            {
+              "display_url": "pic.x.com/zP8C1iH5Pn",
+              "end": 47,
+              "expanded_url": "https://x.com/hellozj0412/status/1925897089956937956/photo/1",
+              "media_key": "3_1925897073477525504",
+              "start": 24,
+              "url": "https://t.co/zP8C1iH5Pn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925897089956937956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次在玛琅定的酒店性价比超级高，餐厅也便宜好吃 https://t.co/zP8C1iH5Pn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "1869815254060007447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 101,
+          "like_count": 3879,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1211
+        },
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}
