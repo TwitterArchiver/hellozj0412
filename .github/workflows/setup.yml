@@ -266,6 +266,8 @@ jobs:
       TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
     permissions:
       contents: write
+      pages: write
+      id-token: write
 
     steps:
       - name: 检出仓库（拉最新）
@@ -333,4 +335,45 @@ jobs:
           COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "✅ 首次建档完成 (+${COUNT} 文件) [skip ci]"
           git push
+
+      - name: 开启 GitHub Pages
+        env:
+          GH_TOKEN: ${{ secrets.DISPATCH_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          # 需要 pages:write 权限(见 job permissions);用 PAT 更可靠
+          echo '{"source":{"branch":"main","path":"/"}}' | \
+            gh api repos/${{ github.repository }}/pages --method POST --input - 2>/dev/null \
+          || echo '{"source":{"branch":"main","path":"/"}}' | \
+            gh api repos/${{ github.repository }}/pages --method PUT --input - 2>/dev/null \
+          || echo "Pages 可能已开启或无权限,跳过"
+          gh repo edit "${{ github.repository }}" \
+            --homepage "${{ steps.info.outputs.pages_url }}" 2>/dev/null || true
+
+      - name: 自动填充仓库简介（从 profile.json 的 name）
+        env:
+          GH_TOKEN: ${{ secrets.DISPATCH_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          # 取第一个账号的 profile.json name,拼成 "<name> 的本地推文存档"
+          FIRST=$(echo "${{ steps.info.outputs.accounts }}" | head -1)
+          PF="accounts/${FIRST}/wayback_snapshots/profile.json"
+          [ -f "$PF" ] || { echo "无 profile.json,跳过"; exit 0; }
+          python3 - "$PF" <<'PYEOF2'
+          import json,sys,unicodedata,subprocess,os
+          pf=sys.argv[1]
+          name=(json.load(open(pf,encoding='utf-8')).get('name') or '').strip()
+          if not name: sys.exit(0)
+          # 全角标点结尾不加空格,其余加空格
+          last=name[-1]
+          cat=unicodedata.category(last); w=unicodedata.east_asian_width(last)
+          sep='' if (cat.startswith('P') and w=='F') else ' '
+          desc=f"{name}{sep}的本地推文存档"
+          repo=os.environ['GITHUB_REPOSITORY']
+          subprocess.run(['gh','api',f'repos/{repo}','--method','PATCH',
+                          '-f',f'description={desc}'],check=False)
+          print("已设置简介:",desc)
+          PYEOF2
+
+      - name: 首次建档完成
+        run: |
+          echo "✅ 首次建档完成，已停止"
           echo "🔗 ${{ steps.info.outputs.pages_url }}"
