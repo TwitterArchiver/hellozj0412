@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2078787827681087932",
+    "created_at": "2026-07-19T18:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T19:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078905230985695570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1846596847324090368",
+          "start": 0,
+          "username": "ratratonigiri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078905230985695570",
+    "in_reply_to_user_id": "1846596847324090368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078787827681087932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ratratonigiri 啊，是的，所以现在特别缺乏安全感，想获得很多很多的爱，总想依靠别人但又不敢依靠，时常觉得自己孤立无援然后陷入内耗中，但是发现其实没那么糟糕，只是迷茫的忘记了其实自己也被他人浓浓爱着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2078787827681087932",
+        "created_at": "2026-07-19T18:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078905230985695570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1846596847324090368",
+              "start": 0,
+              "username": "ratratonigiri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078905230985695570",
+        "in_reply_to_user_id": "1846596847324090368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078787827681087932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratratonigiri 啊，是的，所以现在特别缺乏安全感，想获得很多很多的爱，总想依靠别人但又不敢依靠，时常觉得自己孤立无援然后陷入内耗中，但是发现其实没那么糟糕，只是迷茫的忘记了其实自己也被他人浓浓爱着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846596847324090368",
+        "conversation_id": "2078787827681087932",
+        "created_at": "2026-07-19T10:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078787827681087932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078787827681087932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小的时候经常被说不够坚强 最近发现自己其实变成了很坚强的人 我爸妈也承认我变得很坚强 但是我回看过去的话 感觉会哭 会表达委屈 也是一种能力 有的时候觉得太独立太坚韧好吃亏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 123,
+          "like_count": 5731,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 2037
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T16:59:45.000Z",
+        "description": "拆解 研究 抒发 表达 接纳 探索\n爱与恨 幸福与痛苦\n都一样重要",
+        "id": "1846596847324090368",
+        "location": "十二星座决定你的仓鼠",
+        "name": "岸边的小恒星",
+        "pinned_tweet_id": "2049904973312626957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076232586360446976/lyOMwg_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 110,
+          "like_count": 6950,
+          "listed_count": 2,
+          "media_count": 1273,
+          "tweet_count": 8293
+        },
+        "url": "",
+        "username": "ratratonigiri",
+        "verified": false
+      }
+    ]
+  }
+}

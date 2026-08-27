@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2078960810114846873",
+    "created_at": "2026-07-19T23:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078985186633785580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1986834646706102277",
+          "start": 0,
+          "username": "cwllife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078985186633785580",
+    "in_reply_to_user_id": "1986834646706102277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078960810114846873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cwllife 娘不是贬义词呀，你喜欢的适合你的，就是好的，每个人都有自己的风格，我觉得蛮好看的呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078960484565536768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnzi8CaUAAp3GV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2078960810114846873",
+        "created_at": "2026-07-19T23:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078985186633785580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1986834646706102277",
+              "start": 0,
+              "username": "cwllife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078985186633785580",
+        "in_reply_to_user_id": "1986834646706102277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078960810114846873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cwllife 娘不是贬义词呀，你喜欢的适合你的，就是好的，每个人都有自己的风格，我觉得蛮好看的呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078960484565536768"
+          ]
+        },
+        "author_id": "1986834646706102277",
+        "conversation_id": "2078960810114846873",
+        "created_at": "2026-07-19T21:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T22:49:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078960494267031619",
+          "2078960810114846873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbcmIlZ8yX",
+              "end": 61,
+              "expanded_url": "https://x.com/cwllife/status/2078960810114846873/photo/1",
+              "media_key": "3_2078960484565536768",
+              "start": 38,
+              "url": "https://t.co/hbcmIlZ8yX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078960810114846873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男生戴这个手串会显得很娘吗\n特别喜欢 脑子一热就买了，戴出去怕被人当成0😭 https://t.co/hbcmIlZ8yX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2078903563728937031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 123,
+          "like_count": 5740,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 2041
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:34:41.000Z",
+        "description": "自娱自乐",
+        "id": "1986834646706102277",
+        "location": "who.is",
+        "name": "ibz0950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077122553068593152/EikM8llp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 48,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "cwllife",
+        "verified": true
+      }
+    ]
+  }
+}

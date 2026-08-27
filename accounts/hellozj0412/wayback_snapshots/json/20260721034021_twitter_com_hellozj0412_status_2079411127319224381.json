@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2079190203701621148",
+    "created_at": "2026-07-21T03:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079411127319224381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745636689866076160",
+          "start": 0,
+          "username": "rubirubikawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079411127319224381",
+    "in_reply_to_user_id": "1745636689866076160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079190203701621148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rubirubikawa 蛋仔来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2079190203701621148",
+        "created_at": "2026-07-21T03:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079411127319224381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745636689866076160",
+              "start": 0,
+              "username": "rubirubikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079411127319224381",
+        "in_reply_to_user_id": "1745636689866076160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079190203701621148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rubirubikawa 蛋仔来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745636689866076160",
+        "conversation_id": "2079190203701621148",
+        "created_at": "2026-07-20T13:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079190203701621148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079190203701621148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1232,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2078903563728937031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 123,
+          "like_count": 5751,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2053
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T02:40:07.000Z",
+        "description": "提问箱：https://t.co/uNiwywcKbO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rubirubi0937",
+                "end": 27,
+                "expanded_url": "https://ngl.link/rubirubi0937",
+                "start": 4,
+                "url": "https://t.co/uNiwywcKbO"
+              }
+            ]
+          }
+        },
+        "id": "1745636689866076160",
+        "location": "1.8km",
+        "name": "麦香鱼",
+        "pinned_tweet_id": "2019659533799551486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076607046607364096/qoTgYadW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 318,
+          "like_count": 9409,
+          "listed_count": 1,
+          "media_count": 525,
+          "tweet_count": 6737
+        },
+        "url": "",
+        "username": "rubirubikawa",
+        "verified": false
+      }
+    ]
+  }
+}

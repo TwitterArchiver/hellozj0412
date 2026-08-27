@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080381649406304256"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2080381659724259343",
+    "created_at": "2026-07-23T19:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T20:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080381659724259343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ubgWgeqW1I",
+          "end": 159,
+          "expanded_url": "https://x.com/hellozj0412/status/2080381659724259343/photo/1",
+          "media_key": "3_2080381649406304256",
+          "start": 136,
+          "url": "https://t.co/ubgWgeqW1I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080381659724259343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实接收过很多来自陌生人或者不熟悉的人的善意，比如今天下午工作完成后就要离开的时候，跟我只共处过四天的店长，每天都会给我点喝的，会担心我太累一直默默跟着我帮我分担工作的，在我离开前拿着她给我买的饮料还递给我一份好利来的蛋糕，“不知道你喜欢吃什么口味，就给你买了份小蛋糕” https://t.co/ubgWgeqW1I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080381649406304256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8AFnoaoAAqC3F.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080381649406304256"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080381659724259343",
+        "created_at": "2026-07-23T19:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080381659724259343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubgWgeqW1I",
+              "end": 159,
+              "expanded_url": "https://x.com/hellozj0412/status/2080381659724259343/photo/1",
+              "media_key": "3_2080381649406304256",
+              "start": 136,
+              "url": "https://t.co/ubgWgeqW1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080381659724259343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实接收过很多来自陌生人或者不熟悉的人的善意，比如今天下午工作完成后就要离开的时候，跟我只共处过四天的店长，每天都会给我点喝的，会担心我太累一直默默跟着我帮我分担工作的，在我离开前拿着她给我买的饮料还递给我一份好利来的蛋糕，“不知道你喜欢吃什么口味，就给你买了份小蛋糕” https://t.co/ubgWgeqW1I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职\n提问箱：https://t.co/WgiCcdnB06",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%B2%A5%E7%B…",
+                "end": 36,
+                "expanded_url": "https://ngl.link/%E7%B2%A5%E7%B2%A599788",
+                "start": 13,
+                "url": "https://t.co/WgiCcdnB06"
+              }
+            ]
+          }
+        },
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2078903563728937031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 124,
+          "like_count": 5799,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 2080
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

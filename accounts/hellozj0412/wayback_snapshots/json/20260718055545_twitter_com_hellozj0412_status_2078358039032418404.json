@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2078206281308074139",
+    "created_at": "2026-07-18T05:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078358039032418404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1295640838182060033",
+          "start": 0,
+          "username": "pv_wen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078358039032418404",
+    "in_reply_to_user_id": "1295640838182060033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078295391972348382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pv_wen 是的🙂‍↕️，我刚开始也很难适应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2078206281308074139",
+        "created_at": "2026-07-18T05:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078358039032418404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1295640838182060033",
+              "start": 0,
+              "username": "pv_wen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078358039032418404",
+        "in_reply_to_user_id": "1295640838182060033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078295391972348382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pv_wen 是的🙂‍↕️，我刚开始也很难适应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295640838182060033",
+        "conversation_id": "2078206281308074139",
+        "created_at": "2026-07-18T01:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078295391972348382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078295391972348382",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078206281308074139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 omg....天亮这么早吗...我是那种一看到天微微亮都睡不着的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2076584575330128258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 121,
+          "like_count": 5689,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 2012
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-18T08:37:09.000Z",
+        "description": "恨也迷人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiyeshu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yiyeshu",
+                "start": 0,
+                "url": "https://t.co/FXDwDbDJXg"
+              }
+            ]
+          }
+        },
+        "id": "1295640838182060033",
+        "name": "今天也要加油努力",
+        "pinned_tweet_id": "2076568468820758604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837119933827928066/LUG9v1wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 3794,
+          "like_count": 10708,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 2174
+        },
+        "url": "https://t.co/FXDwDbDJXg",
+        "username": "pv_wen",
+        "verified": false
+      }
+    ]
+  }
+}

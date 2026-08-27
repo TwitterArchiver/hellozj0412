@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2084245865489912120",
+    "created_at": "2026-08-03T11:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084245865489912120"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084245865489912120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想剥脱一切情感独自走路\n沉迷柔软的榻也会变成豌豆公主\n远方唯一耸立的密闭铁塔是熔炉也是归处\n烈火的温度怎么比不过怀抱呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2084245865489912120",
+        "created_at": "2026-08-03T11:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084245865489912120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084245865489912120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想剥脱一切情感独自走路\n沉迷柔软的榻也会变成豌豆公主\n远方唯一耸立的密闭铁塔是熔炉也是归处\n烈火的温度怎么比不过怀抱呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2078903563728937031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 122,
+          "like_count": 5854,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 2107
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

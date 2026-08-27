@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2079424747990077764",
+    "created_at": "2026-07-21T07:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079467798880002482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999869438393556992",
+          "start": 0,
+          "username": "Haki1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079467798880002482",
+    "in_reply_to_user_id": "1999869438393556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079424747990077764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haki1019 对我来说，只有月经才会像潮水一样涌来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2079424747990077764",
+        "created_at": "2026-07-21T07:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079467798880002482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999869438393556992",
+              "start": 0,
+              "username": "Haki1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079467798880002482",
+        "in_reply_to_user_id": "1999869438393556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079424747990077764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haki1019 对我来说，只有月经才会像潮水一样涌来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999869438393556992",
+        "conversation_id": "2079424747990077764",
+        "created_at": "2026-07-21T04:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079424747990077764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079424747990077764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1296,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幸福像潮水一样涌来，然后呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2078903563728937031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 123,
+          "like_count": 5746,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 2058
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T15:50:16.000Z",
+        "description": "Nonsense 06/顺直男\n无🚪不回私信不加v",
+        "id": "1999869438393556992",
+        "name": "Hakiiiii！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069095340301840384/mhSxvohm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 300,
+          "like_count": 47624,
+          "listed_count": 6,
+          "media_count": 940,
+          "tweet_count": 11914
+        },
+        "url": "",
+        "username": "Haki1019",
+        "verified": false
+      }
+    ]
+  }
+}

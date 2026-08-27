@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2079961613973762271",
+    "created_at": "2026-07-22T16:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079970759196455385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745636689866076160",
+          "start": 0,
+          "username": "rubirubikawa"
+        },
+        {
+          "end": 19,
+          "id": "1720665183188922368",
+          "start": 14,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079970759196455385",
+    "in_reply_to_user_id": "1745636689866076160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079970244681154574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rubirubikawa @grok okk，我一会试下😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2079961613973762271",
+        "created_at": "2026-07-22T16:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079970759196455385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745636689866076160",
+              "start": 0,
+              "username": "rubirubikawa"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079970759196455385",
+        "in_reply_to_user_id": "1745636689866076160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079970244681154574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rubirubikawa @grok okk，我一会试下😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745636689866076160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2079961613973762271",
+        "created_at": "2026-07-22T16:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079970244681154574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            },
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079970244681154574",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079961613973762271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 @grok 直接给grok发消息，把你的账号输入给它，再问问题就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职\n提问箱：https://t.co/WgiCcdnB06",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%B2%A5%E7%B…",
+                "end": 36,
+                "expanded_url": "https://ngl.link/%E7%B2%A5%E7%B2%A599788",
+                "start": 13,
+                "url": "https://t.co/WgiCcdnB06"
+              }
+            ]
+          }
+        },
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2078903563728937031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 123,
+          "like_count": 5787,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 2070
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T02:40:07.000Z",
+        "description": "提问箱：https://t.co/uNiwywcKbO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rubirubi0937",
+                "end": 27,
+                "expanded_url": "https://ngl.link/rubirubi0937",
+                "start": 4,
+                "url": "https://t.co/uNiwywcKbO"
+              }
+            ]
+          }
+        },
+        "id": "1745636689866076160",
+        "location": "1.8km",
+        "name": "麦香鱼",
+        "pinned_tweet_id": "2019659533799551486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076607046607364096/qoTgYadW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 320,
+          "like_count": 9477,
+          "listed_count": 1,
+          "media_count": 527,
+          "tweet_count": 6782
+        },
+        "url": "",
+        "username": "rubirubikawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8872347,
+          "following_count": 5,
+          "like_count": 121,
+          "listed_count": 7201,
+          "media_count": 9176912,
+          "tweet_count": 132013525
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2081738060606365967",
+    "created_at": "2026-07-29T07:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082370276516577615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1559426010634137600",
+          "start": 0,
+          "username": "GmnzC9b6LUDR4Aq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082370276516577615",
+    "in_reply_to_user_id": "1559426010634137600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081738060606365967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GmnzC9b6LUDR4Aq 妈妈咪呀完全理想身材🥹🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1630,
+        "media_key": "3_2081738052716896256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPRuruaoAAGOds.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2081738060606365967",
+        "created_at": "2026-07-29T07:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082370276516577615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1559426010634137600",
+              "start": 0,
+              "username": "GmnzC9b6LUDR4Aq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082370276516577615",
+        "in_reply_to_user_id": "1559426010634137600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081738060606365967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GmnzC9b6LUDR4Aq 妈妈咪呀完全理想身材🥹🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081738052716896256"
+          ]
+        },
+        "author_id": "1559426010634137600",
+        "conversation_id": "2081738060606365967",
+        "created_at": "2026-07-27T13:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081738060606365967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K7XWxFmv08",
+              "end": 23,
+              "expanded_url": "https://x.com/GmnzC9b6LUDR4Aq/status/2081738060606365967/photo/1",
+              "media_key": "3_2081738052716896256",
+              "start": 0,
+              "url": "https://t.co/K7XWxFmv08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081738060606365967",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5423,
+          "impression_count": 360959,
+          "like_count": 26300,
+          "quote_count": 40,
+          "reply_count": 57,
+          "retweet_count": 613
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/K7XWxFmv08"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2078903563728937031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 122,
+          "like_count": 5831,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 2095
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T06:25:29.000Z",
+        "description": "なにかいいことありますように",
+        "id": "1559426010634137600",
+        "name": "さぶいぼ",
+        "pinned_tweet_id": "1928569932457062638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922285308919369728/TQSNWLVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15418,
+          "following_count": 296,
+          "like_count": 4464,
+          "listed_count": 91,
+          "media_count": 5754,
+          "tweet_count": 5792
+        },
+        "url": "",
+        "username": "GmnzC9b6LUDR4Aq",
+        "verified": false
+      }
+    ]
+  }
+}

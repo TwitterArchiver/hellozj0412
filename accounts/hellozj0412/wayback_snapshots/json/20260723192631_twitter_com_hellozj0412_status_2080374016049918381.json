@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2080374016049918381",
+    "created_at": "2026-07-23T19:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T20:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080374016049918381"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080374016049918381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的第一个dom也是唯一一个dom，确实给我带来很多改变，即使我们ds关系已经不再被提起，但依旧把他放在了一个特殊的位置，关于未来我们的走向也无法预测，曾经的排斥和抵触带来的痛苦说明此刻并无法强硬分开，坦然接受并再次理解后目前那种心灵紧密连接的状态带给我很多稳定\n没有答案的问题先放着吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2080374016049918381",
+        "created_at": "2026-07-23T19:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080374016049918381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080374016049918381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的第一个dom也是唯一一个dom，确实给我带来很多改变，即使我们ds关系已经不再被提起，但依旧把他放在了一个特殊的位置，关于未来我们的走向也无法预测，曾经的排斥和抵触带来的痛苦说明此刻并无法强硬分开，坦然接受并再次理解后目前那种心灵紧密连接的状态带给我很多稳定\n没有答案的问题先放着吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职\n提问箱：https://t.co/WgiCcdnB06",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%B2%A5%E7%B…",
+                "end": 36,
+                "expanded_url": "https://ngl.link/%E7%B2%A5%E7%B2%A599788",
+                "start": 13,
+                "url": "https://t.co/WgiCcdnB06"
+              }
+            ]
+          }
+        },
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2078903563728937031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 124,
+          "like_count": 5795,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 2078
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

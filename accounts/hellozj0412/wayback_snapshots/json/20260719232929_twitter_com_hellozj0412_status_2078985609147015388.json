@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2078552058727428589",
+    "created_at": "2026-07-19T23:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078985609147015388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1244910520207052801",
+          "start": 0,
+          "username": "SnmRcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078985609147015388",
+    "in_reply_to_user_id": "1244910520207052801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078559948397740233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnmRcc 只是低谷期的碎碎念😿，这个问号扣的好奇怪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2078552058727428589",
+        "created_at": "2026-07-19T23:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078985609147015388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1244910520207052801",
+              "start": 0,
+              "username": "SnmRcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078985609147015388",
+        "in_reply_to_user_id": "1244910520207052801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078559948397740233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnmRcc 只是低谷期的碎碎念😿，这个问号扣的好奇怪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244910520207052801",
+        "conversation_id": "2078552058727428589",
+        "created_at": "2026-07-18T19:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T20:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078559948397740233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078559948397740233",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078552058727428589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2078903563728937031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 123,
+          "like_count": 5740,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 2042
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-31T08:53:12.000Z",
+        "description": "",
+        "id": "1244910520207052801",
+        "location": "Turkey",
+        "name": "Sinem",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033556430167674880/KcNOvvTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 29,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "SnmRcc",
+        "verified": false
+      }
+    ]
+  }
+}

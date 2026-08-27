@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2076982474929000597",
+    "created_at": "2026-07-19T23:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078985944078954785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745636689866076160",
+          "start": 0,
+          "username": "rubirubikawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078985944078954785",
+    "in_reply_to_user_id": "1745636689866076160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077013615090311588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rubirubikawa 确实还可以，不过网易的游戏都挺狗的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2076982474929000597",
+        "created_at": "2026-07-19T23:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078985944078954785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745636689866076160",
+              "start": 0,
+              "username": "rubirubikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078985944078954785",
+        "in_reply_to_user_id": "1745636689866076160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077013615090311588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rubirubikawa 确实还可以，不过网易的游戏都挺狗的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745636689866076160",
+        "conversation_id": "2076982474929000597",
+        "created_at": "2026-07-14T12:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077013615090311588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801298330624135170",
+              "start": 0,
+              "username": "hellozj0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077013615090311588",
+        "in_reply_to_user_id": "1801298330624135170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077011315483455940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellozj0412 我在网上刷到了一些剧情感觉还不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2078903563728937031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 123,
+          "like_count": 5740,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 2043
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T02:40:07.000Z",
+        "description": "提问箱：https://t.co/uNiwywcKbO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rubirubi0937",
+                "end": 27,
+                "expanded_url": "https://ngl.link/rubirubi0937",
+                "start": 4,
+                "url": "https://t.co/uNiwywcKbO"
+              }
+            ]
+          }
+        },
+        "id": "1745636689866076160",
+        "name": "麦香鱼",
+        "pinned_tweet_id": "2019659533799551486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076607046607364096/qoTgYadW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 330,
+          "like_count": 9363,
+          "listed_count": 1,
+          "media_count": 523,
+          "tweet_count": 6699
+        },
+        "url": "",
+        "username": "rubirubikawa",
+        "verified": false
+      }
+    ]
+  }
+}

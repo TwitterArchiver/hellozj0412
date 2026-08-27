@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2080565009927872557",
+    "created_at": "2026-07-24T08:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080565009927872557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youraner1/stat…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/youraner1/status/2080517621435498762",
+          "start": 42,
+          "url": "https://t.co/5y9pWpXTo6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080565009927872557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080517621435498762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们还可以去一个有点热的地方，蒸桑拿，你躺好我给你推进去，最后我再抱着小小的你出来 https://t.co/5y9pWpXTo6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2080565009927872557",
+        "created_at": "2026-07-24T08:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080565009927872557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youraner1/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/youraner1/status/2080517621435498762",
+              "start": 42,
+              "url": "https://t.co/5y9pWpXTo6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080565009927872557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080517621435498762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们还可以去一个有点热的地方，蒸桑拿，你躺好我给你推进去，最后我再抱着小小的你出来 https://t.co/5y9pWpXTo6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491822997014986752",
+        "conversation_id": "2080517621435498762",
+        "created_at": "2026-07-24T04:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080517621435498762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080517621435498762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后你要是不喜欢我了，然后我们就找个地方见个面吃个饭 然后去湖边散步 和我讲讲原因，然后我就给你推下去就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职\n提问箱：https://t.co/WgiCcdnB06",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%B2%A5%E7%B…",
+                "end": 36,
+                "expanded_url": "https://ngl.link/%E7%B2%A5%E7%B2%A599788",
+                "start": 13,
+                "url": "https://t.co/WgiCcdnB06"
+              }
+            ]
+          }
+        },
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2078903563728937031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 124,
+          "like_count": 5804,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 2083
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T17:15:00.000Z",
+        "description": "如果我想说的话 只要被你记得.\n🎺：@youraner2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "youraner2"
+              }
+            ]
+          }
+        },
+        "id": "1491822997014986752",
+        "name": "Yarrr😎",
+        "pinned_tweet_id": "2060972048516890866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071475183467302912/OkCIc3N8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 307,
+          "like_count": 3098,
+          "listed_count": 12,
+          "media_count": 216,
+          "tweet_count": 1671
+        },
+        "url": "",
+        "username": "youraner1",
+        "verified": false
+      }
+    ]
+  }
+}

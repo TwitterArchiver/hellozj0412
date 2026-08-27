@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078992421199970304",
+        "3_2078992421204172800"
+      ]
+    },
+    "author_id": "1801298330624135170",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078992432088436869",
+    "created_at": "2026-07-19T23:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078992432088436869"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jfNFAK71Ye",
+          "end": 49,
+          "expanded_url": "https://x.com/hellozj0412/status/2078992432088436869/photo/1",
+          "media_key": "3_2078992421199970304",
+          "start": 26,
+          "url": "https://t.co/jfNFAK71Ye"
+        },
+        {
+          "display_url": "pic.x.com/jfNFAK71Ye",
+          "end": 49,
+          "expanded_url": "https://x.com/hellozj0412/status/2078992432088436869/photo/1",
+          "media_key": "3_2078992421204172800",
+          "start": 26,
+          "url": "https://t.co/jfNFAK71Ye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078992432088436869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢哈尔滨机场的送别语\n分别是为了下一场更好的重逢 https://t.co/jfNFAK71Ye"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078992421199970304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNoQl5RagAA8l0n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1682,
+        "media_key": "3_2078992421204172800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNoQl5SaoAAJuQA.jpg",
+        "width": 881
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078992421199970304",
+            "3_2078992421204172800"
+          ]
+        },
+        "author_id": "1801298330624135170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078992432088436869",
+        "created_at": "2026-07-19T23:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078992432088436869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jfNFAK71Ye",
+              "end": 49,
+              "expanded_url": "https://x.com/hellozj0412/status/2078992432088436869/photo/1",
+              "media_key": "3_2078992421199970304",
+              "start": 26,
+              "url": "https://t.co/jfNFAK71Ye"
+            },
+            {
+              "display_url": "pic.x.com/jfNFAK71Ye",
+              "end": 49,
+              "expanded_url": "https://x.com/hellozj0412/status/2078992432088436869/photo/1",
+              "media_key": "3_2078992421204172800",
+              "start": 26,
+              "url": "https://t.co/jfNFAK71Ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078992432088436869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢哈尔滨机场的送别语\n分别是为了下一场更好的重逢 https://t.co/jfNFAK71Ye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2078903563728937031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 123,
+          "like_count": 5742,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2044
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      }
+    ]
+  }
+}

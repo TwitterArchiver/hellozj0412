@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1801298330624135170",
+    "conversation_id": "2078541401084866600",
+    "created_at": "2026-07-18T19:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T20:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078560116706787713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1874450880080318464",
+          "start": 0,
+          "username": "Korolev114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078560116706787713",
+    "in_reply_to_user_id": "1874450880080318464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078541401084866600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Korolev114 现在不是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801298330624135170",
+        "conversation_id": "2078541401084866600",
+        "created_at": "2026-07-18T19:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T20:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078560116706787713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874450880080318464",
+              "start": 0,
+              "username": "Korolev114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078560116706787713",
+        "in_reply_to_user_id": "1874450880080318464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078541401084866600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korolev114 现在不是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874450880080318464",
+        "conversation_id": "2078541401084866600",
+        "created_at": "2026-07-18T18:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078541401084866600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078541401084866600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我玩的是单机推特(¦3[▓▓]"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-13T16:59:35.000Z",
+        "description": "人类只是我的兼职",
+        "id": "1801298330624135170",
+        "name": "碎碎念生成器",
+        "pinned_tweet_id": "2076584575330128258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907360928099696640/Ec5iwrMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 123,
+          "like_count": 5706,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 2024
+        },
+        "url": "",
+        "username": "hellozj0412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T13:41:37.000Z",
+        "description": "《1》友達たちはみんな去って…私は暗闇の中で孤独に夜明けを迎えるしかない…...\n《2》冷めたコーヒーは流しに捨てて、新しいのを淹れましょう......\n《3》一碼は一碼で......\n《4》グループ結成後の孤独、空の部屋を一人で守る......\n《5》何度も期待をし、何度もがっかりする.......",
+        "id": "1874450880080318464",
+        "location": "LOBOTOMY CORPORATION",
+        "name": "Chesed☕",
+        "pinned_tweet_id": "2076368033455747484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075250948088455168/RZzRE3Fx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 183,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 643
+        },
+        "url": "",
+        "username": "Korolev114",
+        "verified": false
+      }
+    ]
+  }
+}
